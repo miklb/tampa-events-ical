@@ -1,0 +1,43 @@
+# .github/workflows/generate-ical.yml
+name: Generate iCal Feed
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install ical-generator node-fetch
+      
+      - name: Generate iCal
+        run: node generate-ical.js
+        continue-on-error: true
+
+      - name: Log failure
+        if: failure()
+        run: echo "iCal generation failed"
+
+      - name: Commit and push changes
+        if: success()
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Update iCal file"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist

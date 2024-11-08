@@ -1,0 +1,8 @@
+{
+  "name": "tampa-events-calendar",
+  "type": "module",
+  "dependencies": {
+    "ical-generator": "^5.0.1",
+    "node-fetch": "^3.3.2"
+  }
+}
