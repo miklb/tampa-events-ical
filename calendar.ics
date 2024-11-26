@@ -5,46 +5,9 @@ NAME:Tampa Events Calendar
 X-WR-CALNAME:Tampa Events Calendar
 X-WR-CALDESC:Community events in Tampa
 BEGIN:VEVENT
-UID:041c8483-8936-49e3-964c-5ca1fb88fbaf
+UID:2f3f3d4a-232e-4c2b-a8aa-aa44f564b6b7
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241102T070000Z
-DTEND:20241102T100000Z
-SUMMARY:Rescheduled: Rhythm Fitness - Breast Cancer Awareness
-LOCATION:Rowlett Park 2401 E Yukon St. Tampa \, FL 33605 United States
-DESCRIPTION:High-Impact Aerobics - free for everyone. Third annual Pink En
- ergy Challenge. 7 a.m. registration\, 7:30 2-mile walk starts\, 9 a.m. aer
- obics. Participate in both\, or pick your favorite. Call (813) 989-7606 fo
- r more information.
-END:VEVENT
-BEGIN:VEVENT
-UID:54506e04-574b-4b71-892f-5d55621ea305
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241102T073000Z
-DTEND:20241102T100000Z
-SUMMARY:Bolt Run
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Bolt RunSaturday\, November 2\, 20247:30am- 10:00amAmalie Aren
- a/ Bayshore Blvd.&nbsp\;For additional information\, please visit Bolt Run
- &nbsp\;
-END:VEVENT
-BEGIN:VEVENT
-UID:b1158b5b-9594-4f3b-bfe5-878c94996669
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241102T090000Z
-DTEND:20241102T150000Z
-SUMMARY: Ybor City Saturday Market
-LOCATION:Centennial Park 1800 E 8th Ave Tampa \, FL United States
-DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, November 2\
- , 2024Event 9am-3pmFor additional information\, visit Ybor City Saturday M
- arkethttps://ybormarket.com/&nbsp\;&nbsp\;
-END:VEVENT
-BEGIN:VEVENT
-UID:6e2b5af4-9f22-4fdd-ad02-1402395f33dd
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241102T100000Z
 DTEND:20241102T130000Z
 SUMMARY:Art in the Park: Paper Making 
@@ -55,9 +18,46 @@ DESCRIPTION:Calling all fans of Florida Flora! Make your own recycled pape
  orkshop that spans two weeks. Supplies included. Adults 18+
 END:VEVENT
 BEGIN:VEVENT
-UID:772040c4-65a5-44d2-a860-a3d8f8086e87
+UID:f65fd59b-355c-46b4-9669-0ffb6c7d9653
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241102T070000Z
+DTEND:20241102T100000Z
+SUMMARY:Rescheduled: Rhythm Fitness - Breast Cancer Awareness
+LOCATION:Rowlett Park 2401 E Yukon St. Tampa \, FL 33605 United States
+DESCRIPTION:High-Impact Aerobics - free for everyone. Third annual Pink En
+ ergy Challenge. 7 a.m. registration\, 7:30 2-mile walk starts\, 9 a.m. aer
+ obics. Participate in both\, or pick your favorite. Call (813) 989-7606 fo
+ r more information.
+END:VEVENT
+BEGIN:VEVENT
+UID:6d5b0452-667f-4a9c-a716-6b62b6d4b938
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241102T073000Z
+DTEND:20241102T100000Z
+SUMMARY:Bolt Run
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Bolt RunSaturday\, November 2\, 20247:30am- 10:00amAmalie Aren
+ a/ Bayshore Blvd.&nbsp\;For additional information\, please visit Bolt Run
+ &nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:92579ddd-60e3-4bdd-a68b-de33e1a93d45
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241102T090000Z
+DTEND:20241102T150000Z
+SUMMARY: Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E 8th Ave Tampa \, FL United States
+DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, November 2\
+ , 2024Event 9am-3pmFor additional information\, visit Ybor City Saturday M
+ arkethttps://ybormarket.com/&nbsp\;&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:ec14f4b9-6a48-4a06-bd99-51d2c65d1792
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241102T140000Z
 DTEND:20241102T190000Z
 SUMMARY:Tampa Urban Music Festival
@@ -72,21 +72,9 @@ DESCRIPTION:Welcome to the **TAMPA URBAN MUSIC FEST 2024**! Join us for an
  mpa Urban Music Fest
 END:VEVENT
 BEGIN:VEVENT
-UID:2c0b136e-98a0-45f3-9c6c-644b9fd38bf4
+UID:71701c3a-1a33-4cf7-8d35-0f5997bcb5fa
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241103T083000Z
-DTEND:20241103T110000Z
-SUMMARY:Walk to End Alzheimer&#039\;s
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Walk to End Alzheimer's&nbsp\;Sunday\, November 2\, 2024Amalie
-  Arena / Bayshore Blvd.8:30am-11:00amFor additional information\, please v
- isit Walk to End Alzheimer's
-END:VEVENT
-BEGIN:VEVENT
-UID:a4a59f8c-5fe2-4584-ba9b-23b1ce6f2c12
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241103T100000Z
 DTEND:20241103T150000Z
 SUMMARY:Hyde Park Fresh Market
@@ -97,9 +85,9 @@ DESCRIPTION:Hyde Park Fresh Market\n\n\n	Hyde Park Village\n	Sunday\, Nove
  e Park Village\n\n&nbsp\;\n
 END:VEVENT
 BEGIN:VEVENT
-UID:b087f758-7e3c-4670-a874-1d7e5b871bdc
+UID:92fd4254-7384-42da-b4bd-5084b9c23c9d
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241103T130000Z
 DTEND:20241103T134500Z
 SUMMARY:Skyway Artist Talk: Joe Fig in Conversation
@@ -121,25 +109,21 @@ DESCRIPTION:Join us in the galleries at the Tampa Museum of Art for a conv
  Museum Members: FreeNot-Yet-Members: $25College Students: Free
 END:VEVENT
 BEGIN:VEVENT
-UID:2171097d-1ace-413e-94e0-5e34ba4ece33
+UID:90cfb2d8-39be-49f6-9d03-d24267af4209
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241104T110000Z
-DTEND:20241104T110000Z
-SUMMARY:1st Scoring Evaluation Committee Meeting – City Of Tampa Noise S
- tudy Consultant Rfp #21101124
-LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
-DESCRIPTION:1st SCORING EVALUATION COMMITTEE MEETING – CITY OF TAMPA NOI
- SE STUDY CONSULTANTRFP #21101124&nbsp\;Date: DECEMBER 4\, 2024Time: 11:00A
- M – 12:00PMLocation: 2ND FLOOR\, CHAMPA BAY CONFERENCE ROOM2555 E. HANNA
-  AVENUETAMPA\, FL 33610CONTACT: ERYN BERG\, CERTIFIED PROCUREMENT ANALYSTC
- ITY OF TAMPA PURCHASING DEPARTMENT2555 E HANNA AVENUE\, 2nd Floor(813) 274
- -8832
+DTSTAMP:20241126T000424Z
+DTSTART:20241103T083000Z
+DTEND:20241103T110000Z
+SUMMARY:Walk to End Alzheimer&#039\;s
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Walk to End Alzheimer's&nbsp\;Sunday\, November 2\, 2024Amalie
+  Arena / Bayshore Blvd.8:30am-11:00amFor additional information\, please v
+ isit Walk to End Alzheimer's
 END:VEVENT
 BEGIN:VEVENT
-UID:33f1b59d-217a-47cc-b700-7641c2e07db0
+UID:9fea9a15-10cb-4ace-ad2b-9b38a33d0a31
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241104T130000Z
 DTEND:20241104T160000Z
 SUMMARY:Intro to Jewelry Making 
@@ -154,9 +138,9 @@ DESCRIPTION:Create your jewelry in these multiple-session\, beginner-frien
  gh County Board of County Commissioners&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:e0d60485-c899-4c68-8a8b-ca9755ddee5f
+UID:e6d66331-503c-46a7-a771-edbcdd6b906e
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241104T140000Z
 DTEND:20241104T140000Z
 SUMMARY:1st Scoring Evaluation Committee Meeting – Water Use Restriction
@@ -170,9 +154,25 @@ DESCRIPTION:1st SCORING EVALUATION COMMITTEE MEETING – WATER USE RESTRIC
  3) 274-8832
 END:VEVENT
 BEGIN:VEVENT
-UID:8f52f555-b48a-4b06-83d7-289fd6b9ddc1
+UID:657b35d1-4492-409e-997f-827bc498309f
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241104T110000Z
+DTEND:20241104T110000Z
+SUMMARY:1st Scoring Evaluation Committee Meeting – City Of Tampa Noise S
+ tudy Consultant Rfp #21101124
+LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:1st SCORING EVALUATION COMMITTEE MEETING – CITY OF TAMPA NOI
+ SE STUDY CONSULTANTRFP #21101124&nbsp\;Date: DECEMBER 4\, 2024Time: 11:00A
+ M – 12:00PMLocation: 2ND FLOOR\, CHAMPA BAY CONFERENCE ROOM2555 E. HANNA
+  AVENUETAMPA\, FL 33610CONTACT: ERYN BERG\, CERTIFIED PROCUREMENT ANALYSTC
+ ITY OF TAMPA PURCHASING DEPARTMENT2555 E HANNA AVENUE\, 2nd Floor(813) 274
+ -8832
+END:VEVENT
+BEGIN:VEVENT
+UID:ce436cf9-ffe3-4dcb-8be8-d1652e864832
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241105T100000Z
 DTEND:20241105T120000Z
 SUMMARY:Coffee With A Cop
@@ -183,9 +183,9 @@ DESCRIPTION:Tampa Police staff will meet with the community to discuss cri
  fee at Capital One Cafe.
 END:VEVENT
 BEGIN:VEVENT
-UID:7d419999-3541-4e69-8614-effa779c8d32
+UID:8ae8c0ca-0034-4a38-90a2-cb5985d63185
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241105T173000Z
 DTEND:20241105T173000Z
 SUMMARY:CANCELLED - Downtown Community Advisory Committee
@@ -213,9 +213,9 @@ DESCRIPTION:DOWNTOWN COMMUNITY ADVISORY COMMITTEEFOR THE DOWNTOWN COMMUNIT
  t/ADARequest.
 END:VEVENT
 BEGIN:VEVENT
-UID:51c37388-4b5b-4d61-8bb0-230451b965b1
+UID:5b2a82e0-5af6-43dc-a168-35b207817e2d
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241106T110000Z
 DTEND:20241106T140000Z
 SUMMARY:Mayor&#039\;s Food Truck Fiesta
@@ -225,39 +225,9 @@ DESCRIPTION:Mayor's Food Truck FiestaThe Square at Lykes Gaslight ParkWedn
   Mayor's Food Truck Fiesta&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:1347e9d7-de53-46bb-bd1e-b6732b028200
+UID:1c2eca23-aa19-475b-ac6e-b27b33a57924
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241106T173000Z
-DTEND:20241106T173000Z
-SUMMARY:Channel District Community Advisory Committee
-LOCATION:306 E. Jackson St Tampa \, FL 33602 United States
-DESCRIPTION:CHANNEL DISTRICT COMMUNITY ADVISORY COMMITTEEFOR THE CHANNEL D
- ISTRICT COMMUNITY REDEVELOPMENT AREA NOTICE OF PUBLIC MEETING&nbsp\;Date: 
- Wednesday\, November 6th\, 2024&nbsp\;Time: 5:30 pm&nbsp\;Location: Tampa 
- Municipal Office Building (TMOB)306 E. Jackson St.\, 2nd Floor NorthTampa\
- , FL 33602&nbsp\;&nbsp\;Agenda:&nbsp\;Please contact Courtney Orr at (813)
-  274-7937 or atCourtney.Orr@tampagov.net&nbsp\;Teams: Join on your compute
- r\, mobile app or room deviceClick here to join the meetingMeeting ID: 272
-  132 335 14&nbsp\;Passcode: N2rxGpDownload Teams | Join on the webOr call 
- in (audio only)+1 941-263-1615\,\,903867703# United States\, SarasotaPhone
-  Conference ID: 903 867 703#&nbsp\;The purpose of this public meeting of t
- he Channel District Community Advisory Committee ("CAC") is to discuss and
-  make recommendations regarding Community Redevelopment Activities in the 
- Channel District Community Redevelopment Area for consideration by the Cit
- y of Tampa Community Redevelopment Agency ("CRA").In accordance with the A
- mericans with Disabilities Act ("ADA") and Section 286.26\, Florida Statut
- es\, persons with disabilities needing a reasonable accommodation to parti
- cipate in this public hearing or meeting should contact the City of Tampa'
- s ADA Coordinator at least 48 hours prior to the proceeding. The ADA Coord
- inator may be contacted via phone at 813-274-3964\, email at TampaADA@tamp
- agov.net\, or by submitting an ADA - Accommodations Request form available
-  online at tampagov.net/ADARequest.[CAC MEETING FORM NOTICE]
-END:VEVENT
-BEGIN:VEVENT
-UID:c10756f3-27a7-4e08-8d10-6cc6f8d4d93e
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241106T180000Z
 DTEND:20241106T180000Z
 SUMMARY:CANCELLED - East Tampa Community Advisory Committee
@@ -285,9 +255,160 @@ DESCRIPTION:CANCELLEDEAST TAMPA COMMUNITY ADVISORY COMMITTEEFOR THE EAST T
  uest.
 END:VEVENT
 BEGIN:VEVENT
-UID:194404e5-2540-4605-b229-065983cf63aa
+UID:f360c289-039f-41b1-8efb-509487c4e3a0
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241106T173000Z
+DTEND:20241106T173000Z
+SUMMARY:Channel District Community Advisory Committee
+LOCATION:306 E. Jackson St Tampa \, FL 33602 United States
+DESCRIPTION:CHANNEL DISTRICT COMMUNITY ADVISORY COMMITTEEFOR THE CHANNEL D
+ ISTRICT COMMUNITY REDEVELOPMENT AREA NOTICE OF PUBLIC MEETING&nbsp\;Date: 
+ Wednesday\, November 6th\, 2024&nbsp\;Time: 5:30 pm&nbsp\;Location: Tampa 
+ Municipal Office Building (TMOB)306 E. Jackson St.\, 2nd Floor NorthTampa\
+ , FL 33602&nbsp\;&nbsp\;Agenda:&nbsp\;Please contact Courtney Orr at (813)
+  274-7937 or atCourtney.Orr@tampagov.net&nbsp\;Teams: Join on your compute
+ r\, mobile app or room deviceClick here to join the meetingMeeting ID: 272
+  132 335 14&nbsp\;Passcode: N2rxGpDownload Teams | Join on the webOr call 
+ in (audio only)+1 941-263-1615\,\,903867703# United States\, SarasotaPhone
+  Conference ID: 903 867 703#&nbsp\;The purpose of this public meeting of t
+ he Channel District Community Advisory Committee ("CAC") is to discuss and
+  make recommendations regarding Community Redevelopment Activities in the 
+ Channel District Community Redevelopment Area for consideration by the Cit
+ y of Tampa Community Redevelopment Agency ("CRA").In accordance with the A
+ mericans with Disabilities Act ("ADA") and Section 286.26\, Florida Statut
+ es\, persons with disabilities needing a reasonable accommodation to parti
+ cipate in this public hearing or meeting should contact the City of Tampa'
+ s ADA Coordinator at least 48 hours prior to the proceeding. The ADA Coord
+ inator may be contacted via phone at 813-274-3964\, email at TampaADA@tamp
+ agov.net\, or by submitting an ADA - Accommodations Request form available
+  online at tampagov.net/ADARequest.[CAC MEETING FORM NOTICE]
+END:VEVENT
+BEGIN:VEVENT
+UID:4a6da3c8-4fd7-4b20-89d4-caa3d893e406
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241107T160000Z
+DTEND:20241107T200000Z
+SUMMARY:Art on the House
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
+ &nbsp\;Art&nbsp\;on&nbsp\;the&nbsp\;House&nbsp\;where admission prices cha
+ nge to pay-as-you-will\, and visitors choose whatever admission price&nbsp
+ \;they want to pay. Bring&nbsp\;the&nbsp\;family and celebrate 100 years o
+ f&nbsp\;art&nbsp\;in Tampa with exhibitions that emphasize ancient\, moder
+ n\, and contemporary&nbsp\;art.\n\nBeginning at 4 pm every Thursday\, walk
+  up to the Welcome Desk and tell the Visitor Experience and Engagement Rep
+ resentatives the admission price you chose to pay for your visit to the mu
+ seum. Any donation amount is welcome\n\n\nContact Name Tampa Museum of Art
+ \n\nContact Phone 813-274-8130\n\nContact Email hello@tampamuseum.org\n\nL
+ ocation Tampa Museum of Art\n\nEvent Web Link https://tampamuseum.org/even
+ t/art-on-the-house/2024-02-29/\n
+END:VEVENT
+BEGIN:VEVENT
+UID:ad71e9bf-34b6-40c9-b36b-0cf35b44b12d
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241107T183000Z
+DTEND:20241107T193000Z
+SUMMARY:Tampa Overlook Community Meeting
+LOCATION:9706 N 26th Street Tampa \, FL 33612 United States
+DESCRIPTION:Please join us for our monthly meeting with guest speakers. Le
+ arn more of what happening right here in your backyard\, meet your neighbo
+ rs\, reduce crime\, and community events and much more.We are also working
+  hard on building the neighborhood watch team. So come on out and be a par
+ t of the positive influence and be heard.Our Monthly Neighborhood communit
+ y meeting is scheduled for the 1st Thursday of each month at 6:30pm
+END:VEVENT
+BEGIN:VEVENT
+UID:447cba2d-c7e0-4581-9d50-4639e490344f
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241107T180000Z
+DTEND:20241107T210000Z
+SUMMARY:Figure Drawing: Drawing from an Image
+LOCATION:120 W. Gasparilla Plaza\, Tampa FL 33602 Tampa \, FL 33602 United
+  States
+DESCRIPTION:Reproduce in pencil or brush\, using one or more images\, you 
+ are the Photoshop creator. Learn to reproduce an image and make your own e
+ dits and alterations to intensify and transform. Adults 18+ Beginner/Inter
+ mediateDrawing supplies and draft paper included.*Some classes may require
+  additional materials and/or model fee. When applicable a supply list or k
+ it available for purchase will be provided on the first day of class.&nbsp
+ \;$249.00Repeating Thursdays 11/7-12/19 (no class on 11/28)6p-9phttps://sh
+ op.tampamuseum.org/collections/fall-2024-studio-classes/products/figure-dr
+ awing-drawing-from-an-image-with-rolando
+END:VEVENT
+BEGIN:VEVENT
+UID:fd07a54d-6092-4d4b-a7ef-adf8d64a1c16
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241107T180000Z
+DTEND:20241107T200000Z
+SUMMARY:Movies @ the Museum: Radioactive 
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Join us for a special screening of Radioactive (2019)\, a film
+  that brings to life the remarkable story of Marie Skłodowska-Curie and h
+ er groundbreaking Nobel Prize-winning discoveries. In celebration of Marie
+  Curie’s birthday on November 7th\, and inspired by the exhibition Jenni
+ fer Steinkamp: Madame Curie\, this screening honors the legacy of this ext
+ raordinary scientist.Talks at the Tampa Museum of Art are free with the co
+ st of Admission.Every Thursday from 4 to 8 pm\, the Tampa Museum of Art of
+ fers Art on the House where admission prices change to pay-as-you-will\, a
+ nd visitors choose whatever admission price they want to pay.
+END:VEVENT
+BEGIN:VEVENT
+UID:75d152a7-76a9-4e98-a44a-e6c36810e19b
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241107T143000Z
+DTEND:20241107T143000Z
+SUMMARY:Slbe Review Committee: Sheltered Market Program
+LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:Public Meeting Notice&nbsp\;SLBE REVIEW COMMITTEE: SHELTERED M
+ ARKET PROGRAMTime &amp\; Date: 2:30 P.M. Thursday\, November 7\, 20242:30 
+ P.M. Thursday\, November 14\, 20242:30 P.M. Thursday\, November 21\, 2024L
+ ocation: 2nd Floor\, Purchasing Conference RoomHanna Avenue City Center255
+ 5 E. Hanna AvenueTampa\, FL 33610Topic: To review projects eligible for so
+ licitation as a Sheltered Market Procurement pursuant to the City of Tampa
+ ’s Equal Business Opportunity Program.Contact: Ardail Allen at 813-274-5
+ 542 or Ardail.Allen@tampagov.netNote: All meetings are open to the public.
+  Any person who decides to appeal any decision made with respect to any ma
+ tter considered at this public hearing or meeting are advised\, in accorda
+ nce with Section 286.0105\, Florida Statutes\, that they will need a recor
+ d of the proceedings\, and for such purpose may need to hire a court repor
+ ter to ensure that a verbatim record of the proceeding is made\, which rec
+ ord includes the testimony and evidence upon which the appeal is to be bas
+ ed.
+END:VEVENT
+BEGIN:VEVENT
+UID:69d651e3-95b4-4f22-bbef-530ee96968a0
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241107T153000Z
+DTEND:20241107T153000Z
+SUMMARY:Goal Setting Committee: Subcontracts
+LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:Public Meeting Notice&nbsp\;GOAL SETTING COMMITTEE: SUBCONTRAC
+ TSTime &amp\; Date: 3:30 P.M. Thursday\, November 7\, 20243:30 P.M. Thursd
+ ay\, November 14\, 20243:30 P.M. Thursday\, November 21\, 2024&nbsp\;&nbsp
+ \;Location: 2nd Floor\, Trophy Case Conference RoomHanna Avenue City Cente
+ r2555 E. Hanna AvenueTampa\, FL 33610&nbsp\;Topic: To review projects elig
+ ible for application of subcontract participation goals pursuant to the Ci
+ ty of Tampa’s Equal Business Opportunity Program.&nbsp\;Contact: Ardail 
+ Allen at 813-274-5542 or Ardail.Allen@tampagov.netNote: All meetings are o
+ pen to the public. Any person who decides to appeal any decision made with
+  respect to any matter considered at this public hearing or meeting are ad
+ vised\, in accordance with Section 286.0105\, Florida Statutes\, that they
+  will need a record of the proceedings\, and for such purpose may need to 
+ hire a court reporter to ensure that a verbatim record of the proceeding i
+ s made\, which record includes the testimony and evidence upon which the a
+ ppeal is to be based.
+END:VEVENT
+BEGIN:VEVENT
+UID:2782a0f9-9213-4cb8-80f4-4679645fb75a
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241107T090000Z
 DTEND:20241107T090000Z
 SUMMARY:Tampa City Council Regular Agenda
@@ -334,78 +455,9 @@ DESCRIPTION:NOTICE OF PUBLIC MEETINGTAMPA CITY COUNCILREGULAR AGENDA&nbsp\
  e at 813-274-8397 or atCityClerkStaff@tampagov.net.
 END:VEVENT
 BEGIN:VEVENT
-UID:77356193-9fbb-4998-93a5-3cdf4cd7b6d7
+UID:10ee7807-59ff-4e5c-a54c-7752cf10104e
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241107T143000Z
-DTEND:20241107T143000Z
-SUMMARY:Slbe Review Committee: Sheltered Market Program
-LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
-DESCRIPTION:Public Meeting Notice&nbsp\;SLBE REVIEW COMMITTEE: SHELTERED M
- ARKET PROGRAMTime &amp\; Date: 2:30 P.M. Thursday\, November 7\, 20242:30 
- P.M. Thursday\, November 14\, 20242:30 P.M. Thursday\, November 21\, 2024L
- ocation: 2nd Floor\, Purchasing Conference RoomHanna Avenue City Center255
- 5 E. Hanna AvenueTampa\, FL 33610Topic: To review projects eligible for so
- licitation as a Sheltered Market Procurement pursuant to the City of Tampa
- ’s Equal Business Opportunity Program.Contact: Ardail Allen at 813-274-5
- 542 or Ardail.Allen@tampagov.netNote: All meetings are open to the public.
-  Any person who decides to appeal any decision made with respect to any ma
- tter considered at this public hearing or meeting are advised\, in accorda
- nce with Section 286.0105\, Florida Statutes\, that they will need a recor
- d of the proceedings\, and for such purpose may need to hire a court repor
- ter to ensure that a verbatim record of the proceeding is made\, which rec
- ord includes the testimony and evidence upon which the appeal is to be bas
- ed.
-END:VEVENT
-BEGIN:VEVENT
-UID:190a9c54-164a-4d12-91cd-54bf9091eaff
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241107T153000Z
-DTEND:20241107T153000Z
-SUMMARY:Goal Setting Committee: Subcontracts
-LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
-DESCRIPTION:Public Meeting Notice&nbsp\;GOAL SETTING COMMITTEE: SUBCONTRAC
- TSTime &amp\; Date: 3:30 P.M. Thursday\, November 7\, 20243:30 P.M. Thursd
- ay\, November 14\, 20243:30 P.M. Thursday\, November 21\, 2024&nbsp\;&nbsp
- \;Location: 2nd Floor\, Trophy Case Conference RoomHanna Avenue City Cente
- r2555 E. Hanna AvenueTampa\, FL 33610&nbsp\;Topic: To review projects elig
- ible for application of subcontract participation goals pursuant to the Ci
- ty of Tampa’s Equal Business Opportunity Program.&nbsp\;Contact: Ardail 
- Allen at 813-274-5542 or Ardail.Allen@tampagov.netNote: All meetings are o
- pen to the public. Any person who decides to appeal any decision made with
-  respect to any matter considered at this public hearing or meeting are ad
- vised\, in accordance with Section 286.0105\, Florida Statutes\, that they
-  will need a record of the proceedings\, and for such purpose may need to 
- hire a court reporter to ensure that a verbatim record of the proceeding i
- s made\, which record includes the testimony and evidence upon which the a
- ppeal is to be based.
-END:VEVENT
-BEGIN:VEVENT
-UID:da65cf77-0add-451c-9498-6f400cd955e6
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241107T160000Z
-DTEND:20241107T200000Z
-SUMMARY:Art on the House
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
- &nbsp\;Art&nbsp\;on&nbsp\;the&nbsp\;House&nbsp\;where admission prices cha
- nge to pay-as-you-will\, and visitors choose whatever admission price&nbsp
- \;they want to pay. Bring&nbsp\;the&nbsp\;family and celebrate 100 years o
- f&nbsp\;art&nbsp\;in Tampa with exhibitions that emphasize ancient\, moder
- n\, and contemporary&nbsp\;art.\n\nBeginning at 4 pm every Thursday\, walk
-  up to the Welcome Desk and tell the Visitor Experience and Engagement Rep
- resentatives the admission price you chose to pay for your visit to the mu
- seum. Any donation amount is welcome\n\n\nContact Name Tampa Museum of Art
- \n\nContact Phone 813-274-8130\n\nContact Email hello@tampamuseum.org\n\nL
- ocation Tampa Museum of Art\n\nEvent Web Link https://tampamuseum.org/even
- t/art-on-the-house/2024-02-29/\n
-END:VEVENT
-BEGIN:VEVENT
-UID:83e0d5e2-9a39-4128-856c-ef7f798ea01c
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241107T160000Z
 DTEND:20241107T200000Z
 SUMMARY:Ybor City Tree Lighting
@@ -414,61 +466,25 @@ DESCRIPTION:Ybor City Tree LightingWednesday\, November 20\, 20246pm-8pmCe
  ntro YborFor additional information\, please visit Ybor City Tree Lighting
 END:VEVENT
 BEGIN:VEVENT
-UID:5d138c01-f12b-4b43-a5c3-3f381a83e8aa
+UID:80a97f8e-c3cf-4627-ac1c-a5d11989f13d
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241107T180000Z
-DTEND:20241107T210000Z
-SUMMARY:Figure Drawing: Drawing from an Image
-LOCATION:120 W. Gasparilla Plaza\, Tampa FL 33602 Tampa \, FL 33602 United
-  States
-DESCRIPTION:Reproduce in pencil or brush\, using one or more images\, you 
- are the Photoshop creator. Learn to reproduce an image and make your own e
- dits and alterations to intensify and transform. Adults 18+ Beginner/Inter
- mediateDrawing supplies and draft paper included.*Some classes may require
-  additional materials and/or model fee. When applicable a supply list or k
- it available for purchase will be provided on the first day of class.&nbsp
- \;$249.00Repeating Thursdays 11/7-12/19 (no class on 11/28)6p-9phttps://sh
- op.tampamuseum.org/collections/fall-2024-studio-classes/products/figure-dr
- awing-drawing-from-an-image-with-rolando
+DTSTAMP:20241126T000424Z
+DTSTART:20241108T180000Z
+DTEND:20241108T210000Z
+SUMMARY:Faith and Blue 
+LOCATION:Waterworks Park 1710 N. Highland Ave Tampa \, FL 33602 United Sta
+ tes
+DESCRIPTION:National Faith &amp\; Blue Weekend facilitates safer and stron
+ ger communities by engaging law enforcement officers and local residents t
+ hrough the connections of faith-based organizations.This year\, the Tampa 
+ Police will host a Faith &amp\; Blue music event at Waterworks Park locate
+ d at 1710 N Highland Ave Tampa\, FL 33602 on November 8\, 2024\, between 6
+ :00-9:00 PM.
 END:VEVENT
 BEGIN:VEVENT
-UID:53f246f1-8ebe-49d9-8bc6-8ccd787f72a2
+UID:7e00175f-3f7d-43fc-b2eb-162695f9960d
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241107T180000Z
-DTEND:20241107T200000Z
-SUMMARY:Movies @ the Museum: Radioactive 
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Join us for a special screening of Radioactive (2019)\, a film
-  that brings to life the remarkable story of Marie Skłodowska-Curie and h
- er groundbreaking Nobel Prize-winning discoveries. In celebration of Marie
-  Curie’s birthday on November 7th\, and inspired by the exhibition Jenni
- fer Steinkamp: Madame Curie\, this screening honors the legacy of this ext
- raordinary scientist.Talks at the Tampa Museum of Art are free with the co
- st of Admission.Every Thursday from 4 to 8 pm\, the Tampa Museum of Art of
- fers Art on the House where admission prices change to pay-as-you-will\, a
- nd visitors choose whatever admission price they want to pay.
-END:VEVENT
-BEGIN:VEVENT
-UID:a96ab7df-f46a-473a-8ae7-a41550154516
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241107T183000Z
-DTEND:20241107T193000Z
-SUMMARY:Tampa Overlook Community Meeting
-LOCATION:9706 N 26th Street Tampa \, FL 33612 United States
-DESCRIPTION:Please join us for our monthly meeting with guest speakers. Le
- arn more of what happening right here in your backyard\, meet your neighbo
- rs\, reduce crime\, and community events and much more.We are also working
-  hard on building the neighborhood watch team. So come on out and be a par
- t of the positive influence and be heard.Our Monthly Neighborhood communit
- y meeting is scheduled for the 1st Thursday of each month at 6:30pm
-END:VEVENT
-BEGIN:VEVENT
-UID:85185055-b9f1-478a-885d-c1aaf0a0afc5
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241108T093000Z
 DTEND:20241108T120000Z
 SUMMARY:City Council Citizens Advisory Budget And Finance Committee Meetin
@@ -493,51 +509,9 @@ DESCRIPTION:CITY COUNCIL CITIZENS ADVISORY BUDGET AND FINANCE COMMITTEE&nb
  able online at https://tampa.gov/ADARequest.&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:04a16c1a-7e81-4b84-8946-f30a6fcc54f1
+UID:1f905f1c-c496-4716-88a8-e35209ce08ee
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241108T180000Z
-DTEND:20241108T210000Z
-SUMMARY:Faith and Blue 
-LOCATION:Waterworks Park 1710 N. Highland Ave Tampa \, FL 33602 United Sta
- tes
-DESCRIPTION:National Faith &amp\; Blue Weekend facilitates safer and stron
- ger communities by engaging law enforcement officers and local residents t
- hrough the connections of faith-based organizations.This year\, the Tampa 
- Police will host a Faith &amp\; Blue music event at Waterworks Park locate
- d at 1710 N Highland Ave Tampa\, FL 33602 on November 8\, 2024\, between 6
- :00-9:00 PM.
-END:VEVENT
-BEGIN:VEVENT
-UID:535c3161-d876-402c-9f41-a961b5a601c3
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241109T090000Z
-DTEND:20241109T170000Z
-SUMMARY:Own Your Dream Home With Us! Join Our First-time Homebuyer Class!
-LOCATION:Tampa \, FL United States
-DESCRIPTION:This Training course is designed to empower a prospective home
- buyer with the knowledge and responsibilities of buying\, owning\, and man
- aging a home and covers Budgeting and Money management\, understanding cre
- dit\, shopping for a home\, obtaining a mortgage\, the home-buying process
- \, the parties\, and steps involved etc.&nbsp\;
-END:VEVENT
-BEGIN:VEVENT
-UID:f74e5496-bdbf-4a7e-b027-260312300613
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241109T090000Z
-DTEND:20241109T150000Z
-SUMMARY:Ybor City Saturday Market
-LOCATION:Centennial Park 1800 E 8th Ave Tampa \, FL United States
-DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, November 9\
- , 2024Event 9am-3pmFor additional information\, visit Ybor City Saturday M
- arkethttps://ybormarket.com/&nbsp\;&nbsp\;
-END:VEVENT
-BEGIN:VEVENT
-UID:bc9d4bce-aefe-4143-89c0-e808cb130f15
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241109T100000Z
 DTEND:20241109T130000Z
 SUMMARY:Art in the Park: Paper Making 
@@ -548,9 +522,9 @@ DESCRIPTION:Calling all fans of Florida Flora! Make your own recycled pape
  orkshop that spans two weeks. Supplies included. Adults 18+
 END:VEVENT
 BEGIN:VEVENT
-UID:4c6088c5-c7d4-4fb9-a8f8-77da10feb906
+UID:6e8b206a-82d2-4e9c-b9a4-5572b15dae63
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241109T100000Z
 DTEND:20241109T140000Z
 SUMMARY:Fall Vendor Fair and Shopping Spectacular
@@ -563,9 +537,35 @@ DESCRIPTION:Fall Vendor Fair and Shopping Spectacular to help promote Smal
  e for shoppers and Vendor Booths are available at 3 different prices.
 END:VEVENT
 BEGIN:VEVENT
-UID:f5f6f234-7d56-4947-bd82-9a2718bff786
+UID:45ccec64-629d-4a7a-87a6-bc7dc557e2d1
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241109T090000Z
+DTEND:20241109T170000Z
+SUMMARY:Own Your Dream Home With Us! Join Our First-time Homebuyer Class!
+LOCATION:Tampa \, FL United States
+DESCRIPTION:This Training course is designed to empower a prospective home
+ buyer with the knowledge and responsibilities of buying\, owning\, and man
+ aging a home and covers Budgeting and Money management\, understanding cre
+ dit\, shopping for a home\, obtaining a mortgage\, the home-buying process
+ \, the parties\, and steps involved etc.&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:709c7519-d4ed-42f2-8c8b-f1f82346ebc5
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241109T090000Z
+DTEND:20241109T150000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E 8th Ave Tampa \, FL United States
+DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, November 9\
+ , 2024Event 9am-3pmFor additional information\, visit Ybor City Saturday M
+ arkethttps://ybormarket.com/&nbsp\;&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:5ea5766f-0c5e-49d4-9dfa-81959acce3cc
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241109T100000Z
 DTEND:20241109T180000Z
 SUMMARY:Blippi’s Interactive Experience at Busch Gardens Tampa Bay
@@ -581,9 +581,9 @@ DESCRIPTION:Beloved Children’s Character\, Blippi\, to Visit Busch Garde
  om to view showtimes and learn more about upgraded experiences.
 END:VEVENT
 BEGIN:VEVENT
-UID:20029152-c661-4bef-83b0-6aa5a6c317d7
+UID:680023d4-fa51-4898-81b6-8c1e832736b3
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241110T130000Z
 DTEND:20241110T133000Z
 SUMMARY:Skyway Artist Talk: Corinne Zepeda 
@@ -607,9 +607,9 @@ DESCRIPTION:Join us in the galleries at the Tampa Museum of Art for a gall
  ge Students: Free
 END:VEVENT
 BEGIN:VEVENT
-UID:52f4bafb-000b-458e-8a07-e10379dae62c
+UID:88afdf47-dfc5-4b63-9f4b-8d6be86d7e7d
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241111T080000Z
 DTEND:20241111T170000Z
 SUMMARY:Veterans Day Monday - City Office Closures
@@ -621,9 +621,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:/events/veterans-day-monday-city-office-closures/103926
 END:VEVENT
 BEGIN:VEVENT
-UID:57e65f14-c657-45bf-8d1a-76f08dcc822d
+UID:d549baf5-6ec0-474c-b0de-7b68c964832e
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241111T130000Z
 DTEND:20241111T160000Z
 SUMMARY:Intro to Jewelry Making 
@@ -638,9 +638,9 @@ DESCRIPTION:Create your jewelry in these multiple-session\, beginner-frien
  gh County Board of County Commissioners&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:368f3574-40e7-4a1b-a560-69a6479d88ec
+UID:b361376e-27e6-4dd7-ab89-bf6c07b54508
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241111T130000Z
 DTEND:20241111T134500Z
 SUMMARY:Skyway Artist Talk: Joe Fig in Conversation
@@ -661,9 +661,9 @@ DESCRIPTION:Join us in the galleries at the Tampa Museum of Art for a conv
  Talks at the Tampa Museum of Art are free with the cost of Admission.
 END:VEVENT
 BEGIN:VEVENT
-UID:536104f3-dcd8-4463-8858-e57a8e512912
+UID:4ecf5461-a642-427f-8c05-c5912be5cc4f
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241111T170058Z
 DTEND:20241111T220014Z
 SUMMARY: Whiskey Tampa Foxtrot (November 11-15)
@@ -680,9 +680,9 @@ DESCRIPTION:Bern's Steak House is excited to announce the return of Whisk(
  f fine spirits and gourmet cuisine.
 END:VEVENT
 BEGIN:VEVENT
-UID:4a26a176-06d1-4a09-ab0e-c16281dff499
+UID:38a2381b-9ceb-45d4-b975-6fa26df0d732
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241112T103000Z
 DTEND:20241112T103000Z
 SUMMARY:Mayor’s Workforce Council
@@ -695,9 +695,9 @@ DESCRIPTION:NOTICE OF MEETINGNotice is hereby given that the Mayor’s Wor
  4-8181 or Brenda.McKenzie@tampagov.net at (813) 274-7595.
 END:VEVENT
 BEGIN:VEVENT
-UID:3e491ffe-b0bb-4769-b476-8b17cd7a692d
+UID:567ae65d-99fd-4fa2-b018-457aef0605fc
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241112T130000Z
 DTEND:20241112T130000Z
 SUMMARY:2nd Evaluation/scoring Meeting – Affordable Multi-family Housing
@@ -710,9 +710,9 @@ DESCRIPTION:2nd EVALUATION/SCORING MEETING –AFFORDABLE MULTI-FAMILY HOUS
  CITY OF TAMPA PURCHASING DEPARTMENT306 E. JACKSON STREET\, (813) 274-8836
 END:VEVENT
 BEGIN:VEVENT
-UID:55d49a2f-5771-4f32-ae2c-7cc50a8b0239
+UID:475b227a-4930-4656-9baf-6a4d23f742d9
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241113T120000Z
 DTEND:20241113T124500Z
 SUMMARY:Cooking Demo: Healthy Holiday Sides - Loaded Vegan Stuffing and Sw
@@ -732,9 +732,57 @@ DESCRIPTION:Details: Are you a big fan of immersive cooking shows? There's
  s
 END:VEVENT
 BEGIN:VEVENT
-UID:fea9e7bc-ae4f-4bfe-a303-b30de29e465c
+UID:61b1ed15-a3fb-4a51-9ea3-07d1aa3281dd
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241113T180000Z
+DTEND:20241113T203000Z
+SUMMARY:Taste Meet Learn-Tampa
+LOCATION:1731 East 7th Avenue Tampa \, FL 33605 United States
+DESCRIPTION:Join us for an unforgettable evening of swirling\, sipping\, a
+ nd supporting a wonderful cause! Taste Meet Learn - Tampa offers a unique 
+ opportunity to indulge your senses while making a meaningful impact on the
+  lives of healthy children with varying abilities in our Early Childhood E
+ ducation program at Sunrise Children's Services\, Inc.&nbsp\;Come out and 
+ indulge your senses with 3 of the finest wines from Garemani Vineyards\, s
+ avor delicious pairings\, and elevate your evening with an art display fea
+ turing captivating works by renowned international artist George Rodez. Pl
+ us\, get ready to bid on exciting items at our silent auction\, where ever
+ y contribution counts towards a worthy cause.
+END:VEVENT
+BEGIN:VEVENT
+UID:586a6fb0-4bcd-4df3-bed1-06a0e31ddc5b
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241113T173000Z
+DTEND:20241113T173000Z
+SUMMARY:Drew Park Community Advisory Committee
+LOCATION:4001 West Tampa Bay Boulevard Tampa \, FL 33614 United States
+DESCRIPTION:DREW PARK COMMUNITY ADVISORY COMMITTEEFOR THE DREW PARK COMMUN
+ ITY REDEVELOPMENT AREANOTICE OF PUBLIC MEETING&nbsp\;&nbsp\;Dates: Wednesd
+ ay November 13th\, 2024&nbsp\;&nbsp\;Time: 5:30 p.m.&nbsp\;Location: Hills
+ borough Community College\, Dale Mabry CampusStudent Services Building\, R
+ oom DSTU 1084001 West Tampa Bay BoulevardTampa\, FL 33614&nbsp\;Agenda: Pl
+ ease contact Cedric McCray at 813-242-3806 or at cedric.mccray@tampagov.ne
+ tTeams: Join the meeting nowMeeting ID: 286 567 806 962Passcode: 3VWMJLDia
+ l in by phone+1 941-263-1615\,\,828119054# United States\, SarasotaFind a 
+ local numberPhone conference ID: 828 119 054#&nbsp\;&nbsp\;The purpose of 
+ this public meeting of the Drew Park Community Advisory Committee ("CAC") 
+ is to discuss and make recommendations regarding Community Redevelopment A
+ ctivities in the Drew Park Community Redevelopment Area for consideration 
+ by the City of Tampa Community Redevelopment Agency ("CRA").&nbsp\;In acco
+ rdance with the Americans with Disabilities Act ("ADA") and Section 286.26
+ \, Florida Statutes\, persons with disabilities needing a reasonable accom
+ modation to participate in this public hearing or meeting should contact t
+ he City of Tampa's ADA Coordinator at least 48 hours prior to the proceedi
+ ng. The ADA Coordinator may be contacted via phone at 813-274-3964\, email
+  at TampaADA@tampagov.net\, or by submitting an ADA - Accommodations Reque
+ st form available online at tampagov.net/ADARequest
+END:VEVENT
+BEGIN:VEVENT
+UID:e997c4ea-34a6-4d6c-923a-289ba7d48dd6
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241113T150000Z
 DTEND:20241113T150000Z
 SUMMARY:Community Benefits Advisory Council
@@ -759,9 +807,9 @@ DESCRIPTION:COMMUNITY BENEFITS ADVISORY COUNCILNOTICE OF PUBLIC MEETINGDAT
  13-274-5642.
 END:VEVENT
 BEGIN:VEVENT
-UID:c9072e5a-8adc-45d3-8eee-12abf2e9a519
+UID:4cedf7a3-4204-419d-9ac5-5eea281601c6
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241113T150000Z
 DTEND:20241128T150000Z
 SUMMARY:Project Title: 4673-(652) 18th Street Pumping Station Rehabilitati
@@ -838,57 +886,94 @@ DESCRIPTION:Project Title: 4673-(652) 18th Street Pumping Station Rehabili
  proposed action\, or request a copy of the findings by contacting:&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:f00b9e69-662b-47e9-9eaf-e738f04fb190
+UID:242562a2-15cd-4bc0-995c-395b97f761c2
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241113T173000Z
-DTEND:20241113T173000Z
-SUMMARY:Drew Park Community Advisory Committee
-LOCATION:4001 West Tampa Bay Boulevard Tampa \, FL 33614 United States
-DESCRIPTION:DREW PARK COMMUNITY ADVISORY COMMITTEEFOR THE DREW PARK COMMUN
- ITY REDEVELOPMENT AREANOTICE OF PUBLIC MEETING&nbsp\;&nbsp\;Dates: Wednesd
- ay November 13th\, 2024&nbsp\;&nbsp\;Time: 5:30 p.m.&nbsp\;Location: Hills
- borough Community College\, Dale Mabry CampusStudent Services Building\, R
- oom DSTU 1084001 West Tampa Bay BoulevardTampa\, FL 33614&nbsp\;Agenda: Pl
- ease contact Cedric McCray at 813-242-3806 or at cedric.mccray@tampagov.ne
- tTeams: Join the meeting nowMeeting ID: 286 567 806 962Passcode: 3VWMJLDia
- l in by phone+1 941-263-1615\,\,828119054# United States\, SarasotaFind a 
- local numberPhone conference ID: 828 119 054#&nbsp\;&nbsp\;The purpose of 
- this public meeting of the Drew Park Community Advisory Committee ("CAC") 
- is to discuss and make recommendations regarding Community Redevelopment A
- ctivities in the Drew Park Community Redevelopment Area for consideration 
- by the City of Tampa Community Redevelopment Agency ("CRA").&nbsp\;In acco
- rdance with the Americans with Disabilities Act ("ADA") and Section 286.26
- \, Florida Statutes\, persons with disabilities needing a reasonable accom
- modation to participate in this public hearing or meeting should contact t
- he City of Tampa's ADA Coordinator at least 48 hours prior to the proceedi
- ng. The ADA Coordinator may be contacted via phone at 813-274-3964\, email
-  at TampaADA@tampagov.net\, or by submitting an ADA - Accommodations Reque
- st form available online at tampagov.net/ADARequest
+DTSTAMP:20241126T000424Z
+DTSTART:20241114T160000Z
+DTEND:20241114T200000Z
+SUMMARY:Art on the House
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
+ &nbsp\;Art&nbsp\;on&nbsp\;the&nbsp\;House&nbsp\;where admission prices cha
+ nge to pay-as-you-will\, and visitors choose whatever admission price&nbsp
+ \;they want to pay. Bring&nbsp\;the&nbsp\;family and celebrate 100 years o
+ f&nbsp\;art&nbsp\;in Tampa with exhibitions that emphasize ancient\, moder
+ n\, and contemporary&nbsp\;art.\n\nBeginning at 4 pm every Thursday\, walk
+  up to the Welcome Desk and tell the Visitor Experience and Engagement Rep
+ resentatives the admission price you chose to pay for your visit to the mu
+ seum. Any donation amount is welcome\n\n\nContact Name Tampa Museum of Art
+ \n\nContact Phone 813-274-8130\n\nContact Email hello@tampamuseum.org\n\nL
+ ocation Tampa Museum of Art\n\nEvent Web Link https://tampamuseum.org/even
+ t/art-on-the-house/2024-02-29/\n
 END:VEVENT
 BEGIN:VEVENT
-UID:1eab5ca3-e203-4379-88cb-d630610c835f
+UID:04790497-424a-415f-93db-074e0d64e5f3
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241113T180000Z
-DTEND:20241113T203000Z
-SUMMARY:Taste Meet Learn-Tampa
-LOCATION:1731 East 7th Avenue Tampa \, FL 33605 United States
-DESCRIPTION:Join us for an unforgettable evening of swirling\, sipping\, a
- nd supporting a wonderful cause! Taste Meet Learn - Tampa offers a unique 
- opportunity to indulge your senses while making a meaningful impact on the
-  lives of healthy children with varying abilities in our Early Childhood E
- ducation program at Sunrise Children's Services\, Inc.&nbsp\;Come out and 
- indulge your senses with 3 of the finest wines from Garemani Vineyards\, s
- avor delicious pairings\, and elevate your evening with an art display fea
- turing captivating works by renowned international artist George Rodez. Pl
- us\, get ready to bid on exciting items at our silent auction\, where ever
- y contribution counts towards a worthy cause.
+DTSTAMP:20241126T000424Z
+DTSTART:20241114T180000Z
+DTEND:20241114T203000Z
+SUMMARY:Teen Digital Collage Class
+LOCATION:120 W. Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Explore the art of digital collage in this engaging workshop\,
+  where students will dive into the world of Photoshop. Sign up for a singl
+ e class or keep coming back for more as students take inspiration from wor
+ ks currently on display in the museum and other collage artists. By learni
+ ng fundamental Photoshop tools and techniques with guidance on image manip
+ ulation\, students will craft their own symbolic digital collages to share
+  in print and online. Ages 12-17
 END:VEVENT
 BEGIN:VEVENT
-UID:1b7d526d-2f6f-465b-a2c3-7679f44ab000
+UID:e1f41e85-bf8c-4073-8afa-7379da3fc963
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241114T143000Z
+DTEND:20241114T143000Z
+SUMMARY:Slbe Review Committee: Sheltered Market Program
+LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:Public Meeting Notice&nbsp\;SLBE REVIEW COMMITTEE: SHELTERED M
+ ARKET PROGRAMTime &amp\; Date: 2:30 P.M. Thursday\, November 7\, 20242:30 
+ P.M. Thursday\, November 14\, 20242:30 P.M. Thursday\, November 21\, 2024L
+ ocation: 2nd Floor\, Purchasing Conference RoomHanna Avenue City Center255
+ 5 E. Hanna AvenueTampa\, FL 33610Topic: To review projects eligible for so
+ licitation as a Sheltered Market Procurement pursuant to the City of Tampa
+ ’s Equal Business Opportunity Program.Contact: Ardail Allen at 813-274-5
+ 542 or Ardail.Allen@tampagov.netNote: All meetings are open to the public.
+  Any person who decides to appeal any decision made with respect to any ma
+ tter considered at this public hearing or meeting are advised\, in accorda
+ nce with Section 286.0105\, Florida Statutes\, that they will need a recor
+ d of the proceedings\, and for such purpose may need to hire a court repor
+ ter to ensure that a verbatim record of the proceeding is made\, which rec
+ ord includes the testimony and evidence upon which the appeal is to be bas
+ ed.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d1c3643-038c-417a-8ba1-957583d641a8
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241114T153000Z
+DTEND:20241114T153000Z
+SUMMARY:Goal Setting Committee: Subcontracts
+LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:Public Meeting Notice&nbsp\;GOAL SETTING COMMITTEE: SUBCONTRAC
+ TSTime &amp\; Date: 3:30 P.M. Thursday\, November 7\, 20243:30 P.M. Thursd
+ ay\, November 14\, 20243:30 P.M. Thursday\, November 21\, 2024&nbsp\;&nbsp
+ \;Location: 2nd Floor\, Trophy Case Conference RoomHanna Avenue City Cente
+ r2555 E. Hanna AvenueTampa\, FL 33610&nbsp\;Topic: To review projects elig
+ ible for application of subcontract participation goals pursuant to the Ci
+ ty of Tampa’s Equal Business Opportunity Program.&nbsp\;Contact: Ardail 
+ Allen at 813-274-5542 or Ardail.Allen@tampagov.netNote: All meetings are o
+ pen to the public. Any person who decides to appeal any decision made with
+  respect to any matter considered at this public hearing or meeting are ad
+ vised\, in accordance with Section 286.0105\, Florida Statutes\, that they
+  will need a record of the proceedings\, and for such purpose may need to 
+ hire a court reporter to ensure that a verbatim record of the proceeding i
+ s made\, which record includes the testimony and evidence upon which the a
+ ppeal is to be based.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc30e963-8f77-4610-852f-59fa6eada2c7
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241114T090000Z
 DTEND:20241114T090000Z
 SUMMARY:Community Redevelopment Agency Regular Meeting
@@ -932,78 +1017,9 @@ DESCRIPTION:&nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\
  be based (F.S. 286.0105).
 END:VEVENT
 BEGIN:VEVENT
-UID:7ef11c46-da8e-4dd1-997d-7465ded5d3d6
+UID:ef6e7dc8-4dab-45e8-b9ee-890588787c65
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241114T143000Z
-DTEND:20241114T143000Z
-SUMMARY:Slbe Review Committee: Sheltered Market Program
-LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
-DESCRIPTION:Public Meeting Notice&nbsp\;SLBE REVIEW COMMITTEE: SHELTERED M
- ARKET PROGRAMTime &amp\; Date: 2:30 P.M. Thursday\, November 7\, 20242:30 
- P.M. Thursday\, November 14\, 20242:30 P.M. Thursday\, November 21\, 2024L
- ocation: 2nd Floor\, Purchasing Conference RoomHanna Avenue City Center255
- 5 E. Hanna AvenueTampa\, FL 33610Topic: To review projects eligible for so
- licitation as a Sheltered Market Procurement pursuant to the City of Tampa
- ’s Equal Business Opportunity Program.Contact: Ardail Allen at 813-274-5
- 542 or Ardail.Allen@tampagov.netNote: All meetings are open to the public.
-  Any person who decides to appeal any decision made with respect to any ma
- tter considered at this public hearing or meeting are advised\, in accorda
- nce with Section 286.0105\, Florida Statutes\, that they will need a recor
- d of the proceedings\, and for such purpose may need to hire a court repor
- ter to ensure that a verbatim record of the proceeding is made\, which rec
- ord includes the testimony and evidence upon which the appeal is to be bas
- ed.
-END:VEVENT
-BEGIN:VEVENT
-UID:526fe00a-ef32-4d7a-bc05-0fa7b0738348
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241114T153000Z
-DTEND:20241114T153000Z
-SUMMARY:Goal Setting Committee: Subcontracts
-LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
-DESCRIPTION:Public Meeting Notice&nbsp\;GOAL SETTING COMMITTEE: SUBCONTRAC
- TSTime &amp\; Date: 3:30 P.M. Thursday\, November 7\, 20243:30 P.M. Thursd
- ay\, November 14\, 20243:30 P.M. Thursday\, November 21\, 2024&nbsp\;&nbsp
- \;Location: 2nd Floor\, Trophy Case Conference RoomHanna Avenue City Cente
- r2555 E. Hanna AvenueTampa\, FL 33610&nbsp\;Topic: To review projects elig
- ible for application of subcontract participation goals pursuant to the Ci
- ty of Tampa’s Equal Business Opportunity Program.&nbsp\;Contact: Ardail 
- Allen at 813-274-5542 or Ardail.Allen@tampagov.netNote: All meetings are o
- pen to the public. Any person who decides to appeal any decision made with
-  respect to any matter considered at this public hearing or meeting are ad
- vised\, in accordance with Section 286.0105\, Florida Statutes\, that they
-  will need a record of the proceedings\, and for such purpose may need to 
- hire a court reporter to ensure that a verbatim record of the proceeding i
- s made\, which record includes the testimony and evidence upon which the a
- ppeal is to be based.
-END:VEVENT
-BEGIN:VEVENT
-UID:7c74c9ea-3dd4-4cde-8ee9-3a34a4db1174
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241114T160000Z
-DTEND:20241114T200000Z
-SUMMARY:Art on the House
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
- &nbsp\;Art&nbsp\;on&nbsp\;the&nbsp\;House&nbsp\;where admission prices cha
- nge to pay-as-you-will\, and visitors choose whatever admission price&nbsp
- \;they want to pay. Bring&nbsp\;the&nbsp\;family and celebrate 100 years o
- f&nbsp\;art&nbsp\;in Tampa with exhibitions that emphasize ancient\, moder
- n\, and contemporary&nbsp\;art.\n\nBeginning at 4 pm every Thursday\, walk
-  up to the Welcome Desk and tell the Visitor Experience and Engagement Rep
- resentatives the admission price you chose to pay for your visit to the mu
- seum. Any donation amount is welcome\n\n\nContact Name Tampa Museum of Art
- \n\nContact Phone 813-274-8130\n\nContact Email hello@tampamuseum.org\n\nL
- ocation Tampa Museum of Art\n\nEvent Web Link https://tampamuseum.org/even
- t/art-on-the-house/2024-02-29/\n
-END:VEVENT
-BEGIN:VEVENT
-UID:450b5658-feeb-47f5-8039-08df83de6051
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241114T170100Z
 DTEND:20241114T170100Z
 SUMMARY:Evening Meeting - Quasi-judicial &amp\; Land Use Hearings
@@ -1047,25 +1063,9 @@ DESCRIPTION:NOTICE OF PUBLIC MEETINGTAMPA CITY COUNCILEVENING MEETINGQUASI
  pagov.net.
 END:VEVENT
 BEGIN:VEVENT
-UID:8cc16818-6949-47e3-b080-103618e14245
+UID:5f3d73df-6ef1-4dd9-86ea-5458a94eca5b
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241114T180000Z
-DTEND:20241114T203000Z
-SUMMARY:Teen Digital Collage Class
-LOCATION:120 W. Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Explore the art of digital collage in this engaging workshop\,
-  where students will dive into the world of Photoshop. Sign up for a singl
- e class or keep coming back for more as students take inspiration from wor
- ks currently on display in the museum and other collage artists. By learni
- ng fundamental Photoshop tools and techniques with guidance on image manip
- ulation\, students will craft their own symbolic digital collages to share
-  in print and online. Ages 12-17
-END:VEVENT
-BEGIN:VEVENT
-UID:dd2763e6-434a-4bd7-8753-9e9a451ff44b
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241115T090000Z
 DTEND:20241115T170000Z
 SUMMARY:Quilted Treasures of Tampa Bay Quilt Show
@@ -1079,9 +1079,9 @@ DESCRIPTION:Hosted by Quilters Workshop of Tampa BayAdmission $10 at the d
  ups of 15 or more receive a $1.00 discount per person
 END:VEVENT
 BEGIN:VEVENT
-UID:5e1388ce-3ac5-4c75-9a3e-b9e284840213
+UID:8a9f9661-f8a7-435b-898a-b05e7f8b1856
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241115T100000Z
 DTEND:20241115T200000Z
 SUMMARY:Christmas Town at Busch Gardens
@@ -1098,9 +1098,9 @@ DESCRIPTION:Busch Gardens Tampa Bay’s Christmas Town runs daily from Nov
  nual Pass. For more information\, guests can visit ChristmasTown.com.
 END:VEVENT
 BEGIN:VEVENT
-UID:342a373c-95ca-45f4-b6ac-0452642dadce
+UID:6f4ca3c7-23d9-4edf-a0e6-5b58294f819b
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241115T170000Z
 DTEND:20241115T210000Z
 SUMMARY:Water Street Season Spectacular and Tree Lighting
@@ -1110,9 +1110,25 @@ DESCRIPTION:Water Street Season Spectacular&amp\; Tree LightingFriday\, No
  ease visit Water Street Season Spectacular&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:f17957b5-6690-4f69-96da-48b0d2133bba
+UID:8cacf6c7-67df-4d58-9c0d-3e67f4f50258
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241116T090000Z
+DTEND:20241116T160000Z
+SUMMARY:Quilted Treasures of Tampa Bay Quilt Show
+LOCATION:5225 N Himes Ave Tampa \, FL 33614 United States
+DESCRIPTION:Hosted by Quilters Workshop of Tampa BayAdmission $10 at the d
+ oor (cash or check only)Beautiful Quilts on DisplayVendor MallFood TruckBo
+ utiqueGift Basket WalkSmall Quilt AuctionOpportunity quilt - The opportuni
+ ty quilt\, made by members of Quilters Workshop of Tampa Bay\, will be auc
+ tioned off on the final day of the show. Opportunity tickets will be avail
+ able $1.00 for 1 or $5.00 for 6 tickets donation.Group Bus Information Gro
+ ups of 15 or more receive a $1.00 discount per person
+END:VEVENT
+BEGIN:VEVENT
+UID:b2819299-1872-4aa7-8b1b-22ddfb78bd86
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241116T080000Z
 DTEND:20241116T170000Z
 SUMMARY:West Tampa Heights Community Yard Sale
@@ -1125,9 +1141,9 @@ DESCRIPTION:Join us for the West Tampa Heights Community Yard Sale\, hoste
   and fabulous deals right in our neighborhood!&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:ecaa60a3-8eeb-4d01-b3e5-2036e97b08ef
+UID:662ab844-4785-4912-96eb-6dec58ad7c0a
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241116T080000Z
 DTEND:20241116T100000Z
 SUMMARY:Sensory Saturday - GROSSOLOGY!
@@ -1142,25 +1158,9 @@ DESCRIPTION:Our sensory-friendly event is perfect for families and individ
   prior to the event or $10 at the door. FREE for MOSI Members
 END:VEVENT
 BEGIN:VEVENT
-UID:f0081006-d00d-472c-8bd3-e142cd3be2c3
+UID:b5c93168-733b-4ba2-917d-1b0be072272b
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241116T090000Z
-DTEND:20241116T160000Z
-SUMMARY:Quilted Treasures of Tampa Bay Quilt Show
-LOCATION:5225 N Himes Ave Tampa \, FL 33614 United States
-DESCRIPTION:Hosted by Quilters Workshop of Tampa BayAdmission $10 at the d
- oor (cash or check only)Beautiful Quilts on DisplayVendor MallFood TruckBo
- utiqueGift Basket WalkSmall Quilt AuctionOpportunity quilt - The opportuni
- ty quilt\, made by members of Quilters Workshop of Tampa Bay\, will be auc
- tioned off on the final day of the show. Opportunity tickets will be avail
- able $1.00 for 1 or $5.00 for 6 tickets donation.Group Bus Information Gro
- ups of 15 or more receive a $1.00 discount per person
-END:VEVENT
-BEGIN:VEVENT
-UID:5b828e1a-c3b8-4eca-88d0-e4b62b22f2e4
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241116T090000Z
 DTEND:20241116T150000Z
 SUMMARY: Ybor City Saturday Market
@@ -1170,9 +1170,9 @@ DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, November 16
  Markethttps://ybormarket.com/&nbsp\;&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:cdd625d1-2c10-41f7-b3a6-e4ccc677dc67
+UID:b6d0c545-9391-443c-b05c-18b1c0c113e9
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241116T090000Z
 DTEND:20241116T090000Z
 SUMMARY:American Heart Association Heart Walk 2024
@@ -1181,9 +1181,9 @@ DESCRIPTION:When: Saturday\, November 16\, 2024Where: Raymond James Stadiu
  mFor more information please visit: 2024 Tampa Bay Heart Walk
 END:VEVENT
 BEGIN:VEVENT
-UID:d2febfdc-e8a7-4b16-9e08-7b67ec8928f0
+UID:6aaa2149-969d-4654-9f69-7f94d47583cd
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241116T110000Z
 DTEND:20241116T140000Z
 SUMMARY:Hope For Tampa Community Fair
@@ -1192,24 +1192,9 @@ DESCRIPTION:Fun Family Day : BOUNCE HOUSES &amp\; CARNIVAL GAMES • EDUCA
  TIONAL ASSISTANCE • HOT LUNCHES
 END:VEVENT
 BEGIN:VEVENT
-UID:90195074-8bd3-4da9-ac82-adb8bb72c091
+UID:75bd7411-d963-4497-b436-6db2f71bb8ec
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241117T080000Z
-DTEND:20241117T150000Z
-SUMMARY:West Tampa Heights Community Yard Sale
-LOCATION:2922 W Heiter St. Tampa \, FL 33607 United States
-DESCRIPTION:Join us for the West Tampa Heights Community Yard Sale\, hoste
- d by the West Tampa Heights Neighborhood Association! Residents of the nei
- ghborhood will be participating on Saturday\, November 16th and Sunday\, N
- ovember 17th. This is a great opportunity to find unique treasures\, conne
- ct with neighbors\, and support our community. Don’t miss out on the fun
-  and fabulous deals right in our neighborhood!&nbsp\;
-END:VEVENT
-BEGIN:VEVENT
-UID:634faf62-749a-4883-aedd-ae4337c6c74a
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241117T100000Z
 DTEND:20241117T150000Z
 SUMMARY:Water Street Tampa Market
@@ -1218,20 +1203,9 @@ DESCRIPTION:Water Street Tampa Market\n\n\n	Sunday\, November 17\, 2024\n
  10am-3pm\n\n\nFor additional information\, visit Water Street\n\n&nbsp\;\n
 END:VEVENT
 BEGIN:VEVENT
-UID:b6262999-67b6-40ea-ac72-e6d43982b90e
+UID:6281d1c0-a087-45ed-b5a2-a0a8fe3d92ed
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241117T120000Z
-DTEND:20241117T180000Z
-SUMMARY:Taste of Latino
-LOCATION:Centennial Park 1800 E. 8th Ave Tampa \, FL 33605 United States
-DESCRIPTION:Taste of LatinoCentennial ParkSunday\, November 17\, 2024For a
- dditional information\, visit Taste of Latino
-END:VEVENT
-BEGIN:VEVENT
-UID:3cee2a78-1745-4cf3-8724-c1dc168451cd
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241117T130000Z
 DTEND:20241117T170000Z
 SUMMARY:Handmade Gifts: Lino Print Cards
@@ -1244,9 +1218,24 @@ DESCRIPTION:Create cards for those you care about in this Linoblock worksh
  class.
 END:VEVENT
 BEGIN:VEVENT
-UID:804f4092-def4-4474-aa42-1c2de28d728c
+UID:fa2796c6-de65-468a-acbf-0ea2d090de5c
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241117T080000Z
+DTEND:20241117T150000Z
+SUMMARY:West Tampa Heights Community Yard Sale
+LOCATION:2922 W Heiter St. Tampa \, FL 33607 United States
+DESCRIPTION:Join us for the West Tampa Heights Community Yard Sale\, hoste
+ d by the West Tampa Heights Neighborhood Association! Residents of the nei
+ ghborhood will be participating on Saturday\, November 16th and Sunday\, N
+ ovember 17th. This is a great opportunity to find unique treasures\, conne
+ ct with neighbors\, and support our community. Don’t miss out on the fun
+  and fabulous deals right in our neighborhood!&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:527a4649-c1fc-41f4-8ec0-14ddf577840c
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241117T180000Z
 DTEND:20241117T210000Z
 SUMMARY:Boulon x Buffalo Trace Antique Collection Whiskey Dinner
@@ -1264,24 +1253,20 @@ DESCRIPTION:Join Boulon for a special multi-course dinner featuring the ex
  sp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:155509e1-883b-44d1-9af3-d0c4240beec0
+UID:f1f13392-ac9e-435a-9635-ea9451d06199
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241118T090000Z
-DTEND:20241118T090000Z
-SUMMARY:Downtown/Historic Ybor Tourism Marketing Special Benefit District 
- Steering Committee
-LOCATION:500 Channelside Dr Tampa \, FL 33602 United States
-DESCRIPTION:NAME OF COMMITTEE: Downtown/Historic Ybor Tourism Marketing Sp
- ecial Benefit District Steering CommitteeDATE OF MEETING: Monday November 
- 18\, 2024TIME OF MEETING: 9:00am – 10:30amLOCATION OF MEETING:&nbsp\;The
-  Tampa EDITION500 Channelside Dr.Tampa\, Fl. 33602Meeting Room: Studio 1CO
- NTACT PERSON: Bob Morrison813-833-8311bobm@tbtmd.org
+DTSTAMP:20241126T000424Z
+DTSTART:20241117T120000Z
+DTEND:20241117T180000Z
+SUMMARY:Taste of Latino
+LOCATION:Centennial Park 1800 E. 8th Ave Tampa \, FL 33605 United States
+DESCRIPTION:Taste of LatinoCentennial ParkSunday\, November 17\, 2024For a
+ dditional information\, visit Taste of Latino
 END:VEVENT
 BEGIN:VEVENT
-UID:9ec10f63-66c8-47e5-baf7-73eae1cf0468
+UID:d8afb135-2402-4789-9ef1-5e878ff40ba9
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241118T093000Z
 DTEND:20241118T093000Z
 SUMMARY:Tampa Bay Water - 2024 Regular Board Meeting Schedule
@@ -1296,9 +1281,9 @@ DESCRIPTION:TAMPA BAY WATER - 2024 Regular Board Meeting Schedule\nMeeting
  orkshops at the Board direction.\n\n&nbsp\;\n
 END:VEVENT
 BEGIN:VEVENT
-UID:bb734575-99cb-4797-beed-278263fb3f47
+UID:eece62f9-e581-4968-a69c-71da16403d6c
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241118T130000Z
 DTEND:20241118T160000Z
 SUMMARY:Intro to Jewelry Making 
@@ -1313,9 +1298,9 @@ DESCRIPTION:Create your jewelry in these multiple-session\, beginner-frien
  gh County Board of County Commissioners&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:c7c40ae9-f606-427b-9b91-dfefa24685c2
+UID:c3e864d2-9506-46d4-b492-a5211a0527db
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241118T180000Z
 DTEND:20241118T190000Z
 SUMMARY:Community Meeting: South Howard Flood Relief Project
@@ -1334,61 +1319,24 @@ DESCRIPTION:The City of Tampa Stormwater team and engineering experts are
  t here
 END:VEVENT
 BEGIN:VEVENT
-UID:40a36a5d-3d2c-4e86-a052-96e46ce39dbc
+UID:20d2fb8d-b96d-4711-aa06-0708130bcfbc
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241119T090000Z
-DTEND:20241119T090000Z
-SUMMARY:Human Rights Board Meeting
-LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
-DESCRIPTION:City of Tampa Human Rights Board Meeting&nbsp\;Date: Tuesday\,
-  November 19\, 2024Time: 9:00 a.m.Location: City Center at Hanna Ave2555 E
-  Hanna Ave\, 3rd FloorThe Riverwalk Conference RoomTampa\, FL 33610Topic: 
- Meeting of Human Rights BoardContact: Questions may be directed to Naomi C
- andelaria\, Interim Human Rights Supervisor at (813) 274-5856 or by email 
- at naomi.candelaria@tampagov.netMembers of the public who do not wish to a
- ppear in person due to COVID-19 or otherwise may submit written comments b
- y mail to the City of Tampa Human Rights Board\, 2555 E Hanna Ave\, Tampa\
- , FL 33610\, or by email to naomi.candelaria@tampagov.net. All written com
- ments must be received no later than 24 hours before the scheduled meeting
-  to be distributed to the Commission members and be included in the offici
- al record of the meeting. To check the status of the public hearing regard
- ing postponement or cancellation\, please contact Naomi Candelaria at (813
- ) 274-5856 a minimum of two (2) days before the public hearing date.
+DTSTAMP:20241126T000424Z
+DTSTART:20241118T090000Z
+DTEND:20241118T090000Z
+SUMMARY:Downtown/Historic Ybor Tourism Marketing Special Benefit District 
+ Steering Committee
+LOCATION:500 Channelside Dr Tampa \, FL 33602 United States
+DESCRIPTION:NAME OF COMMITTEE: Downtown/Historic Ybor Tourism Marketing Sp
+ ecial Benefit District Steering CommitteeDATE OF MEETING: Monday November 
+ 18\, 2024TIME OF MEETING: 9:00am – 10:30amLOCATION OF MEETING:&nbsp\;The
+  Tampa EDITION500 Channelside Dr.Tampa\, Fl. 33602Meeting Room: Studio 1CO
+ NTACT PERSON: Bob Morrison813-833-8311bobm@tbtmd.org
 END:VEVENT
 BEGIN:VEVENT
-UID:638ec679-dee2-426b-a032-afa739f7866d
+UID:26353946-cc21-4831-8c1b-1c109492f4a4
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241119T173000Z
-DTEND:20241119T173000Z
-SUMMARY:West Tampa Community Advisory Committee
-LOCATION:2306 N Howard Ave Tampa \, FL 33607 United States
-DESCRIPTION:WEST TAMPA COMMUNITY ADVISORY COMMITTEEFOR THE WEST TAMPA COMM
- UNITY REDEVELOPMENT AREANOTICE OF PUBLIC MEETING&nbsp\;&nbsp\;Dates: Tuesd
- ay\, November 19th\, 2024&nbsp\;Time: 5:30 p.m.Location: Hillsborough Educ
- ation Foundation2306 North Howard AvenueTampa\, FL 33607&nbsp\;Teams meeti
- ng: Join on your computer\, mobile app or room device&nbsp\;Click here to 
- join the meetingMeeting ID: 246 667 438 538&nbsp\;Passcode: Nz2qtCDownload
-  Teams | Join on the webOr call in (audio only)+1 941-263-1615\,\,11791594
- # United States\, SarasotaPhone Conference ID: 117 915 94#Agenda: Please c
- ontact Brenda Thrower at 813-274-7917 or at Brenda.Thrower@tampagov.net&nb
- sp\;The purpose of this public meeting of the West Tampa Community Advisor
- y Committee ("CAC") is to discuss and make recommendations regarding Commu
- nity Redevelopment Activities in the West Tampa Community Redevelopment Ar
- ea for consideration by the City of Tampa Community Redevelopment Agency (
- "CRA").&nbsp\;In accordance with the Americans with Disabilities Act ("ADA
- ") and Section 286.26\, Florida Statutes\, persons with disabilities needi
- ng a reasonable accommodation to participate in this public hearing or mee
- ting should contact the City of Tampa's ADA Coordinator at least 48 hours 
- prior to the proceeding. The ADA Coordinator may be contacted via phone at
-  813-274-3964\, email at TampaADA@tampagov.net\, or by submitting an ADA -
-  Accommodations Request form available online at tampagov.net/ADARequest.
-END:VEVENT
-BEGIN:VEVENT
-UID:4de3f866-2b36-4f28-8c59-432049b045cc
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241119T180000Z
 DTEND:20241119T180000Z
 SUMMARY:CANCELLED ---Tampa Heights Community Advisory Committee 
@@ -1419,32 +1367,73 @@ DESCRIPTION:&nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\
   Accommodations Request form available online at tampagov.net/ADARequest.
 END:VEVENT
 BEGIN:VEVENT
-UID:fafc6577-4aa5-4b86-bfb9-ccf3d6ef999c
+UID:fab38318-8271-4ac5-91be-59e425dc127e
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241120T090000Z
-DTEND:20241120T090000Z
-SUMMARY:Public Nuisance Abatement Board 
-LOCATION:City Council Chambers 3rd Floor\, City Hall\, 315 E. Kennedy Blvd
-  Tampa \, FL 33602 United States
-DESCRIPTION:PUBLIC NUISANCE ABATEMENT BOARDCITY OF TAMPA\, HILLSBOROUGH CO
- UNTY\, FLORIDA&nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbs
- p\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; PUBLIC
-  HEARINGYOU ARE HEREBY NOTIFIED that this matter will be brought before th
- e Public Nuisance Abatement Board on the date and time indicated below for
-  the purpose of a hearing on a Complaint for the Abatement of Nuisance. Th
- is matter has been scheduled as follows:DATE: November 20\, 2024TIME: 9:00
-  a.m.PLACE: City Council Chambers 3rd Floor\, City Hall\,&nbsp\;&nbsp\; &n
- bsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; 315 E. Kennedy Blvd\,&nbsp\;
-  &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; Tampa\, FL 33602BOARD: Pu
- blic Nuisance Abatement Board (“the Board” or “PNAB”)MATTER: Publi
- c Nuisance Abatement Board WorkshopSILVER DOLLAR FOOD\, INC.4330 N. 40th S
- treet\,Tampa\, FL 33610
+DTSTAMP:20241126T000424Z
+DTSTART:20241119T173000Z
+DTEND:20241119T173000Z
+SUMMARY:West Tampa Community Advisory Committee
+LOCATION:2306 N Howard Ave Tampa \, FL 33607 United States
+DESCRIPTION:WEST TAMPA COMMUNITY ADVISORY COMMITTEEFOR THE WEST TAMPA COMM
+ UNITY REDEVELOPMENT AREANOTICE OF PUBLIC MEETING&nbsp\;&nbsp\;Dates: Tuesd
+ ay\, November 19th\, 2024&nbsp\;Time: 5:30 p.m.Location: Hillsborough Educ
+ ation Foundation2306 North Howard AvenueTampa\, FL 33607&nbsp\;Teams meeti
+ ng: Join on your computer\, mobile app or room device&nbsp\;Click here to 
+ join the meetingMeeting ID: 246 667 438 538&nbsp\;Passcode: Nz2qtCDownload
+  Teams | Join on the webOr call in (audio only)+1 941-263-1615\,\,11791594
+ # United States\, SarasotaPhone Conference ID: 117 915 94#Agenda: Please c
+ ontact Brenda Thrower at 813-274-7917 or at Brenda.Thrower@tampagov.net&nb
+ sp\;The purpose of this public meeting of the West Tampa Community Advisor
+ y Committee ("CAC") is to discuss and make recommendations regarding Commu
+ nity Redevelopment Activities in the West Tampa Community Redevelopment Ar
+ ea for consideration by the City of Tampa Community Redevelopment Agency (
+ "CRA").&nbsp\;In accordance with the Americans with Disabilities Act ("ADA
+ ") and Section 286.26\, Florida Statutes\, persons with disabilities needi
+ ng a reasonable accommodation to participate in this public hearing or mee
+ ting should contact the City of Tampa's ADA Coordinator at least 48 hours 
+ prior to the proceeding. The ADA Coordinator may be contacted via phone at
+  813-274-3964\, email at TampaADA@tampagov.net\, or by submitting an ADA -
+  Accommodations Request form available online at tampagov.net/ADARequest.
 END:VEVENT
 BEGIN:VEVENT
-UID:5fbf8390-6239-4662-ac26-a3068ea06d95
+UID:dea7a72e-e2ce-4556-8218-9663844b11a0
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241119T090000Z
+DTEND:20241119T090000Z
+SUMMARY:Human Rights Board Meeting
+LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:City of Tampa Human Rights Board Meeting&nbsp\;Date: Tuesday\,
+  November 19\, 2024Time: 9:00 a.m.Location: City Center at Hanna Ave2555 E
+  Hanna Ave\, 3rd FloorThe Riverwalk Conference RoomTampa\, FL 33610Topic: 
+ Meeting of Human Rights BoardContact: Questions may be directed to Naomi C
+ andelaria\, Interim Human Rights Supervisor at (813) 274-5856 or by email 
+ at naomi.candelaria@tampagov.netMembers of the public who do not wish to a
+ ppear in person due to COVID-19 or otherwise may submit written comments b
+ y mail to the City of Tampa Human Rights Board\, 2555 E Hanna Ave\, Tampa\
+ , FL 33610\, or by email to naomi.candelaria@tampagov.net. All written com
+ ments must be received no later than 24 hours before the scheduled meeting
+  to be distributed to the Commission members and be included in the offici
+ al record of the meeting. To check the status of the public hearing regard
+ ing postponement or cancellation\, please contact Naomi Candelaria at (813
+ ) 274-5856 a minimum of two (2) days before the public hearing date.
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f45608-350b-4eeb-a55a-f712bcfd7b2a
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241120T150000Z
+DTEND:20241120T160000Z
+SUMMARY:Investing 101
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Join Gallagher Retirement Plan Consultants for the 2024 webina
+ r series\, and get a little better with your finances each month.Register 
+ now.
+END:VEVENT
+BEGIN:VEVENT
+UID:c29e4111-5c90-4910-8ebc-ccfdea372cfb
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241120T133000Z
 DTEND:20241120T133000Z
 SUMMARY:Affordable Housing Advisory Committee Meeting
@@ -1456,62 +1445,21 @@ DESCRIPTION:Affordable Housing Advisory Committee MeetingDates: Wednesday\
  ampagov.net
 END:VEVENT
 BEGIN:VEVENT
-UID:191a3571-5920-4296-a67a-30967ced6822
+UID:96a7f8bc-c12d-4d59-b2c8-74a1818d31f1
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241120T140000Z
-DTEND:20241120T140000Z
-SUMMARY:Deferred Compensation Plan Committee
-LOCATION:306 E Jackson St Tampa \, FL 33602 United States
-DESCRIPTION:City of Tampa Deferred Compensation Plan Committee&nbsp\;NOTIC
- E OF MEETINGDate: Wednesday\, November 20\, 2024&nbsp\;Time: 2:00 P.M.&nbs
- p\;Location: 306 E. Jackson Street\, 5th FL Conf Room Tampa\, Florida 3360
- 2&nbsp\;&nbsp\;You can dial in using your phone. (For supported devices\, 
- tap a one-touch number below to join instantly.)&nbsp\;Telephone Dial in: 
- (For supported devices\, tap a one-touch number below to join instantly.) 
- United States: 1-941-263-1615 Access Code: 639 989 564#&nbsp\;Public Comme
- nts Public comments may not exceed 3-minutes in length.&nbsp\;For addition
- al information\, please contact Tony Hagler at 813-274-8103.&nbsp\;’In a
- ccordance with the Americans with Disabilities Act (ADA) and Section 286.2
- 6\, Florida Statutes\, persons with disabilities needing a reasonable acco
- mmodation to participate in this public hearing or meeting should contact 
- the City of Tampa’s ADA Coordinator at least 48 hours prior to the proce
- eding. The ADA Coordinator may be contacted via phone at 813-274-3964\, em
- ail at TampaADA@tampagov.net\, or by submitting an ADA - Accommodations Re
- quest form available online at www.tampagov.net/ADARequest
+DTSTAMP:20241126T000424Z
+DTSTART:20241120T170000Z
+DTEND:20241120T200000Z
+SUMMARY:Tampa Night Out 
+LOCATION:Raymond James Stadium 4201 N. Dale Mabry Hwy Tampa \, FL 33607 Un
+ ited States
+DESCRIPTION:The department hosts a celebration aimed at building trust bet
+ ween officers and residents\, as well as promoting safe neighborhoods.
 END:VEVENT
 BEGIN:VEVENT
-UID:8a03c73a-25d6-4ed1-ad7b-b1adfa7adcb8
+UID:af866fae-f511-40b9-a2a7-496c5257a815
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241120T150000Z
-DTEND:20241120T160000Z
-SUMMARY:Investing 101
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Join Gallagher Retirement Plan Consultants for the 2024 webina
- r series\, and get a little better with your finances each month.Register 
- now.
-END:VEVENT
-BEGIN:VEVENT
-UID:60a3ac56-59af-42c6-87fd-e1973096b0ba
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241120T150000Z
-DTEND:20241120T150000Z
-SUMMARY:1st Scoring Evaluation Committee Meeting 
-LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
-DESCRIPTION:1st SCORING EVALUATION COMMITTEE MEETING –POTENTIAL LEASING 
- OF REAL PROPERTY LOCATED AT CHANNELSIDE DRIVE AND E. 3RD AVENUE. IN THE YB
- OR CITY II COMMUNITY REDEVELOPMENT AREA (REISSUED)\, RFP #21101424Date: NO
- VEMBER 20\, 2024Time: 3:00PM – 4:00PMLocation: 2ND FLOOR PURCHASING CONF
- ERENCE ROOM2555 E. HANNA AVENUETAMPA\, FL 33610CONTACT: ERYN BERG\, CERTIF
- IED PROCUREMENT ANALYSTCITY OF TAMPA PURCHASING DEPARTMENT2555 E HANNA AVE
- NUE\, 2nd Floor(813) 274-8832
-END:VEVENT
-BEGIN:VEVENT
-UID:dedaa3dd-70e2-4e96-898d-a575deff7e7c
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241120T163000Z
 DTEND:20241120T163000Z
 SUMMARY:Central Park Community Advisory Committee
@@ -1538,21 +1486,233 @@ DESCRIPTION:CENTRAL PARK COMMUNITY ADVISORY COMMITTEEFOR THE CENTRAL PARK
  Request form available online at tampagov.net/ADARequest.
 END:VEVENT
 BEGIN:VEVENT
-UID:7b82b43f-19a4-4efd-b844-e86574a27042
+UID:c00e8bc8-4fbb-408c-9b2c-3d1ab22913bc
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241120T170000Z
-DTEND:20241120T200000Z
-SUMMARY:Tampa Night Out 
-LOCATION:Raymond James Stadium 4201 N. Dale Mabry Hwy Tampa \, FL 33607 Un
- ited States
-DESCRIPTION:The department hosts a celebration aimed at building trust bet
- ween officers and residents\, as well as promoting safe neighborhoods.
+DTSTAMP:20241126T000424Z
+DTSTART:20241120T150000Z
+DTEND:20241120T150000Z
+SUMMARY:1st Scoring Evaluation Committee Meeting 
+LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:1st SCORING EVALUATION COMMITTEE MEETING –POTENTIAL LEASING 
+ OF REAL PROPERTY LOCATED AT CHANNELSIDE DRIVE AND E. 3RD AVENUE. IN THE YB
+ OR CITY II COMMUNITY REDEVELOPMENT AREA (REISSUED)\, RFP #21101424Date: NO
+ VEMBER 20\, 2024Time: 3:00PM – 4:00PMLocation: 2ND FLOOR PURCHASING CONF
+ ERENCE ROOM2555 E. HANNA AVENUETAMPA\, FL 33610CONTACT: ERYN BERG\, CERTIF
+ IED PROCUREMENT ANALYSTCITY OF TAMPA PURCHASING DEPARTMENT2555 E HANNA AVE
+ NUE\, 2nd Floor(813) 274-8832
 END:VEVENT
 BEGIN:VEVENT
-UID:62b9ec15-bd81-4fc9-b455-7258a4cf59e7
+UID:bc9fc0a3-c191-410d-93f6-8c657f8814f2
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241120T140000Z
+DTEND:20241120T140000Z
+SUMMARY:Deferred Compensation Plan Committee
+LOCATION:306 E Jackson St Tampa \, FL 33602 United States
+DESCRIPTION:City of Tampa Deferred Compensation Plan Committee&nbsp\;NOTIC
+ E OF MEETINGDate: Wednesday\, November 20\, 2024&nbsp\;Time: 2:00 P.M.&nbs
+ p\;Location: 306 E. Jackson Street\, 5th FL Conf Room Tampa\, Florida 3360
+ 2&nbsp\;&nbsp\;You can dial in using your phone. (For supported devices\, 
+ tap a one-touch number below to join instantly.)&nbsp\;Telephone Dial in: 
+ (For supported devices\, tap a one-touch number below to join instantly.) 
+ United States: 1-941-263-1615 Access Code: 639 989 564#&nbsp\;Public Comme
+ nts Public comments may not exceed 3-minutes in length.&nbsp\;For addition
+ al information\, please contact Tony Hagler at 813-274-8103.&nbsp\;’In a
+ ccordance with the Americans with Disabilities Act (ADA) and Section 286.2
+ 6\, Florida Statutes\, persons with disabilities needing a reasonable acco
+ mmodation to participate in this public hearing or meeting should contact 
+ the City of Tampa’s ADA Coordinator at least 48 hours prior to the proce
+ eding. The ADA Coordinator may be contacted via phone at 813-274-3964\, em
+ ail at TampaADA@tampagov.net\, or by submitting an ADA - Accommodations Re
+ quest form available online at www.tampagov.net/ADARequest
+END:VEVENT
+BEGIN:VEVENT
+UID:f7d86aab-f1eb-42ac-a64a-21ce225de000
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241120T090000Z
+DTEND:20241120T090000Z
+SUMMARY:Public Nuisance Abatement Board 
+LOCATION:City Council Chambers 3rd Floor\, City Hall\, 315 E. Kennedy Blvd
+  Tampa \, FL 33602 United States
+DESCRIPTION:PUBLIC NUISANCE ABATEMENT BOARDCITY OF TAMPA\, HILLSBOROUGH CO
+ UNTY\, FLORIDA&nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbs
+ p\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; PUBLIC
+  HEARINGYOU ARE HEREBY NOTIFIED that this matter will be brought before th
+ e Public Nuisance Abatement Board on the date and time indicated below for
+  the purpose of a hearing on a Complaint for the Abatement of Nuisance. Th
+ is matter has been scheduled as follows:DATE: November 20\, 2024TIME: 9:00
+  a.m.PLACE: City Council Chambers 3rd Floor\, City Hall\,&nbsp\;&nbsp\; &n
+ bsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; 315 E. Kennedy Blvd\,&nbsp\;
+  &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; &nbsp\; Tampa\, FL 33602BOARD: Pu
+ blic Nuisance Abatement Board (“the Board” or “PNAB”)MATTER: Publi
+ c Nuisance Abatement Board WorkshopSILVER DOLLAR FOOD\, INC.4330 N. 40th S
+ treet\,Tampa\, FL 33610
+END:VEVENT
+BEGIN:VEVENT
+UID:786d63ac-01d6-4d09-8b7c-8bc76dbc3237
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241121T160000Z
+DTEND:20241121T200000Z
+SUMMARY:Art on the House
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
+ &nbsp\;Art&nbsp\;on&nbsp\;the&nbsp\;House&nbsp\;where admission prices cha
+ nge to pay-as-you-will\, and visitors choose whatever admission price&nbsp
+ \;they want to pay. Bring&nbsp\;the&nbsp\;family and celebrate 100 years o
+ f&nbsp\;art&nbsp\;in Tampa with exhibitions that emphasize ancient\, moder
+ n\, and contemporary&nbsp\;art.\n\nBeginning at 4 pm every Thursday\, walk
+  up to the Welcome Desk and tell the Visitor Experience and Engagement Rep
+ resentatives the admission price you chose to pay for your visit to the mu
+ seum. Any donation amount is welcome\n\n\nContact Name Tampa Museum of Art
+ \n\nContact Phone 813-274-8130\n\nContact Email hello@tampamuseum.org\n\nL
+ ocation Tampa Museum of Art\n\nEvent Web Link https://tampamuseum.org/even
+ t/art-on-the-house/2024-02-29/\n
+END:VEVENT
+BEGIN:VEVENT
+UID:a48608fe-a83f-4a00-a14f-4af1de585d4b
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241121T180000Z
+DTEND:20241121T220000Z
+SUMMARY:3rd Thursday
+LOCATION:Tampa \, FL United States
+DESCRIPTION:3rd ThursdayMadison St. between Meridian Ave. &amp\; Channelsi
+ deThursday\, November 21\, 20246:00 pm - 10:00 pmFor additional informatio
+ n\, please visit 3rd Thursday
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5f7cdf-81f4-4e72-acc7-9175801e346d
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241121T143000Z
+DTEND:20241121T143000Z
+SUMMARY:Slbe Review Committee: Sheltered Market Program
+LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:Public Meeting Notice&nbsp\;SLBE REVIEW COMMITTEE: SHELTERED M
+ ARKET PROGRAMTime &amp\; Date: 2:30 P.M. Thursday\, November 7\, 20242:30 
+ P.M. Thursday\, November 14\, 20242:30 P.M. Thursday\, November 21\, 2024L
+ ocation: 2nd Floor\, Purchasing Conference RoomHanna Avenue City Center255
+ 5 E. Hanna AvenueTampa\, FL 33610Topic: To review projects eligible for so
+ licitation as a Sheltered Market Procurement pursuant to the City of Tampa
+ ’s Equal Business Opportunity Program.Contact: Ardail Allen at 813-274-5
+ 542 or Ardail.Allen@tampagov.netNote: All meetings are open to the public.
+  Any person who decides to appeal any decision made with respect to any ma
+ tter considered at this public hearing or meeting are advised\, in accorda
+ nce with Section 286.0105\, Florida Statutes\, that they will need a recor
+ d of the proceedings\, and for such purpose may need to hire a court repor
+ ter to ensure that a verbatim record of the proceeding is made\, which rec
+ ord includes the testimony and evidence upon which the appeal is to be bas
+ ed.
+END:VEVENT
+BEGIN:VEVENT
+UID:72fa466f-c80b-43cd-977f-b92b3615f01d
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241121T153000Z
+DTEND:20241121T153000Z
+SUMMARY:Goal Setting Committee: Subcontracts
+LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:Public Meeting Notice&nbsp\;GOAL SETTING COMMITTEE: SUBCONTRAC
+ TSTime &amp\; Date: 3:30 P.M. Thursday\, November 7\, 20243:30 P.M. Thursd
+ ay\, November 14\, 20243:30 P.M. Thursday\, November 21\, 2024&nbsp\;&nbsp
+ \;Location: 2nd Floor\, Trophy Case Conference RoomHanna Avenue City Cente
+ r2555 E. Hanna AvenueTampa\, FL 33610&nbsp\;Topic: To review projects elig
+ ible for application of subcontract participation goals pursuant to the Ci
+ ty of Tampa’s Equal Business Opportunity Program.&nbsp\;Contact: Ardail 
+ Allen at 813-274-5542 or Ardail.Allen@tampagov.netNote: All meetings are o
+ pen to the public. Any person who decides to appeal any decision made with
+  respect to any matter considered at this public hearing or meeting are ad
+ vised\, in accordance with Section 286.0105\, Florida Statutes\, that they
+  will need a record of the proceedings\, and for such purpose may need to 
+ hire a court reporter to ensure that a verbatim record of the proceeding i
+ s made\, which record includes the testimony and evidence upon which the a
+ ppeal is to be based.
+END:VEVENT
+BEGIN:VEVENT
+UID:435cc672-8d51-4ec6-8c8f-4418241c03c5
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241121T193000Z
+DTEND:20241121T210000Z
+SUMMARY:Fall Dance Concert
+LOCATION:1411 E. 11th Ave Tampa \, FL 33605 United States
+DESCRIPTION:The HCC Dance Ensemble will perform repertory works by faculty
+  and guest choreographers. Join us for an exciting evening of dance.Choreo
+ graphy by Christina Acosta\, Maria Capitano\, Julie Harlan\, Sea Lee\, Ric
+ hard Allan Ploch\, Sarah Walston\, and Jessica Willamson\, with guest Bail
+ ey Greyson.Performers include: Tara Barekat\, Justin Brock\, Bre Covais\, 
+ Lila Fernandez\, Julia Green\, Allyson Loeffler\, Skylar McMahon\, Chloe M
+ elillo-Richardson\, N'dia Page\, Dayleen Sanquintin\, Julieta Santana\, Ad
+ ialys Serrano\, Yari Strubbe-Oquendo\, Rebecca Walker\, Opal Walls\, Riley
+  Weisbrodt\, Joi Wilson\, Zariah Wright\, Emily YoungArrive early to catch
+  the premiere of Dance Rising by Dance Tampa Bay\, presented as part of th
+ e Ybor Arts Tour\, with screenings in the Performing Arts Building lobby f
+ rom 5:00 – 7:00 PM before the Fall Dance Concert begins.
+END:VEVENT
+BEGIN:VEVENT
+UID:0bee2770-a2a3-4a86-ad2a-9016d5004177
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241121T170000Z
+DTEND:20241121T210000Z
+SUMMARY:Hyde Park Tree Lighting
+LOCATION:Tampa \, FL United States
+DESCRIPTION:&nbsp\;Hyde Park Tree LightingThursday\, November 21\, 20245pm
+ -9pmHyde Park VillageFor additional information\, please visit Hyde Park T
+ ree Lighting
+END:VEVENT
+BEGIN:VEVENT
+UID:323b80dd-f477-473d-a640-741f14689b0f
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241121T170100Z
+DTEND:20241121T170100Z
+SUMMARY:Tampa City Council Evening Meeting - Quasi-judicial &amp\; Land Us
+ e Hearings
+LOCATION:City Council Chambers - Old City Hall 315 E Kennedy Blvd. Tampa \
+ , FL 33602 United States
+DESCRIPTION:TAMPA CITY COUNCILEVENING MEETINGQUASI-JUDICIAL &amp\; LAND US
+ E HEARINGSNOTICE OF PUBLIC MEETINGDate: Thursday\, November 21\, 2024Time:
+  5:01 PMLocation: Old City Hall315 E. Kennedy Blvd.Tampa FL 33602Agenda: h
+ ttps://tampa.gov/agendasThe public and citizens of the City of Tampa will 
+ be able to watch\, listen or view this meeting on:Cable TV: Spectrum Chann
+ el 640Frontier Channel 15Internet: https://www.tampa.gov/livestreamMembers
+  of the public may participate in the Tampa City Council meetings by eithe
+ r attending in person in the City Council Chambers\, Old City Hall\, 315 E
+ . Kennedy Blvd.\, Tampa\, FL 33602 or “virtually” through video teleco
+ nferencing\, referred to by Florida Statutes and rules as “communication
+ s media technology” (“CMT”).&nbsp\;PRE-REGISTRATION IS NECESSARY TO 
+ PARTICIPATE VIRTUALLY IN A PUBLIC HEARING ON A QUASI-JUDICIAL OR LEGISLATI
+ VE MATTER. FOR MORE INFORMATION ABOUT THE ABILITY TO PARTICIPATE IN THE PU
+ BLIC HEARINGS VIA CMT\, INCLUDING SCHEDULES\, A LINK TO REGISTRATIONS FORM
+ S\, AND DETAILED INSTRUCTIONS ON HOW TO PARTICIPATE THROUGH THE USE OF CMT
+ \, SEE: https://www.tampa.gov/quasiIn order to participate via CMT you mus
+ t have access to a communications media device (such as a tablet or a comp
+ uter equipped with a camera and microphone) that will enable you to be see
+ n (video) and heard (audio) by the City Council and all other participants
+ . For these specific two-way video virtual meeting formats\, cell phones a
+ nd smartphones are not compatible as they will not allow you to share your
+  camera when connected.Persons in need of assistance or having questions r
+ egarding means of public participation should call the Office of the City 
+ Clerk at 813-274-8397 for assistance.Should any person desire to appeal an
+ y decision of the Tampa City Council with respect to any matter to be cons
+ idered at this meeting\, that person shall ensure that a verbatim record o
+ f the proceeding is made including all testimony and evidence upon which a
+ ny appeal may be based (F.S. 286.0105).In accordance with the Americans wi
+ th Disabilities Act (“ADA”) and Section 286.26\, Florida Statutes\, pe
+ rsons with disabilities needing a reasonable accommodation to participate 
+ in this public hearing or meeting should contact the City of Tampa’s ADA
+  Coordinator at least 48 hours prior to the proceeding. The ADA Coordinato
+ r may be contacted via phone at 813-274-3964\, email at TampaADA@tampagov.
+ net\, or by submitting an ADA - Accommodations Request form available onli
+ ne at https://tampa.gov/ADARequest.&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:d6d3ff1c-261a-4df3-a318-c31f997ba8df
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241121T090000Z
 DTEND:20241121T090000Z
 SUMMARY:Tampa City Council Regular Session
@@ -1599,185 +1759,9 @@ DESCRIPTION:TAMPA CITY COUNCILREGULAR AGENDA&nbsp\;Date: Thursday\, Novemb
  ov/ADARequest.
 END:VEVENT
 BEGIN:VEVENT
-UID:b34205d4-b7ea-4f24-8feb-e143f3ba00ed
+UID:780c3472-cef2-48f1-b4ba-bab693c3163f
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241121T143000Z
-DTEND:20241121T143000Z
-SUMMARY:Slbe Review Committee: Sheltered Market Program
-LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
-DESCRIPTION:Public Meeting Notice&nbsp\;SLBE REVIEW COMMITTEE: SHELTERED M
- ARKET PROGRAMTime &amp\; Date: 2:30 P.M. Thursday\, November 7\, 20242:30 
- P.M. Thursday\, November 14\, 20242:30 P.M. Thursday\, November 21\, 2024L
- ocation: 2nd Floor\, Purchasing Conference RoomHanna Avenue City Center255
- 5 E. Hanna AvenueTampa\, FL 33610Topic: To review projects eligible for so
- licitation as a Sheltered Market Procurement pursuant to the City of Tampa
- ’s Equal Business Opportunity Program.Contact: Ardail Allen at 813-274-5
- 542 or Ardail.Allen@tampagov.netNote: All meetings are open to the public.
-  Any person who decides to appeal any decision made with respect to any ma
- tter considered at this public hearing or meeting are advised\, in accorda
- nce with Section 286.0105\, Florida Statutes\, that they will need a recor
- d of the proceedings\, and for such purpose may need to hire a court repor
- ter to ensure that a verbatim record of the proceeding is made\, which rec
- ord includes the testimony and evidence upon which the appeal is to be bas
- ed.
-END:VEVENT
-BEGIN:VEVENT
-UID:8481d841-39ea-464d-9ead-b55612888e9e
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241121T153000Z
-DTEND:20241121T153000Z
-SUMMARY:Goal Setting Committee: Subcontracts
-LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
-DESCRIPTION:Public Meeting Notice&nbsp\;GOAL SETTING COMMITTEE: SUBCONTRAC
- TSTime &amp\; Date: 3:30 P.M. Thursday\, November 7\, 20243:30 P.M. Thursd
- ay\, November 14\, 20243:30 P.M. Thursday\, November 21\, 2024&nbsp\;&nbsp
- \;Location: 2nd Floor\, Trophy Case Conference RoomHanna Avenue City Cente
- r2555 E. Hanna AvenueTampa\, FL 33610&nbsp\;Topic: To review projects elig
- ible for application of subcontract participation goals pursuant to the Ci
- ty of Tampa’s Equal Business Opportunity Program.&nbsp\;Contact: Ardail 
- Allen at 813-274-5542 or Ardail.Allen@tampagov.netNote: All meetings are o
- pen to the public. Any person who decides to appeal any decision made with
-  respect to any matter considered at this public hearing or meeting are ad
- vised\, in accordance with Section 286.0105\, Florida Statutes\, that they
-  will need a record of the proceedings\, and for such purpose may need to 
- hire a court reporter to ensure that a verbatim record of the proceeding i
- s made\, which record includes the testimony and evidence upon which the a
- ppeal is to be based.
-END:VEVENT
-BEGIN:VEVENT
-UID:f3069453-2548-49b8-b8a6-516b70489817
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241121T160000Z
-DTEND:20241121T200000Z
-SUMMARY:Art on the House
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
- &nbsp\;Art&nbsp\;on&nbsp\;the&nbsp\;House&nbsp\;where admission prices cha
- nge to pay-as-you-will\, and visitors choose whatever admission price&nbsp
- \;they want to pay. Bring&nbsp\;the&nbsp\;family and celebrate 100 years o
- f&nbsp\;art&nbsp\;in Tampa with exhibitions that emphasize ancient\, moder
- n\, and contemporary&nbsp\;art.\n\nBeginning at 4 pm every Thursday\, walk
-  up to the Welcome Desk and tell the Visitor Experience and Engagement Rep
- resentatives the admission price you chose to pay for your visit to the mu
- seum. Any donation amount is welcome\n\n\nContact Name Tampa Museum of Art
- \n\nContact Phone 813-274-8130\n\nContact Email hello@tampamuseum.org\n\nL
- ocation Tampa Museum of Art\n\nEvent Web Link https://tampamuseum.org/even
- t/art-on-the-house/2024-02-29/\n
-END:VEVENT
-BEGIN:VEVENT
-UID:0926ccbc-a876-4330-8415-cf357b8b2ad8
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241121T170000Z
-DTEND:20241121T210000Z
-SUMMARY:Hyde Park Tree Lighting
-LOCATION:Tampa \, FL United States
-DESCRIPTION:&nbsp\;Hyde Park Tree LightingThursday\, November 21\, 20245pm
- -9pmHyde Park VillageFor additional information\, please visit Hyde Park T
- ree Lighting
-END:VEVENT
-BEGIN:VEVENT
-UID:9dcd74f1-2508-4686-8f0b-7c0c6c790a05
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241121T170100Z
-DTEND:20241121T170100Z
-SUMMARY:Tampa City Council Evening Meeting - Quasi-judicial &amp\; Land Us
- e Hearings
-LOCATION:City Council Chambers - Old City Hall 315 E Kennedy Blvd. Tampa \
- , FL 33602 United States
-DESCRIPTION:TAMPA CITY COUNCILEVENING MEETINGQUASI-JUDICIAL &amp\; LAND US
- E HEARINGSNOTICE OF PUBLIC MEETINGDate: Thursday\, November 21\, 2024Time:
-  5:01 PMLocation: Old City Hall315 E. Kennedy Blvd.Tampa FL 33602Agenda: h
- ttps://tampa.gov/agendasThe public and citizens of the City of Tampa will 
- be able to watch\, listen or view this meeting on:Cable TV: Spectrum Chann
- el 640Frontier Channel 15Internet: https://www.tampa.gov/livestreamMembers
-  of the public may participate in the Tampa City Council meetings by eithe
- r attending in person in the City Council Chambers\, Old City Hall\, 315 E
- . Kennedy Blvd.\, Tampa\, FL 33602 or “virtually” through video teleco
- nferencing\, referred to by Florida Statutes and rules as “communication
- s media technology” (“CMT”).&nbsp\;PRE-REGISTRATION IS NECESSARY TO 
- PARTICIPATE VIRTUALLY IN A PUBLIC HEARING ON A QUASI-JUDICIAL OR LEGISLATI
- VE MATTER. FOR MORE INFORMATION ABOUT THE ABILITY TO PARTICIPATE IN THE PU
- BLIC HEARINGS VIA CMT\, INCLUDING SCHEDULES\, A LINK TO REGISTRATIONS FORM
- S\, AND DETAILED INSTRUCTIONS ON HOW TO PARTICIPATE THROUGH THE USE OF CMT
- \, SEE: https://www.tampa.gov/quasiIn order to participate via CMT you mus
- t have access to a communications media device (such as a tablet or a comp
- uter equipped with a camera and microphone) that will enable you to be see
- n (video) and heard (audio) by the City Council and all other participants
- . For these specific two-way video virtual meeting formats\, cell phones a
- nd smartphones are not compatible as they will not allow you to share your
-  camera when connected.Persons in need of assistance or having questions r
- egarding means of public participation should call the Office of the City 
- Clerk at 813-274-8397 for assistance.Should any person desire to appeal an
- y decision of the Tampa City Council with respect to any matter to be cons
- idered at this meeting\, that person shall ensure that a verbatim record o
- f the proceeding is made including all testimony and evidence upon which a
- ny appeal may be based (F.S. 286.0105).In accordance with the Americans wi
- th Disabilities Act (“ADA”) and Section 286.26\, Florida Statutes\, pe
- rsons with disabilities needing a reasonable accommodation to participate 
- in this public hearing or meeting should contact the City of Tampa’s ADA
-  Coordinator at least 48 hours prior to the proceeding. The ADA Coordinato
- r may be contacted via phone at 813-274-3964\, email at TampaADA@tampagov.
- net\, or by submitting an ADA - Accommodations Request form available onli
- ne at https://tampa.gov/ADARequest.&nbsp\;
-END:VEVENT
-BEGIN:VEVENT
-UID:f7622587-3749-4a6c-a814-dd2cadc1c428
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241121T180000Z
-DTEND:20241121T220000Z
-SUMMARY:3rd Thursday
-LOCATION:Tampa \, FL United States
-DESCRIPTION:3rd ThursdayMadison St. between Meridian Ave. &amp\; Channelsi
- deThursday\, November 21\, 20246:00 pm - 10:00 pmFor additional informatio
- n\, please visit 3rd Thursday
-END:VEVENT
-BEGIN:VEVENT
-UID:6fba923c-d03c-4774-9232-4511fc7baf30
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241121T193000Z
-DTEND:20241121T210000Z
-SUMMARY:Fall Dance Concert
-LOCATION:1411 E. 11th Ave Tampa \, FL 33605 United States
-DESCRIPTION:The HCC Dance Ensemble will perform repertory works by faculty
-  and guest choreographers. Join us for an exciting evening of dance.Choreo
- graphy by Christina Acosta\, Maria Capitano\, Julie Harlan\, Sea Lee\, Ric
- hard Allan Ploch\, Sarah Walston\, and Jessica Willamson\, with guest Bail
- ey Greyson.Performers include: Tara Barekat\, Justin Brock\, Bre Covais\, 
- Lila Fernandez\, Julia Green\, Allyson Loeffler\, Skylar McMahon\, Chloe M
- elillo-Richardson\, N'dia Page\, Dayleen Sanquintin\, Julieta Santana\, Ad
- ialys Serrano\, Yari Strubbe-Oquendo\, Rebecca Walker\, Opal Walls\, Riley
-  Weisbrodt\, Joi Wilson\, Zariah Wright\, Emily YoungArrive early to catch
-  the premiere of Dance Rising by Dance Tampa Bay\, presented as part of th
- e Ybor Arts Tour\, with screenings in the Performing Arts Building lobby f
- rom 5:00 – 7:00 PM before the Fall Dance Concert begins.
-END:VEVENT
-BEGIN:VEVENT
-UID:a9f86184-ba83-46cc-81a0-8a699b1efe5c
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241122T170000Z
-DTEND:20241122T200000Z
-SUMMARY:A Holiday Celebration: Encore in Lights
-LOCATION:1102 Ray Charles Blvd Tampa \, FL 33602 United States
-DESCRIPTION:&nbsp\;Ready to kick off the holiday season in Downtown Tampa?
- &nbsp\;Join us on 11/22 from 5-8 pm at Encore for an unforgettable evening
-  filled with festive cheer! Bring the family to meet Mr. and Mrs. Claus\, 
- enjoy a talented balloon artist\, festive music\, savor treats\, and explo
- re a cozy holiday market.&nbsp\;Don’t miss the grand tree lighting that 
- will light up the night with holiday spirit!Mark your calendars and get re
- ady to celebrate in the heart of Tampa!&nbsp\;
-END:VEVENT
-BEGIN:VEVENT
-UID:c11887fe-9157-4102-9c3f-3ba082b4d457
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241122T193000Z
 DTEND:20241122T210000Z
 SUMMARY:Fall Dance Concert
@@ -1796,9 +1780,25 @@ DESCRIPTION:The HCC Dance Ensemble will perform repertory works by faculty
  rom 5:00 – 7:00 PM before the Fall Dance Concert begins.
 END:VEVENT
 BEGIN:VEVENT
-UID:1c6981d0-679a-4555-afb3-bcdb2c4aaef5
+UID:5c27a4f1-347b-4570-9d00-b629008730f9
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241122T170000Z
+DTEND:20241122T200000Z
+SUMMARY:A Holiday Celebration: Encore in Lights
+LOCATION:1102 Ray Charles Blvd Tampa \, FL 33602 United States
+DESCRIPTION:&nbsp\;Ready to kick off the holiday season in Downtown Tampa?
+ &nbsp\;Join us on 11/22 from 5-8 pm at Encore for an unforgettable evening
+  filled with festive cheer! Bring the family to meet Mr. and Mrs. Claus\, 
+ enjoy a talented balloon artist\, festive music\, savor treats\, and explo
+ re a cozy holiday market.&nbsp\;Don’t miss the grand tree lighting that 
+ will light up the night with holiday spirit!Mark your calendars and get re
+ ady to celebrate in the heart of Tampa!&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:e1ad7b98-6760-47dc-b558-c727e2f2c058
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241122T193000Z
 DTEND:20241122T210000Z
 SUMMARY:Fall Dance Concert
@@ -1817,9 +1817,45 @@ DESCRIPTION:The HCC Dance Ensemble will perform repertory works by faculty
  rom 5:00 – 7:00 PM before the Fall Dance Concert begins.
 END:VEVENT
 BEGIN:VEVENT
-UID:b535f2ee-79d6-4b3a-934d-5eaddd9f341b
+UID:ee9b376f-3ae5-4e52-9bd2-736da54b6aeb
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241123T100000Z
+DTEND:20241123T220000Z
+SUMMARY:India Festival 2024
+LOCATION:Florida State Fairgrounds 4800 US HWY 301 Tampa \, FL 33610 Unite
+ d States
+DESCRIPTION:India Festival Tampa Bay is a festival of arts and dances in w
+ hich nearly 1\,000 participants from 4 years to senior citizens showcase t
+ heir talents and participate in the dance competitions. Our past events ha
+ ve recorded over 12\,000 visitors each year\, and with many exhibitors and
+  food stalls\, IndiaFest is Florida's largest festival of arts and dances.
+END:VEVENT
+BEGIN:VEVENT
+UID:065957a5-efd7-49eb-b341-527500a68f87
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241123T103000Z
+DTEND:20241123T170000Z
+SUMMARY:Next Level Workshops | Mixed Media Relief | with Latonya Hicks
+LOCATION:120 W. Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Adults 18+ | Beginner-Intermediate LevelSaturday &amp\; Sunday
+  10:30 am-5:00 pm&nbsp\;November 23 + 24 (2 classes)&nbsp\;In this Explora
+ tory Mixed Media Relief class\, participants will experience a variety of 
+ materials and techniques to create unique artworks. The class incorporates
+  weaving\, wrapping\, sculpting with air dry clay and aluminum foil\, draw
+ ing with thread\, bead mosaics\, resin\, painting and constructing forms u
+ sing chicken wire. Bring a new or used canvas to create your own DIY loom 
+ and any materials you’d like to include in your artwork.Latonya Hicks is
+  one of Tampa Museum of Art’s Skyway 2024 featured Artists.*Some classes
+  may require additional materials and/or model fee. When applicable\, a su
+ pply list or kit available for purchase will be provided first day of clas
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:296b0da0-881f-40a6-b0e1-033849d6bc8b
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241123T090000Z
 DTEND:20241123T150000Z
 SUMMARY: Ybor City Saturday Market
@@ -1829,9 +1865,9 @@ DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, November 23
  Markethttps://ybormarket.com/&nbsp\;&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:c48356e0-2a7d-483d-b0f3-15362226a604
+UID:2b28768a-1b16-486c-82b6-7d754350ae5f
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241123T090000Z
 DTEND:20241123T170000Z
 SUMMARY:Day of Thanks 20247
@@ -1862,45 +1898,9 @@ DESCRIPTION:Day of Thanks is a free community event hosted by the Winners
  d.
 END:VEVENT
 BEGIN:VEVENT
-UID:4b778f6e-1ab4-4c6f-9f56-b220a05896bf
+UID:0b7e3e21-b51f-42a2-b48e-0ea83e099ee0
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241123T100000Z
-DTEND:20241123T220000Z
-SUMMARY:India Festival 2024
-LOCATION:Florida State Fairgrounds 4800 US HWY 301 Tampa \, FL 33610 Unite
- d States
-DESCRIPTION:India Festival Tampa Bay is a festival of arts and dances in w
- hich nearly 1\,000 participants from 4 years to senior citizens showcase t
- heir talents and participate in the dance competitions. Our past events ha
- ve recorded over 12\,000 visitors each year\, and with many exhibitors and
-  food stalls\, IndiaFest is Florida's largest festival of arts and dances.
-END:VEVENT
-BEGIN:VEVENT
-UID:11d00d4e-2518-4944-8ff0-67816a25dda0
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241123T103000Z
-DTEND:20241123T170000Z
-SUMMARY:Next Level Workshops | Mixed Media Relief | with Latonya Hicks
-LOCATION:120 W. Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Adults 18+ | Beginner-Intermediate LevelSaturday &amp\; Sunday
-  10:30 am-5:00 pm&nbsp\;November 23 + 24 (2 classes)&nbsp\;In this Explora
- tory Mixed Media Relief class\, participants will experience a variety of 
- materials and techniques to create unique artworks. The class incorporates
-  weaving\, wrapping\, sculpting with air dry clay and aluminum foil\, draw
- ing with thread\, bead mosaics\, resin\, painting and constructing forms u
- sing chicken wire. Bring a new or used canvas to create your own DIY loom 
- and any materials you’d like to include in your artwork.Latonya Hicks is
-  one of Tampa Museum of Art’s Skyway 2024 featured Artists.*Some classes
-  may require additional materials and/or model fee. When applicable\, a su
- pply list or kit available for purchase will be provided first day of clas
- s.
-END:VEVENT
-BEGIN:VEVENT
-UID:81a5dde8-21c0-472c-9c73-4968ef823af3
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241123T193000Z
 DTEND:20241123T210000Z
 SUMMARY:Fall Dance Concert
@@ -1919,9 +1919,9 @@ DESCRIPTION:The HCC Dance Ensemble will perform repertory works by faculty
  rom 5:00 – 7:00 PM before the Fall Dance Concert begins.
 END:VEVENT
 BEGIN:VEVENT
-UID:66920b15-1f5a-4851-87b9-1fa2b881d808
+UID:2cbe176e-82ce-4045-bcb4-cd3773d2d7e7
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241124T150000Z
 DTEND:20241124T170000Z
 SUMMARY:Bless Israel
@@ -1930,9 +1930,9 @@ DESCRIPTION:For more information\, please contact: &nbsp\;Bless Israel USA
   &nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:0649b8f6-718b-4fb4-9b06-dc80f7364eab
+UID:041418bd-903f-4cce-8c05-033017323f95
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241125T090000Z
 DTEND:20241125T160000Z
 SUMMARY:Thanksgiving Break Camps at MOSI
@@ -1946,9 +1946,9 @@ DESCRIPTION:Keep young minds engaged and entertained all year long with sc
   care from 7am-9am and/or 4pm-6pm for an additional fee.
 END:VEVENT
 BEGIN:VEVENT
-UID:2b091137-4411-4af4-9224-82dd36c18b66
+UID:788626e8-d77e-4054-a8c5-601713610371
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241126T100000Z
 DTEND:20241126T100000Z
 SUMMARY:CANELLED - Kickoff Meeting – Excavation And Soil Replacement Ser
@@ -1961,9 +1961,9 @@ DESCRIPTION:CANCELLED - KICKOFF MEETING – EXCAVATION AND SOIL REPLACEMEN
  ING DEPARTMENT2555 E. HANNA AVENUE\, TAMPA\, FL 33610 (813) 274-7711
 END:VEVENT
 BEGIN:VEVENT
-UID:194def36-368e-4093-ae53-5be70b1efad7
+UID:ea4ec037-6081-4ae4-800d-f32c8be2fa41
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241126T160000Z
 DTEND:20241126T160000Z
 SUMMARY: Ybor City Community Advisory Committee For The Ybor City Communit
@@ -1993,9 +1993,9 @@ DESCRIPTION:YBOR CITY COMMUNITY ADVISORY COMMITTEEFOR THE YBOR CITY COMMUN
  y of Tampa Community Redevelopment Agency ("CRA").
 END:VEVENT
 BEGIN:VEVENT
-UID:1aff4964-9aad-4a4f-8af4-f8d3c90a8094
+UID:57c20a1b-f7c3-4a0f-b8b9-11d92eb246b1
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241127T120000Z
 DTEND:20241127T130000Z
 SUMMARY:Living with Diabetes - What Can I Eat?
@@ -2009,9 +2009,44 @@ DESCRIPTION:Great news for folks with Type 2 Diabetes or Pre-Diabetes: eat
  r scan the QR code below:
 END:VEVENT
 BEGIN:VEVENT
-UID:52120f18-be3e-4aa6-bec2-a6a4094fb3ea
+UID:01ec8a88-90fd-4555-951e-a6e244d02c84
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241128T080000Z
+DTEND:20241128T170000Z
+SUMMARY:Thanksgiving Thursday - City Office Closures
+LOCATION:Tampa \, FL United States
+DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
+  be closed.\n\nFor trash\, recycling\, or yard waste pickup disruptions:\n
+ \n\n	See Solid Waste Collection Schedule Calendar&nbsp\;for more informati
+ on\n\n
+URL;VALUE=URI:/events/thanksgiving-thursday-city-office-closures/103931
+END:VEVENT
+BEGIN:VEVENT
+UID:3b994cb2-d815-4e54-b19b-73a63ddc8192
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241128T160000Z
+DTEND:20241128T200000Z
+SUMMARY:Art on the House
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
+ &nbsp\;Art&nbsp\;on&nbsp\;the&nbsp\;House&nbsp\;where admission prices cha
+ nge to pay-as-you-will\, and visitors choose whatever admission price&nbsp
+ \;they want to pay. Bring&nbsp\;the&nbsp\;family and celebrate 100 years o
+ f&nbsp\;art&nbsp\;in Tampa with exhibitions that emphasize ancient\, moder
+ n\, and contemporary&nbsp\;art.\n\nBeginning at 4 pm every Thursday\, walk
+  up to the Welcome Desk and tell the Visitor Experience and Engagement Rep
+ resentatives the admission price you chose to pay for your visit to the mu
+ seum. Any donation amount is welcome\n\n\nContact Name Tampa Museum of Art
+ \n\nContact Phone 813-274-8130\n\nContact Email hello@tampamuseum.org\n\nL
+ ocation Tampa Museum of Art\n\nEvent Web Link https://tampamuseum.org/even
+ t/art-on-the-house/2024-02-29/\n
+END:VEVENT
+BEGIN:VEVENT
+UID:93c991f6-5fe4-4b36-8c5c-a8834b409161
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241128T070000Z
 DTEND:20241128T100000Z
 SUMMARY:Tampa YMCA Turkey Gobble Run
@@ -2021,9 +2056,9 @@ DESCRIPTION:Tampa TMCA Turkey Gobble RunThursday\, November 28\, 20247am-1
  MCA Turkey Gobble
 END:VEVENT
 BEGIN:VEVENT
-UID:2a753016-62d6-494e-9788-41b59c29a0fc
+UID:d4f9bb08-11e7-40b9-9df4-bb3e1c6cb23f
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241128T070000Z
 DTEND:20241128T093000Z
 SUMMARY:Tampa YMCA Turkey Gobble 
@@ -2045,44 +2080,53 @@ DESCRIPTION:An out-and-back Thanksgiving morning race tradition for the wh
  ampa YMCA\, helping the whole family regain their health.
 END:VEVENT
 BEGIN:VEVENT
-UID:3a619cf8-9125-41e5-a68a-6cadf99ed994
+UID:5ff5e5cc-b1d5-424a-86a0-efd488e5ac91
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241128T080000Z
-DTEND:20241128T170000Z
-SUMMARY:Thanksgiving Thursday - City Office Closures
-LOCATION:Tampa \, FL United States
-DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
-  be closed.\n\nFor trash\, recycling\, or yard waste pickup disruptions:\n
- \n\n	See Solid Waste Collection Schedule Calendar&nbsp\;for more informati
- on\n\n
-URL;VALUE=URI:/events/thanksgiving-thursday-city-office-closures/103931
+DTSTAMP:20241126T000424Z
+DTSTART:20241128T110000Z
+DTEND:20241128T230000Z
+SUMMARY:Thanksgiving Dinner At SIX
+LOCATION:510 Water Street Tampa\, FL 33602 Tampa \, FL 33602 United States
+DESCRIPTION:Overlooking the JW Marriott Tampa Water Street’s gorgeous ro
+ oftop pool and boasting bay views\, SIX offers chef-crafted specialties in
+  the modern American Bistro with indoor and outdoor dining. The restaurant
+  offers an approachable elegance from six floors up creating an oasis for 
+ local visitors and hotel guests alike. Featuring intoxicating bay views\, 
+ the airy indoor-outdoor ambiance and chef-crafted specialties will make yo
+ u feel worlds away. Simply put – an easy oasis\, six floors up.This year
+ ’s curated menu will include:Turkey Roulade | Cornbread Stuffing | Sweet
+  Potato Puff | Haricot Vert &amp\; Mushroom Casserole | Cranberry Gastriqu
+ e (Contains Gluten\, Dairy\, Egg)Warm Pumpkin Cake| Brown Butter Pecan Ice
+  Cream | Spiced Latte Ganache (Contains Gluten\, Dairy\, Egg)Reservations:
+ Call 813.314.6666 or visit sixtampa.comFor Group Inquiries\, please contac
+ t jw.tpajd.six@marriott.com or call 813-314-6650.
 END:VEVENT
 BEGIN:VEVENT
-UID:4e81aea7-e822-4b7e-be42-37ebcae8a7e6
+UID:aca96a66-6509-4b6c-a922-f9bd22af1d51
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241128T160000Z
-DTEND:20241128T200000Z
-SUMMARY:Art on the House
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
- &nbsp\;Art&nbsp\;on&nbsp\;the&nbsp\;House&nbsp\;where admission prices cha
- nge to pay-as-you-will\, and visitors choose whatever admission price&nbsp
- \;they want to pay. Bring&nbsp\;the&nbsp\;family and celebrate 100 years o
- f&nbsp\;art&nbsp\;in Tampa with exhibitions that emphasize ancient\, moder
- n\, and contemporary&nbsp\;art.\n\nBeginning at 4 pm every Thursday\, walk
-  up to the Welcome Desk and tell the Visitor Experience and Engagement Rep
- resentatives the admission price you chose to pay for your visit to the mu
- seum. Any donation amount is welcome\n\n\nContact Name Tampa Museum of Art
- \n\nContact Phone 813-274-8130\n\nContact Email hello@tampamuseum.org\n\nL
- ocation Tampa Museum of Art\n\nEvent Web Link https://tampamuseum.org/even
- t/art-on-the-house/2024-02-29/\n
+DTSTAMP:20241126T000424Z
+DTSTART:20241128T170000Z
+DTEND:20241128T230000Z
+SUMMARY:Thanksgiving Dinner At Driftlight Steakhouse
+LOCATION:510 Water Street Tampa\, FL 33602 Tampa \, FL 33602 United States
+DESCRIPTION:Driftlight is the JW Marriott Tampa Water Street’s signature
+  restaurant and serves fine aged steaks and locally sourced ocean-to-table
+  cuisine\, in a refreshed\, upscale atmosphere for your dining pleasure. I
+ nspired by the lighted bridges of Tampa\, this restaurant connects visitor
+ s to the region and to each other serving regional farm-and ocean-to-table
+  cuisine. Driftlight’s sweeping space on the property’s main floor off
+ ers a refreshed atmosphere for breakfast and lunch before shifting to an i
+ ntriguing backdrop for long\, languid dinners.This year’s curated Thanks
+ giving menu will include:Roasted Turkey | Stuffing Cake | Mattang | Confit
+  Garlic Haricot Vert | Cranberry Gel | Sesame Veloute (Contains Dairy\, Gl
+ uten\, Egg)Sweet Corn Cake| Ginger Poached Plums | Buttermilk Ice Cream | 
+ Sweet Sage Oil (Contains Gluten\, Dairy\, Egg)For reservations\, call 813.
+ 314.6611 or visit driftlighttampa.com
 END:VEVENT
 BEGIN:VEVENT
-UID:30c4ae5e-f957-461a-b5ea-6ddbfae8e9c9
+UID:9132eaa1-c9ae-4ab1-8db8-0a5390d8f15c
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241129T080000Z
 DTEND:20241129T170000Z
 SUMMARY:Thanksgiving Friday - City Office Closures
@@ -2094,9 +2138,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:/events/thanksgiving-friday-city-office-closures/103936
 END:VEVENT
 BEGIN:VEVENT
-UID:8f13ac34-ced7-4621-a9be-f58839e5167e
+UID:a96bda2b-8753-4f17-aed6-cc00dd15b488
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241130T080000Z
 DTEND:20241130T120000Z
 SUMMARY:Dash4Diabetes 5K &amp\; 10K Walk/Run
@@ -2116,9 +2160,9 @@ DESCRIPTION:Join us for the Dash4Diabetes 5K &amp\; 10K Walk/Run and take
  lthier community.
 END:VEVENT
 BEGIN:VEVENT
-UID:fc7f5c98-6f41-4506-b16d-76f7dc7feda8
+UID:264b1927-3953-4704-a626-2c0b9595f420
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241130T090000Z
 DTEND:20241130T150000Z
 SUMMARY: Ybor City Saturday Market
@@ -2128,9 +2172,9 @@ DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, November 30
  Markethttps://ybormarket.com/&nbsp\;&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:84024c08-5524-4a28-8f49-d339bb04040a
+UID:2a58a98f-1495-4bb9-a2bd-6495112ad419
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241201T100000Z
 DTEND:20241201T150000Z
 SUMMARY:Hyde Park Fresh Market
@@ -2141,9 +2185,9 @@ DESCRIPTION:Hyde Park Fresh Market\n\n\n	Hyde Park Village\n	Sunday\, Dece
  e Park Village\n\n&nbsp\;\n
 END:VEVENT
 BEGIN:VEVENT
-UID:b59932df-fd6e-4383-b5b0-d354e8c36d40
+UID:b055f009-87e7-4b15-b14c-860e56a0807d
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241201T173000Z
 DTEND:20241201T193000Z
 SUMMARY:Riverwalk Tree Lighting 
@@ -2155,9 +2199,9 @@ DESCRIPTION:Friends of the Riverwalk invites you to join our official 4th
  rwalk with food\, fun and entertainment for the whole family.
 END:VEVENT
 BEGIN:VEVENT
-UID:d65ba448-6778-42ac-af44-c42167a3c1a0
+UID:9ad07630-341b-43f4-9c94-4bee2b9b8630
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241203T070000Z
 DTEND:20241205T130000Z
 SUMMARY:NATO Edge 2024
@@ -2175,9 +2219,9 @@ DESCRIPTION:NATO Edge 2024 combines the technology and business dimensions
   & Meeting RoomsWebsite:&nbsp\;natoedge24.nato.intAttendance:&nbsp\; 2000
 END:VEVENT
 BEGIN:VEVENT
-UID:ef87f782-be28-4a62-8901-3a9cd192a8c9
+UID:247010bf-ba1c-49a9-bcf4-3bf44867849a
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241203T180000Z
 DTEND:20241203T190000Z
 SUMMARY:Chief&#039\;s Advisory Panel Meeting
@@ -2194,9 +2238,22 @@ DESCRIPTION:The Tampa Police Department Chief’s Advisory Panel\, as prov
   the community.
 END:VEVENT
 BEGIN:VEVENT
-UID:4c3824e6-5062-4e7f-9f84-94424ee42153
+UID:6982bd3c-419a-4ab1-a02a-b196fbe6a256
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241203T163000Z
+DTEND:20241203T180000Z
+SUMMARY:How Families Succeed
+LOCATION:1315 W Spruce St Tampa \, FL 33607 United States
+DESCRIPTION:Attention: Parents\, Grandparents\, and Guardians: Get practic
+ al tools to create a healthier and more resilient environment for your fam
+ ily.Start making positive changes for your loved ones today! Real conversa
+ tions with real people about real life.
+END:VEVENT
+BEGIN:VEVENT
+UID:bef2994e-09a5-4cca-ba9a-0b5be8f085cb
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241204T110000Z
 DTEND:20241204T140000Z
 SUMMARY:Mayor&#039\;s Food Truck Fiesta
@@ -2205,9 +2262,51 @@ DESCRIPTION:Mayor's Food Truck FiestaThe Square at Lykes Gaslight ParkWedn
  esday\, December 4\, 202411 am - 2 pm&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:e219282b-d79a-4316-b473-b390b9030e1c
+UID:b1b1d80f-13fd-4920-a0d3-041febd276eb
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241204T090000Z
+DTEND:20241204T090000Z
+SUMMARY:Public Art Committee 
+LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:Notice:City of Tampa\, Public Art Committee&nbsp\;Wednesday\, 
+ December 4\, 2024 from 9:00 a.m.-10:00 a.m.&nbsp\;Hanna City Center2555 E.
+  Hanna AvenueRiverwalk Conference Room\, 3rd FloorTampa\, FL 33610&nbsp\;C
+ ontact: Melissa.Davies@tampagov.netwww.tampa.gov/arts&nbsp\;&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:20116c61-3b10-4585-a083-902fcd6da990
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241204T173000Z
+DTEND:20241204T173000Z
+SUMMARY:Channel District Community Advisory Committee
+LOCATION:1101 Channelside Drive Tampa \, FL 33602 United States
+DESCRIPTION:CHANNEL DISTRICT COMMUNITY ADVISORY COMMITTEEFOR THE CHANNEL D
+ ISTRICT COMMUNITY REDEVELOPMENT AREA NOTICE OF PUBLIC MEETING&nbsp\;Date: 
+ Wednesday\, December 4th\, 2024&nbsp\;Time: 5:30 pm&nbsp\;Location: PORT T
+ AMPA BAY BOARDROOM1101 CHANNELSIDE DRIVETAMPA\, FL 33602&nbsp\;Agenda:&nbs
+ p\;Please contact Courtney Orr at (813) 274-7937 or atCourtney.Orr@tampago
+ v.net&nbsp\;Teams: Join on your computer\, mobile app or room deviceClick 
+ here to join the meetingMeeting ID: 272 132 335 14&nbsp\;Passcode: N2rxGpD
+ ownload Teams | Join on the webOr call in (audio only)+1 941-263-1615\,\,9
+ 03867703# United States\, SarasotaPhone Conference ID: 903 867 703#&nbsp\;
+ The purpose of this public meeting of the Channel District Community Advis
+ ory Committee ("CAC") is to discuss and make recommendations regarding Com
+ munity Redevelopment Activities in the Channel District Community Redevelo
+ pment Area for consideration by the City of Tampa Community Redevelopment 
+ Agency ("CRA").In accordance with the Americans with Disabilities Act ("AD
+ A") and Section 286.26\, Florida Statutes\, persons with disabilities need
+ ing a reasonable accommodation to participate in this public hearing or me
+ eting should contact the City of Tampa's ADA Coordinator at least 48 hours
+  prior to the proceeding. The ADA Coordinator may be contacted via phone a
+ t 813-274-3964\, email at TampaADA@tampagov.net\, or by submitting an ADA 
+ - Accommodations Request form available online at tampagov.net/ADARequest.
+END:VEVENT
+BEGIN:VEVENT
+UID:3dc1b268-1a98-4884-9d12-eebb8de26256
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241205T160000Z
 DTEND:20241205T200000Z
 SUMMARY:Art on the House
@@ -2226,9 +2325,58 @@ DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
  t/art-on-the-house/2024-02-29/\n
 END:VEVENT
 BEGIN:VEVENT
-UID:45f6b3e6-dcc4-4220-bdf6-9adfe58956b6
+UID:edac55f9-b350-444e-b3f4-0beb69a42ab2
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241205T090000Z
+DTEND:20241205T090000Z
+SUMMARY:Tampa City Council Regular Agenda
+LOCATION:315 E Kennedy Blvd Tampa \, FL 33602 United States
+DESCRIPTION:NOTICE OF PUBLIC MEETINGTAMPA CITY COUNCILREGULAR AGENDA&nbsp\
+ ;Date: Thursday\, December 5\, 2024Time: 9:00 AMLocation: Old City Hall315
+  E. Kennedy Blvd.Tampa FL 33602Agenda: https://tampa.gov/agendasThe public
+  and citizens of the City of Tampa will be able to watch\, listen or view 
+ this meeting on:Cable TV: Spectrum Channel 640Frontier Channel 15Internet:
+  https://www.tampa.gov/livestreamMembers of the public can attend in perso
+ n in City Council chambers in Old City Hall or virtually participate in th
+ is public meeting by using what is referred to by State of Florida statute
+ s and rules as “communications media technology” (“CMT”).&nbsp\;TO
+  SPEAK REMOTELY DURING PUBLIC COMMENT WITH THE USE OF CMT PRE-REGISTRATION
+  IS REQUIRED:&nbsp\;Complete the form at https://www.tampa.gov/PublicComme
+ nt ANDstate on the form under “Request Type” that you wish to speak li
+ ve during the public comment period. You will then be contacted with addit
+ ional instructions on how to participate live through the use of CMT. Regi
+ stration for speaking remotely must be requested at least 24 hours prior t
+ o the meeting.&nbsp\;TO PARTICIPATE REMOTELY IN PUBLIC HEARINGS USING CMT 
+ PRE-REGISTRATION IS REQUIRED:Comments specific to a public hearing will be
+  heard when it appears on the agenda. Instructions for participating in qu
+ asi-judicial and legislative public hearings are available at:https://www.
+ tampa.gov/document/instructions-participate-virtual-public-hearing-34621Pl
+ ease note: In order to participate in quasi-judicial matters remotely via 
+ CMT\, cell phones and smartphones are not compatible as they will not allo
+ w you to share your camera when connected. You must have access to a commu
+ nications media device such as a tablet or a computer equipped with a came
+ ra and microphone that will enable you to be seen (video) and heard (audio
+ ) by the City Council and all other participants.Persons requiring help in
+  accessing these means of public participation should call 813-274-8397 fo
+ r assistance.Should any person desire to appeal any decision of the Tampa 
+ City Council with respect to any matter to be considered at this meeting\,
+  that person shall ensure that a verbatim record of the proceeding is made
+  including all testimony and evidence upon which any appeal may be based (
+ F.S. 286.0105).In accordance with the Americans with Disabilities Act (“
+ ADA”) and Section 286.26\, Florida Statutes\, persons with disabilities 
+ needing a reasonable accommodation to participate in this public hearing o
+ r meeting should contact the City of Tampa’s ADA Coordinator at least 48
+  hours prior to the proceeding. The ADA Coordinator may be contacted via p
+ hone at 813-274-3964\, email at TampaADA@tampagov.net\, or by submitting a
+ n ADA - Accommodations Request form available online at https://tampa.gov/
+ ADARequest.For additional information\, please contact the Clerk’s Offic
+ e at 813-274-8397 or atCityClerkStaff@tampagov.net.
+END:VEVENT
+BEGIN:VEVENT
+UID:25dade35-a548-4802-bc2c-8414a602d700
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241206T120000Z
 DTEND:20241206T133000Z
 SUMMARY:Tampa Bay Chamber-Annual Luncheon
@@ -2242,21 +2390,9 @@ DESCRIPTION:For event details: www.tampabaychamber.com\nThe Chamber’s fi
  e:&nbsp\; 800
 END:VEVENT
 BEGIN:VEVENT
-UID:0d7a3edd-6b14-47a8-9dcf-3f4d8cdfd239
+UID:ee753ef1-c390-481c-a52c-76b002397acc
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241207T090000Z
-DTEND:20241207T150000Z
-SUMMARY:Ybor City Saturday Market
-LOCATION:Centennial Park 1800 E 8th Ave Tampa \, FL United States
-DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, December 7\
- , 2024Event 9am-3pmFor additional information\, visit Ybor City Saturday M
- arkethttps://ybormarket.com/&nbsp\;&nbsp\;
-END:VEVENT
-BEGIN:VEVENT
-UID:66b5adb2-88f9-4955-9187-f4d1ce812e28
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241207T100000Z
 DTEND:20241208T170000Z
 SUMMARY:Tampa Bay Home Show
@@ -2274,9 +2410,21 @@ DESCRIPTION:Come view a wide variety of home products and services\; ALL o
  bsp\;www.tampabay.comAttendance:&nbsp\; 7000
 END:VEVENT
 BEGIN:VEVENT
-UID:06624b48-03e2-4d54-ade8-809552449a6e
+UID:6b949431-e12e-4adb-b844-c17a1c544771
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241207T090000Z
+DTEND:20241207T150000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E 8th Ave Tampa \, FL United States
+DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, December 7\
+ , 2024Event 9am-3pmFor additional information\, visit Ybor City Saturday M
+ arkethttps://ybormarket.com/&nbsp\;&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:3d6fcdcf-fbce-4739-a3e4-aaa9e0190088
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241207T200000Z
 DTEND:20241207T213000Z
 SUMMARY:3 Kidneys No Colon
@@ -2299,9 +2447,9 @@ DESCRIPTION:3 Kidneys No Colon is a show detailing the medical diaries (or
  ent Dave Piontkowski!Use promo code 3KNC for discount tickets. &nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:121fc3d3-3667-4698-8123-2a37f705ca33
+UID:74af945f-a110-46a8-b0d5-004669987775
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241208T140000Z
 DTEND:20241208T170000Z
 SUMMARY:Handmade Gifts: Felt Ornaments
@@ -2311,9 +2459,9 @@ DESCRIPTION:Make your own soft and light ornament to hang in your home! Le
  ol with a seasoned instructor for this seasonal offering.Supplies included
 END:VEVENT
 BEGIN:VEVENT
-UID:726999f7-efc9-4559-8ada-56aa9ca558b1
+UID:19306f58-ea43-4888-8f76-ae1a6c23b977
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241208T140000Z
 DTEND:20241208T150000Z
 SUMMARY:Antiquities Circle Lecture: An Introduction to Coptic Religion and
@@ -2356,9 +2504,28 @@ DESCRIPTION:An Introduction to Coptic Religion and ArtEgyptologist and Cri
  lege Students: Free
 END:VEVENT
 BEGIN:VEVENT
-UID:54a6203d-f4a0-4f87-938e-e8c199889c4e
+UID:680616fc-e416-4c50-b9ed-b2bf627eeb85
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241210T120000Z
+DTEND:20241210T124500Z
+SUMMARY:Cooking Demo: Orange Chicken and Spring Rolls
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Details: Are you a big fan of immersive cooking shows? There's
+  something truly delightful about witnessing professionals excel in their 
+ culinary expertise. In this virtual team-building session\, participants w
+ ill have the exciting opportunity to watch a live cooking demonstration fr
+ om the comfort of their own screens and engage with skilled and accredited
+  food experts. Prior to the session\, you will receive an ingredients list
+  in advance and have the chance to cook along with your own ingredients. T
+ his session is perfect for large groups or individuals who prefer to learn
+  and be entertained from the virtual realm.Register: December FitPros Cook
+ ing Demo RegistrationRecipe: Orange Chicken and Spring Rolls
+END:VEVENT
+BEGIN:VEVENT
+UID:ff5083a9-6965-4858-9208-02ceed296049
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241210T090000Z
 DTEND:20241210T160000Z
 SUMMARY:FDOT\, OnBoard Tampa Bay\, DBE &amp\; Small Business Networking Sy
@@ -2384,28 +2551,22 @@ DESCRIPTION:This event brings together DBEs (Disadvantaged Business Enterp
  level. RSVP Now!
 END:VEVENT
 BEGIN:VEVENT
-UID:fe90c522-406a-4275-ae9a-cebac1d6d223
+UID:0069d1ae-1e25-4afa-a78e-66daaab40870
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241210T120000Z
-DTEND:20241210T124500Z
-SUMMARY:Cooking Demo: Orange Chicken and Spring Rolls
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Details: Are you a big fan of immersive cooking shows? There's
-  something truly delightful about witnessing professionals excel in their 
- culinary expertise. In this virtual team-building session\, participants w
- ill have the exciting opportunity to watch a live cooking demonstration fr
- om the comfort of their own screens and engage with skilled and accredited
-  food experts. Prior to the session\, you will receive an ingredients list
-  in advance and have the chance to cook along with your own ingredients. T
- his session is perfect for large groups or individuals who prefer to learn
-  and be entertained from the virtual realm.Register: December FitPros Cook
- ing Demo RegistrationRecipe: Orange Chicken and Spring Rolls
+DTSTAMP:20241126T000424Z
+DTSTART:20241210T093000Z
+DTEND:20241210T110000Z
+SUMMARY:How Families Succeed
+LOCATION:1315 W Spruce St Tampa \, FL 33607 United States
+DESCRIPTION:Attention: Parents\, Grandparents\, and Guardians: Get practic
+ al tools to create a healthier and more resilient environment for your fam
+ ily.Start making positive changes for your loved ones today! Real conversa
+ tions with real people about real life.
 END:VEVENT
 BEGIN:VEVENT
-UID:8791849b-2374-4ada-a24e-b7a6e0f6260a
+UID:8805b65f-f44a-4893-a98d-83228cf22751
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241212T160000Z
 DTEND:20241212T200000Z
 SUMMARY:Art on the House
@@ -2424,21 +2585,9 @@ DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
  t/art-on-the-house/2024-02-29/\n
 END:VEVENT
 BEGIN:VEVENT
-UID:ef27cb98-69d3-4beb-9ffc-f1fc09ea0bda
+UID:c4fff285-409e-42a5-8d2a-35dac78ac55f
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241212T170000Z
-DTEND:20241212T210000Z
-SUMMARY:Water Street Holiday Promenade
-LOCATION:27.94203 -82.45244 Tampa \, FL United States
-DESCRIPTION:Water Street Holiday PromenadeThursday\, December 12\, 20245pm
- -9pmWater Street DistrictFor additional information\, please visit Water S
- treet Holiday Promenade
-END:VEVENT
-BEGIN:VEVENT
-UID:bf84c17b-3deb-453b-b83e-1011847b25d3
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241212T180000Z
 DTEND:20241212T203000Z
 SUMMARY:Teen Digital Collage Class
@@ -2452,9 +2601,21 @@ DESCRIPTION:Explore the art of digital collage in this engaging workshop\,
   in print and online. Ages 12-17
 END:VEVENT
 BEGIN:VEVENT
-UID:8c5cc6dd-32e6-4d35-aa30-1e6f18ad0894
+UID:904decf7-f3c9-4e5d-81c5-6947d678d067
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241212T170000Z
+DTEND:20241212T210000Z
+SUMMARY:Water Street Holiday Promenade
+LOCATION:27.94203 -82.45244 Tampa \, FL United States
+DESCRIPTION:Water Street Holiday PromenadeThursday\, December 12\, 20245pm
+ -9pmWater Street DistrictFor additional information\, please visit Water S
+ treet Holiday Promenade
+END:VEVENT
+BEGIN:VEVENT
+UID:887f202a-6ca9-4794-8d07-b2bcad6ea2cd
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241213T070000Z
 DTEND:20241213T170000Z
 SUMMARY:Women&#039\;s Conference of Florida
@@ -2476,9 +2637,9 @@ DESCRIPTION:Founded in 2015\, the Women’s Conference of Florida offers p
  sp\; 1500
 END:VEVENT
 BEGIN:VEVENT
-UID:dbe58c8c-80c9-4e2b-af5a-1bef19adb5a5
+UID:10a7e66f-3464-48c2-acf0-c0937195bee1
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241213T180000Z
 DTEND:20241213T210000Z
 SUMMARY:Uncorked Creativity - Paint and Sip at MOSI
@@ -2492,21 +2653,9 @@ DESCRIPTION:Enjoy a casual paint night with MOSI’s award winning artist
  chased prior to the event\, and will not be available to purchase same-day
 END:VEVENT
 BEGIN:VEVENT
-UID:8ffb5d9d-185b-44ac-b5f1-fa377fc1af3b
+UID:2c6e014b-9c8d-42dc-81ca-e9a02db7f3ce
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241214T070000Z
-DTEND:20241214T120000Z
-SUMMARY:TPD Memorial Run/Walk
-LOCATION:Tampa \, FL United States
-DESCRIPTION:TPD Memorial Run/WalkSaturday\, December 14\, 20247am-12pmLyke
- s Gaslight Park/ Bayshore BlvdFor additional information\, please visit TP
- D Memorial Run/Walk
-END:VEVENT
-BEGIN:VEVENT
-UID:94953c93-ab52-4d41-8f04-8d8d30e6000a
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241214T090000Z
 DTEND:20241215T190000Z
 SUMMARY:Champions League
@@ -2517,21 +2666,9 @@ DESCRIPTION:For event details: www.nfinity.com  \nThis is an All Star Chee
   Meeting RoomsWebsite:&nbsp\;www.nfinity.com
 END:VEVENT
 BEGIN:VEVENT
-UID:b6208ddd-4168-4b5f-bb36-475cf2cc35bb
+UID:a096c54e-651c-471d-a042-c16c44317e9f
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241214T090000Z
-DTEND:20241214T150000Z
-SUMMARY:Ybor City Saturday Market
-LOCATION:Centennial Park 1800 E 8th Ave Tampa \, FL United States
-DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, December 14
- \, 2024Event 9am-3pmFor additional information\, visit Ybor City Saturday 
- Markethttps://ybormarket.com/&nbsp\;&nbsp\;
-END:VEVENT
-BEGIN:VEVENT
-UID:678ecf78-1ece-44dd-aa10-b795342952e0
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241214T100000Z
 DTEND:20241215T150000Z
 SUMMARY:Hot Chocolate Run
@@ -2545,9 +2682,64 @@ DESCRIPTION:For event details: www.hotchocolate15k.com\nThis is a 15k\, 10
  hotchocolate15k.comAttendance:&nbsp\; 5000
 END:VEVENT
 BEGIN:VEVENT
-UID:4236b218-74bd-41f5-b367-582f1e6ac96a
+UID:939ec838-e1bb-4241-b20f-c3bba1b05935
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20241214T070000Z
+DTEND:20241214T120000Z
+SUMMARY:TPD Memorial Run/Walk
+LOCATION:Tampa \, FL United States
+DESCRIPTION:TPD Memorial Run/WalkSaturday\, December 14\, 20247am-12pmLyke
+ s Gaslight Park/ Bayshore BlvdFor additional information\, please visit TP
+ D Memorial Run/Walk
+END:VEVENT
+BEGIN:VEVENT
+UID:ea3cd640-301c-4019-84e9-2af991edcf63
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241214T110000Z
+DTEND:20241214T160000Z
+SUMMARY:Children&#039\;s Board Free Family Day
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Children’s Board Free Family Day at Tampa Museum of Art welc
+ omes families to celebrate with a day full of activities. Enjoy art-making
+  projects\, music\, performances\, gallery activities\, refreshments\, and
+  more\, all inspired by the Museum’s current exhibitions.How do local ar
+ tists celebrate their holidays?Celebrate the magic of Florida Holidays wit
+ h artmaking inspired by the art and artists of Skyway 2024: A Contemporary
+  Collaboration
+END:VEVENT
+BEGIN:VEVENT
+UID:9b265ef9-c7c2-4cd1-8f00-88c2be7ae7be
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241214T090000Z
+DTEND:20241214T150000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E 8th Ave Tampa \, FL United States
+DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, December 14
+ \, 2024Event 9am-3pmFor additional information\, visit Ybor City Saturday 
+ Markethttps://ybormarket.com/&nbsp\;&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:dda0b47c-4a47-45db-abdc-0ff3801852c2
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
+DTSTART:20241214T110000Z
+DTEND:20241214T150000Z
+SUMMARY:2024 GTE Financial Family Motor Fest
+LOCATION:1 Steinbrenner Dr Tampa \, FL 33614 United States
+DESCRIPTION:Join us from 11am-3pm on Saturday\, December 14 at George M. S
+ teinbrenner Field (located at 1 Steinbrenner Dr.\, Tampa\, FL 33514) for o
+ ur national award-winning Family Motor Fest\, a family-friendly festival t
+ o raise money for local student scholarships. This exciting event will fea
+ ture a Car Show\, food trucks\, kids zone\, bounce houses\, and so much mo
+ re. Plus\, admission is FREE and open to the public!
+END:VEVENT
+BEGIN:VEVENT
+UID:9a1f6a58-c99c-42fe-8bbc-004a91d3dfc0
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20241214T100000Z
 DTEND:20241214T113000Z
 SUMMARY:Free Class: How to Compost Workshop
@@ -2564,40 +2756,9 @@ DESCRIPTION:Join us for our 2nd Saturday community gardening program How t
  sp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:71083aaa-1181-499d-bcd0-8b8be4dbb4bc
+UID:9d01d20b-ffd2-469c-94b9-418f878652b8
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241214T110000Z
-DTEND:20241214T160000Z
-SUMMARY:Children&#039\;s Board Free Family Day
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Children’s Board Free Family Day at Tampa Museum of Art welc
- omes families to celebrate with a day full of activities. Enjoy art-making
-  projects\, music\, performances\, gallery activities\, refreshments\, and
-  more\, all inspired by the Museum’s current exhibitions.How do local ar
- tists celebrate their holidays?Celebrate the magic of Florida Holidays wit
- h artmaking inspired by the art and artists of Skyway 2024: A Contemporary
-  Collaboration
-END:VEVENT
-BEGIN:VEVENT
-UID:f0f6ea6c-0caf-4f0e-a975-7ef104c69d77
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20241214T110000Z
-DTEND:20241214T150000Z
-SUMMARY:2024 GTE Financial Family Motor Fest
-LOCATION:1 Steinbrenner Dr Tampa \, FL 33614 United States
-DESCRIPTION:Join us from 11am-3pm on Saturday\, December 14 at George M. S
- teinbrenner Field (located at 1 Steinbrenner Dr.\, Tampa\, FL 33514) for o
- ur national award-winning Family Motor Fest\, a family-friendly festival t
- o raise money for local student scholarships. This exciting event will fea
- ture a Car Show\, food trucks\, kids zone\, bounce houses\, and so much mo
- re. Plus\, admission is FREE and open to the public!
-END:VEVENT
-BEGIN:VEVENT
-UID:a5a7fcd5-cfbb-4b97-a04c-4cd103b945f7
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241215T100000Z
 DTEND:20241215T150000Z
 SUMMARY:Water Street Tampa Market
@@ -2606,9 +2767,9 @@ DESCRIPTION:Water Street Tampa Market\n\n\n	Sunday\, December 15\, 2024\n
  10am-3pm\n\n\nFor additional information\, visit Water Street\n\n&nbsp\;\n
 END:VEVENT
 BEGIN:VEVENT
-UID:e69206e6-a72d-42a0-bdd8-34d7809f6a4a
+UID:93300b4a-85cd-4809-a498-f529101e2b4f
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241215T120000Z
 DTEND:20241215T180000Z
 SUMMARY:6th Annual Jingle Bell Bazaar at Ybor
@@ -2621,9 +2782,9 @@ DESCRIPTION:Join us for the 6th Annual Jingle Bell Bazaar in Ybor City! En
   Event\, and Everyone is welcome!
 END:VEVENT
 BEGIN:VEVENT
-UID:d7569aae-baa3-41c9-998f-6899ebad9ea0
+UID:e2ba553f-e567-4edc-afde-0e8c5ec0febd
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241215T150000Z
 DTEND:20241215T170000Z
 SUMMARY: Vienna Light Orchestra Christmas Tour 2024
@@ -2648,9 +2809,9 @@ DESCRIPTION:Immerse yourself in the enchantment of Christmas with Vienna L
   season’s spirit and a gift of music that will lift your soul.
 END:VEVENT
 BEGIN:VEVENT
-UID:f48a01e1-e06a-42f2-8123-e43d8b27a7e2
+UID:bfbb5648-c870-4245-ae97-4c30de50edaf
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241215T190000Z
 DTEND:20241215T210000Z
 SUMMARY: Vienna Light Orchestra Christmas Tour 2024
@@ -2675,9 +2836,9 @@ DESCRIPTION:Immerse yourself in the enchantment of Christmas with Vienna L
   season’s spirit and a gift of music that will lift your soul.
 END:VEVENT
 BEGIN:VEVENT
-UID:56ee8b95-83a2-40a1-8051-0726afdb80e5
+UID:6b15e820-fede-463e-9c48-e206ae649179
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241217T100000Z
 DTEND:20241217T100000Z
 SUMMARY:CANCELLED - Evaluation Committee Meeting – Excavation And Soil R
@@ -2689,9 +2850,9 @@ DESCRIPTION:CANCELLED - EVALUATION COMMITTEE MEETING – EXCAVATION AND SO
  RCHASING DEPARTMENT2555 E. HANNA AVENUETAMPA\, FL 33610813-274-7711
 END:VEVENT
 BEGIN:VEVENT
-UID:c491ebef-8232-49e4-bdd0-d046298322c3
+UID:97cfe93b-1785-41c4-982b-1f7b276a1ad4
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241218T150000Z
 DTEND:20241218T160000Z
 SUMMARY:Your Financial Review for the Year
@@ -2701,9 +2862,9 @@ DESCRIPTION:Join Gallagher Retirement Plan Consultants for the 2024 webina
  now.
 END:VEVENT
 BEGIN:VEVENT
-UID:42aac8f6-a17d-45fe-ab03-c30dd16b206c
+UID:19efdcaa-0ba8-4a4b-88dd-efd39aed230c
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241219T160000Z
 DTEND:20241219T200000Z
 SUMMARY:Art on the House
@@ -2722,9 +2883,9 @@ DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
  t/art-on-the-house/2024-02-29/\n
 END:VEVENT
 BEGIN:VEVENT
-UID:7669df7f-cfa8-4906-8938-66a87c03c3a4
+UID:a962e18e-06f5-4944-b22e-6f5b928ba5dd
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241219T180000Z
 DTEND:20241219T220000Z
 SUMMARY:3rd Thursday
@@ -2734,9 +2895,9 @@ DESCRIPTION:3rd ThursdayMadison St. between Meridian Ave. &amp\; Channelsi
  n\, please visit 3rd Thursday
 END:VEVENT
 BEGIN:VEVENT
-UID:4bab9430-39bd-432d-ba8e-6d4134c4ea1e
+UID:574ea9b8-0f10-4da4-98e6-d35f95aa6510
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241221T090000Z
 DTEND:20241221T150000Z
 SUMMARY:Ybor City Saturday Market
@@ -2746,9 +2907,9 @@ DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, December 21
  Markethttps://ybormarket.com/&nbsp\;&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:7971ad33-b237-4a93-aa86-8a1df6a18b1b
+UID:967446cc-0982-4a09-9627-37d698873c93
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241221T181500Z
 DTEND:20241221T200000Z
 SUMMARY:Holiday Lighted Boat Parade
@@ -2761,9 +2922,9 @@ DESCRIPTION:Tampa’s largest lighted boat parade will happen the Saturday
  d. All registered boats will receive prizes!
 END:VEVENT
 BEGIN:VEVENT
-UID:bb04cd15-2b73-4866-b2e8-fe6c743a5f53
+UID:2b14e7b7-2029-46e0-a369-346d48383ab7
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241223T090000Z
 DTEND:20241223T160000Z
 SUMMARY:Winter Break Camp at MOSI
@@ -2777,9 +2938,9 @@ DESCRIPTION:Keep young minds engaged and entertained all year long with sc
  4 for MOSI Members and $232 for Non-Members
 END:VEVENT
 BEGIN:VEVENT
-UID:72b93f06-b811-4169-baf8-e45e67231baf
+UID:e30b210f-2ad2-4351-a316-358aba67c123
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241224T080000Z
 DTEND:20241224T170000Z
 SUMMARY:Christmas Tuesday - City Office Closures
@@ -2791,9 +2952,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:/events/christmas-tuesday-city-office-closures/103941
 END:VEVENT
 BEGIN:VEVENT
-UID:689a0da1-23c5-4e21-a479-50aea958f1da
+UID:fc91c69a-d845-4ff9-92ba-474615325e7a
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241225T080000Z
 DTEND:20241225T170000Z
 SUMMARY:Christmas Wednesday - City Office Closures
@@ -2805,9 +2966,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:/events/christmas-wednesday-city-office-closures/103946
 END:VEVENT
 BEGIN:VEVENT
-UID:3d109122-44a8-46bb-8fcd-c7254c814905
+UID:a808bc45-15ce-49cc-a6a6-1b72559317ed
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241226T160000Z
 DTEND:20241226T200000Z
 SUMMARY:Art on the House
@@ -2826,9 +2987,9 @@ DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
  t/art-on-the-house/2024-02-29/\n
 END:VEVENT
 BEGIN:VEVENT
-UID:dc619578-2db7-4f9f-9b5e-0da3abf7f1a3
+UID:ceade6d9-5074-4aef-965c-836568a8c99c
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241228T090000Z
 DTEND:20241228T150000Z
 SUMMARY: Ybor City Saturday Market
@@ -2838,9 +2999,9 @@ DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, December 28
  Markethttps://ybormarket.com/&nbsp\;&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:c8ede02c-8bd1-4468-9c0c-f1991f86c4fb
+UID:9af0dd53-4111-4806-8cd4-acd94ba62a56
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20241231T210000Z
 DTEND:20250101T003000Z
 SUMMARY:Quantum Countdown: New Years Eve at MOSI
@@ -2856,9 +3017,9 @@ DESCRIPTION:Launch into the New Year with an electrifying celebration unli
  Pre-registration Web Link https://mosi.org/event/quantumcountdown/\n
 END:VEVENT
 BEGIN:VEVENT
-UID:1df4516d-1d4a-407e-9573-29aef14531a0
+UID:deca1c6f-cb50-4ff6-8b34-28c95f223488
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250101T080000Z
 DTEND:20250101T170000Z
 SUMMARY:New Year’s Day Wednesday - City Office Closures
@@ -2870,9 +3031,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:/events/new-year-s-day-wednesday-city-office-closures/103951
 END:VEVENT
 BEGIN:VEVENT
-UID:43d3efb5-7081-4003-b52e-b616092d92c5
+UID:cd5d5643-f6b2-4f5d-8971-c4fa5e32cf18
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250104T090000Z
 DTEND:20250104T150000Z
 SUMMARY: Ybor City Saturday Market
@@ -2882,9 +3043,9 @@ DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, January 4\,
  rkethttps://ybormarket.com/&nbsp\;&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:7215361d-0894-424a-a3a2-8ecdc3ad3353
+UID:fb0d82b3-f882-468b-b013-179c62ff9e0f
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250109T060000Z
 DTEND:20250111T120000Z
 SUMMARY:FMEA Professional Development Conference 2025
@@ -2905,9 +3066,9 @@ DESCRIPTION:For event details: www.fmea.org or (800) 301-3632 \n\nThe FMEA
   CenterWebsite:&nbsp\;fmea.org
 END:VEVENT
 BEGIN:VEVENT
-UID:90f759df-1f11-48f2-a3ff-f8d6e0ced7be
+UID:884af4f8-3f89-48cd-99c1-5aa2d6d5f5d2
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250110T190000Z
 DTEND:20250110T210000Z
 SUMMARY:SkyWatch : Mars in Opposition
@@ -2923,9 +3084,9 @@ DESCRIPTION:Join MOSI astronomers for a night of stargazing!&nbsp\;This is
  me.This event is $5 for the public and free to MOSI members
 END:VEVENT
 BEGIN:VEVENT
-UID:4f3156c7-2e83-43b3-aec1-de934031b849
+UID:aead3c26-6034-4e58-9694-dc6afc7921b1
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250111T090000Z
 DTEND:20250111T150000Z
 SUMMARY:Ybor City Saturday Market
@@ -2935,9 +3096,9 @@ DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, January 11\
  arkethttps://ybormarket.com/&nbsp\;&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:57bd745a-5193-454c-b316-4f18cb376a29
+UID:c5298e2a-8b5f-4245-9ccb-f7ce69f1d69a
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250115T070000Z
 DTEND:20250116T170000Z
 SUMMARY:Labor Law &amp\; Labor Arbitration Conference
@@ -2949,9 +3110,9 @@ DESCRIPTION:For event details: www.laborarb.com  or (507) 663-1220 \n\nAt
  thinking.Website:&nbsp\;www.laborarb.comAttendance:&nbsp\; 260
 END:VEVENT
 BEGIN:VEVENT
-UID:1e80b458-0108-4e80-aaea-da2560550ced
+UID:2513af6f-0990-494c-be5d-d977f9c66470
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250116T110000Z
 DTEND:20250116T150000Z
 SUMMARY:Tampa Veterans Job Fair
@@ -2960,9 +3121,9 @@ LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
 DESCRIPTION:Website:&nbsp\;www.recruitmilitary.comAttendance:&nbsp\; 350
 END:VEVENT
 BEGIN:VEVENT
-UID:520de362-5571-43e5-bb2f-7758725d0796
+UID:314593b6-70c0-4edb-8853-943d79761a65
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250118T090000Z
 DTEND:20250118T150000Z
 SUMMARY:Ybor City Saturday Market
@@ -2972,9 +3133,9 @@ DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, January 18\
  arkethttps://ybormarket.com/&nbsp\;&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:0de4bed0-85cf-4424-8909-6cbcab3b8fea
+UID:8b2afc54-4a6e-4718-a050-11829cc24d65
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250120T000000Z
 DTEND:20250120T235900Z
 SUMMARY:Martin Luther King\, Jr. Day Monday - City Office Closures
@@ -2985,9 +3146,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
  on\n\n
 END:VEVENT
 BEGIN:VEVENT
-UID:3e28027a-e287-4fb0-82f5-5ecb9f70786f
+UID:b720318e-d931-464f-9ba4-a6d73d11bcb4
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250122T093000Z
 DTEND:20250123T150000Z
 SUMMARY:Build Expo 2025
@@ -2997,9 +3158,9 @@ DESCRIPTION:Location:&nbsp\;Tampa Convention Center West/Central Hall & Me
  eting RoomsWebsite:&nbsp\;buildexpousa.comAttendance:&nbsp\; 2000
 END:VEVENT
 BEGIN:VEVENT
-UID:050b2495-f426-45f7-af3d-e1356c644ab7
+UID:f429a6fb-2712-4d9a-9c47-feef9f0a88c5
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250124T070000Z
 DTEND:20250124T150000Z
 SUMMARY:The Centre For Women
@@ -3008,21 +3169,9 @@ LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
 DESCRIPTION:Website:&nbsp\;thecentre.org
 END:VEVENT
 BEGIN:VEVENT
-UID:f68837f5-bb35-4499-ac49-57f805706021
+UID:77dc5dcb-777c-4655-b0d0-a14ebb17436b
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
-DTSTART:20250125T090000Z
-DTEND:20250125T150000Z
-SUMMARY:Ybor City Saturday Market
-LOCATION:Centennial Park 1800 E 8th Ave Tampa \, FL United States
-DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, January 25\
- , 2025Event 9am-3pmFor additional information\, visit Ybor City Saturday M
- arkethttps://ybormarket.com/&nbsp\;&nbsp\;
-END:VEVENT
-BEGIN:VEVENT
-UID:41bbd29f-77c2-448b-88de-e748342fe406
-SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250125T100000Z
 DTEND:20250125T130000Z
 SUMMARY:EventFest-Gasparilla Brunch 2025
@@ -3036,9 +3185,21 @@ DESCRIPTION:2025 Gasparilla Pirate Fest Invasion Brunch Experience\n\n Jan
   Convention Center Other
 END:VEVENT
 BEGIN:VEVENT
-UID:8379d53c-bedb-4ece-9a2a-572c0775de75
+UID:b4673a9e-568e-4451-a5b5-6d85691b2b99
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
+DTSTART:20250125T090000Z
+DTEND:20250125T150000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E 8th Ave Tampa \, FL United States
+DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, January 25\
+ , 2025Event 9am-3pmFor additional information\, visit Ybor City Saturday M
+ arkethttps://ybormarket.com/&nbsp\;&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:c80b0cb6-351e-44ab-8868-167a589d4569
+SEQUENCE:0
+DTSTAMP:20241126T000424Z
 DTSTART:20250201T090000Z
 DTEND:20250201T150000Z
 SUMMARY:Ybor City Saturday Market
@@ -3048,9 +3209,9 @@ DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, February 1\
  arkethttps://ybormarket.com/&nbsp\;&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:1387a89a-043d-4876-8bee-44b4192354b6
+UID:aec48510-e305-4171-bdde-eeb3bba71649
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250207T070000Z
 DTEND:20250208T235900Z
 SUMMARY:CMAA World Conference on Club Management &amp\; Business Expo
@@ -3071,9 +3232,9 @@ DESCRIPTION:For event details: www.cmaa.org or (703) 739-9500\nThe Club Ma
  n Center Entire Convention CenterWebsite:&nbsp\;www.cmaa.org
 END:VEVENT
 BEGIN:VEVENT
-UID:7fddf5a0-172e-4191-a32f-40110898b0a5
+UID:156b9b24-24c1-4297-9cd8-c8105b8ab2ee
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250208T090000Z
 DTEND:20250208T150000Z
 SUMMARY:Ybor City Saturday Market
@@ -3083,9 +3244,9 @@ DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, February 8\
  arkethttps://ybormarket.com/&nbsp\;&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:6e920784-73b8-464f-9145-f37afa0bb30b
+UID:7ddf81e5-2c45-412d-8a7d-6c9b89bfaba0
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250211T070000Z
 DTEND:20250212T160000Z
 SUMMARY:Military Additive Manufacturing Summit
@@ -3098,9 +3259,9 @@ DESCRIPTION:For event details: www.militaryam.com DSI is a premier non-par
  itaryam.com
 END:VEVENT
 BEGIN:VEVENT
-UID:5fbd1d39-9e75-4c8f-b205-576ac28ae711
+UID:f30f07db-e8d0-4751-ae98-954db2d5b2fd
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250212T073000Z
 DTEND:20250212T160000Z
 SUMMARY:2025 Hillsborough Regional STEM Fair
@@ -3112,9 +3273,9 @@ DESCRIPTION:For event details: www.tampabaystem.org\n\nThis is a free and
  .orgAttendance:&nbsp\; 2000
 END:VEVENT
 BEGIN:VEVENT
-UID:1d77494f-5e78-4586-8f2f-66fd1dcfb92f
+UID:34d284b3-298b-47fd-952b-9c34222843f4
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250213T070000Z
 DTEND:20250213T163000Z
 SUMMARY:Tampa Bay Condo &amp\; HOA Expo
@@ -3127,9 +3288,9 @@ DESCRIPTION:Tampa Bay Condo & HOA Expo is open to the public and intended
  nce:&nbsp\; 600
 END:VEVENT
 BEGIN:VEVENT
-UID:57cee67e-745f-4abd-983c-a589c399a845
+UID:2f26c52b-c509-4c80-9f08-b0ab9a864553
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250215T070000Z
 DTEND:20250216T235900Z
 SUMMARY:Bushiroad Championship Series
@@ -3138,9 +3299,9 @@ LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
 DESCRIPTION:This is a 2-day card tournament.Attendance:&nbsp\; 700
 END:VEVENT
 BEGIN:VEVENT
-UID:ab1bc72e-a417-4a58-91c4-1ac712fdfdeb
+UID:c68494b1-33d4-43e2-944b-5b8eb6d95d42
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250215T070000Z
 DTEND:20250217T180000Z
 SUMMARY:Tampa United Volleyball-Gasparilla Volleyball Classic 2025
@@ -3155,9 +3316,9 @@ DESCRIPTION:For event details: www.jvctournaments.com \n\nThis is a club v
  ral/West Exhibit HallsWebsite:&nbsp\;jvctournaments.com
 END:VEVENT
 BEGIN:VEVENT
-UID:a99c618d-49fd-4fbc-ada5-066c5dcf07b5
+UID:ebeabb28-66dd-4180-bcbe-e5743b27e496
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250215T090000Z
 DTEND:20250215T150000Z
 SUMMARY:Ybor City Saturday Market
@@ -3167,9 +3328,9 @@ DESCRIPTION:Ybor City Saturday MarketCentennial ParkSaturday\, February 15
  Markethttps://ybormarket.com/&nbsp\;&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:dc955389-aec1-4dc8-bb83-bd3e9e00c8c6
+UID:a8f0dcb6-527a-4178-8195-06e5dc35916a
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250219T130000Z
 DTEND:20250221T190000Z
 SUMMARY:College Hunks Hauling Junk 2025 Reunion
@@ -3181,9 +3342,9 @@ DESCRIPTION:For event details:  3-day employee recognition and training se
  0
 END:VEVENT
 BEGIN:VEVENT
-UID:922d0b38-0dcf-4bac-9155-d74dbd961b30
+UID:abf3a686-27de-4b97-a4c3-878fe93c6a43
 SEQUENCE:0
-DTSTAMP:20241125T000426Z
+DTSTAMP:20241126T000424Z
 DTSTART:20250222T090000Z
 DTEND:20250222T150000Z
 SUMMARY:Ybor City Saturday Market
