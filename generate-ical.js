@@ -124,11 +124,11 @@ function injectCalendarButtons(eventTypes) {
     const files = fs.readdirSync(distDir);
     const eventTypeMap = new Map(eventTypes.map(eventType => [eventType.tid, eventType.name]));
 
-    // Separate the "All" calendar file
-    const allFile = files.find(file => path.basename(file, '.ics') === 'all');
-    const otherFiles = files.filter(file => path.basename(file, '.ics') !== 'all').sort();
+    // Separate the "All/calendar" calendar file
+    const allFile = files.find(file => path.basename(file, '.ics') === 'calendar');
+    const otherFiles = files.filter(file => path.basename(file, '.ics') !== 'calendar').sort();
 
-    // Combine "All" file with sorted other files
+    // Combine "All/calendar" file with sorted other files
     const sortedFiles = allFile ? [allFile, ...otherFiles] : otherFiles;
 
     const buttonsHtml = sortedFiles
