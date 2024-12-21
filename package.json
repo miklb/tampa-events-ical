@@ -2,7 +2,9 @@
   "name": "tampa-events-calendar",
   "type": "module",
   "dependencies": {
+    "he": "^1.2.0",
     "ical-generator": "^5.0.1",
+    "moment-timezone": "^0.5.46",
     "node-fetch": "^3.3.2"
   }
 }
