@@ -27,7 +27,242 @@
     <h1>Tampa Events Calendar</h1>
     <p>Subscribe to Tampa community events in your calendar app.</p>
     
-    <a href="/tampa-events-ical/dist/calendar.ics" class="button">Subscribe to Calendar</a>
+    <div id="calendar-buttons">
+        <ul>
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/calendar.ics" class="button">Subscribe to All Events Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/calendar.ics" download class="button" aria-label="Download All Events Calendar" title="Download All Events Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/10116.ics" class="button">Subscribe to Water Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/10116.ics" download class="button" aria-label="Download Water Calendar" title="Download Water Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/10141.ics" class="button">Subscribe to Office Closures Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/10141.ics" download class="button" aria-label="Download Office Closures Calendar" title="Download Office Closures Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/10151.ics" class="button">Subscribe to Wellness Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/10151.ics" download class="button" aria-label="Download Wellness Calendar" title="Download Wellness Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/10421.ics" class="button">Subscribe to Parks &amp; Recreation Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/10421.ics" download class="button" aria-label="Download Parks &amp; Recreation Calendar" title="Download Parks &amp; Recreation Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/10456.ics" class="button">Subscribe to Asian and Pacific Islander Events Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/10456.ics" download class="button" aria-label="Download Asian and Pacific Islander Events Calendar" title="Download Asian and Pacific Islander Events Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/10461.ics" class="button">Subscribe to Community Redevelopment Agency Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/10461.ics" download class="button" aria-label="Download Community Redevelopment Agency Calendar" title="Download Community Redevelopment Agency Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/106.ics" class="button">Subscribe to Fire Safety Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/106.ics" download class="button" aria-label="Download Fire Safety Calendar" title="Download Fire Safety Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/111.ics" class="button">Subscribe to General Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/111.ics" download class="button" aria-label="Download General Calendar" title="Download General Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/116.ics" class="button">Subscribe to Police District 1 Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/116.ics" download class="button" aria-label="Download Police District 1 Calendar" title="Download Police District 1 Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/121.ics" class="button">Subscribe to Police District 2 Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/121.ics" download class="button" aria-label="Download Police District 2 Calendar" title="Download Police District 2 Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/126.ics" class="button">Subscribe to Police District 3 Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/126.ics" download class="button" aria-label="Download Police District 3 Calendar" title="Download Police District 3 Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/131.ics" class="button">Subscribe to Police General Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/131.ics" download class="button" aria-label="Download Police General Calendar" title="Download Police General Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/136.ics" class="button">Subscribe to Transportation-Stormwater Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/136.ics" download class="button" aria-label="Download Transportation-Stormwater Calendar" title="Download Transportation-Stormwater Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/141.ics" class="button">Subscribe to Housing and Community Development Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/141.ics" download class="button" aria-label="Download Housing and Community Development Calendar" title="Download Housing and Community Development Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/146.ics" class="button">Subscribe to Neighborhood Events Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/146.ics" download class="button" aria-label="Download Neighborhood Events Calendar" title="Download Neighborhood Events Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/151.ics" class="button">Subscribe to Riverfront Park Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/151.ics" download class="button" aria-label="Download Riverfront Park Calendar" title="Download Riverfront Park Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/156.ics" class="button">Subscribe to City Council Meetings Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/156.ics" download class="button" aria-label="Download City Council Meetings Calendar" title="Download City Council Meetings Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/161.ics" class="button">Subscribe to Español Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/161.ics" download class="button" aria-label="Download Español Calendar" title="Download Español Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/166.ics" class="button">Subscribe to Minority and Small Business Development Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/166.ics" download class="button" aria-label="Download Minority and Small Business Development Calendar" title="Download Minority and Small Business Development Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/91.ics" class="button">Subscribe to Special Events/Parks&amp;Rec Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/91.ics" download class="button" aria-label="Download Special Events/Parks&amp;Rec Calendar" title="Download Special Events/Parks&amp;Rec Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/96.ics" class="button">Subscribe to Public Meetings Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/96.ics" download class="button" aria-label="Download Public Meetings Calendar" title="Download Public Meetings Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/9911.ics" class="button">Subscribe to Benefits - Employees Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/9911.ics" download class="button" aria-label="Download Benefits - Employees Calendar" title="Download Benefits - Employees Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/9946.ics" class="button">Subscribe to City Planning Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/9946.ics" download class="button" aria-label="Download City Planning Calendar" title="Download City Planning Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/9956.ics" class="button">Subscribe to Solid Waste Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/9956.ics" download class="button" aria-label="Download Solid Waste Calendar" title="Download Solid Waste Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a href="webcal://miklb.github.io/tampa-events-ical/9991.ics" class="button">Subscribe to Tampa Convention Center Calendar</a>
+                <a href="https://miklb.github.io/tampa-events-ical/9991.ics" download class="button" aria-label="Download Tampa Convention Center Calendar" title="Download Tampa Convention Center Calendar" role="button">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+                        <path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 242.7-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7 288 32zM64 352c-35.3 0-64 28.7-64 64l0 32c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-32c0-35.3-28.7-64-64-64l-101.5 0-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352 64 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/>
+                    </svg>
+                </a>
+            </li></ul>
+    </div>
     
     <h2>About this Calendar</h2>
     <p>The city of Tampa website has a great <a href="https://www.tampa.gov/calendar">calendar of upcoming events.</a>Some are official city events, some are community events. I've wanted a way to see it in my calendar and whipped this up.</p>
