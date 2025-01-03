@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Parks &amp; Recreation
 X-WR-CALNAME:Tampa Calendar - Parks &amp; Recreation
 X-WR-CALDESC:Community events in Tampa for Parks &amp; Recreation
 BEGIN:VEVENT
-UID:f5e6d6dc-155b-4f14-a50f-d2c891dae833
+UID:e1c0934a-5506-47b9-b795-cdf7fff2c74c
 SEQUENCE:0
-DTSTAMP:20250102T000358Z
+DTSTAMP:20250103T000357Z
 DTSTART:20250111T130000Z
 DTEND:20250111T150000Z
 SUMMARY:Rhythm Fitness
@@ -17,5 +17,20 @@ DESCRIPTION:New Year\, New You Challenge\, with Coach Art. Come have fun\,
   make friends and get healthier with a 2-mile walk followed by high-impact
   aerobics. \n\nPermalink: https://www.tampa.gov/node/161301
 URL;VALUE=URI:https://www.tampa.gov/node/161301
+END:VEVENT
+BEGIN:VEVENT
+UID:17bef8fc-69ec-45d5-8b3b-8eaf36497a77
+SEQUENCE:0
+DTSTAMP:20250103T000357Z
+DTSTART:20250112T150000Z
+DTEND:20250112T190000Z
+SUMMARY:Pirate Pet Parade
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Pirate Pet Parade Saturday\, January 12\, 2025 10am-2pm Water 
+ Street District- Water St. between Channelside and Cumberland For addition
+ al information\, please visit Pirate Pet Parade (https:www.bigtickets.come
+ water-street-tampawst-pirate-pup-parade) \n\nPermalink: https://www.tampa.
+ gov/node/161391
+URL;VALUE=URI:https://www.tampa.gov/node/161391
 END:VEVENT
 END:VCALENDAR
