@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Parks &amp; Recreation
 X-WR-CALNAME:Tampa Calendar - Parks &amp; Recreation
 X-WR-CALDESC:Community events in Tampa for Parks &amp; Recreation
 BEGIN:VEVENT
-UID:b0eb75c4-a4f6-4752-90a0-ff5231724b22
+UID:cd1eda66-105c-4ef7-9448-da24a9331dea
 SEQUENCE:0
-DTSTAMP:20250110T000406Z
+DTSTAMP:20250111T000359Z
 DTSTART:20250111T130000Z
 DTEND:20250111T150000Z
 SUMMARY:Rhythm Fitness
@@ -19,9 +19,25 @@ DESCRIPTION:New Year\, New You Challenge\, with Coach Art. Come have fun\,
 URL;VALUE=URI:https://www.tampa.gov/node/161301
 END:VEVENT
 BEGIN:VEVENT
-UID:0da6a68e-0671-4f14-ab99-6c109cc6a4a6
+UID:813b1ef1-a26e-4256-8b5f-3541f5842241
 SEQUENCE:0
-DTSTAMP:20250110T000406Z
+DTSTAMP:20250111T000359Z
+DTSTART:20250111T150000Z
+DTEND:20250111T180000Z
+SUMMARY:Lifeguard Rookie School 2025
+LOCATION:Danny Del Rio Pool 10105 N Boulevard Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:Join the Tampa Parks and Recreation aquatics team at Lifeguard
+  Rookie School. Its free\, and no registration is needed. Just show up on 
+ time (ok\, 5 minutes early) and be ready to swim. Pass two lifeguard prere
+ quisite tests\, and youll advance to the lifeguard class. How cool! \n\nPe
+ rmalink: https://www.tampa.gov/node/162456
+URL;VALUE=URI:https://www.tampa.gov/node/162456
+END:VEVENT
+BEGIN:VEVENT
+UID:ebbef6b3-c1bc-479f-a110-5ecfa2f6901f
+SEQUENCE:0
+DTSTAMP:20250111T000359Z
 DTSTART:20250112T150000Z
 DTEND:20250112T190000Z
 SUMMARY:Pirate Pet Parade
@@ -32,5 +48,21 @@ DESCRIPTION:Pirate Pet Parade Saturday\, January 12\, 2025 10am-2pm Water
  water-street-tampawst-pirate-pup-parade) \n\nPermalink: https://www.tampa.
  gov/node/161391
 URL;VALUE=URI:https://www.tampa.gov/node/161391
+END:VEVENT
+BEGIN:VEVENT
+UID:a27c3fad-8449-4c9c-aac8-cfa8594eae84
+SEQUENCE:0
+DTSTAMP:20250111T000359Z
+DTSTART:20250113T220000Z
+DTEND:20250114T010000Z
+SUMMARY:Lifeguard Rookie School 2025
+LOCATION:Danny Del Rio Pool 10105 N Boulevard Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:Join the Tampa Parks and Recreation aquatics team at Lifeguard
+  Rookie School. Its free\, and no registration is needed. Just show up on 
+ time (ok\, 5 minutes early) and be ready to swim. Pass two lifeguard prere
+ quisite tests\, and youll advance to the lifeguard class. How cool! \n\nPe
+ rmalink: https://www.tampa.gov/node/162461
+URL;VALUE=URI:https://www.tampa.gov/node/162461
 END:VEVENT
 END:VCALENDAR
