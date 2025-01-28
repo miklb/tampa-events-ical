@@ -5,9 +5,22 @@ NAME:Tampa Calendar - Police General
 X-WR-CALNAME:Tampa Calendar - Police General
 X-WR-CALDESC:Community events in Tampa for Police General
 BEGIN:VEVENT
-UID:4ea1b17e-622a-4523-bb15-acf031e48dcf
+UID:2c6b8867-643a-4340-a6d8-372454cb8d68
 SEQUENCE:0
-DTSTAMP:20250127T000404Z
+DTSTAMP:20250128T000406Z
+DTSTART:20250130T230000Z
+DTEND:20250131T000000Z
+SUMMARY:North Hyde Park Civic Association General Meeting
+LOCATION:Willa&#039\;s 310 N. Rome Ave Tampa \, FL 33606 United States
+DESCRIPTION:The Tampa Police Department will participate in a neighborhood
+  discussion regarding safety during the North Hyde Park Civic Association 
+ meeting. \n\nPermalink: https://www.tampa.gov/node/163106
+URL;VALUE=URI:https://www.tampa.gov/node/163106
+END:VEVENT
+BEGIN:VEVENT
+UID:ce2f88dd-1c77-410a-b7b8-c2a89298e65f
+SEQUENCE:0
+DTSTAMP:20250128T000406Z
 DTSTART:20250207T230000Z
 DTEND:20250208T020000Z
 SUMMARY:Keeping Our Kids Safe
