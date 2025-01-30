@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Police General
 X-WR-CALNAME:Tampa Calendar - Police General
 X-WR-CALDESC:Community events in Tampa for Police General
 BEGIN:VEVENT
-UID:318594f9-f7fe-4bdc-b12b-c9acfa880271
+UID:164614f2-d75c-4989-8b6d-aea48865486e
 SEQUENCE:0
-DTSTAMP:20250129T000407Z
+DTSTAMP:20250130T000402Z
 DTSTART:20250130T230000Z
 DTEND:20250131T000000Z
 SUMMARY:North Hyde Park Civic Association General Meeting
@@ -18,9 +18,9 @@ DESCRIPTION:The Tampa Police Department will participate in a neighborhood
 URL;VALUE=URI:https://www.tampa.gov/node/163106
 END:VEVENT
 BEGIN:VEVENT
-UID:c71734e0-25c6-42dc-8c72-ee94b52a730a
+UID:499b3fe8-bc6c-4fec-a1a2-bcede66f76a8
 SEQUENCE:0
-DTSTAMP:20250129T000407Z
+DTSTAMP:20250130T000402Z
 DTSTART:20250207T230000Z
 DTEND:20250208T020000Z
 SUMMARY:Keeping Our Kids Safe
@@ -30,5 +30,25 @@ DESCRIPTION:This event provides resources for families with loved ones wit
  h disabilities. Information includes how to keep them safe and community r
  esources. \n\nPermalink: https://www.tampa.gov/node/162556
 URL;VALUE=URI:https://www.tampa.gov/node/162556
+END:VEVENT
+BEGIN:VEVENT
+UID:7a16f98a-2dcb-45d0-883b-fb4790ae170a
+SEQUENCE:0
+DTSTAMP:20250130T000402Z
+DTSTART:20250211T230000Z
+DTEND:20250212T000000Z
+SUMMARY:Chief039\\\;s Advisory Panel Meeting
+LOCATION:Gandy Civic Center 4207 W. Oklahoma Ave Tampa \, FL 33616 United 
+ States
+DESCRIPTION:The Tampa Police Department Chiefs Advisory Panel\, as provide
+ d under section 166.0486\, F.S.\, meets quarterly to review the policies a
+ nd procedures of the Tampa Police Department. The Panel shall review and p
+ rovide informed feedback regarding department policies and procedures to i
+ mprove police practices\, strengthen police-community relations\, promote 
+ openness between the police and the public\, and increase transparency of 
+ police policies and procedures. Allowing citizens participation with revie
+ w of policies and procedures will improve and promote public trust with th
+ e community. \n\nPermalink: https://www.tampa.gov/node/163206
+URL;VALUE=URI:https://www.tampa.gov/node/163206
 END:VEVENT
 END:VCALENDAR
