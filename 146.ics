@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Neighborhood Events
 X-WR-CALNAME:Tampa Calendar - Neighborhood Events
 X-WR-CALDESC:Community events in Tampa for Neighborhood Events
 BEGIN:VEVENT
-UID:564c34fd-4086-4f06-85e7-4b2f5e34d380
+UID:ca4ca452-dc1c-42fb-8a54-90b296268b16
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250202T150000Z
 DTEND:20250202T180000Z
 SUMMARY:Ceramics Continued Study
@@ -26,9 +26,37 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/160706
 END:VEVENT
 BEGIN:VEVENT
-UID:e2a652c7-112a-4228-a765-9adcad34a157
+UID:c6a6502a-2878-40fc-97da-cc8bf20dbe52
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250202T180000Z
+DTEND:20250202T213000Z
+SUMMARY:Brave Hearts: A Rally Against Bullying
+LOCATION:2555 E Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:Your family is invited to an uplifting community event to lear
+ n how to stop bullying! 33 of U.S. elementary students reported being bull
+ ied often while at school. 20 of kindergarten students reported being bull
+ ied often. (source: Together Against Bullying) When bullying inevitably to
+ uches your childs life\, will they know what to do? Will you? Whether your
+  child has been a target or even a bystander\, bullying can be difficult t
+ o discuss and resolve due to limited resources and no preparation. This ch
+ anges now for kids in Tampa ages 6-13! Join nonprofit groups Wee Macree an
+ d IAmMore Foundation for an afternoon filled with empowering activities de
+ signed by medical and education professionals\, alongside the powerful voi
+ ces of Mayor Jane Castor and MLB World Series Star\, Nick Swisher. There w
+ ill be entertainment\, prizes\, and free resources for children and parent
+ s. The event\, Brave Hearts: A Rally Against Bullying\, is a first of its 
+ kind opportunity to equip your family with practical skills\, real knowled
+ ge\, and the confidence to stand up against bullying. October is National 
+ Bullying Prevention Month. Together\, we can stop bullying! Use code: UPST
+ ANDER for 50 off ticket price. \n\nPermalink: https://www.tampa.gov/node/1
+ 62511
+URL;VALUE=URI:https://www.tampa.gov/node/162511
+END:VEVENT
+BEGIN:VEVENT
+UID:2c6e96aa-1b91-49ac-9181-bf4a665de54e
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250202T160000Z
 DTEND:20250203T020000Z
 SUMMARY:Viva Tampa Bay Festival
@@ -59,37 +87,9 @@ DESCRIPTION:Viva Tampa Bay Festival The 9th annual Viva Tampa Hispanic Her
 URL;VALUE=URI:https://www.tampa.gov/node/163001
 END:VEVENT
 BEGIN:VEVENT
-UID:4a62f160-151b-4b7f-a077-14b9e420248c
+UID:cea6e9ee-8cfe-4744-8306-6ebab59f60d3
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250202T180000Z
-DTEND:20250202T213000Z
-SUMMARY:Brave Hearts: A Rally Against Bullying
-LOCATION:2555 E Hanna Ave Tampa \, FL 33610 United States
-DESCRIPTION:Your family is invited to an uplifting community event to lear
- n how to stop bullying! 33 of U.S. elementary students reported being bull
- ied often while at school. 20 of kindergarten students reported being bull
- ied often. (source: Together Against Bullying) When bullying inevitably to
- uches your childs life\, will they know what to do? Will you? Whether your
-  child has been a target or even a bystander\, bullying can be difficult t
- o discuss and resolve due to limited resources and no preparation. This ch
- anges now for kids in Tampa ages 6-13! Join nonprofit groups Wee Macree an
- d IAmMore Foundation for an afternoon filled with empowering activities de
- signed by medical and education professionals\, alongside the powerful voi
- ces of Mayor Jane Castor and MLB World Series Star\, Nick Swisher. There w
- ill be entertainment\, prizes\, and free resources for children and parent
- s. The event\, Brave Hearts: A Rally Against Bullying\, is a first of its 
- kind opportunity to equip your family with practical skills\, real knowled
- ge\, and the confidence to stand up against bullying. October is National 
- Bullying Prevention Month. Together\, we can stop bullying! Use code: UPST
- ANDER for 50 off ticket price. \n\nPermalink: https://www.tampa.gov/node/1
- 62511
-URL;VALUE=URI:https://www.tampa.gov/node/162511
-END:VEVENT
-BEGIN:VEVENT
-UID:dd68f549-4406-4b70-aa6b-ed9e5307cc11
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250202T200000Z
 DTEND:20250202T221500Z
 SUMMARY:BLACK LOVE Classics Series - Black Panther
@@ -115,9 +115,9 @@ DESCRIPTION:In 2022\, Tampa Theatres Black Love classic movie series was c
 URL;VALUE=URI:https://www.tampa.gov/node/163021
 END:VEVENT
 BEGIN:VEVENT
-UID:752579e1-3f23-45f2-bae7-5d4d72163856
+UID:5b7a35e5-b0c8-4cd0-8b1f-ccea85d27479
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250203T180000Z
 DTEND:20250203T210000Z
 SUMMARY:Ceramics
@@ -132,9 +132,9 @@ DESCRIPTION:In this course\, students will learn the fundamentals of creat
 URL;VALUE=URI:https://www.tampa.gov/node/160526
 END:VEVENT
 BEGIN:VEVENT
-UID:43c10205-c473-4eb8-a9af-a41de84f5981
+UID:8ff1dbd7-276a-4ab4-80ec-44918587bde0
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250204T230000Z
 DTEND:20250205T000000Z
 SUMMARY:Hurricane Recovery Update Meeting
@@ -152,9 +152,24 @@ DESCRIPTION:Join us to learn about ongoing recovery efforts\, the 50 rule\
 URL;VALUE=URI:https://www.tampa.gov/node/162856
 END:VEVENT
 BEGIN:VEVENT
-UID:adb239a4-9905-4c27-abe4-98d76576007b
+UID:e9769068-5a32-47c2-b86d-c5f15a124c9d
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250205T233000Z
+DTEND:20250206T010000Z
+SUMMARY:Borrell Park Community Meeting
+LOCATION:1200 East Lake Ave. Tampa \, FL 33605 United States
+DESCRIPTION:We have an important meeting coming up and would love to see y
+ ou there. Come learn about improvements that will be happening at Borrell 
+ Park and let us know your thoughts! Lets begin the steps to making Borrell
+  Park a safer and enjoyable space for everyone. \n\nPermalink: https://www
+ .tampa.gov/node/162731
+URL;VALUE=URI:https://www.tampa.gov/node/162731
+END:VEVENT
+BEGIN:VEVENT
+UID:519de675-28be-4324-972b-f4ddfe586fd4
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250205T230000Z
 DTEND:20250206T000000Z
 SUMMARY:Hurricane Recovery Update Meeting
@@ -172,44 +187,9 @@ DESCRIPTION:Join us to learn about ongoing recovery efforts\, the 50 rule\
 URL;VALUE=URI:https://www.tampa.gov/node/162861
 END:VEVENT
 BEGIN:VEVENT
-UID:a4ad4bf4-efa8-427b-ace8-df65858bb2b4
+UID:cfce1648-956f-441d-9d2e-5e5f1bbfb8f8
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250205T233000Z
-DTEND:20250206T010000Z
-SUMMARY:Borrell Park Community Meeting
-LOCATION:1200 East Lake Ave. Tampa \, FL 33605 United States
-DESCRIPTION:We have an important meeting coming up and would love to see y
- ou there. Come learn about improvements that will be happening at Borrell 
- Park and let us know your thoughts! Lets begin the steps to making Borrell
-  Park a safer and enjoyable space for everyone. \n\nPermalink: https://www
- .tampa.gov/node/162731
-URL;VALUE=URI:https://www.tampa.gov/node/162731
-END:VEVENT
-BEGIN:VEVENT
-UID:fd7205a7-80d4-45fe-a620-cbdfb8633ebc
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250206T150000Z
-DTEND:20250206T220000Z
-SUMMARY:Exhibition Opening
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Under the Spell of the Palm Tree: The Rice Collection of Cuban
-  Art traces Susie and Mitchell Rices decade-long path of discovering the a
- rt and artists of Cuba. An extensive intergenerational exhibition of moder
- n and contemporary Cuban art presents 79 paintings\, drawings\, photograph
- s\, prints\, mixed media\, art books\, and sculptures by 53 artists select
- ed and organized along six themes: The Language of Forms and the Forms of 
- Language\\\; The Prophets Dream\\\; The Great Journey\\\; Sensory Landscap
- es of Memory and Desire\\\; The Musings of Narcissus\\\; and The Spirit of
-  the Real\, the Reality of the Spirit. \n\nPermalink: https://www.tampa.go
- v/node/162161
-URL;VALUE=URI:https://www.tampa.gov/node/162161
-END:VEVENT
-BEGIN:VEVENT
-UID:0c380199-436f-4fdb-b14e-3ced19603e51
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250206T220000Z
 DTEND:20250207T010000Z
 SUMMARY:Under the Spell of the Palm Tree Opening Celebration Artist Recept
@@ -230,9 +210,29 @@ DESCRIPTION:Join us for the Tampa Museum of Arts opening celebration and a
 URL;VALUE=URI:https://www.tampa.gov/node/162081
 END:VEVENT
 BEGIN:VEVENT
-UID:11c4dfb9-ee54-40ac-85a2-314b6c495eec
+UID:8023d7b0-8bfd-4da3-b008-fe0418f9693d
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250206T150000Z
+DTEND:20250206T220000Z
+SUMMARY:Exhibition Opening
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Under the Spell of the Palm Tree: The Rice Collection of Cuban
+  Art traces Susie and Mitchell Rices decade-long path of discovering the a
+ rt and artists of Cuba. An extensive intergenerational exhibition of moder
+ n and contemporary Cuban art presents 79 paintings\, drawings\, photograph
+ s\, prints\, mixed media\, art books\, and sculptures by 53 artists select
+ ed and organized along six themes: The Language of Forms and the Forms of 
+ Language\\\; The Prophets Dream\\\; The Great Journey\\\; Sensory Landscap
+ es of Memory and Desire\\\; The Musings of Narcissus\\\; and The Spirit of
+  the Real\, the Reality of the Spirit. \n\nPermalink: https://www.tampa.go
+ v/node/162161
+URL;VALUE=URI:https://www.tampa.gov/node/162161
+END:VEVENT
+BEGIN:VEVENT
+UID:3c2d47e0-7ae1-4f24-871d-12d8a5d29847
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250207T150000Z
 DTEND:20250207T220000Z
 SUMMARY:Exhibition Opening
@@ -250,9 +250,9 @@ DESCRIPTION:Under the Spell of the Palm Tree: The Rice Collection of Cuban
 URL;VALUE=URI:https://www.tampa.gov/node/162166
 END:VEVENT
 BEGIN:VEVENT
-UID:d1234992-9444-4272-bf20-34cce7bd1c74
+UID:e45384e6-3c8d-4341-b5c2-090f1c27d367
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250207T233000Z
 DTEND:20250208T010000Z
 SUMMARY:Watoto On the Riverwalk
@@ -265,9 +265,49 @@ DESCRIPTION:Come experience the world-renowned Watoto Childrens Choir from
 URL;VALUE=URI:https://www.tampa.gov/node/163176
 END:VEVENT
 BEGIN:VEVENT
-UID:cbf9e787-2521-4e2d-8829-769bd1295f18
+UID:b3c8bf14-0b12-4ce1-ba02-bb0c0296eb14
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250208T150000Z
+DTEND:20250208T220000Z
+SUMMARY:Exhibition Opening
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Under the Spell of the Palm Tree: The Rice Collection of Cuban
+  Art traces Susie and Mitchell Rices decade-long path of discovering the a
+ rt and artists of Cuba. An extensive intergenerational exhibition of moder
+ n and contemporary Cuban art presents 79 paintings\, drawings\, photograph
+ s\, prints\, mixed media\, art books\, and sculptures by 53 artists select
+ ed and organized along six themes: The Language of Forms and the Forms of 
+ Language\\\; The Prophets Dream\\\; The Great Journey\\\; Sensory Landscap
+ es of Memory and Desire\\\; The Musings of Narcissus\\\; and The Spirit of
+  the Real\, the Reality of the Spirit. \n\nPermalink: https://www.tampa.go
+ v/node/162171
+URL;VALUE=URI:https://www.tampa.gov/node/162171
+END:VEVENT
+BEGIN:VEVENT
+UID:78024306-500f-4f56-8058-c81a37f84625
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
+DTSTART:20250208T160000Z
+DTEND:20250208T200000Z
+SUMMARY:Bark in the Park
+LOCATION:600 N. Ashley Dr Tampa \, FL 33602 United States
+DESCRIPTION:Bark in the Park is back and better than ever! Tampas favorite
+  festival is on February 8th\, 2025 at Curtis Hixon Park and includes a on
+ e-mile Walk for the Animals along Tampas beautiful downtown Riverwalk\, fo
+ llowed by a family- and pet-friendly festival with entertainment\, food dr
+ inks\, dozens of amazing vendors\, a Kid Zone\, fun activities for pets an
+ d their people\, and a showcase of adoptable dogs! Bark in the Park benefi
+ ts thousands of homeless animals each year by raising much-needed funds th
+ at provide medical care\, food\, housing\, and enrichment for the animals 
+ at the Humane Society of Tampa Bay. \n\nPermalink: https://www.tampa.gov/n
+ ode/162911
+URL;VALUE=URI:https://www.tampa.gov/node/162911
+END:VEVENT
+BEGIN:VEVENT
+UID:071683ef-a857-4b9d-8e23-4cedfc00e26c
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250208T130000Z
 DTEND:20250208T160000Z
 SUMMARY:UNCF Tampa Bay Walk for Education
@@ -287,49 +327,9 @@ DESCRIPTION:2025 UNCF Black History Month Walk for Education and Community
 URL;VALUE=URI:https://www.tampa.gov/node/163536
 END:VEVENT
 BEGIN:VEVENT
-UID:bf36b819-4de2-4d5a-8df3-b1ef10e9ba97
+UID:8ee1a193-0cd9-4ce6-8f0d-971a5a2a8464
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250208T150000Z
-DTEND:20250208T220000Z
-SUMMARY:Exhibition Opening
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Under the Spell of the Palm Tree: The Rice Collection of Cuban
-  Art traces Susie and Mitchell Rices decade-long path of discovering the a
- rt and artists of Cuba. An extensive intergenerational exhibition of moder
- n and contemporary Cuban art presents 79 paintings\, drawings\, photograph
- s\, prints\, mixed media\, art books\, and sculptures by 53 artists select
- ed and organized along six themes: The Language of Forms and the Forms of 
- Language\\\; The Prophets Dream\\\; The Great Journey\\\; Sensory Landscap
- es of Memory and Desire\\\; The Musings of Narcissus\\\; and The Spirit of
-  the Real\, the Reality of the Spirit. \n\nPermalink: https://www.tampa.go
- v/node/162171
-URL;VALUE=URI:https://www.tampa.gov/node/162171
-END:VEVENT
-BEGIN:VEVENT
-UID:0e6a546c-28ee-4895-b22c-838be5454d6f
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250208T160000Z
-DTEND:20250208T200000Z
-SUMMARY:Bark in the Park
-LOCATION:600 N. Ashley Dr Tampa \, FL 33602 United States
-DESCRIPTION:Bark in the Park is back and better than ever! Tampas favorite
-  festival is on February 8th\, 2025 at Curtis Hixon Park and includes a on
- e-mile Walk for the Animals along Tampas beautiful downtown Riverwalk\, fo
- llowed by a family- and pet-friendly festival with entertainment\, food dr
- inks\, dozens of amazing vendors\, a Kid Zone\, fun activities for pets an
- d their people\, and a showcase of adoptable dogs! Bark in the Park benefi
- ts thousands of homeless animals each year by raising much-needed funds th
- at provide medical care\, food\, housing\, and enrichment for the animals 
- at the Humane Society of Tampa Bay. \n\nPermalink: https://www.tampa.gov/n
- ode/162911
-URL;VALUE=URI:https://www.tampa.gov/node/162911
-END:VEVENT
-BEGIN:VEVENT
-UID:a8fa4b68-1984-4018-aa5d-eb9ae1408620
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250209T150000Z
 DTEND:20250209T180000Z
 SUMMARY:Ceramics Continued Study
@@ -348,9 +348,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/160711
 END:VEVENT
 BEGIN:VEVENT
-UID:6735c43a-7a1f-4caa-ba9e-14da9314a1d8
+UID:db64ae47-a2ea-4471-af53-4a66027ea494
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250209T150000Z
 DTEND:20250209T220000Z
 SUMMARY:Exhibition Opening
@@ -368,9 +368,9 @@ DESCRIPTION:Under the Spell of the Palm Tree: The Rice Collection of Cuban
 URL;VALUE=URI:https://www.tampa.gov/node/162176
 END:VEVENT
 BEGIN:VEVENT
-UID:ea723679-c651-47f2-886b-374d684f337b
+UID:a9ea8a66-5276-4b4c-9f88-c656cbd13822
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250209T150000Z
 DTEND:20250209T180000Z
 SUMMARY:Bark in the Park
@@ -384,9 +384,9 @@ DESCRIPTION:Meet and Greet for you\, your families and your best friend(s)
 URL;VALUE=URI:https://www.tampa.gov/node/162776
 END:VEVENT
 BEGIN:VEVENT
-UID:116ae8b9-294a-4f26-8cba-2709682faf89
+UID:5dcec0ab-79a7-4f71-b2a5-c87c01f11530
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250209T200000Z
 DTEND:20250209T221500Z
 SUMMARY:BLACK LOVE Classics Series - Fast Colors
@@ -408,9 +408,43 @@ DESCRIPTION:In 2022\, Tampa Theatres Black Love classic movie series was c
 URL;VALUE=URI:https://www.tampa.gov/node/163026
 END:VEVENT
 BEGIN:VEVENT
-UID:298311a6-74d0-4bd1-8e70-60ed9b8ea378
+UID:db3ff9e0-69a5-46fb-bfaf-8c643dc2058f
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250210T230000Z
+DTEND:20250211T010000Z
+SUMMARY:Teen Workshop
+LOCATION:522 N Howard Ave Tampa \, FL 33606 United States
+DESCRIPTION:Teen artists will explore a variety of mediums and work closel
+ y with innovative local teaching artists. With mentorship and socializatio
+ n at the forefront\, theyll learn about different paths in art while devel
+ oping their skills and experimenting with new techniques. Art Members enjo
+ y a 20 discount on TMA Studio Art classes. Join now (https:tampamuseum.org
+ join) Already a member? Write developmenttampamuseum.org to receive the di
+ scount code. \n\nPermalink: https://www.tampa.gov/node/160476
+URL;VALUE=URI:https://www.tampa.gov/node/160476
+END:VEVENT
+BEGIN:VEVENT
+UID:b2318639-415e-4df1-9eaf-479448b29850
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
+DTSTART:20250210T180000Z
+DTEND:20250210T210000Z
+SUMMARY:Ceramics
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:In this course\, students will learn the fundamentals of creat
+ ing ceramic artwork. Use clay to build\, mold\, and sculpt three-dimension
+ al works using coil building\, slab building\, and other hand-building tec
+ hniques. All experience levels are welcome\\\; beginners and up. Art Membe
+ rs enjoy a 20 discount on TMA Studio Art classes. Join now Already a membe
+ r? Write developmenttampamuseum.org to receive the discount code. \n\nPerm
+ alink: https://www.tampa.gov/node/160531
+URL;VALUE=URI:https://www.tampa.gov/node/160531
+END:VEVENT
+BEGIN:VEVENT
+UID:bb2a36f7-2812-421a-8227-667bf3799fe4
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250210T150000Z
 DTEND:20250210T220000Z
 SUMMARY:Exhibition Opening
@@ -428,43 +462,9 @@ DESCRIPTION:Under the Spell of the Palm Tree: The Rice Collection of Cuban
 URL;VALUE=URI:https://www.tampa.gov/node/162181
 END:VEVENT
 BEGIN:VEVENT
-UID:03216e37-b463-418d-8b07-021f410d223f
+UID:337d91b6-8d9e-41ff-a50c-016ad065bf29
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250210T180000Z
-DTEND:20250210T210000Z
-SUMMARY:Ceramics
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:In this course\, students will learn the fundamentals of creat
- ing ceramic artwork. Use clay to build\, mold\, and sculpt three-dimension
- al works using coil building\, slab building\, and other hand-building tec
- hniques. All experience levels are welcome\\\; beginners and up. Art Membe
- rs enjoy a 20 discount on TMA Studio Art classes. Join now Already a membe
- r? Write developmenttampamuseum.org to receive the discount code. \n\nPerm
- alink: https://www.tampa.gov/node/160531
-URL;VALUE=URI:https://www.tampa.gov/node/160531
-END:VEVENT
-BEGIN:VEVENT
-UID:87847d5f-729e-494c-94d3-d86648cdc557
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250210T230000Z
-DTEND:20250211T010000Z
-SUMMARY:Teen Workshop
-LOCATION:522 N Howard Ave Tampa \, FL 33606 United States
-DESCRIPTION:Teen artists will explore a variety of mediums and work closel
- y with innovative local teaching artists. With mentorship and socializatio
- n at the forefront\, theyll learn about different paths in art while devel
- oping their skills and experimenting with new techniques. Art Members enjo
- y a 20 discount on TMA Studio Art classes. Join now (https:tampamuseum.org
- join) Already a member? Write developmenttampamuseum.org to receive the di
- scount code. \n\nPermalink: https://www.tampa.gov/node/160476
-URL;VALUE=URI:https://www.tampa.gov/node/160476
-END:VEVENT
-BEGIN:VEVENT
-UID:3f804ca4-3b64-4b8d-b01c-415efab7e5b8
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250211T150000Z
 DTEND:20250211T220000Z
 SUMMARY:Exhibition Opening
@@ -482,9 +482,9 @@ DESCRIPTION:Under the Spell of the Palm Tree: The Rice Collection of Cuban
 URL;VALUE=URI:https://www.tampa.gov/node/162186
 END:VEVENT
 BEGIN:VEVENT
-UID:3f50c1bf-9088-4a0b-a04e-67d054222f16
+UID:6587b816-83bd-4cfa-976f-396e2b81b2b3
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250212T150000Z
 DTEND:20250212T220000Z
 SUMMARY:Exhibition Opening
@@ -502,9 +502,9 @@ DESCRIPTION:Under the Spell of the Palm Tree: The Rice Collection of Cuban
 URL;VALUE=URI:https://www.tampa.gov/node/162191
 END:VEVENT
 BEGIN:VEVENT
-UID:14cc5c45-f8ee-480c-9d95-40692c116643
+UID:4435ee2f-61a0-4582-a45c-da5d9846a701
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250213T150000Z
 DTEND:20250213T220000Z
 SUMMARY:Exhibition Opening
@@ -522,9 +522,9 @@ DESCRIPTION:Under the Spell of the Palm Tree: The Rice Collection of Cuban
 URL;VALUE=URI:https://www.tampa.gov/node/162196
 END:VEVENT
 BEGIN:VEVENT
-UID:b3bf2352-5763-430d-92b0-83e0adb49ff5
+UID:4f4cdd7d-4e2d-4bbf-a642-cd01d5a2d200
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250214T230000Z
 DTEND:20250215T020000Z
 SUMMARY:Science After Dark - The Science of Attraction
@@ -539,9 +539,9 @@ DESCRIPTION:Kick off your MOSI adventure with Science After Dark \, the ul
 URL;VALUE=URI:https://www.tampa.gov/node/160986
 END:VEVENT
 BEGIN:VEVENT
-UID:e4fa8be1-4abe-44ad-8bb7-4ed868531c4b
+UID:6a293194-fff8-4e6d-b89d-066725161900
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250215T130000Z
 DTEND:20250215T150000Z
 SUMMARY:Sensory Saturday
@@ -558,9 +558,9 @@ DESCRIPTION:8:00 am - 10:00 am Non-members: 7 in advance\, 10 at the door
 URL;VALUE=URI:https://www.tampa.gov/node/162636
 END:VEVENT
 BEGIN:VEVENT
-UID:c31271fb-8566-4c48-8883-8fc1a4a850e1
+UID:00a68a9e-76b4-44af-98b2-abe69b01fb78
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250216T150000Z
 DTEND:20250216T180000Z
 SUMMARY:Ceramics Continued Study
@@ -579,9 +579,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/160716
 END:VEVENT
 BEGIN:VEVENT
-UID:bb324ebd-9d6e-4488-8f4f-a7ac28901be4
+UID:78bdb170-9f0b-464e-bf31-e8c7167e91c9
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250216T190000Z
 DTEND:20250216T200000Z
 SUMMARY:Antiquities Circle Lecture: Women Religion in Classical Athens
@@ -604,9 +604,9 @@ DESCRIPTION:Despite their lack of political and economic rights\, women we
 URL;VALUE=URI:https://www.tampa.gov/node/162241
 END:VEVENT
 BEGIN:VEVENT
-UID:73a88c1f-0246-4703-93d7-1f7abe9b2049
+UID:962946e4-eeb3-41f8-96d2-8678e6a065d8
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250216T200000Z
 DTEND:20250216T221500Z
 SUMMARY:Black Love Classics Series - nope
@@ -626,9 +626,40 @@ DESCRIPTION:In 2022\, Tampa Theatres Black Love classic movie series was c
 URL;VALUE=URI:https://www.tampa.gov/node/163031
 END:VEVENT
 BEGIN:VEVENT
-UID:1cc1ea75-cadc-4753-820c-1f49de67475d
+UID:bf4e2373-46cc-429b-8f28-bed1a4718039
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250216T160000Z
+DTEND:20250216T210000Z
+SUMMARY:Galentines Brunch at Union New American
+LOCATION:1111 N Westshore Blvd Tampa \, FL 33607 United States
+DESCRIPTION:Grab your girls and celebrate friendship in style at Union New
+  Americans Galentines Brunch! Enjoy delicious brunch favorites\, sip on cr
+ aft cocktails\, and enjoy music from a live DJ. Reservations are limitedbo
+ ok your table today! \n\nPermalink: https://www.tampa.gov/node/163886
+URL;VALUE=URI:https://www.tampa.gov/node/163886
+END:VEVENT
+BEGIN:VEVENT
+UID:88a8da50-1eb7-4780-b54c-2c93f1c290fa
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
+DTSTART:20250217T180000Z
+DTEND:20250217T210000Z
+SUMMARY:Ceramics
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:In this course\, students will learn the fundamentals of creat
+ ing ceramic artwork. Use clay to build\, mold\, and sculpt three-dimension
+ al works using coil building\, slab building\, and other hand-building tec
+ hniques. All experience levels are welcome\\\; beginners and up. Art Membe
+ rs enjoy a 20 discount on TMA Studio Art classes. Join now Already a membe
+ r? Write developmenttampamuseum.org to receive the discount code. \n\nPerm
+ alink: https://www.tampa.gov/node/160536
+URL;VALUE=URI:https://www.tampa.gov/node/160536
+END:VEVENT
+BEGIN:VEVENT
+UID:3d6069b8-714a-4041-8f44-38b5923c222a
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250217T151500Z
 DTEND:20250217T181500Z
 SUMMARY:Figure Drawing
@@ -649,26 +680,93 @@ DESCRIPTION:Work in your drawing and painting media of choice or explore n
 URL;VALUE=URI:https://www.tampa.gov/node/160916
 END:VEVENT
 BEGIN:VEVENT
-UID:0d2059b3-cea6-4012-bf03-15b2f5230c65
+UID:e5c81055-259b-4e4a-9953-4dd8934c3f39
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250217T180000Z
-DTEND:20250217T210000Z
-SUMMARY:Ceramics
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:In this course\, students will learn the fundamentals of creat
- ing ceramic artwork. Use clay to build\, mold\, and sculpt three-dimension
- al works using coil building\, slab building\, and other hand-building tec
- hniques. All experience levels are welcome\\\; beginners and up. Art Membe
- rs enjoy a 20 discount on TMA Studio Art classes. Join now Already a membe
- r? Write developmenttampamuseum.org to receive the discount code. \n\nPerm
- alink: https://www.tampa.gov/node/160536
-URL;VALUE=URI:https://www.tampa.gov/node/160536
+DTSTAMP:20250214T000411Z
+DTSTART:20250219T150000Z
+DTEND:20250219T230000Z
+SUMMARY:Frontier Communications D2D In-Person Hiring Event - Tampa\, FL - 
+ Feb 2025
+LOCATION:610 N Morgan St\, 13th floor Tampa \, FL 33602 United States
+DESCRIPTION:Exciting Career Opportunity: Frontier Needs YOU! Join Our Hiri
+ ng Event and Walk Away with an Offer! Ready to fast track your career? Fro
+ ntier is hiring motivated\, driven individuals to join our Consumer Sales 
+ Teamand were offering on-the-spot job offers! This is your chance to get h
+ ired and start your next career step immediately. Positions Available: Res
+ idential Connectivity Sales Specialists - D2D Consumer Sales for the Tampa
+  area. What to Expect: Meet with Hiring Managers : Connect directly with t
+ he decision-makers who are ready to answer your questions and discuss your
+  potential fit. On-the-Spot Interviews : Show us what youve got\, and well
+  show you why this is the place to take your next career step. Immediate J
+ ob Offers : If youre a match\, you could leave with an offer in hand no wa
+ iting\, no stressjust the start of your new career! Sign-On Bonus: 5\,000!
+  Arrive at any time during the hours of 10am-6pm (all interviews are 15-20
+  mins). All day attendance is not required. \n\nPermalink: https://www.tam
+ pa.gov/node/163831
+URL;VALUE=URI:https://www.tampa.gov/node/163831
 END:VEVENT
 BEGIN:VEVENT
-UID:7d3bbf77-d1fc-4168-97b1-147fb791e590
+UID:c72e0f46-f97f-49aa-8785-64d3a2a64865
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250220T150000Z
+DTEND:20250220T230000Z
+SUMMARY:Frontier Communications D2D In-Person Hiring Event - Tampa\, FL - 
+ Feb 2025
+LOCATION:610 N Morgan St\, 13th floor Tampa \, FL 33602 United States
+DESCRIPTION:Exciting Career Opportunity: Frontier Needs YOU! Join Our Hiri
+ ng Event and Walk Away with an Offer! Ready to fast track your career? Fro
+ ntier is hiring motivated\, driven individuals to join our Consumer Sales 
+ Teamand were offering on-the-spot job offers! This is your chance to get h
+ ired and start your next career step immediately. Positions Available: Res
+ idential Connectivity Sales Specialists - D2D Consumer Sales for the Tampa
+  area. What to Expect: Meet with Hiring Managers : Connect directly with t
+ he decision-makers who are ready to answer your questions and discuss your
+  potential fit. On-the-Spot Interviews : Show us what youve got\, and well
+  show you why this is the place to take your next career step. Immediate J
+ ob Offers : If youre a match\, you could leave with an offer in hand no wa
+ iting\, no stressjust the start of your new career! Sign-On Bonus: 5\,000!
+  Arrive at any time during the hours of 10am-6pm (all interviews are 15-20
+  mins). All day attendance is not required. \n\nPermalink: https://www.tam
+ pa.gov/node/163836
+URL;VALUE=URI:https://www.tampa.gov/node/163836
+END:VEVENT
+BEGIN:VEVENT
+UID:05169bdc-b399-4017-a9b3-4fe4b7c442af
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
+DTSTART:20250222T150000Z
+DTEND:20250222T230000Z
+SUMMARY:Tampa Taco Fest
+LOCATION:4810 N Himes Ave Tampa \, FL 33614 United States
+DESCRIPTION:Get ready for the ultimate taco celebration! Join us for Tampa
+  Taco Fest 2025\, featuring the areas best taco vendors\, live music\, fam
+ ily-friendly activities\, and refreshing drinks. Whether youre a foodie or
+  just looking for a fun day out\, this is an event you wont want to miss! 
+ \n\nPermalink: https://www.tampa.gov/node/161861
+URL;VALUE=URI:https://www.tampa.gov/node/161861
+END:VEVENT
+BEGIN:VEVENT
+UID:9ed051fd-a65c-49ef-aeb5-6a8442886331
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
+DTSTART:20250222T160000Z
+DTEND:20250222T180000Z
+SUMMARY:College and Career Conversations
+LOCATION:2607 E Dr Martin Luther King Jr Blvd Tampa \, FL 33610 United Sta
+ tes
+DESCRIPTION:College Career Conversations brings together a group of paneli
+ sts who will share and discuss the strategies\, tips\, and tools that are 
+ needed as students and families consider and prepare for their future path
+ . Learn the insider secrets that will help you better navigate and prepare
+  for your college and career choices. \n\nPermalink: https://www.tampa.gov
+ /node/163086
+URL;VALUE=URI:https://www.tampa.gov/node/163086
+END:VEVENT
+BEGIN:VEVENT
+UID:fcacfcdb-fd1b-450a-8d1e-83ee09167b95
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250222T140000Z
 DTEND:20250222T160000Z
 SUMMARY:MNU Saturday Session Parks and Permits 101: Hosting Outdoor Events
@@ -690,41 +788,9 @@ DESCRIPTION:Thinking about hosting an outdoor event? Whether its a communi
 URL;VALUE=URI:https://www.tampa.gov/node/163496
 END:VEVENT
 BEGIN:VEVENT
-UID:39832cc9-756d-4888-a399-668900cc3591
+UID:a868b164-50b7-475d-8f29-05b226feb0c8
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250222T150000Z
-DTEND:20250222T230000Z
-SUMMARY:Tampa Taco Fest
-LOCATION:4810 N Himes Ave Tampa \, FL 33614 United States
-DESCRIPTION:Get ready for the ultimate taco celebration! Join us for Tampa
-  Taco Fest 2025\, featuring the areas best taco vendors\, live music\, fam
- ily-friendly activities\, and refreshing drinks. Whether youre a foodie or
-  just looking for a fun day out\, this is an event you wont want to miss! 
- \n\nPermalink: https://www.tampa.gov/node/161861
-URL;VALUE=URI:https://www.tampa.gov/node/161861
-END:VEVENT
-BEGIN:VEVENT
-UID:0d597672-6241-44b8-ad78-7f0889536b0d
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250222T160000Z
-DTEND:20250222T180000Z
-SUMMARY:College and Career Conversations
-LOCATION:2607 E Dr Martin Luther King Jr Blvd Tampa \, FL 33610 United Sta
- tes
-DESCRIPTION:College Career Conversations brings together a group of paneli
- sts who will share and discuss the strategies\, tips\, and tools that are 
- needed as students and families consider and prepare for their future path
- . Learn the insider secrets that will help you better navigate and prepare
-  for your college and career choices. \n\nPermalink: https://www.tampa.gov
- /node/163086
-URL;VALUE=URI:https://www.tampa.gov/node/163086
-END:VEVENT
-BEGIN:VEVENT
-UID:ee6e57f8-a15e-4df7-a2b7-75034e2252ce
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250223T140000Z
 DTEND:20250223T150000Z
 SUMMARY:Art on the Spectrum
@@ -741,9 +807,9 @@ DESCRIPTION:Last Sunday of Each Month\, 9am  10am Art on the Spectrum is a
 URL;VALUE=URI:https://www.tampa.gov/node/161976
 END:VEVENT
 BEGIN:VEVENT
-UID:c189fb6b-ff23-48cc-b3ca-b40c123f4392
+UID:ac809e7f-64ba-4b73-8762-571b89a44f7a
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250223T200000Z
 DTEND:20250223T223000Z
 SUMMARY:BLACK LOVE Classics Series - Hidden Figures
@@ -764,9 +830,9 @@ DESCRIPTION:In 2022\, Tampa Theatres Black Love classic movie series was c
 URL;VALUE=URI:https://www.tampa.gov/node/163036
 END:VEVENT
 BEGIN:VEVENT
-UID:565f5aba-9470-4704-a7fd-d47be0af3b05
+UID:74a4c404-b20e-4d12-b74e-89a343cc1e4c
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250224T180000Z
 DTEND:20250224T210000Z
 SUMMARY:Ceramics
@@ -781,9 +847,9 @@ DESCRIPTION:In this course\, students will learn the fundamentals of creat
 URL;VALUE=URI:https://www.tampa.gov/node/160541
 END:VEVENT
 BEGIN:VEVENT
-UID:e1f2557b-8dcd-4af0-9ea0-108fa3ba728c
+UID:ee9964f7-389e-4c66-b051-67e640f3139d
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250224T230000Z
 DTEND:20250225T020000Z
 SUMMARY:Remix: Jacob Hashimoto
@@ -798,9 +864,21 @@ DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
 URL;VALUE=URI:https://www.tampa.gov/node/160781
 END:VEVENT
 BEGIN:VEVENT
-UID:1159b2de-b057-4e56-a8bc-bdf2f1e2c5b6
+UID:89a84bf9-8303-42c9-8cce-0244ffd3d00f
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250225T233000Z
+DTEND:20250226T010000Z
+SUMMARY:Live Oaks Square Monthly Neighborhood Watch Meeting
+LOCATION:2555 Hanna Avenue Tampa \, FL 33610 United States
+DESCRIPTION:Live Oaks Square Monthly Neighborhood Watching Meeting \n\nPer
+ malink: https://www.tampa.gov/node/163766
+URL;VALUE=URI:https://www.tampa.gov/node/163766
+END:VEVENT
+BEGIN:VEVENT
+UID:91251edf-7d6e-42b4-b1e1-d00b876047bd
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250225T220000Z
 DTEND:20250226T000000Z
 SUMMARY:MacDill Safety and Resurfacing Project - Public Meeting
@@ -816,21 +894,9 @@ DESCRIPTION:City of Tampa will host a Public Meeting to serve as a forum f
 URL;VALUE=URI:https://www.tampa.gov/node/163806
 END:VEVENT
 BEGIN:VEVENT
-UID:6aa7dddc-f8aa-4a82-b815-95d9b88e2021
+UID:33d8eb6d-0d3b-44ac-8d25-ed9bc17b615d
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250225T233000Z
-DTEND:20250226T010000Z
-SUMMARY:Live Oaks Square Monthly Neighborhood Watch Meeting
-LOCATION:2555 Hanna Avenue Tampa \, FL 33610 United States
-DESCRIPTION:Live Oaks Square Monthly Neighborhood Watching Meeting \n\nPer
- malink: https://www.tampa.gov/node/163766
-URL;VALUE=URI:https://www.tampa.gov/node/163766
-END:VEVENT
-BEGIN:VEVENT
-UID:6b783688-89f4-44b0-b785-bc19672214fc
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250226T130000Z
 DTEND:20250226T200000Z
 SUMMARY:Gist25
@@ -852,9 +918,9 @@ DESCRIPTION:Join government IT leaders at GIST25 in Tampa this February! T
 URL;VALUE=URI:https://www.tampa.gov/node/163151
 END:VEVENT
 BEGIN:VEVENT
-UID:a583b505-a1b3-467d-b618-e79d92f76b5b
+UID:fa2f9deb-89ea-4ef5-93cd-b3d1b8dc4821
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250227T190000Z
 DTEND:20250227T200000Z
 SUMMARY:Art Schooled: 3rd-5th
@@ -871,9 +937,26 @@ DESCRIPTION:Try this hour-long make-and-take class for two different age r
 URL;VALUE=URI:https://www.tampa.gov/node/160681
 END:VEVENT
 BEGIN:VEVENT
-UID:7ee60dc8-fdcf-4b76-8cc8-4d8870968e5c
+UID:a15fcff4-162d-4042-b0e0-9b7f9694c35e
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250227T230000Z
+DTEND:20250228T013000Z
+SUMMARY:Teen Digital Collage Class
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Teen artists will explore a variety of mediums and work closel
+ y with innovative local teaching artists. With mentorship and socializatio
+ n at the forefront\, theyll learn about different paths in art while devel
+ oping their skills and experimenting with new techniques. Art Members enjo
+ y a 20 discount on TMA Studio Art classes. Join now (https:tampamuseum.org
+ join) Already a member? Write developmenttampamuseum.org to receive the di
+ scount code. \n\nPermalink: https://www.tampa.gov/node/160761
+URL;VALUE=URI:https://www.tampa.gov/node/160761
+END:VEVENT
+BEGIN:VEVENT
+UID:727f3f3a-ff62-44a0-897d-0efa949ff73c
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250227T223000Z
 DTEND:20250228T010000Z
 SUMMARY:SpaKitty Dinner
@@ -890,26 +973,9 @@ DESCRIPTION:Join us for a magical night by the water at HSTBs annual SpaKi
 URL;VALUE=URI:https://www.tampa.gov/node/162916
 END:VEVENT
 BEGIN:VEVENT
-UID:7183f069-8d04-41f1-8e34-c601a95f6326
+UID:d4450e02-9f1f-4349-a7e5-1cd1ab96c677
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250227T230000Z
-DTEND:20250228T013000Z
-SUMMARY:Teen Digital Collage Class
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Teen artists will explore a variety of mediums and work closel
- y with innovative local teaching artists. With mentorship and socializatio
- n at the forefront\, theyll learn about different paths in art while devel
- oping their skills and experimenting with new techniques. Art Members enjo
- y a 20 discount on TMA Studio Art classes. Join now (https:tampamuseum.org
- join) Already a member? Write developmenttampamuseum.org to receive the di
- scount code. \n\nPermalink: https://www.tampa.gov/node/160761
-URL;VALUE=URI:https://www.tampa.gov/node/160761
-END:VEVENT
-BEGIN:VEVENT
-UID:8395c311-3046-411d-aa06-f2047fb7533b
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250301T003000Z
 DTEND:20250301T020000Z
 SUMMARY:Quest by Flock
@@ -927,28 +993,9 @@ DESCRIPTION:Renowned international contemporary dance company FLOCK brings
 URL;VALUE=URI:https://www.tampa.gov/node/162956
 END:VEVENT
 BEGIN:VEVENT
-UID:ee28fc73-d777-4574-acf3-112b2f233243
+UID:15784740-e02e-4b94-a0a6-d16c5c8609b0
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250301T150000Z
-DTEND:20250301T190000Z
-SUMMARY:Bulls Family Fest
-LOCATION:4103 USF Cedar Circle Tampa \, FL 33620 United States
-DESCRIPTION:The Bulls Family Fest is an annual celebration where families 
- and the public can immerse themselves in the diverse offerings of colleges
- \, departments\, and student organizations from the University of South Fl
- orida. The Bulls Family Fest is located each year at the University of Sou
- th Florida Tampa campus. We are thrilled to extend our gratitude to all th
- e organizations and corporations that participated in Bulls Family Fest. C
- ollaborating with these community entities\, weve witnessed their remarkab
- le engagement with families and the broader community. \n\nPermalink: http
- s://www.tampa.gov/node/162576
-URL;VALUE=URI:https://www.tampa.gov/node/162576
-END:VEVENT
-BEGIN:VEVENT
-UID:5accb468-ec43-489d-9347-8fb68ca9560a
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250301T180000Z
 DTEND:20250301T220000Z
 SUMMARY:Florida Craft Brewers Festival
@@ -981,9 +1028,28 @@ DESCRIPTION:Kick off 2025s Tampa Bay Beer Week celebration with the Florid
 URL;VALUE=URI:https://www.tampa.gov/node/161516
 END:VEVENT
 BEGIN:VEVENT
-UID:f37b5ed0-57f6-4a05-96a4-f8164d20ab86
+UID:ac65c6d3-a75c-4885-a9f9-ef4b7c06d820
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250301T150000Z
+DTEND:20250301T190000Z
+SUMMARY:Bulls Family Fest
+LOCATION:4103 USF Cedar Circle Tampa \, FL 33620 United States
+DESCRIPTION:The Bulls Family Fest is an annual celebration where families 
+ and the public can immerse themselves in the diverse offerings of colleges
+ \, departments\, and student organizations from the University of South Fl
+ orida. The Bulls Family Fest is located each year at the University of Sou
+ th Florida Tampa campus. We are thrilled to extend our gratitude to all th
+ e organizations and corporations that participated in Bulls Family Fest. C
+ ollaborating with these community entities\, weve witnessed their remarkab
+ le engagement with families and the broader community. \n\nPermalink: http
+ s://www.tampa.gov/node/162576
+URL;VALUE=URI:https://www.tampa.gov/node/162576
+END:VEVENT
+BEGIN:VEVENT
+UID:990192f6-cc5b-4744-9965-900bd43a3387
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250302T003000Z
 DTEND:20250302T020000Z
 SUMMARY:Quest by Flock
@@ -1001,9 +1067,9 @@ DESCRIPTION:Renowned international contemporary dance company FLOCK brings
 URL;VALUE=URI:https://www.tampa.gov/node/162961
 END:VEVENT
 BEGIN:VEVENT
-UID:aec38fc1-2dfb-4f12-a9c6-9d0a31470bda
+UID:fd4696d2-4784-4e0f-b249-6a9a2cdf0377
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250303T180000Z
 DTEND:20250303T210000Z
 SUMMARY:Ceramics
@@ -1013,9 +1079,9 @@ DESCRIPTION:813.274.8130 studiotampamuseum.org \n\nPermalink: https://www.
 URL;VALUE=URI:https://www.tampa.gov/node/160546
 END:VEVENT
 BEGIN:VEVENT
-UID:f4e22dd1-9717-46c1-820c-885a0cb297a1
+UID:ace73d3f-901d-48b5-867a-1731bb7ee7c3
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250309T140000Z
 DTEND:20250309T170000Z
 SUMMARY:Ceramics Continued Study
@@ -1034,9 +1100,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/160721
 END:VEVENT
 BEGIN:VEVENT
-UID:9046e498-554e-43a9-a093-a46a682c52af
+UID:255ad676-cf33-47b8-97f6-a24c39f31624
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250310T220000Z
 DTEND:20250311T000000Z
 SUMMARY:Teen Workshop
@@ -1051,9 +1117,9 @@ DESCRIPTION:Teen artists will explore a variety of mediums and work closel
 URL;VALUE=URI:https://www.tampa.gov/node/160481
 END:VEVENT
 BEGIN:VEVENT
-UID:c7e4814a-0ba0-4fcd-a1e8-899973ca284a
+UID:d7acd29a-7d31-4011-aea3-50f4632e77b0
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250313T220000Z
 DTEND:20250314T010000Z
 SUMMARY:Ceramics Wheel
@@ -1070,9 +1136,9 @@ DESCRIPTION:Work with clay on the potters wheel. Beginners start with a ha
 URL;VALUE=URI:https://www.tampa.gov/node/160891
 END:VEVENT
 BEGIN:VEVENT
-UID:7e340313-3961-4db1-a837-5b0aa39c1405
+UID:be0f0cf7-276e-4d96-8f85-5a6e57f04272
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250313T220000Z
 DTEND:20250314T010000Z
 SUMMARY:Haven039\\\;s 10th Anniversary Dinner
@@ -1095,9 +1161,27 @@ DESCRIPTION:Its official\, Haven (https:haventampa.com) turns ten this Mar
 URL;VALUE=URI:https://www.tampa.gov/node/163451
 END:VEVENT
 BEGIN:VEVENT
-UID:cb9e9fa8-8412-4258-8b9f-73954c5dcbde
+UID:69c812a3-a940-435f-b536-cc97667cfd36
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250313T210000Z
+DTEND:20250314T013000Z
+SUMMARY:Buildings Alive
+LOCATION:2701 N 16th St Tampa \, FL 33605 United States
+DESCRIPTION:Buildings Alive is our annual architecture hop celebrating the
+  historical preservation and cultural heritage of Ybor City. Popular with 
+ any age\, hoppers board a rubber-wheel Jolley Trolley and visit 6 of Ybor 
+ Citys historic buildings. Each stop provides a behind-the-scenes tour whil
+ e enjoying light bites at each location. Tickets are limited! All proceeds
+  support the Ybor City Historical Society programming including the Rollin
+  Through History mobile museum and the operation of the Tampa Baseball Mus
+ eum. \n\nPermalink: https://www.tampa.gov/node/163871
+URL;VALUE=URI:https://www.tampa.gov/node/163871
+END:VEVENT
+BEGIN:VEVENT
+UID:932b5c55-a314-454b-bf46-79f590b27ce5
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250315T180000Z
 DTEND:20250315T210000Z
 SUMMARY:Studio 55: Ceramics
@@ -1112,9 +1196,9 @@ DESCRIPTION:Use clay to build\, mold\, and sculpt three-dimensional works
 URL;VALUE=URI:https://www.tampa.gov/node/160901
 END:VEVENT
 BEGIN:VEVENT
-UID:01928d93-6957-4b78-8a47-6eb7bfe17d1d
+UID:dfe33db0-e64a-4bbc-8f2a-c3fd88542612
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250315T220000Z
 DTEND:20250316T000000Z
 SUMMARY:Hope Couture Fashion Show - 10th Anniversary Edition
@@ -1127,9 +1211,9 @@ DESCRIPTION:Come out and show your support for our sickle cell community.
 URL;VALUE=URI:https://www.tampa.gov/node/162331
 END:VEVENT
 BEGIN:VEVENT
-UID:c6698aca-e23f-4530-8dd8-9da9260b7de7
+UID:d41f215d-e3cc-4ff4-8815-d3c6f8c5cc96
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250323T140000Z
 DTEND:20250323T170000Z
 SUMMARY:Ceramics Continued Study
@@ -1148,9 +1232,31 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/160726
 END:VEVENT
 BEGIN:VEVENT
-UID:ef1a1fa0-f5bd-4e4a-a44a-efb5240f3864
+UID:bddf8cd2-5339-427b-9c44-872ebfdd581e
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250323T190000Z
+DTEND:20250323T200000Z
+SUMMARY:Democracy: Ancient Modern  A Panel Discussion
+LOCATION:120 W Gasparilla Dr Tampa \, FL 33602 United States
+DESCRIPTION:After the keynote address\, Sheramy Bundrick\, Scott Perry\, J
+ ennifer Roberts and Branko van Oppen will continue the discussion about an
+ cient democracy and its influences on modern politics. The discussion will
+  focus on the development of popular government in ancient Greece\, its im
+ pact on the foundation of the United States of America. Additionally\, the
+  panelists will consider the ancient monuments and works of art related to
+  the birth of democracy in Classical Athens during the 5th century BCE. An
+ cient art and 19th-century photography illustrating archaeological sites o
+ n display at the Tampa Museum of Art will pass the review as well. The pan
+ el will engage the audience in a debate about current events and lessons l
+ earned from the near and distant past. \n\nPermalink: https://www.tampa.go
+ v/node/163271
+URL;VALUE=URI:https://www.tampa.gov/node/163271
+END:VEVENT
+BEGIN:VEVENT
+UID:20ce4e7b-9315-4931-904b-42e3e9cb819c
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250323T173000Z
 DTEND:20250323T183000Z
 SUMMARY:Antiquities Lecture: Citizen Participation in Ancient Athens
@@ -1173,31 +1279,9 @@ DESCRIPTION:After the U.S. Presidential Elections in November 2024\, it is
 URL;VALUE=URI:https://www.tampa.gov/node/163446
 END:VEVENT
 BEGIN:VEVENT
-UID:3a6383ce-7bcb-4d9e-aad6-8e7c8fa6e3ee
+UID:36da55de-5cd8-4671-9b05-707b69894667
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250323T190000Z
-DTEND:20250323T200000Z
-SUMMARY:Democracy: Ancient Modern  A Panel Discussion
-LOCATION:120 W Gasparilla Dr Tampa \, FL 33602 United States
-DESCRIPTION:After the keynote address\, Sheramy Bundrick\, Scott Perry\, J
- ennifer Roberts and Branko van Oppen will continue the discussion about an
- cient democracy and its influences on modern politics. The discussion will
-  focus on the development of popular government in ancient Greece\, its im
- pact on the foundation of the United States of America. Additionally\, the
-  panelists will consider the ancient monuments and works of art related to
-  the birth of democracy in Classical Athens during the 5th century BCE. An
- cient art and 19th-century photography illustrating archaeological sites o
- n display at the Tampa Museum of Art will pass the review as well. The pan
- el will engage the audience in a debate about current events and lessons l
- earned from the near and distant past. \n\nPermalink: https://www.tampa.go
- v/node/163271
-URL;VALUE=URI:https://www.tampa.gov/node/163271
-END:VEVENT
-BEGIN:VEVENT
-UID:511902dd-b7e3-48e4-a45e-297bbd4a8797
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250324T141500Z
 DTEND:20250324T171500Z
 SUMMARY:Figure Drawing
@@ -1218,9 +1302,9 @@ DESCRIPTION:Work in your drawing and painting media of choice or explore n
 URL;VALUE=URI:https://www.tampa.gov/node/160921
 END:VEVENT
 BEGIN:VEVENT
-UID:4cf2c263-5a1c-4fa4-882b-816efbb4b5e2
+UID:f989afa5-1b19-4045-9d76-af7948f5e872
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250327T180000Z
 DTEND:20250327T190000Z
 SUMMARY:Art Schooled: 3rd-5th
@@ -1237,9 +1321,9 @@ DESCRIPTION:Try this hour-long make-and-take class for two different age r
 URL;VALUE=URI:https://www.tampa.gov/node/160686
 END:VEVENT
 BEGIN:VEVENT
-UID:455f92c3-b7ec-4bb4-8e77-5c810fe8e119
+UID:d0c509e7-b040-4d56-b046-865cc9fa2361
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250327T220000Z
 DTEND:20250328T003000Z
 SUMMARY:Teen Digital Collage Class
@@ -1254,9 +1338,9 @@ DESCRIPTION:Teen artists will explore a variety of mediums and work closel
 URL;VALUE=URI:https://www.tampa.gov/node/160766
 END:VEVENT
 BEGIN:VEVENT
-UID:cccb2255-7270-4232-bed0-519208a7de76
+UID:07960d05-78d3-42c9-ae36-54abdfd03e3e
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250330T000000Z
 DTEND:20250330T030000Z
 SUMMARY:CITY: FashionArtCulture featuring Balmain
@@ -1277,28 +1361,9 @@ DESCRIPTION:The Tampa Museum of Art is thrilled to announce the return of
 URL;VALUE=URI:https://www.tampa.gov/node/163251
 END:VEVENT
 BEGIN:VEVENT
-UID:fd28fc4d-d494-4790-bda6-3e8e3d04620d
+UID:43c0a32f-9ebc-4e60-b975-3dcbd0fddfb9
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250330T130000Z
-DTEND:20250330T140000Z
-SUMMARY:Art on the Spectrum
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Last Sunday of Each Month\, 9am  10am Art on the Spectrum is a
-  special monthly event designed to welcome individuals with sensory sensit
- ivities\, developmental differences\, and their caregivers. Enjoy explorin
- g the museum in a calm\, low-crowd environment with sensory-friendly tools
-  and supportive assistance available. You can borrow noise-canceling headp
- hones or other sensory items from the front desk as well  just ask! This e
- vent offers children and their families a chance to connect with others wh
- o share similar experiences\, while enjoying all the museum has to offer. 
- \n\nPermalink: https://www.tampa.gov/node/161981
-URL;VALUE=URI:https://www.tampa.gov/node/161981
-END:VEVENT
-BEGIN:VEVENT
-UID:bd9f0bf8-fc30-4abe-9ff4-9ce2bb4c6e49
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250330T140000Z
 DTEND:20250330T170000Z
 SUMMARY:Ceramics Continued Study
@@ -1317,9 +1382,28 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/160731
 END:VEVENT
 BEGIN:VEVENT
-UID:41d4e289-aec3-48e2-8916-71b72afbdd80
+UID:3d764f30-0c07-404a-b74d-808eeb32e2c5
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250330T130000Z
+DTEND:20250330T140000Z
+SUMMARY:Art on the Spectrum
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Last Sunday of Each Month\, 9am  10am Art on the Spectrum is a
+  special monthly event designed to welcome individuals with sensory sensit
+ ivities\, developmental differences\, and their caregivers. Enjoy explorin
+ g the museum in a calm\, low-crowd environment with sensory-friendly tools
+  and supportive assistance available. You can borrow noise-canceling headp
+ hones or other sensory items from the front desk as well  just ask! This e
+ vent offers children and their families a chance to connect with others wh
+ o share similar experiences\, while enjoying all the museum has to offer. 
+ \n\nPermalink: https://www.tampa.gov/node/161981
+URL;VALUE=URI:https://www.tampa.gov/node/161981
+END:VEVENT
+BEGIN:VEVENT
+UID:9098cc1f-749b-4868-9a51-a9526c85ae47
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250331T220000Z
 DTEND:20250401T010000Z
 SUMMARY:Remix: Suchitra Mattai
@@ -1334,9 +1418,9 @@ DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
 URL;VALUE=URI:https://www.tampa.gov/node/160786
 END:VEVENT
 BEGIN:VEVENT
-UID:6b570ea8-106a-45a9-a6f5-adb852893237
+UID:81721e79-37ac-41fb-9603-80817d798282
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250404T223000Z
 DTEND:20250405T030000Z
 SUMMARY:Inspire\, Imagine Hope Gala
@@ -1353,9 +1437,9 @@ DESCRIPTION:The Alzheimers Association-Florida Gulf Coast Chapter presents
 URL;VALUE=URI:https://www.tampa.gov/node/159501
 END:VEVENT
 BEGIN:VEVENT
-UID:50dc45d4-9aec-47d1-ae5d-c08775f2fe21
+UID:bc3e9173-ba58-4a64-b441-0052708571e5
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250411T230000Z
 DTEND:20250412T030000Z
 SUMMARY:Tampa Bay Food and Wine Festival: Irvine Spirits Chef Showdown
@@ -1375,24 +1459,9 @@ DESCRIPTION:Brought to you by Irvines Spirits and presented by GOYA Foods
 URL;VALUE=URI:https://www.tampa.gov/node/161606
 END:VEVENT
 BEGIN:VEVENT
-UID:721705c6-24ce-456d-af75-11427de9057d
+UID:ac7d070b-d43a-413f-978a-4d2e519abef7
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250412T140000Z
-DTEND:20250412T220000Z
-SUMMARY:Sabor Cubano Fest
-LOCATION:4810 N Himes Ave Tampa \, FL 33614 United States
-DESCRIPTION:Celebrate the vibrant flavors and rhythms of Cuba at Sabor Cub
- ano Fest! Experience authentic Cuban cuisine\, live music\, dance performa
- nces\, and family-friendly fun. From savory dishes to cultural showcases\,
-  this festival is a feast for the senses. \n\nPermalink: https://www.tampa
- .gov/node/161866
-URL;VALUE=URI:https://www.tampa.gov/node/161866
-END:VEVENT
-BEGIN:VEVENT
-UID:dbfaef79-0018-49ea-8923-fe540275d723
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250412T170000Z
 DTEND:20250412T210000Z
 SUMMARY:Tampa Bay Food and Wine Festival: Grand Tasting
@@ -1416,9 +1485,24 @@ DESCRIPTION:The final day of the festival brings one of the most anticipat
 URL;VALUE=URI:https://www.tampa.gov/node/161611
 END:VEVENT
 BEGIN:VEVENT
-UID:932ce7d3-0c3b-458d-a25d-c9d4ff8533b3
+UID:ef8da4a8-3ce6-4277-a1b4-12e697b4a417
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250412T140000Z
+DTEND:20250412T220000Z
+SUMMARY:Sabor Cubano Fest
+LOCATION:4810 N Himes Ave Tampa \, FL 33614 United States
+DESCRIPTION:Celebrate the vibrant flavors and rhythms of Cuba at Sabor Cub
+ ano Fest! Experience authentic Cuban cuisine\, live music\, dance performa
+ nces\, and family-friendly fun. From savory dishes to cultural showcases\,
+  this festival is a feast for the senses. \n\nPermalink: https://www.tampa
+ .gov/node/161866
+URL;VALUE=URI:https://www.tampa.gov/node/161866
+END:VEVENT
+BEGIN:VEVENT
+UID:d18637d7-ac8d-452d-9c29-ce03c8114e63
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250412T220000Z
 DTEND:20250413T020000Z
 SUMMARY:National Pediatric Cancer Foundation039\\\;s Fashion Funds the Cur
@@ -1436,9 +1520,9 @@ DESCRIPTION:Fashion Funds the Cure is an unforgettable celebration of hope
 URL;VALUE=URI:https://www.tampa.gov/node/162571
 END:VEVENT
 BEGIN:VEVENT
-UID:d2fdd01c-3cf1-4675-af16-ae64570fd350
+UID:8449354d-cee3-481a-98c1-7c1af1486736
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250413T140000Z
 DTEND:20250413T170000Z
 SUMMARY:Ceramics Continued Study
@@ -1457,9 +1541,26 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/160741
 END:VEVENT
 BEGIN:VEVENT
-UID:a72f7038-7e5c-47d7-979d-b638169cdf7c
+UID:d439eb2c-9a10-4f04-8c9d-584f8ac5207c
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250414T220000Z
+DTEND:20250415T000000Z
+SUMMARY:Teen Workshop
+LOCATION:522 N Howard Ave Tampa \, FL 33606 United States
+DESCRIPTION:Teen artists will explore a variety of mediums and work closel
+ y with innovative local teaching artists. With mentorship and socializatio
+ n at the forefront\, theyll learn about different paths in art while devel
+ oping their skills and experimenting with new techniques. Art Members enjo
+ y a 20 discount on TMA Studio Art classes. Join now (https:tampamuseum.org
+ join) Already a member? Write developmenttampamuseum.org to receive the di
+ scount code. \n\nPermalink: https://www.tampa.gov/node/160486
+URL;VALUE=URI:https://www.tampa.gov/node/160486
+END:VEVENT
+BEGIN:VEVENT
+UID:b9d6ea2f-622d-41a0-8ff3-db1d106c160d
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250414T120000Z
 DTEND:20250415T010000Z
 SUMMARY:Building Success Summit 2025
@@ -1492,26 +1593,9 @@ DESCRIPTION:Get ready for three action-packed days of innovation\, inspira
 URL;VALUE=URI:https://www.tampa.gov/node/163066
 END:VEVENT
 BEGIN:VEVENT
-UID:f32a102c-21a1-41af-80a9-93fffaf029ca
+UID:9d7cab86-43a4-45c3-a284-e772c236391d
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250414T220000Z
-DTEND:20250415T000000Z
-SUMMARY:Teen Workshop
-LOCATION:522 N Howard Ave Tampa \, FL 33606 United States
-DESCRIPTION:Teen artists will explore a variety of mediums and work closel
- y with innovative local teaching artists. With mentorship and socializatio
- n at the forefront\, theyll learn about different paths in art while devel
- oping their skills and experimenting with new techniques. Art Members enjo
- y a 20 discount on TMA Studio Art classes. Join now (https:tampamuseum.org
- join) Already a member? Write developmenttampamuseum.org to receive the di
- scount code. \n\nPermalink: https://www.tampa.gov/node/160486
-URL;VALUE=URI:https://www.tampa.gov/node/160486
-END:VEVENT
-BEGIN:VEVENT
-UID:957bd34a-58e4-45fe-89f9-b4454cf74d3f
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250420T140000Z
 DTEND:20250420T170000Z
 SUMMARY:Ceramics Continued Study
@@ -1530,9 +1614,26 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/160746
 END:VEVENT
 BEGIN:VEVENT
-UID:2f13e0a1-7e67-4fc9-9438-6f54b2752656
+UID:84bcfcb5-cf10-43e7-a524-a5ca29fc8cd4
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250421T170000Z
+DTEND:20250421T200000Z
+SUMMARY:Ceramics
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:In this course\, students will learn the fundamentals of creat
+ ing ceramic artwork. Use clay to build\, mold\, and sculpt three-dimension
+ al works using coil building\, slab building\, and other hand-building tec
+ hniques. All experience levels are welcome\\\; beginners and up. Art Membe
+ rs enjoy a 20 discount on TMA Studio Art classes. Join now Already a membe
+ r? Write developmenttampamuseum.org to receive the discount code. \n\nPerm
+ alink: https://www.tampa.gov/node/160586
+URL;VALUE=URI:https://www.tampa.gov/node/160586
+END:VEVENT
+BEGIN:VEVENT
+UID:cf4ec6d3-f777-468c-81fa-40399e6b835b
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250421T141500Z
 DTEND:20250421T171500Z
 SUMMARY:Figure Drawing
@@ -1553,26 +1654,9 @@ DESCRIPTION:Work in your drawing and painting media of choice or explore n
 URL;VALUE=URI:https://www.tampa.gov/node/160926
 END:VEVENT
 BEGIN:VEVENT
-UID:c60b6d6e-6604-484e-b693-c09e0eab5b68
+UID:021d995d-86a3-42e8-b376-3a6eb8dfacb4
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250421T170000Z
-DTEND:20250421T200000Z
-SUMMARY:Ceramics
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:In this course\, students will learn the fundamentals of creat
- ing ceramic artwork. Use clay to build\, mold\, and sculpt three-dimension
- al works using coil building\, slab building\, and other hand-building tec
- hniques. All experience levels are welcome\\\; beginners and up. Art Membe
- rs enjoy a 20 discount on TMA Studio Art classes. Join now Already a membe
- r? Write developmenttampamuseum.org to receive the discount code. \n\nPerm
- alink: https://www.tampa.gov/node/160586
-URL;VALUE=URI:https://www.tampa.gov/node/160586
-END:VEVENT
-BEGIN:VEVENT
-UID:16553ec0-4ae6-4bf3-88c0-93dd0c4aa927
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250424T180000Z
 DTEND:20250424T190000Z
 SUMMARY:Art Schooled: 3rd-5th
@@ -1589,9 +1673,9 @@ DESCRIPTION:Try this hour-long make-and-take class for two different age r
 URL;VALUE=URI:https://www.tampa.gov/node/160691
 END:VEVENT
 BEGIN:VEVENT
-UID:dc2e5132-991d-4c8b-b9b0-289441a6e440
+UID:0d6e485a-2342-42db-9676-19687c4f03cf
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250424T220000Z
 DTEND:20250425T003000Z
 SUMMARY:Teen Digital Collage Class
@@ -1606,22 +1690,9 @@ DESCRIPTION:Teen artists will explore a variety of mediums and work closel
 URL;VALUE=URI:https://www.tampa.gov/node/160771
 END:VEVENT
 BEGIN:VEVENT
-UID:1963a553-88e7-4194-a2be-d4c2739b0ee4
+UID:6cf459aa-9f8c-48b8-bcba-868c08415bb9
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
-DTSTART:20250426T120000Z
-DTEND:20250426T150000Z
-SUMMARY:Run For Us 5K
-LOCATION:600 N Ashley Dr Tampa \, FL 33602 United States
-DESCRIPTION:The Tampa Bay Black Heritage Festival Annual 5K RunWalk for He
- alth Wellness presented by Publix. \n\nPermalink: https://www.tampa.gov/no
- de/163096
-URL;VALUE=URI:https://www.tampa.gov/node/163096
-END:VEVENT
-BEGIN:VEVENT
-UID:39e92017-9995-4484-b108-c9c40a600cf0
-SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250426T150000Z
 DTEND:20250426T160000Z
 SUMMARY:25th Tampa Bay Black Heritage Festival Music Festival
@@ -1635,9 +1706,22 @@ DESCRIPTION:25th Annual Tampa Bay Black Heritage Music Festival. Bringing
 URL;VALUE=URI:https://www.tampa.gov/node/163091
 END:VEVENT
 BEGIN:VEVENT
-UID:8bc56c77-0290-4c79-91e1-186d662b0132
+UID:2091a4cc-28ea-41a6-bef6-b798544d4524
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
+DTSTART:20250426T120000Z
+DTEND:20250426T150000Z
+SUMMARY:Run For Us 5K
+LOCATION:600 N Ashley Dr Tampa \, FL 33602 United States
+DESCRIPTION:The Tampa Bay Black Heritage Festival Annual 5K RunWalk for He
+ alth Wellness presented by Publix. \n\nPermalink: https://www.tampa.gov/no
+ de/163096
+URL;VALUE=URI:https://www.tampa.gov/node/163096
+END:VEVENT
+BEGIN:VEVENT
+UID:660f6f2c-57cf-46b4-a624-8c0ea1cb164e
+SEQUENCE:0
+DTSTAMP:20250214T000411Z
 DTSTART:20250426T210000Z
 DTEND:20250427T035900Z
 SUMMARY:Tribe Fest TAMPA featuring Inna Vision Nattali Rize
@@ -1656,9 +1740,9 @@ DESCRIPTION:Join us at Tribe Fest TAMPA for a vibrant 2-day micro festival
 URL;VALUE=URI:https://www.tampa.gov/node/163336
 END:VEVENT
 BEGIN:VEVENT
-UID:b5f247f0-fc47-4374-8b7f-8aadf224733e
+UID:abb9c612-c836-4614-b06d-90d7e2e67933
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250427T130000Z
 DTEND:20250427T140000Z
 SUMMARY:Art on the Spectrum
@@ -1675,9 +1759,9 @@ DESCRIPTION:Last Sunday of Each Month\, 9am  10am Art on the Spectrum is a
 URL;VALUE=URI:https://www.tampa.gov/node/161986
 END:VEVENT
 BEGIN:VEVENT
-UID:29d6c80a-a212-43df-9256-9a5e23d69614
+UID:39231821-909a-4306-80b1-4a480286de74
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250427T210000Z
 DTEND:20250428T020000Z
 SUMMARY:Tribe Fest TAMPA featuring Inna Vision Nattali Rize
@@ -1696,9 +1780,9 @@ DESCRIPTION:Join us at Tribe Fest TAMPA for a vibrant 2-day micro festival
 URL;VALUE=URI:https://www.tampa.gov/node/163341
 END:VEVENT
 BEGIN:VEVENT
-UID:c7e4c444-4b79-4904-8ddc-384331eefbdb
+UID:694c92da-89c2-49ad-b6dc-d00597d7c25d
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250428T170000Z
 DTEND:20250428T200000Z
 SUMMARY:Ceramics
@@ -1713,9 +1797,9 @@ DESCRIPTION:In this course\, students will learn the fundamentals of creat
 URL;VALUE=URI:https://www.tampa.gov/node/160596
 END:VEVENT
 BEGIN:VEVENT
-UID:95e9232c-3294-436d-8307-441e25d2fd32
+UID:d4803da8-8fba-4874-86e7-5b47909f6e04
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250428T220000Z
 DTEND:20250429T010000Z
 SUMMARY:Remix: Jennifer Steinkamp
@@ -1730,9 +1814,9 @@ DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
 URL;VALUE=URI:https://www.tampa.gov/node/160791
 END:VEVENT
 BEGIN:VEVENT
-UID:241ab5c5-4de2-4d48-8193-4115b1b13fe2
+UID:e1326626-cf1d-4ad3-b2ef-eee40c0327e1
 SEQUENCE:0
-DTSTAMP:20250213T000410Z
+DTSTAMP:20250214T000411Z
 DTSTART:20250503T130000Z
 DTEND:20250503T160000Z
 SUMMARY:Bladder Cancer Advocacy Walk
