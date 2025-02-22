@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Benefits - Employees
 X-WR-CALNAME:Tampa Calendar - Benefits - Employees
 X-WR-CALDESC:Community events in Tampa for Benefits - Employees
 BEGIN:VEVENT
-UID:ff632192-1c8d-44e1-97c6-b081aad52c10
+UID:f6cf4c4e-9774-4da6-8cf4-f7666cc5eb3e
 SEQUENCE:0
-DTSTAMP:20250221T000421Z
+DTSTAMP:20250222T000403Z
 DTSTART:20250212T170000Z
 DTEND:20250212T180000Z
 SUMMARY:Understanding Cardiovascular Disease (CVD)
@@ -32,9 +32,9 @@ DESCRIPTION:To Register: Understanding CVD Registration (https:urldefense.
 URL;VALUE=URI:https://www.tampa.gov/node/162231
 END:VEVENT
 BEGIN:VEVENT
-UID:6a9019d2-8c39-48c0-b46b-fe17c9d102e3
+UID:266cab9a-b610-4f54-9fcc-86abb4d9700d
 SEQUENCE:0
-DTSTAMP:20250221T000421Z
+DTSTAMP:20250222T000403Z
 DTSTART:20250218T150000Z
 DTEND:20250218T183000Z
 SUMMARY:Tampa Bay Career Bowl Job Fair
@@ -50,9 +50,9 @@ DESCRIPTION:Looking for a great new Opportunity? Over 50 top Tampa Bay Emp
 URL;VALUE=URI:https://www.tampa.gov/node/163916
 END:VEVENT
 BEGIN:VEVENT
-UID:5f7cf713-ffec-407b-9c6a-f2655186d18c
+UID:f3901ca0-b4c4-46dd-83f9-c64790991f41
 SEQUENCE:0
-DTSTAMP:20250221T000421Z
+DTSTAMP:20250222T000403Z
 DTSTART:20250219T170000Z
 DTEND:20250219T180000Z
 SUMMARY:Understanding Blood Pressure
@@ -77,9 +77,9 @@ DESCRIPTION:To Register: Understanding BP Registration (https:urldefense.c
 URL;VALUE=URI:https://www.tampa.gov/node/162221
 END:VEVENT
 BEGIN:VEVENT
-UID:5a368330-201b-4721-9da7-241d8d512bb4
+UID:73a49ca3-bdcc-4e79-80bb-55fdf83e1743
 SEQUENCE:0
-DTSTAMP:20250221T000421Z
+DTSTAMP:20250222T000403Z
 DTSTART:20250305T170000Z
 DTEND:20250305T180000Z
 SUMMARY:Healthy Eating on the Go!
@@ -97,9 +97,9 @@ DESCRIPTION:To Register: Healthy Eating on the Go Registration (https:urld
 URL;VALUE=URI:https://www.tampa.gov/node/162226
 END:VEVENT
 BEGIN:VEVENT
-UID:2b0b24bc-12ef-4d1f-8d9e-812cd981a8fe
+UID:939086e5-a1d4-4464-9840-7a0ab2bbdb2f
 SEQUENCE:0
-DTSTAMP:20250221T000421Z
+DTSTAMP:20250222T000403Z
 DTSTART:20250319T160000Z
 DTEND:20250319T170000Z
 SUMMARY:Eating for Healthy Blood Sugar
@@ -120,9 +120,9 @@ DESCRIPTION:To Register: Healthy Blood Sugar Registration (https:urldefens
 URL;VALUE=URI:https://www.tampa.gov/node/162236
 END:VEVENT
 BEGIN:VEVENT
-UID:73e4ca66-7ae7-478a-b43c-48719bedf2c1
+UID:27d961ee-a23f-47fa-a859-b960350852d2
 SEQUENCE:0
-DTSTAMP:20250221T000421Z
+DTSTAMP:20250222T000403Z
 DTSTART:20250409T160000Z
 DTEND:20250409T170000Z
 SUMMARY:How to be a Quitter: A Guide to Quitting Smoking
@@ -141,5 +141,24 @@ DESCRIPTION:Wednesday\, April 9\, 2025 12:00 PM - 1:00 PM Did you know tob
  a80401db05faca-c82a-4b9d-b9c5-0f64b6755421) \n\nPermalink: https://www.tam
  pa.gov/node/163226
 URL;VALUE=URI:https://www.tampa.gov/node/163226
+END:VEVENT
+BEGIN:VEVENT
+UID:b5d4235e-25d9-4bc2-a55b-a88d8ac29e69
+SEQUENCE:0
+DTSTAMP:20250222T000403Z
+DTSTART:20250521T160000Z
+DTEND:20250521T170000Z
+SUMMARY:Health Insurance 101: Wellness Webinar
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Wednesday\, May 21\, 2025 12:00 PM - 1:00 PM Did you know: Mor
+ e than half of Americans (51) dont understand basic health insurance terms
+ ? Nearly 90 of us have difficulty using health information to make informe
+ d decisions. During this presentation you will: Define some basic insuranc
+ e terms Gain some understanding about how your City of Tampa benefits work
+  Learn about the Wellness Incentives program and how it works alongside yo
+ ur benefit plan Understand some new thigs about preventive care and provid
+ er networks To Register: Health Insurance 101 5-21-25 \n\nPermalink: https
+ ://www.tampa.gov/node/163231
+URL;VALUE=URI:https://www.tampa.gov/node/163231
 END:VEVENT
 END:VCALENDAR
