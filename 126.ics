@@ -4,4 +4,35 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:Tampa Calendar - Police District 3
 X-WR-CALNAME:Tampa Calendar - Police District 3
 X-WR-CALDESC:Community events in Tampa for Police District 3
+BEGIN:VEVENT
+UID:e2e7f2a5-ee83-4699-8ccd-4f52a03fa9f0
+SEQUENCE:0
+DTSTAMP:20250304T000411Z
+DTSTART:20250328T130000Z
+DTEND:20250328T150000Z
+SUMMARY:Pride with Police
+LOCATION:Tampa Police District 3 3808 N. 22nd St Tampa \, FL 33610 United 
+ States
+DESCRIPTION:Join us at the Tampa Police District 3 Office for coffee and c
+ onversations. Meet the Tampa Police LGBTQ Liaison. Have open conversations
+  about safety concerns. Join the Safe Place initiative. Connect with LGBTQ
+  Business and Community Leaders. \n\nPermalink: https://www.tampa.gov/node
+ /164461
+URL;VALUE=URI:https://www.tampa.gov/node/164461
+END:VEVENT
+BEGIN:VEVENT
+UID:8c8679a0-5588-487d-8f9e-4f57e66c25c7
+SEQUENCE:0
+DTSTAMP:20250304T000411Z
+DTSTART:20250419T160000Z
+DTEND:20250419T200000Z
+SUMMARY:United Bikerz Jamboree Easter Egg Hunt
+LOCATION:Al Barnes Park 2902 N 32nd St Tampa \, FL 33605 United States
+DESCRIPTION:United Bikerz Jamboree and Tampa Police Department\, along wit
+ h other community partners\, will be hosting an Easter Egg Hunt. There wil
+ l be free games\, food\, music\, and fun for all ages. Tampa Police specia
+ lized equipment will be displayed at the event. \n\nPermalink: https://www
+ .tampa.gov/node/164531
+URL;VALUE=URI:https://www.tampa.gov/node/164531
+END:VEVENT
 END:VCALENDAR
