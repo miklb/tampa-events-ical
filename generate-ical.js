@@ -49,6 +49,7 @@ async function fetchEventsForType(typeId) {
 }
 
 async function generateCalendarForType(eventType) {
+    // Updated: changed from ical.createCalendar to direct function call
     const calendar = ical({
         name: `Tampa Calendar - ${eventType.name}`,
         description: `Community events in Tampa for ${eventType.name}`
