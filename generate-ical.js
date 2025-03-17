@@ -87,16 +87,13 @@ async function generateCalendarForType(eventType) {
                 });
         });
 
-        if (!fs.existsSync('./dist')) {
-            fs.mkdirSync('./dist');
-        }
-
          // if tid = all then save file as calendar.ics else save file as tid.ics
          if (eventType.tid === 'all') {
             eventType.tid = 'calendar';
         }
 
-        fs.writeFileSync(`./dist/${eventType.tid}.ics`, calendar.toString());
+        // Write directly to root instead of ./dist
+        fs.writeFileSync(`./${eventType.tid}.ics`, calendar.toString());
 
     } catch (error) {
         console.error(`Error generating calendar for type ${eventType.name}:`, error);
@@ -120,7 +117,8 @@ async function generateAllCalendars() {
 }
 
 function injectCalendarButtons(eventTypes) {
-    const distDir = './dist';
+    // Change this from './dist' to '.'
+    const distDir = '.';
     const files = fs.readdirSync(distDir);
     const eventTypeMap = new Map(eventTypes.map(eventType => [eventType.tid, eventType.name]));
 
@@ -151,7 +149,7 @@ function injectCalendarButtons(eventTypes) {
     const indexPath = './index.html';
     let indexHtml = fs.readFileSync(indexPath, 'utf8');
     indexHtml = indexHtml.replace('<!-- CALENDAR_BUTTONS_PLACEHOLDER -->', `<ul>${buttonsHtml}</ul>`);
-    fs.writeFileSync(path.join(distDir, 'index.html'), indexHtml);
+    fs.writeFileSync(indexPath, indexHtml);
 }
 
 generateAllCalendars();
