@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Police General
 X-WR-CALNAME:Tampa Calendar - Police General
 X-WR-CALDESC:Community events in Tampa for Police General
 BEGIN:VEVENT
-UID:ed0200bc-2bfb-4dd3-85c6-e2ce6d03c2e3
+UID:7dfc2be9-f4f2-4e22-9aab-54356a62e3de
 SEQUENCE:0
-DTSTAMP:20250320T000414Z
+DTSTAMP:20250321T000416Z
 DTSTART:20250328T130000Z
 DTEND:20250328T150000Z
 SUMMARY:Pride with Police
@@ -21,9 +21,32 @@ DESCRIPTION:Join us at the Tampa Police District 3 Office for coffee and c
 URL;VALUE=URI:https://www.tampa.gov/node/164461
 END:VEVENT
 BEGIN:VEVENT
-UID:efd026f2-a360-46ce-8ca0-118ac90dc0fa
+UID:536c0a60-5a7a-4404-b0a1-e14eb9909eba
 SEQUENCE:0
-DTSTAMP:20250320T000414Z
+DTSTAMP:20250321T000416Z
+DTSTART:20250408T140000Z
+DTEND:20250408T180000Z
+SUMMARY:Sip\, Smile\, and Support for Autism hosted by Tampa Police
+LOCATION:C.U.P. - Coffee Uniting People 802 E. Whiting St. Tampa \, FL 336
+ 02 United States
+DESCRIPTION:April is recognized as World Autism Acceptance Month\, a time 
+ dedicated to increasing awareness and fostering inclusivity for individual
+ s with autism spectrum disorder (ASD) and the broader special needs commun
+ ity. This year\, the Tampa Police Department\, in collaboration with C.U.P
+ . (Coffee Uniting People)\, will host the Sip\, Smile\, and Support for Au
+ tism event on April 8th. From 10 a.m. to 2 p.m.\, officers will work along
+ side employees with special needs\, serving patrons and promoting meaningf
+ ul interactions that encourage understanding and acceptance. In addition t
+ o the caf experience\, outdoor activities will include hand-painting publi
+ c safety vehicles and a dedicated sensory station. We welcome all communit
+ y partners to join us in support of this important initiative. We look for
+ ward to seeing you there. \n\nPermalink: https://www.tampa.gov/node/165381
+URL;VALUE=URI:https://www.tampa.gov/node/165381
+END:VEVENT
+BEGIN:VEVENT
+UID:64f100ad-7094-4496-9a25-52dcdfc15a50
+SEQUENCE:0
+DTSTAMP:20250321T000416Z
 DTSTART:20250419T160000Z
 DTEND:20250419T200000Z
 SUMMARY:United Bikerz Jamboree Easter Egg Hunt
