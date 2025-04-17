@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALNAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALDESC:Community events in Tampa for Tampa Convention Center
 BEGIN:VEVENT
-UID:44b1932f-80f8-492e-8890-75276c921602
+UID:579e32fe-a0f1-4442-9998-111e9d7a89b0
 SEQUENCE:0
-DTSTAMP:20250416T000429Z
+DTSTAMP:20250417T000429Z
 DTSTART:20250403T190000Z
 DTEND:20250406T210000Z
 SUMMARY:NCAA- Women039\\\;s Final Four Tourney Town
@@ -33,9 +33,21 @@ DESCRIPTION:If the games werent exciting enough\, Womens Final Four is bri
 URL;VALUE=URI:https://www.tampa.gov/node/161481
 END:VEVENT
 BEGIN:VEVENT
-UID:3a78a99b-fa21-463b-a1fe-a71ca393dc72
+UID:eb14e95c-e80d-400c-a74f-a99b3a00a797
 SEQUENCE:0
-DTSTAMP:20250416T000429Z
+DTSTAMP:20250417T000429Z
+DTSTART:20250410T110000Z
+DTEND:20250413T160000Z
+SUMMARY:2025 Tampa Bay Poker Run
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/164741
+URL;VALUE=URI:https://www.tampa.gov/node/164741
+END:VEVENT
+BEGIN:VEVENT
+UID:e9edf046-e9ae-4846-8d04-c2009f05ff45
+SEQUENCE:0
+DTSTAMP:20250417T000429Z
 DTSTART:20250410T110000Z
 DTEND:20250414T035900Z
 SUMMARY:Herbalife Elevate Weekend
@@ -51,21 +63,9 @@ DESCRIPTION:Herbalife is a global health and wellness community born to su
 URL;VALUE=URI:https://www.tampa.gov/node/166031
 END:VEVENT
 BEGIN:VEVENT
-UID:abc1dc59-262f-408c-90a6-d99c043999fc
+UID:28c2097b-763c-4542-b72e-5faab4981680
 SEQUENCE:0
-DTSTAMP:20250416T000429Z
-DTSTART:20250410T110000Z
-DTEND:20250413T160000Z
-SUMMARY:2025 Tampa Bay Poker Run
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/164741
-URL;VALUE=URI:https://www.tampa.gov/node/164741
-END:VEVENT
-BEGIN:VEVENT
-UID:d3a417f6-66d6-49e7-b294-290878553475
-SEQUENCE:0
-DTSTAMP:20250416T000429Z
+DTSTAMP:20250417T000429Z
 DTSTART:20250416T110000Z
 DTEND:20250421T035900Z
 SUMMARY:AKA 2025 South Atlantic Regional Conference
@@ -79,9 +79,9 @@ DESCRIPTION:This is the 72nd South Atlantic Regional Conference for the Al
 URL;VALUE=URI:https://www.tampa.gov/node/158556
 END:VEVENT
 BEGIN:VEVENT
-UID:733cf5d4-8a6c-4cfc-9478-b0a7bc425b53
+UID:a0483c5a-ad88-44c0-9165-d37a5b8009b1
 SEQUENCE:0
-DTSTAMP:20250416T000429Z
+DTSTAMP:20250417T000429Z
 DTSTART:20250416T110000Z
 DTEND:20250416T203000Z
 SUMMARY:Tampa Bay Condo HOA Expo
@@ -95,9 +95,9 @@ DESCRIPTION:Tampa Bay Condo  HOA Expo is open to the public and intended f
 URL;VALUE=URI:https://www.tampa.gov/node/158716
 END:VEVENT
 BEGIN:VEVENT
-UID:6607792a-0498-45a0-af3e-5dbc3bad1be5
+UID:72c7f9a4-e601-409e-ab6c-f6d298fd7321
 SEQUENCE:0
-DTSTAMP:20250416T000429Z
+DTSTAMP:20250417T000429Z
 DTSTART:20250424T110000Z
 DTEND:20250427T220000Z
 SUMMARY:Varsity Spirit LLC
@@ -112,9 +112,9 @@ DESCRIPTION:End-of-Season cheerleading competition that will attract young
 URL;VALUE=URI:https://www.tampa.gov/node/159266
 END:VEVENT
 BEGIN:VEVENT
-UID:3b1fd2ce-9dea-4a27-9ea0-55d01c306833
+UID:91de63fd-09a7-44a5-9989-35d9835b0939
 SEQUENCE:0
-DTSTAMP:20250416T000429Z
+DTSTAMP:20250417T000429Z
 DTSTART:20250519T100000Z
 DTEND:20250521T200000Z
 SUMMARY:Senior Living Executive Conference
@@ -133,9 +133,9 @@ DESCRIPTION:The Assisted Living Federation of America (ALFA) is the larges
 URL;VALUE=URI:https://www.tampa.gov/node/160281
 END:VEVENT
 BEGIN:VEVENT
-UID:bd243b7e-cd83-476a-a370-866557544590
+UID:ad2ee469-0881-42c0-8217-83fb1f878e44
 SEQUENCE:0
-DTSTAMP:20250416T000429Z
+DTSTAMP:20250417T000429Z
 DTSTART:20250623T120000Z
 DTEND:20250625T210000Z
 SUMMARY:Summer Institutes 2025
@@ -152,9 +152,9 @@ DESCRIPTION:For event details: www.avid.org (http:www.avid.org) or (833) 2
 URL;VALUE=URI:https://www.tampa.gov/node/162111
 END:VEVENT
 BEGIN:VEVENT
-UID:ef09b2a6-8405-40a0-a5bc-412fdd9ae029
+UID:0c91db37-2737-44f5-b9b2-e8d0e2b236a0
 SEQUENCE:0
-DTSTAMP:20250416T000429Z
+DTSTAMP:20250417T000429Z
 DTSTART:20250627T110000Z
 DTEND:20250630T035900Z
 SUMMARY:Card Party 2025 Bi Annual
@@ -167,9 +167,9 @@ DESCRIPTION:CARD PARTY is where Pokemon Fans and Pokemon creators come tog
 URL;VALUE=URI:https://www.tampa.gov/node/162406
 END:VEVENT
 BEGIN:VEVENT
-UID:c5bbde35-412f-4659-b835-6764da81f13c
+UID:8bdb8caf-568b-4e84-8ec1-fdb20eaeb399
 SEQUENCE:0
-DTSTAMP:20250416T000429Z
+DTSTAMP:20250417T000429Z
 DTSTART:20250710T200000Z
 DTEND:20250713T180000Z
 SUMMARY:Student Action Summit 2025
@@ -181,5 +181,25 @@ DESCRIPTION:For event details: www.tpusa.com (http:www.tpusa.com) Turning
  tion Center Entire Convention Center \n\nPermalink: https://www.tampa.gov/
  node/162966
 URL;VALUE=URI:https://www.tampa.gov/node/162966
+END:VEVENT
+BEGIN:VEVENT
+UID:a14b43e2-a4a0-4916-a5ca-94e8c67df5e1
+SEQUENCE:0
+DTSTAMP:20250417T000429Z
+DTSTART:20250716T040100Z
+DTEND:20250720T035900Z
+SUMMARY:Phi Beta Sigma International Conclave 2025
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:For event details: Phi Beta Sigma Fraternity Inc. is a histori
+ cally Black Greek letter fraternity founded on the campus of Howard Univer
+ sity in 1914. With over 200\,000 members in 700 collegiate and alumni chap
+ ters throughout the United States\, Africa\, Europe\, Asia\, and the Carib
+ bean\, the fraternity is a recognized leader among issues of social justic
+ e\, as well as a proponent of the interests of minority communities\, the 
+ needy\, the oppressed\, and youth. Location: Tampa Convention Center West 
+ HallBallroom A-D  Meeting Rooms \n\nPermalink: https://www.tampa.gov/node/
+ 163186
+URL;VALUE=URI:https://www.tampa.gov/node/163186
 END:VEVENT
 END:VCALENDAR
