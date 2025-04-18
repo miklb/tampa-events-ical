@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Police General
 X-WR-CALNAME:Tampa Calendar - Police General
 X-WR-CALDESC:Community events in Tampa for Police General
 BEGIN:VEVENT
-UID:320317b3-d035-4ffe-a5c8-3d2fd8b90f09
+UID:ca6f25bc-8922-4a87-a04b-7e4645c6701d
 SEQUENCE:0
-DTSTAMP:20250417T000424Z
+DTSTAMP:20250418T000423Z
 DTSTART:20250408T140000Z
 DTEND:20250408T180000Z
 SUMMARY:Sip\, Smile\, and Support for Autism hosted by Tampa Police
@@ -28,9 +28,9 @@ DESCRIPTION:April is recognized as World Autism Acceptance Month\, a time
 URL;VALUE=URI:https://www.tampa.gov/node/165381
 END:VEVENT
 BEGIN:VEVENT
-UID:56d3c153-657e-48da-ac7f-85de6006622d
+UID:edb467c3-1978-4ce7-9b70-00e989d879f6
 SEQUENCE:0
-DTSTAMP:20250417T000424Z
+DTSTAMP:20250418T000423Z
 DTSTART:20250419T160000Z
 DTEND:20250419T200000Z
 SUMMARY:United Bikerz Jamboree Easter Egg Hunt
@@ -41,5 +41,35 @@ DESCRIPTION:United Bikerz Jamboree and Tampa Police Department\, along wit
  lized equipment will be displayed at the event. \n\nPermalink: https://www
  .tampa.gov/node/164531
 URL;VALUE=URI:https://www.tampa.gov/node/164531
+END:VEVENT
+BEGIN:VEVENT
+UID:f84af57c-bf04-46d5-85a0-abed32f57ca3
+SEQUENCE:0
+DTSTAMP:20250418T000423Z
+DTSTART:20250501T230000Z
+DTEND:20250502T010000Z
+SUMMARY:2025 Tampa Police Memorial Ceremony
+LOCATION:Tampa Police Department Headquarters 411 N Franklin St Monument t
+ o Fallen Officers Tampa \, FL 33602 United States
+DESCRIPTION:The Tampa Police Department will commemorate the sacrifices of
+  its fallen members during the annual Tampa Police Memorial Ceremony. Mayo
+ r Jane Castor and Chief Lee Bercaw\, in partnership with the Tampa Police 
+ Memorial Committee\, will lead a tribute to the thirty-two officers of the
+  Tampa Police Department who made the ultimate sacrifice in service to our
+  community\, as well as all law enforcement officers across the nation who
+  laid down their lives in the line of duty. The memorial will take place o
+ n Wednesday\, May 1\, 2025\, at 7:00 PM in front of the Monument to Fallen
+  Officers at One Police Center. The ceremony will feature the Tampa Police
+  Honor Guard\, a traditional 21-Gun Salute\, the symbolism of a Riderless 
+ Horse\, the St. Andrews Pipes Drums of Tampa Bay\, and a flyover by the Ta
+ mpa Police Aviation Unit. The Tampa Police Department extends an invitatio
+ n for our community to stand alongside the men and women of the department
+  as they honor the memory of our thirty-two fallen officers. This solemn o
+ ccasion serves as a poignant reminder of the unwavering dedication and pro
+ found risks undertaken by law enforcement professionals. For those unable 
+ to attend the ceremony in person\, a live stream will be available at www.
+ facebook.comTampaPD (https:www.facebook.comTampaPD). \n\nPermalink: https:
+ //www.tampa.gov/node/166866
+URL;VALUE=URI:https://www.tampa.gov/node/166866
 END:VEVENT
 END:VCALENDAR
