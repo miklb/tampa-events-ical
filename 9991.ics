@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALNAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALDESC:Community events in Tampa for Tampa Convention Center
 BEGIN:VEVENT
-UID:0946ad5b-9838-4e9d-9fd3-99adfacd20ea
+UID:f8dacf14-d305-4dfd-8809-3c6ced6b53b3
 SEQUENCE:0
-DTSTAMP:20250425T000424Z
+DTSTAMP:20250426T000424Z
 DTSTART:20250416T110000Z
 DTEND:20250421T035900Z
 SUMMARY:AKA 2025 South Atlantic Regional Conference
@@ -21,9 +21,9 @@ DESCRIPTION:This is the 72nd South Atlantic Regional Conference for the Al
 URL;VALUE=URI:https://www.tampa.gov/node/158556
 END:VEVENT
 BEGIN:VEVENT
-UID:62f75e21-e433-4a0f-916c-382dbe0a3c96
+UID:1131bde0-8235-4718-a618-b362b33c89d2
 SEQUENCE:0
-DTSTAMP:20250425T000424Z
+DTSTAMP:20250426T000424Z
 DTSTART:20250424T110000Z
 DTEND:20250427T220000Z
 SUMMARY:Varsity Spirit LLC
@@ -38,9 +38,9 @@ DESCRIPTION:End-of-Season cheerleading competition that will attract young
 URL;VALUE=URI:https://www.tampa.gov/node/159266
 END:VEVENT
 BEGIN:VEVENT
-UID:403a0b18-cd4f-41ef-912d-17d425135c59
+UID:eb038f07-d3c7-4faa-a3b2-71348130dabf
 SEQUENCE:0
-DTSTAMP:20250425T000424Z
+DTSTAMP:20250426T000424Z
 DTSTART:20250519T100000Z
 DTEND:20250521T200000Z
 SUMMARY:Senior Living Executive Conference
@@ -59,9 +59,9 @@ DESCRIPTION:The Assisted Living Federation of America (ALFA) is the larges
 URL;VALUE=URI:https://www.tampa.gov/node/160281
 END:VEVENT
 BEGIN:VEVENT
-UID:e17a6a81-8bb7-4289-bcb6-0ddc4e2e557e
+UID:af813069-1ec9-497c-a1d9-747c28a5db8d
 SEQUENCE:0
-DTSTAMP:20250425T000424Z
+DTSTAMP:20250426T000424Z
 DTSTART:20250623T120000Z
 DTEND:20250625T210000Z
 SUMMARY:Summer Institutes 2025
@@ -78,9 +78,9 @@ DESCRIPTION:For event details: www.avid.org (http:www.avid.org) or (833) 2
 URL;VALUE=URI:https://www.tampa.gov/node/162111
 END:VEVENT
 BEGIN:VEVENT
-UID:d73bba4e-a931-46ba-8957-91303b24f6a8
+UID:f69a2981-598d-42a0-a8fb-686f587ba57f
 SEQUENCE:0
-DTSTAMP:20250425T000424Z
+DTSTAMP:20250426T000424Z
 DTSTART:20250627T110000Z
 DTEND:20250630T035900Z
 SUMMARY:Card Party 2025 Bi Annual
@@ -93,9 +93,9 @@ DESCRIPTION:CARD PARTY is where Pokemon Fans and Pokemon creators come tog
 URL;VALUE=URI:https://www.tampa.gov/node/162406
 END:VEVENT
 BEGIN:VEVENT
-UID:735f4ed7-8d27-42f8-819f-dc6d40a6d092
+UID:39969d03-b720-43d5-8925-a326bfce6d9e
 SEQUENCE:0
-DTSTAMP:20250425T000424Z
+DTSTAMP:20250426T000424Z
 DTSTART:20250710T200000Z
 DTEND:20250713T180000Z
 SUMMARY:Student Action Summit 2025
@@ -109,9 +109,9 @@ DESCRIPTION:For event details: www.tpusa.com (http:www.tpusa.com) Turning
 URL;VALUE=URI:https://www.tampa.gov/node/162966
 END:VEVENT
 BEGIN:VEVENT
-UID:fc2c9ea3-348f-4335-a7ab-7b782c0063b0
+UID:a94c236d-209d-4270-9d76-0249ad91a29c
 SEQUENCE:0
-DTSTAMP:20250425T000424Z
+DTSTAMP:20250426T000424Z
 DTSTART:20250716T040100Z
 DTEND:20250720T035900Z
 SUMMARY:Phi Beta Sigma International Conclave 2025
@@ -129,9 +129,9 @@ DESCRIPTION:For event details: Phi Beta Sigma Fraternity Inc. is a histori
 URL;VALUE=URI:https://www.tampa.gov/node/163186
 END:VEVENT
 BEGIN:VEVENT
-UID:d0b24fb9-f8e1-403d-9c19-74689d06bd56
+UID:10ab6228-fd0d-4849-971c-8c3ec689dadf
 SEQUENCE:0
-DTSTAMP:20250425T000424Z
+DTSTAMP:20250426T000424Z
 DTSTART:20250717T110000Z
 DTEND:20250723T035900Z
 SUMMARY:Zeta Organizational Leadership Training (ZOL)
@@ -139,5 +139,26 @@ LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
  d States
 DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/163256
 URL;VALUE=URI:https://www.tampa.gov/node/163256
+END:VEVENT
+BEGIN:VEVENT
+UID:db87a284-5345-49d7-a772-b39f5fd7a075
+SEQUENCE:0
+DTSTAMP:20250426T000424Z
+DTSTART:20250725T160000Z
+DTEND:20250727T230000Z
+SUMMARY:METROCON-Annual Convention 2025
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:For event details: metroconventions.com (https:metroconvention
+ s.com) Floridas largest anime convention\, METROCON boasts a number of exc
+ iting stage shows\, unique vendors\, exciting panelists\, and interactive 
+ events throughout the weekend\, including the world famous Anime Human Che
+ ss Match\, where characters from your favorite anime and video games will 
+ battle it out for the fate of the world! Tickets may be purchased online o
+ r onsite. All onsite ticket sales are CASHLESS. Please visit metroconventi
+ ons.com (https:metroconventions.com) for tickets  pricing. Location: Tampa
+  Convention Center Entire Convention Center \n\nPermalink: https://www.tam
+ pa.gov/node/163596
+URL;VALUE=URI:https://www.tampa.gov/node/163596
 END:VEVENT
 END:VCALENDAR
