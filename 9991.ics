@@ -5,26 +5,9 @@ NAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALNAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALDESC:Community events in Tampa for Tampa Convention Center
 BEGIN:VEVENT
-UID:c0e75c05-a3bc-48ec-a741-cdb45d11d863
+UID:c6245e48-26a9-431c-9fc5-e6fcfc44d0df
 SEQUENCE:0
-DTSTAMP:20250501T000513Z
-DTSTART:20250424T110000Z
-DTEND:20250427T220000Z
-SUMMARY:Varsity Spirit LLC
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:End-of-Season cheerleading competition that will attract young
-  athletes (ages 1018) from all over the United States. Anticipated 70 out-
- of-state participation for this annual event. For event details: www.varsi
- ty.com (https:www.varsity.com) Location: Tampa Convention Center EastWestC
- entral Hall\, Ballrooms  Meeting Rooms \n\nPermalink: https://www.tampa.go
- v/node/159266
-URL;VALUE=URI:https://www.tampa.gov/node/159266
-END:VEVENT
-BEGIN:VEVENT
-UID:ac1ad939-d1a7-4f32-9283-2f168af9020f
-SEQUENCE:0
-DTSTAMP:20250501T000513Z
+DTSTAMP:20250502T000422Z
 DTSTART:20250519T100000Z
 DTEND:20250521T200000Z
 SUMMARY:Senior Living Executive Conference
@@ -43,9 +26,9 @@ DESCRIPTION:The Assisted Living Federation of America (ALFA) is the larges
 URL;VALUE=URI:https://www.tampa.gov/node/160281
 END:VEVENT
 BEGIN:VEVENT
-UID:d7edb6ad-8b91-4013-b34b-841a4b14c2b7
+UID:3deec0cc-d9da-4b9f-8b77-044641e49322
 SEQUENCE:0
-DTSTAMP:20250501T000513Z
+DTSTAMP:20250502T000422Z
 DTSTART:20250623T120000Z
 DTEND:20250625T210000Z
 SUMMARY:Summer Institutes 2025
@@ -62,9 +45,9 @@ DESCRIPTION:For event details: www.avid.org (http:www.avid.org) or (833) 2
 URL;VALUE=URI:https://www.tampa.gov/node/162111
 END:VEVENT
 BEGIN:VEVENT
-UID:f1daa740-c048-4592-921f-c51452572cf5
+UID:82be5286-a133-4740-88ce-26e130e953c3
 SEQUENCE:0
-DTSTAMP:20250501T000513Z
+DTSTAMP:20250502T000422Z
 DTSTART:20250627T110000Z
 DTEND:20250630T035900Z
 SUMMARY:Card Party 2025 Bi Annual
@@ -77,9 +60,9 @@ DESCRIPTION:CARD PARTY is where Pokemon Fans and Pokemon creators come tog
 URL;VALUE=URI:https://www.tampa.gov/node/162406
 END:VEVENT
 BEGIN:VEVENT
-UID:13550d73-3c31-488e-8d9d-ef2ee656266f
+UID:84a2c4d5-c4ec-4b0c-be3f-fdeeb2b67092
 SEQUENCE:0
-DTSTAMP:20250501T000513Z
+DTSTAMP:20250502T000422Z
 DTSTART:20250710T200000Z
 DTEND:20250713T180000Z
 SUMMARY:Student Action Summit 2025
@@ -93,9 +76,9 @@ DESCRIPTION:For event details: www.tpusa.com (http:www.tpusa.com) Turning
 URL;VALUE=URI:https://www.tampa.gov/node/162966
 END:VEVENT
 BEGIN:VEVENT
-UID:1448d311-f656-4982-afb0-df79033d7150
+UID:3a854e3d-6ffe-494f-b912-451503efbc62
 SEQUENCE:0
-DTSTAMP:20250501T000513Z
+DTSTAMP:20250502T000422Z
 DTSTART:20250716T040100Z
 DTEND:20250720T035900Z
 SUMMARY:Phi Beta Sigma International Conclave 2025
@@ -113,9 +96,9 @@ DESCRIPTION:For event details: Phi Beta Sigma Fraternity Inc. is a histori
 URL;VALUE=URI:https://www.tampa.gov/node/163186
 END:VEVENT
 BEGIN:VEVENT
-UID:dcbf5600-ea48-4984-b759-77fe8138aed5
+UID:d9cdf99f-6d1e-468d-9b9e-3d668089c01f
 SEQUENCE:0
-DTSTAMP:20250501T000513Z
+DTSTAMP:20250502T000422Z
 DTSTART:20250717T110000Z
 DTEND:20250723T035900Z
 SUMMARY:Zeta Organizational Leadership Training (ZOL)
@@ -125,9 +108,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/163256
 URL;VALUE=URI:https://www.tampa.gov/node/163256
 END:VEVENT
 BEGIN:VEVENT
-UID:e45b6637-f494-47ff-9c81-1578c4a805cf
+UID:613d0a38-9206-4acc-bee5-96c68d53fb64
 SEQUENCE:0
-DTSTAMP:20250501T000513Z
+DTSTAMP:20250502T000422Z
 DTSTART:20250725T160000Z
 DTEND:20250727T230000Z
 SUMMARY:METROCON-Annual Convention 2025
@@ -144,5 +127,24 @@ DESCRIPTION:For event details: metroconventions.com (https:metroconvention
   Convention Center Entire Convention Center \n\nPermalink: https://www.tam
  pa.gov/node/163596
 URL;VALUE=URI:https://www.tampa.gov/node/163596
+END:VEVENT
+BEGIN:VEVENT
+UID:9cddcaff-0343-4302-bddc-2e96fe3c87b8
+SEQUENCE:0
+DTSTAMP:20250502T000422Z
+DTSTART:20250801T110000Z
+DTEND:20250803T210000Z
+SUMMARY:Tampa Bay Comic Convention
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:For event details: www.tampabaycomicconvention.com. (http:www.
+ tampabaycomicconvention.com.) The Tampa Bay Comic Convention is a comic bo
+ ok convention located in Tampa\, Florida. The convention has been in exist
+ ence since 2000. Comic books\, toys\, cosplay\, artjust a cornucopia of ne
+ rdy fun! As Floridas 1 family-friendly and fan owned comic book convention
+ \, the Tampa Bay Comic Convention is the perfect place to let your inner-n
+ erd run wild and free! Location: Tampa Convention Center Entire Convention
+  Center \n\nPermalink: https://www.tampa.gov/node/163896
+URL;VALUE=URI:https://www.tampa.gov/node/163896
 END:VEVENT
 END:VCALENDAR
