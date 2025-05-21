@@ -4,4 +4,19 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:Tampa Calendar - Police District 3
 X-WR-CALNAME:Tampa Calendar - Police District 3
 X-WR-CALDESC:Community events in Tampa for Police District 3
+BEGIN:VEVENT
+UID:3d8f8030-08b8-491a-bf9d-4b1050e5344b
+SEQUENCE:0
+DTSTAMP:20250521T000430Z
+DTSTART:20250619T200000Z
+DTEND:20250619T230000Z
+SUMMARY:Tampa Police Juneteenth Summer Block Party
+LOCATION:Tampa \, FL United States
+DESCRIPTION:The Tampa Police Department Black History Committee is proud t
+ o announce the second annual Juneteenth Summer Block Party at Perry Harvey
+  Park. This event will feature local vendors\, nonprofits\, special recogn
+ itions and raffles. Perry Harvey Sr Park 1000 E. Harrison St Tampa\, FL 33
+ 602 \n\nPermalink: https://www.tampa.gov/node/168336
+URL;VALUE=URI:https://www.tampa.gov/node/168336
+END:VEVENT
 END:VCALENDAR
