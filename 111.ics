@@ -5,9 +5,9 @@ NAME:Tampa Calendar - General
 X-WR-CALNAME:Tampa Calendar - General
 X-WR-CALDESC:Community events in Tampa for General
 BEGIN:VEVENT
-UID:1f53fa87-24cb-4736-8a1a-f51e5091b20e
+UID:76f7913b-05c8-4d1d-ad71-891601bfe1df
 SEQUENCE:0
-DTSTAMP:20250605T000434Z
+DTSTAMP:20250606T000434Z
 DTSTART:20250613T140000Z
 DTEND:20250613T180000Z
 SUMMARY:Tampa Tech Show
@@ -27,5 +27,22 @@ DESCRIPTION:Ready to see whats next in tech? Step into the Future of Innov
  ?idcwOdjZFctEWQWxL-kYy2KFh9mFCrFfBAkSLosF6WyA9UN0dOWkw2WTFWUUJTVFZFUUNNWFd
  aMkg0MS4u routeshorturl). \n\nPermalink: https://www.tampa.gov/node/168666
 URL;VALUE=URI:https://www.tampa.gov/node/168666
+END:VEVENT
+BEGIN:VEVENT
+UID:4672a5cc-6481-4f14-b8a8-dc4808163a93
+SEQUENCE:0
+DTSTAMP:20250606T000434Z
+DTSTART:20250704T200000Z
+DTEND:20250705T020000Z
+SUMMARY:Boom by the Bay 2025
+LOCATION:Julian B. Lane Riverfront Park 1001 N Blvd Tampa \, FL 33607 Unit
+ ed States
+DESCRIPTION:Boom by the Bay 2025 will encompass The Heights District Fourt
+ h of July Celebration at Armature Works\, Star Spangled Sparkman Wharf and
+  the Friends of the Tampa Riverwalk July 4 th Boat Parade along the Hillsb
+ orough River. For more details visit our Boom by the Bay Event Website (ht
+ tps:www.tampa.goveventsboom) \n\nPermalink: https://www.tampa.gov/node/169
+ 206
+URL;VALUE=URI:https://www.tampa.gov/node/169206
 END:VEVENT
 END:VCALENDAR
