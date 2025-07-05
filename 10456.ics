@@ -6,9 +6,9 @@ X-WR-CALNAME:Tampa Calendar - Asian and Pacific Islander Events
 X-WR-CALDESC:Community events in Tampa for Asian and Pacific Islander Even
  ts
 BEGIN:VEVENT
-UID:f4d0a94b-1d3d-43ba-9220-ecf21250d7da
+UID:fcf91f7a-26ed-4c07-a221-784cb921642c
 SEQUENCE:0
-DTSTAMP:20250704T000439Z
+DTSTAMP:20250705T000417Z
 DTSTART:20250802T180000Z
 DTEND:20250803T030000Z
 SUMMARY:Summer Vibes Asian Street Food Festival
@@ -29,9 +29,9 @@ DESCRIPTION:This August\, join thousands of food lovers and culture seeker
 URL;VALUE=URI:https://www.tampa.gov/node/169816
 END:VEVENT
 BEGIN:VEVENT
-UID:7612c67a-0a7d-4c9b-9ea4-afee6d45246f
+UID:a2b8bb82-8474-4b3a-87a6-8d2324ca2f97
 SEQUENCE:0
-DTSTAMP:20250704T000439Z
+DTSTAMP:20250705T000417Z
 DTSTART:20250803T180000Z
 DTEND:20250804T030000Z
 SUMMARY:Summer Vibes Asian Street Food Festival
@@ -50,5 +50,23 @@ DESCRIPTION:This August\, join thousands of food lovers and culture seeker
  \, desserts\, and nonstop summer vibes! \n\nPermalink: https://www.tampa.g
  ov/node/169816
 URL;VALUE=URI:https://www.tampa.gov/node/169816
+END:VEVENT
+BEGIN:VEVENT
+UID:bfd3515b-4b0a-4e8d-b3ec-71cc27201776
+SEQUENCE:0
+DTSTAMP:20250705T000417Z
+DTSTART:20251004T220000Z
+DTEND:20251005T040000Z
+SUMMARY:Sampaguita Ball
+LOCATION:Bayanihan Arts and Events Center 14301 Nine Eagles Drive Tampa \,
+  FL 33626 United States
+DESCRIPTION:As a premier red-carpet fundraiser\, tickets are priced at 125
+ 175 per person\, which includes complimentary valet parking\, a deluxe ope
+ n bar\, and a sumptuous seven-course Chinese Lauriat dinner catered by Hao
+ -Wah Catering (https:www.haowah.com)\, with live entertainment by NeilsGan
+ gBand Filipino Band. Please note that this is a reservations-only event wi
+ th limited spots available on a first-paid basis. \n\nPermalink: https://w
+ ww.tampa.gov/node/169811
+URL;VALUE=URI:https://www.tampa.gov/node/169811
 END:VEVENT
 END:VCALENDAR
