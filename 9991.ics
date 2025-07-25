@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALNAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALDESC:Community events in Tampa for Tampa Convention Center
 BEGIN:VEVENT
-UID:2564b44e-0ece-4593-9fdb-f9ee0befcd1e
+UID:ad137900-99f0-4773-8a70-12d706431d52
 SEQUENCE:0
-DTSTAMP:20250724T000445Z
+DTSTAMP:20250725T000500Z
 DTSTART:20250716T040100Z
 DTEND:20250720T035900Z
 SUMMARY:Phi Beta Sigma International Conclave 2025
@@ -25,26 +25,9 @@ DESCRIPTION:For event details: Phi Beta Sigma Fraternity Inc. is a histori
 URL;VALUE=URI:https://www.tampa.gov/node/163186
 END:VEVENT
 BEGIN:VEVENT
-UID:89c5b4e2-314f-4b58-a72b-bae0e1f404f5
+UID:78820c10-9ce0-421a-b8de-b0dc40c5562d
 SEQUENCE:0
-DTSTAMP:20250724T000445Z
-DTSTART:20250717T110000Z
-DTEND:20250723T035900Z
-SUMMARY:Zeta Organizational Leadership Training (ZOL)
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:Zeta Phi Beta Sorority\, Inc. is a historically African Americ
- an sorority. In 1920\, five women from Howard University envisioned a soro
- rity that would raise the consciousness of their people\, encourage the hi
- ghest standards of scholastic achievement\, and foster a greater sense of 
- unity among its members. Registration required \n\nPermalink: https://www.
- tampa.gov/node/163256
-URL;VALUE=URI:https://www.tampa.gov/node/163256
-END:VEVENT
-BEGIN:VEVENT
-UID:ab544f0f-e2fb-42f5-abf9-556f7b1e5800
-SEQUENCE:0
-DTSTAMP:20250724T000445Z
+DTSTAMP:20250725T000500Z
 DTSTART:20250725T160000Z
 DTEND:20250727T230000Z
 SUMMARY:METROCON-Annual Convention 2025
@@ -63,9 +46,9 @@ DESCRIPTION:For event details: metroconventions.com (https:metroconvention
 URL;VALUE=URI:https://www.tampa.gov/node/163596
 END:VEVENT
 BEGIN:VEVENT
-UID:e33dcbfd-a693-4395-8829-9eb50269edf6
+UID:dc6a0992-ceb3-4e63-b45e-fd52c01a02dd
 SEQUENCE:0
-DTSTAMP:20250724T000445Z
+DTSTAMP:20250725T000500Z
 DTSTART:20250801T110000Z
 DTEND:20250803T210000Z
 SUMMARY:Tampa Bay Comic Convention
@@ -82,9 +65,9 @@ DESCRIPTION:For event details: www.tampabaycomicconvention.com. (http:www.
 URL;VALUE=URI:https://www.tampa.gov/node/163896
 END:VEVENT
 BEGIN:VEVENT
-UID:3225291e-26da-428f-9885-0c8c82bb5138
+UID:3c6dcaa4-02fe-477a-b56b-109ddda976e6
 SEQUENCE:0
-DTSTAMP:20250724T000445Z
+DTSTAMP:20250725T000500Z
 DTSTART:20250822T120000Z
 DTEND:20250826T210000Z
 SUMMARY:The American Legion National Convention 2025
@@ -111,9 +94,9 @@ DESCRIPTION:The American Legion conducts its annual National Convention in
 URL;VALUE=URI:https://www.tampa.gov/node/165076
 END:VEVENT
 BEGIN:VEVENT
-UID:59241de4-a2d8-4083-9690-aaf4947c31e7
+UID:a7519a1d-43b6-4836-8897-755a08c10d20
 SEQUENCE:0
-DTSTAMP:20250724T000445Z
+DTSTAMP:20250725T000500Z
 DTSTART:20250916T110000Z
 DTEND:20250918T035900Z
 SUMMARY:AZA Annual Conference
@@ -132,9 +115,9 @@ DESCRIPTION:AZA conferences have grown enormously over the years\, from fe
 URL;VALUE=URI:https://www.tampa.gov/node/167056
 END:VEVENT
 BEGIN:VEVENT
-UID:2c4ce71d-2ccf-4110-99b7-70c132957b7d
+UID:195acfa0-db91-4461-a509-8030ff6348f2
 SEQUENCE:0
-DTSTAMP:20250724T000445Z
+DTSTAMP:20250725T000500Z
 DTSTART:20250925T110000Z
 DTEND:20250926T230000Z
 SUMMARY:YA by the Bay Book Festival 2025
@@ -146,9 +129,9 @@ DESCRIPTION:This is a book fair for Hills. Co. Schools. Location: Tampa Co
 URL;VALUE=URI:https://www.tampa.gov/node/167061
 END:VEVENT
 BEGIN:VEVENT
-UID:2246ed48-89b7-4b34-87e0-3a6e153a9c47
+UID:b5f1ca5e-0bd7-4617-aece-5903cfe4ee3f
 SEQUENCE:0
-DTSTAMP:20250724T000445Z
+DTSTAMP:20250725T000500Z
 DTSTART:20250927T110000Z
 DTEND:20250928T035900Z
 SUMMARY:NAACP Freedom Fund Dinner
@@ -158,9 +141,22 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/167066
 URL;VALUE=URI:https://www.tampa.gov/node/167066
 END:VEVENT
 BEGIN:VEVENT
-UID:14d0f870-bba4-4158-817b-f87cdfaa97dc
+UID:246e3142-53b4-4f6c-8c71-db0ac78074e3
 SEQUENCE:0
-DTSTAMP:20250724T000445Z
+DTSTAMP:20250725T000500Z
+DTSTART:20251017T120000Z
+DTEND:20251017T200000Z
+SUMMARY:Gasparilla Bowl Inshore Slam Fishing Tournament
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:Location: Tampa Convention Center Front Drive \n\nPermalink: h
+ ttps://www.tampa.gov/node/167571
+URL;VALUE=URI:https://www.tampa.gov/node/167571
+END:VEVENT
+BEGIN:VEVENT
+UID:d9c4d7d2-9112-4c75-a3b7-39b6090f4630
+SEQUENCE:0
+DTSTAMP:20250725T000500Z
 DTSTART:20251017T100000Z
 DTEND:20251019T210000Z
 SUMMARY:Tampa Home Show
@@ -175,22 +171,9 @@ DESCRIPTION:For event details: www.tampahomeshow.com (http:www.tampahomesh
 URL;VALUE=URI:https://www.tampa.gov/node/167576
 END:VEVENT
 BEGIN:VEVENT
-UID:95cd9a09-8f2f-4a3b-8774-e563c0eaedff
+UID:c077fee3-4cf2-470f-9ff0-e7f5e383853e
 SEQUENCE:0
-DTSTAMP:20250724T000445Z
-DTSTART:20251017T120000Z
-DTEND:20251017T200000Z
-SUMMARY:Gasparilla Bowl Inshore Slam Fishing Tournament
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:Location: Tampa Convention Center Front Drive \n\nPermalink: h
- ttps://www.tampa.gov/node/167571
-URL;VALUE=URI:https://www.tampa.gov/node/167571
-END:VEVENT
-BEGIN:VEVENT
-UID:e714a5bc-f31f-4a8c-9247-ce8c8eba07c9
-SEQUENCE:0
-DTSTAMP:20250724T000445Z
+DTSTAMP:20250725T000500Z
 DTSTART:20251018T230000Z
 DTEND:20251019T030000Z
 SUMMARY:Humane Society of Tampa Bay
@@ -207,9 +190,9 @@ DESCRIPTION:For event details: www.humanesocietytampa.org (http:www.humane
 URL;VALUE=URI:https://www.tampa.gov/node/167581
 END:VEVENT
 BEGIN:VEVENT
-UID:d7492feb-e72c-46bc-9965-2abbd0d1494f
+UID:e30c3427-0aa7-4e2b-9c76-b86c8d993849
 SEQUENCE:0
-DTSTAMP:20250724T000445Z
+DTSTAMP:20250725T000500Z
 DTSTART:20251021T110000Z
 DTEND:20251021T203000Z
 SUMMARY:Tampa Bay Condo HOA Expo
