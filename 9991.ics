@@ -5,9 +5,23 @@ NAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALNAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALDESC:Community events in Tampa for Tampa Convention Center
 BEGIN:VEVENT
-UID:2a1be57a-4e87-4c99-8347-4fc06816fab5
+UID:c147cfce-48a5-4b50-a0c2-4a74f09036dd
 SEQUENCE:0
-DTSTAMP:20250807T000516Z
+DTSTAMP:20250808T000505Z
+DTSTART:20250810T120000Z
+DTEND:20250813T160000Z
+SUMMARY:ASCE - 2025 Pipelines Conference
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:This is an educational conference for the Society of Civil Eng
+ ineers members. Location: Tampa Convention Center Entire Convention Center
+  \n\nPermalink: https://www.tampa.gov/node/171561
+URL;VALUE=URI:https://www.tampa.gov/node/171561
+END:VEVENT
+BEGIN:VEVENT
+UID:d6e8ce6f-efe5-4e2b-9fa2-69fd4871dc03
+SEQUENCE:0
+DTSTAMP:20250808T000505Z
 DTSTART:20250822T120000Z
 DTEND:20250828T210000Z
 SUMMARY:The American Legion National Convention 2025
@@ -32,9 +46,9 @@ DESCRIPTION:The American Legion conducts its annual National Convention in
 URL;VALUE=URI:https://www.tampa.gov/node/165076
 END:VEVENT
 BEGIN:VEVENT
-UID:3ce38255-be89-4cf1-9b02-b0a1714080c5
+UID:f8893a71-9328-4224-99c7-9a7f9bd04415
 SEQUENCE:0
-DTSTAMP:20250807T000516Z
+DTSTAMP:20250808T000505Z
 DTSTART:20250916T110000Z
 DTEND:20250918T035900Z
 SUMMARY:AZA Annual Conference
@@ -53,9 +67,9 @@ DESCRIPTION:AZA conferences have grown enormously over the years\, from fe
 URL;VALUE=URI:https://www.tampa.gov/node/167056
 END:VEVENT
 BEGIN:VEVENT
-UID:e86a9c75-e188-4d56-a4be-dbe15b129fdf
+UID:32e32e1a-9dfe-4847-b1ad-028f85096b24
 SEQUENCE:0
-DTSTAMP:20250807T000516Z
+DTSTAMP:20250808T000505Z
 DTSTART:20250925T110000Z
 DTEND:20250926T230000Z
 SUMMARY:YA by the Bay Book Festival 2025
@@ -67,9 +81,9 @@ DESCRIPTION:This is a book fair for Hills. Co. Schools. Location: Tampa Co
 URL;VALUE=URI:https://www.tampa.gov/node/167061
 END:VEVENT
 BEGIN:VEVENT
-UID:ab0a83d9-163c-47ee-b18a-4da5c28ac772
+UID:96927677-97f7-473a-8b10-68819c662b09
 SEQUENCE:0
-DTSTAMP:20250807T000516Z
+DTSTAMP:20250808T000505Z
 DTSTART:20250927T110000Z
 DTEND:20250928T035900Z
 SUMMARY:NAACP Freedom Fund Dinner
@@ -79,9 +93,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/167066
 URL;VALUE=URI:https://www.tampa.gov/node/167066
 END:VEVENT
 BEGIN:VEVENT
-UID:20710e1d-09e6-4938-adaa-afb5e0b0a366
+UID:2f8d1f82-69c2-41d7-8558-ad58b953c7cc
 SEQUENCE:0
-DTSTAMP:20250807T000516Z
+DTSTAMP:20250808T000505Z
 DTSTART:20251017T120000Z
 DTEND:20251017T200000Z
 SUMMARY:Gasparilla Bowl Inshore Slam Fishing Tournament
@@ -92,9 +106,9 @@ DESCRIPTION:Location: Tampa Convention Center Front Drive \n\nPermalink: h
 URL;VALUE=URI:https://www.tampa.gov/node/167571
 END:VEVENT
 BEGIN:VEVENT
-UID:3250ed87-85c4-4170-a55f-f9ab296a82c2
+UID:231b4cf4-cec4-4c62-bfdb-8eab67f2adb2
 SEQUENCE:0
-DTSTAMP:20250807T000516Z
+DTSTAMP:20250808T000505Z
 DTSTART:20251017T100000Z
 DTEND:20251019T210000Z
 SUMMARY:Tampa Home Show
@@ -109,9 +123,9 @@ DESCRIPTION:For event details: www.tampahomeshow.com (http:www.tampahomesh
 URL;VALUE=URI:https://www.tampa.gov/node/167576
 END:VEVENT
 BEGIN:VEVENT
-UID:7b392207-ef4b-4a5c-a8f9-12baa731dc10
+UID:1fe6b1fa-1712-4c52-9399-2358ee2fab9d
 SEQUENCE:0
-DTSTAMP:20250807T000516Z
+DTSTAMP:20250808T000505Z
 DTSTART:20251018T230000Z
 DTEND:20251019T030000Z
 SUMMARY:Humane Society of Tampa Bay
@@ -128,9 +142,9 @@ DESCRIPTION:For event details: www.humanesocietytampa.org (http:www.humane
 URL;VALUE=URI:https://www.tampa.gov/node/167581
 END:VEVENT
 BEGIN:VEVENT
-UID:66bfbbd4-6532-40a6-9e16-4e8e8ec15185
+UID:9c135485-14f2-40e3-8f92-33ebfd582b80
 SEQUENCE:0
-DTSTAMP:20250807T000516Z
+DTSTAMP:20250808T000505Z
 DTSTART:20251021T110000Z
 DTEND:20251021T203000Z
 SUMMARY:Tampa Bay Condo HOA Expo
@@ -140,9 +154,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/167701
 URL;VALUE=URI:https://www.tampa.gov/node/167701
 END:VEVENT
 BEGIN:VEVENT
-UID:ba93c84f-d781-4db2-94c1-4bdd61fa4340
+UID:0bf9c869-988a-4159-9867-65eede1363af
 SEQUENCE:0
-DTSTAMP:20250807T000516Z
+DTSTAMP:20250808T000505Z
 DTSTART:20251026T110000Z
 DTEND:20251029T210000Z
 SUMMARY:ICMA Annual Conference
@@ -171,9 +185,9 @@ DESCRIPTION:PURPOSE OF MEETING: Since 1914\, ICMAs annual conference has e
 URL;VALUE=URI:https://www.tampa.gov/node/167961
 END:VEVENT
 BEGIN:VEVENT
-UID:fe7ff724-6b06-40d8-ac5a-738d681179a7
+UID:5230ec19-688d-40c5-85cc-7cbdc9ac9848
 SEQUENCE:0
-DTSTAMP:20250807T000516Z
+DTSTAMP:20250808T000505Z
 DTSTART:20251030T150000Z
 DTEND:20251030T190000Z
 SUMMARY:Tampa Veterans Job Fair
@@ -183,9 +197,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/168081
 URL;VALUE=URI:https://www.tampa.gov/node/168081
 END:VEVENT
 BEGIN:VEVENT
-UID:db482d2d-2049-483a-82a7-3deafb1baff3
+UID:3757acb0-6b60-490b-a961-27166fe16c7a
 SEQUENCE:0
-DTSTAMP:20250807T000516Z
+DTSTAMP:20250808T000505Z
 DTSTART:20251030T203000Z
 DTEND:20251030T233000Z
 SUMMARY:2025 Florida College IMPACT
@@ -200,9 +214,9 @@ DESCRIPTION:Event details: floridacollege.edu (https:floridacollege.eduimp
 URL;VALUE=URI:https://www.tampa.gov/node/168086
 END:VEVENT
 BEGIN:VEVENT
-UID:f767979b-99e3-428d-af76-a9ffd838bdb3
+UID:4eae5b96-a8f2-4374-a3d5-24f4fc53a0ce
 SEQUENCE:0
-DTSTAMP:20250807T000516Z
+DTSTAMP:20250808T000505Z
 DTSTART:20251031T110000Z
 DTEND:20251103T045900Z
 SUMMARY:Franchise Expo
@@ -219,5 +233,47 @@ DESCRIPTION:Own your own business and take the next step to becoming your
  seshowinfo.comtampa-visito) \n\nPermalink: https://www.tampa.gov/node/1681
  06
 URL;VALUE=URI:https://www.tampa.gov/node/168106
+END:VEVENT
+BEGIN:VEVENT
+UID:92959261-c06c-4b6a-9a78-c0a75146b82e
+SEQUENCE:0
+DTSTAMP:20250808T000505Z
+DTSTART:20251107T130000Z
+DTEND:20251109T045900Z
+SUMMARY:IBEW Local 108 - 125th Anniversary
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:125th Anniversary gala celebration to include cocktails  hors 
+ doeuvres\, opening ceremonies\, plated dinner\, program of speakers and en
+ tertainment and dancing. Event time: 6pm-Midnight \n\nPermalink: https://w
+ ww.tampa.gov/node/168556
+URL;VALUE=URI:https://www.tampa.gov/node/168556
+END:VEVENT
+BEGIN:VEVENT
+UID:973b1e27-73bd-459e-986f-395a26cb6602
+SEQUENCE:0
+DTSTAMP:20250808T000505Z
+DTSTART:20251107T100000Z
+DTEND:20251108T000000Z
+SUMMARY:Port Tampa Bayslam
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:The Port Tampa Bayslam is a 1-day catch and release charity fi
+ shing tournament benefiting the Tampa Bay Maritime Scholarship Foundation 
+ and Tampa Port Ministries. Location: Tampa Convention Center Landing \n\nP
+ ermalink: https://www.tampa.gov/node/168546
+URL;VALUE=URI:https://www.tampa.gov/node/168546
+END:VEVENT
+BEGIN:VEVENT
+UID:7452e64d-c501-47f9-bf30-ea08e17d89dd
+SEQUENCE:0
+DTSTAMP:20250808T000505Z
+DTSTART:20251107T120000Z
+DTEND:20251110T045900Z
+SUMMARY:Tattoo Arts Convention 2025
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/168551
+URL;VALUE=URI:https://www.tampa.gov/node/168551
 END:VEVENT
 END:VCALENDAR
