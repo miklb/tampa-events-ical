@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Office Closures
 X-WR-CALNAME:Tampa Calendar - Office Closures
 X-WR-CALDESC:Community events in Tampa for Office Closures
 BEGIN:VEVENT
-UID:b83cf994-32a3-45fb-b139-6cfc617b9021
+UID:a977bebe-04ee-4893-9fa9-cd38b2b7a1f6
 SEQUENCE:0
-DTSTAMP:20250811T000522Z
+DTSTAMP:20250812T000448Z
 DTSTART:20250901T040000Z
 DTEND:20250902T035900Z
 SUMMARY:Labor Day Monday - City Office Closures
@@ -17,5 +17,19 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
  Solid Waste Collection Schedule Calendar for more information \n\nPermalin
  k: https://www.tampa.gov/node/103976
 URL;VALUE=URI:https://www.tampa.gov/node/103976
+END:VEVENT
+BEGIN:VEVENT
+UID:ed341258-89e0-4394-ac90-fd6d2af65e73
+SEQUENCE:0
+DTSTAMP:20250812T000448Z
+DTSTART:20251111T050000Z
+DTEND:20251112T045900Z
+SUMMARY:Veterans Day Tuesday - City Office Closures
+LOCATION:Tampa \, FL United States
+DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
+  be closed. For trash\, recycling\, or yard waste pickup disruptions: See 
+ Solid Waste Collection Schedule Calendar for more information \n\nPermalin
+ k: https://www.tampa.gov/node/158721
+URL;VALUE=URI:https://www.tampa.gov/node/158721
 END:VEVENT
 END:VCALENDAR
