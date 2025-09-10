@@ -5,9 +5,24 @@ NAME:Tampa Calendar - Police General
 X-WR-CALNAME:Tampa Calendar - Police General
 X-WR-CALDESC:Community events in Tampa for Police General
 BEGIN:VEVENT
-UID:ab3867db-2129-486f-943e-2bdf563a19cb
+UID:c314fcf5-da2f-4033-8042-5af8bd5f2b77
 SEQUENCE:0
-DTSTAMP:20250909T000416Z
+DTSTAMP:20250910T000414Z
+DTSTART:20250924T223000Z
+DTEND:20250924T233000Z
+SUMMARY:Signal 87 Summit
+LOCATION:The Canopy at West River 1147 W. Main St Tampa \, FL 33607 United
+  States
+DESCRIPTION:Join Tampa Police officers\, local leaders\, and neighborhood 
+ residents for a relaxed get-together where we chat\, share ideas\, and wor
+ k together to build a stronger community. \n\nPermalink: https://www.tampa
+ .gov/node/172871
+URL;VALUE=URI:https://www.tampa.gov/node/172871
+END:VEVENT
+BEGIN:VEVENT
+UID:cbee6b79-9489-43c6-b476-04a4ff3b0d71
+SEQUENCE:0
+DTSTAMP:20250910T000414Z
 DTSTART:20251004T220000Z
 DTEND:20251005T010000Z
 SUMMARY:Faith and Blue
@@ -19,9 +34,9 @@ DESCRIPTION:Faith and Blue is a night where law enforcement\, community me
 URL;VALUE=URI:https://www.tampa.gov/node/172846
 END:VEVENT
 BEGIN:VEVENT
-UID:a94feaad-5f3a-469c-ae78-015e1e0c046b
+UID:b80679d6-a667-4536-a4c5-7eece9740b24
 SEQUENCE:0
-DTSTAMP:20250909T000416Z
+DTSTAMP:20250910T000414Z
 DTSTART:20251011T120000Z
 DTEND:20251011T160000Z
 SUMMARY:31st Annual Tampa Police Memorial Run
