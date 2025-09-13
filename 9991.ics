@@ -5,27 +5,9 @@ NAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALNAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALDESC:Community events in Tampa for Tampa Convention Center
 BEGIN:VEVENT
-UID:2fc0bb69-a46d-44f4-ae12-be4fa70e1fc2
+UID:a2be8163-0f24-4685-9a68-00b237b8e6f4
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
-DTSTART:20250905T170000Z
-DTEND:20250905T200000Z
-SUMMARY:NSU White Coat Ceremony
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:The White Coat Ceremony is a rite of passage for medical stude
- nts. During the ceremony\, a white coat is placed on each students shoulde
- rs and often the Hippocratic Oath is recited\, signifying their entrance i
- nto the medical profession. The ceremony serves to welcome new medical stu
- dents to the profession and reinforce the value of humanism as foundationa
- l to medicine. Location: Tampa Convention Center Ballroom A-B  Meeting Roo
- ms \n\nPermalink: https://www.tampa.gov/node/172211
-URL;VALUE=URI:https://www.tampa.gov/node/172211
-END:VEVENT
-BEGIN:VEVENT
-UID:05968e61-7ce6-4784-9f1f-225f26d439c3
-SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20250916T110000Z
 DTEND:20250918T035900Z
 SUMMARY:AZA Annual Conference
@@ -44,9 +26,9 @@ DESCRIPTION:AZA conferences have grown enormously over the years\, from fe
 URL;VALUE=URI:https://www.tampa.gov/node/167056
 END:VEVENT
 BEGIN:VEVENT
-UID:75bd1794-ccb6-4caf-93c1-52e81b929ff3
+UID:04015d27-7d16-45a1-9505-fa46cff4f0a2
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20250925T110000Z
 DTEND:20250926T230000Z
 SUMMARY:YA by the Bay Book Festival 2025
@@ -58,9 +40,28 @@ DESCRIPTION:This is a book fair for Hills. Co. Schools. Location: Tampa Co
 URL;VALUE=URI:https://www.tampa.gov/node/167061
 END:VEVENT
 BEGIN:VEVENT
-UID:1b964db8-a98f-4af8-b509-a5a7355525d0
+UID:883413c7-be56-46a9-88ce-cbf1e35e1518
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
+DTSTART:20250925T170000Z
+DTEND:20250925T210000Z
+SUMMARY:The Young Professionals Regional Summit
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:The Young Professionals Regional Summit\, hosted by Emerging L
+ eaders of Tampa Bay\, a leadership program of the Tampa Bay Chamber) will 
+ have approximately 250 young professionals from the Tampa Bay area (Clearw
+ ater\, St. Petersburg and Tampa) at the Tampa Convention Center for a half
+  day of professional development\, networking and education in General Ses
+ sion and Breakout seminars. Registration is required to participate. 1 - 5
+ pm. Location: Tampa Convention Center Meeting Rooms \n\nPermalink: https:/
+ /www.tampa.gov/node/173016
+URL;VALUE=URI:https://www.tampa.gov/node/173016
+END:VEVENT
+BEGIN:VEVENT
+UID:371d26b4-387a-4134-a991-9bec2bc552fd
+SEQUENCE:0
+DTSTAMP:20250913T000402Z
 DTSTART:20250927T110000Z
 DTEND:20250928T035900Z
 SUMMARY:NAACP Freedom Fund Dinner
@@ -70,9 +71,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/167066
 URL;VALUE=URI:https://www.tampa.gov/node/167066
 END:VEVENT
 BEGIN:VEVENT
-UID:de11f317-04a8-4d15-9021-82c0370b5c70
+UID:fcb990c8-17cc-42bd-a743-1b129a5d634b
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20251017T100000Z
 DTEND:20251019T210000Z
 SUMMARY:Tampa Home Show
@@ -87,9 +88,9 @@ DESCRIPTION:For event details: www.tampahomeshow.com (http:www.tampahomesh
 URL;VALUE=URI:https://www.tampa.gov/node/167576
 END:VEVENT
 BEGIN:VEVENT
-UID:cb38ab0a-be58-41ef-bfac-1edadada39c3
+UID:1d6db01d-464a-4a70-844e-590f1357d12b
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20251017T120000Z
 DTEND:20251017T200000Z
 SUMMARY:Gasparilla Bowl Inshore Slam Fishing Tournament
@@ -104,9 +105,9 @@ DESCRIPTION:The Gasparilla Bowl Inshore Slam Fishing Tournament is held an
 URL;VALUE=URI:https://www.tampa.gov/node/167571
 END:VEVENT
 BEGIN:VEVENT
-UID:fc695bdc-8945-44f4-92fe-dfa16e7dc775
+UID:df9a3055-8e04-4e23-8e9f-e07dfe4ccfcb
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20251018T230000Z
 DTEND:20251019T030000Z
 SUMMARY:Humane Society of Tampa Bay
@@ -123,9 +124,9 @@ DESCRIPTION:For event details: www.humanesocietytampa.org (http:www.humane
 URL;VALUE=URI:https://www.tampa.gov/node/167581
 END:VEVENT
 BEGIN:VEVENT
-UID:c1403a29-abbb-42d6-8fba-aa323f666496
+UID:71d38036-b645-4f9e-9f61-b067cb4005a9
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20251021T110000Z
 DTEND:20251021T203000Z
 SUMMARY:Tampa Bay Condo HOA Expo
@@ -135,9 +136,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/167701
 URL;VALUE=URI:https://www.tampa.gov/node/167701
 END:VEVENT
 BEGIN:VEVENT
-UID:42c06ff0-2191-40a4-bf06-b6eb34e96b5e
+UID:6b2dac38-4a83-4c3e-be6d-ca0b200ce881
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20251026T110000Z
 DTEND:20251029T210000Z
 SUMMARY:ICMA Annual Conference
@@ -166,9 +167,9 @@ DESCRIPTION:PURPOSE OF MEETING: Since 1914\, ICMAs annual conference has e
 URL;VALUE=URI:https://www.tampa.gov/node/167961
 END:VEVENT
 BEGIN:VEVENT
-UID:3adaa673-e805-4723-83e8-ddfcdb782299
+UID:ade0866f-2dc6-4995-931d-a244b6679ae9
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20251030T203000Z
 DTEND:20251030T233000Z
 SUMMARY:2025 Florida College IMPACT
@@ -183,9 +184,9 @@ DESCRIPTION:Event details: floridacollege.edu (https:floridacollege.eduimp
 URL;VALUE=URI:https://www.tampa.gov/node/168086
 END:VEVENT
 BEGIN:VEVENT
-UID:87865c3e-1099-4005-b7f4-058227ba0a06
+UID:ee7bacd5-b869-4957-966b-0295387e5b02
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20251030T150000Z
 DTEND:20251030T190000Z
 SUMMARY:Tampa Veterans Job Fair
@@ -195,9 +196,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/168081
 URL;VALUE=URI:https://www.tampa.gov/node/168081
 END:VEVENT
 BEGIN:VEVENT
-UID:e51488d1-b47e-49f8-a617-7b4e220a2b3c
+UID:de6dadfb-73fd-46e9-9ef9-0ef0dd8e6d17
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20251031T110000Z
 DTEND:20251103T045900Z
 SUMMARY:Franchise Expo
@@ -216,9 +217,9 @@ DESCRIPTION:Own your own business and take the next step to becoming your
 URL;VALUE=URI:https://www.tampa.gov/node/168106
 END:VEVENT
 BEGIN:VEVENT
-UID:a52bd547-1ba8-4963-b397-b5cf240d6df1
+UID:d46048dd-53bc-433e-870a-a682f379c8a1
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20251107T100000Z
 DTEND:20251108T000000Z
 SUMMARY:Port Tampa Bayslam
@@ -231,9 +232,9 @@ DESCRIPTION:The Port Tampa Bayslam is a 1-day catch and release charity fi
 URL;VALUE=URI:https://www.tampa.gov/node/168546
 END:VEVENT
 BEGIN:VEVENT
-UID:aac80509-33b5-4287-990f-8c0bdbf647da
+UID:af774743-e056-4f53-9126-88f44783b94d
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20251107T120000Z
 DTEND:20251110T045900Z
 SUMMARY:Tattoo Arts Convention 2025
@@ -243,9 +244,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/168551
 URL;VALUE=URI:https://www.tampa.gov/node/168551
 END:VEVENT
 BEGIN:VEVENT
-UID:6b351d8b-1cad-4eb1-8494-93ac0b807fa1
+UID:bd436129-b1a5-415e-94d3-28ee9e697472
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20251107T130000Z
 DTEND:20251109T045900Z
 SUMMARY:IBEW Local 108 - 125th Anniversary
@@ -257,9 +258,9 @@ DESCRIPTION:125th Anniversary gala celebration to include cocktails  hors
 URL;VALUE=URI:https://www.tampa.gov/node/168556
 END:VEVENT
 BEGIN:VEVENT
-UID:c1f65a04-766f-4bbe-9ca4-223f567b8313
+UID:28090d77-a757-4a39-974d-af256451956b
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
 DTSTART:20251114T120000Z
 DTEND:20251116T050000Z
 SUMMARY:Hack Your Health
@@ -276,9 +277,26 @@ DESCRIPTION:The Worlds Largest Conference For Hacking Your Health! Learn c
 URL;VALUE=URI:https://www.tampa.gov/node/168861
 END:VEVENT
 BEGIN:VEVENT
-UID:cc030a7e-5271-449a-9fa8-a7f9971140ba
+UID:11434346-e939-4497-a7eb-4fe35628bd08
 SEQUENCE:0
-DTSTAMP:20250912T000414Z
+DTSTAMP:20250913T000402Z
+DTSTART:20251204T170000Z
+DTEND:20251204T183000Z
+SUMMARY:Tampa Bay Chamber-Annual Luncheon
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:For event details: www.tampabaychamber.com (http:www.tampabayc
+ hamber.com) The Chambers final signature event of the calendar is a celebr
+ ation of the years achievements\, a presentation of the Chambers vision fo
+ r the future\, and the installation of new leadership. Location: Tampa Con
+ vention Center Ballroom B-D  Meeting Rooms \n\nPermalink: https://www.tamp
+ a.gov/node/173021
+URL;VALUE=URI:https://www.tampa.gov/node/173021
+END:VEVENT
+BEGIN:VEVENT
+UID:51881996-ffa4-47c2-8c3a-d6e602ce7e15
+SEQUENCE:0
+DTSTAMP:20250913T000402Z
 DTSTART:20251208T120000Z
 DTEND:20251210T190000Z
 SUMMARY:Dealer Week: The MRAA Conference Expo
