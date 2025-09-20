@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALNAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALDESC:Community events in Tampa for Special Events/Parks&amp;Rec
 BEGIN:VEVENT
-UID:d14fa47b-6258-4d28-a8e9-c9aaae37eb9b
+UID:7b08aaf8-5ff2-4f7c-ac06-be2fe9a86c36
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20250903T150000Z
 DTEND:20250903T180000Z
 SUMMARY:Mayor039\\\;s Food Truck Fiesta
@@ -20,9 +20,9 @@ DESCRIPTION:Mayors Food Truck Fiesta Wednesday\, September 3\, 2025 11am-2
 URL;VALUE=URI:https://www.tampa.gov/node/165961
 END:VEVENT
 BEGIN:VEVENT
-UID:89a980e5-9b4a-4d88-b30b-a82294e61fbb
+UID:cdfc7a32-6856-4445-9b0a-0864d2aa1783
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20250906T130000Z
 DTEND:20250906T170000Z
 SUMMARY:Ybor City Saturday Market
@@ -34,9 +34,9 @@ DESCRIPTION:Ybor City Saturday Market Centennial Park Saturday\, September
 URL;VALUE=URI:https://www.tampa.gov/node/158311
 END:VEVENT
 BEGIN:VEVENT
-UID:df22502b-9622-45d6-8e03-8fd1c9dd67f2
+UID:4695b678-7b5f-4863-a543-f5b64195fa4c
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20250913T130000Z
 DTEND:20250913T170000Z
 SUMMARY:Ybor City Saturday Market
@@ -48,9 +48,9 @@ DESCRIPTION:Ybor City Saturday Market Centennial Park Saturday\, September
 URL;VALUE=URI:https://www.tampa.gov/node/158316
 END:VEVENT
 BEGIN:VEVENT
-UID:1bab596b-3ec9-4da3-87bf-2f1886cea865
+UID:438a5d1c-7cde-48c4-8da7-af65f3a4ce9c
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20250919T200000Z
 DTEND:20250920T020000Z
 SUMMARY:Mega Market Mid Autumn Asian Festival
@@ -65,9 +65,23 @@ DESCRIPTION:Organized by the team behind some of the countys most popular
 URL;VALUE=URI:https://www.tampa.gov/node/172661
 END:VEVENT
 BEGIN:VEVENT
-UID:3afc6b7b-df3a-4813-b1c9-8cc9896d0de1
+UID:f66d2f49-84d6-4e22-8046-1d34bb645cc3
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
+DTSTART:20250920T130000Z
+DTEND:20250920T170000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E 8th Ave Tampa \, FL United States
+DESCRIPTION:Ybor City Saturday Market Centennial Park Saturday\, September
+  20\, 2025 Event 9am-1pm For additional information\, visit Ybor City Satu
+ rday Markethttps:ybormarket.com (https:ybormarket.com) \n\nPermalink: http
+ s://www.tampa.gov/node/158321
+URL;VALUE=URI:https://www.tampa.gov/node/158321
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa7ac1a-fd0c-487a-996e-a03f5d82cac0
+SEQUENCE:0
+DTSTAMP:20250920T000402Z
 DTSTART:20250920T150000Z
 DTEND:20250921T030000Z
 SUMMARY:Mega Market Mid Autumn Asian Festival
@@ -82,23 +96,9 @@ DESCRIPTION:Organized by the team behind some of the countys most popular
 URL;VALUE=URI:https://www.tampa.gov/node/172666
 END:VEVENT
 BEGIN:VEVENT
-UID:b7d3265e-f8b2-4fcb-a50f-8a50316d5c27
+UID:c2ddab2b-6b16-4164-82e3-cce4394ef708
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
-DTSTART:20250920T130000Z
-DTEND:20250920T170000Z
-SUMMARY:Ybor City Saturday Market
-LOCATION:Centennial Park 1800 E 8th Ave Tampa \, FL United States
-DESCRIPTION:Ybor City Saturday Market Centennial Park Saturday\, September
-  20\, 2025 Event 9am-1pm For additional information\, visit Ybor City Satu
- rday Markethttps:ybormarket.com (https:ybormarket.com) \n\nPermalink: http
- s://www.tampa.gov/node/158321
-URL;VALUE=URI:https://www.tampa.gov/node/158321
-END:VEVENT
-BEGIN:VEVENT
-UID:6b392bf5-9ce2-4a49-84cd-7c924d7463eb
-SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20250921T160000Z
 DTEND:20250921T220000Z
 SUMMARY:Heritage Traditions Through Youth of Latin America Festival
@@ -111,9 +111,9 @@ DESCRIPTION:Join Miss Latina Tampa as they kick off Hispanic Heritage Mont
 URL;VALUE=URI:https://www.tampa.gov/node/173386
 END:VEVENT
 BEGIN:VEVENT
-UID:7088868d-6932-41cd-89ac-1f6cc7941333
+UID:19d79d8b-6d83-4133-b40d-db77bd069d80
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20250921T150000Z
 DTEND:20250922T010000Z
 SUMMARY:Mega Market Mid Autumn Asian Festival
@@ -128,9 +128,22 @@ DESCRIPTION:Organized by the team behind some of the countys most popular
 URL;VALUE=URI:https://www.tampa.gov/node/172671
 END:VEVENT
 BEGIN:VEVENT
-UID:63db1076-6b6d-4355-9364-6ceecb2a14af
+UID:bcc7f8bf-dac4-4d2d-8936-992fb555d1a9
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
+DTSTART:20250927T133000Z
+DTEND:20250927T183000Z
+SUMMARY:Glazer Children039\\\;s Museum 15th Birthday Bash
+LOCATION:Curtis Hixon Waterfront Park 600 N. Ashley Drive Tampa \, FL 3360
+ 2 United States
+DESCRIPTION:Celebrate GCMs 15th birthday at our free party in the park wit
+ h local organizations. \n\nPermalink: https://www.tampa.gov/node/172676
+URL;VALUE=URI:https://www.tampa.gov/node/172676
+END:VEVENT
+BEGIN:VEVENT
+UID:3ffe355b-4b9d-4b3b-bdb4-d2e619bc036f
+SEQUENCE:0
+DTSTAMP:20250920T000402Z
 DTSTART:20250927T120000Z
 DTEND:20250927T140000Z
 SUMMARY:St. Jude WalkRun 2025
@@ -142,9 +155,9 @@ DESCRIPTION:St Jude WalkRun 2025 Saturday\, September 27\, 2025 8:00am-10:
 URL;VALUE=URI:https://www.tampa.gov/node/173406
 END:VEVENT
 BEGIN:VEVENT
-UID:78de82d4-b633-4270-a01c-6186dbb3c35c
+UID:07af0ab8-f120-4f07-b278-c200f3feb025
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20250927T130000Z
 DTEND:20250927T170000Z
 SUMMARY:Ybor City Saturday Market
@@ -156,22 +169,9 @@ DESCRIPTION:Ybor City Saturday Market Centennial Park Saturday\, September
 URL;VALUE=URI:https://www.tampa.gov/node/158326
 END:VEVENT
 BEGIN:VEVENT
-UID:e889b8c5-c7f1-4fd0-a71c-ed38bbdd6bcb
+UID:ace7780a-a802-4152-bdce-4fae5fc950ab
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
-DTSTART:20250927T133000Z
-DTEND:20250927T183000Z
-SUMMARY:Glazer Children039\\\;s Museum 15th Birthday Bash
-LOCATION:Curtis Hixon Waterfront Park 600 N. Ashley Drive Tampa \, FL 3360
- 2 United States
-DESCRIPTION:Celebrate GCMs 15th birthday at our free party in the park wit
- h local organizations. \n\nPermalink: https://www.tampa.gov/node/172676
-URL;VALUE=URI:https://www.tampa.gov/node/172676
-END:VEVENT
-BEGIN:VEVENT
-UID:9717f935-6ec3-4c3a-952f-d7b5c681e791
-SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20251001T150000Z
 DTEND:20251001T180000Z
 SUMMARY:Mayor039\\\;s Food Truck Fiesta
@@ -184,9 +184,9 @@ DESCRIPTION:Mayors Food Truck Fiesta Wednesday\, October 1\, 2025 11am-2pm
 URL;VALUE=URI:https://www.tampa.gov/node/165966
 END:VEVENT
 BEGIN:VEVENT
-UID:dae6f473-cbbc-4472-8844-0ee760d1f917
+UID:9d9e38f5-a6ac-47cc-86b0-850538626f5b
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20251004T190000Z
 DTEND:20251005T010000Z
 SUMMARY:Beats on the Streets
@@ -198,23 +198,24 @@ DESCRIPTION:Beats on the Streets Saturday\, October 4\, 2025 3pm-9pm Water
 URL;VALUE=URI:https://www.tampa.gov/node/173526
 END:VEVENT
 BEGIN:VEVENT
-UID:5249e724-2593-41eb-9c9e-fc3795c5d0fa
+UID:ec9ff872-2d7f-4fd9-94d4-ab2dacb35bd3
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
-DTSTART:20251016T220000Z
-DTEND:20251017T020000Z
-SUMMARY:3rd Thursday
-LOCATION:Tampa \, FL United States
-DESCRIPTION:3rd Thursday Thursday\, October 16\, 2025 6pm-10pm Channelside
-  District- Madison between Meridian Channelside For additional information
- \, please visit 3rd Thursday \n\nPermalink: https://www.tampa.gov/node/172
- 171
-URL;VALUE=URI:https://www.tampa.gov/node/172171
+DTSTAMP:20250920T000402Z
+DTSTART:20251025T130000Z
+DTEND:20251025T143000Z
+SUMMARY:Making Strides Against Breast Cancer
+LOCATION:Raymond James Stadium 4201 N Dale Mabry Hwy Tampa \, FL 33607 Uni
+ ted States
+DESCRIPTION:Making Strides Against Breast Cancer Saturday\, October 25\, 2
+ 025 9:00am - 10:30am Himes Ave.Tampa Bay Blvd. For additional information\
+ , visit American Cancer Society (https:secure.acsevents.orgsiteSTR?pgentry
+  fr_id110788) \n\nPermalink: https://www.tampa.gov/node/173586
+URL;VALUE=URI:https://www.tampa.gov/node/173586
 END:VEVENT
 BEGIN:VEVENT
-UID:f2aa007b-be1c-4922-a83a-1326d51981b6
+UID:0abc0680-58f0-4fdd-a087-0ea4ed5c5129
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20251025T120000Z
 DTEND:20251025T170000Z
 SUMMARY:Save the Tatas Walk
@@ -227,9 +228,9 @@ DESCRIPTION:What: Walk to support minority women battling breast cancer. W
 URL;VALUE=URI:https://www.tampa.gov/node/172026
 END:VEVENT
 BEGIN:VEVENT
-UID:afcd18ef-e5eb-49fe-99a8-e6c839b270cb
+UID:5a1b7e71-de05-4102-8ce9-3e122045268b
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20251025T140000Z
 DTEND:20251026T210000Z
 SUMMARY:Hyde Park Art Festival
@@ -241,9 +242,9 @@ DESCRIPTION:Hyde Park Art Festival Saturday\, October 25\, 2025 Sunday\, O
 URL;VALUE=URI:https://www.tampa.gov/node/172406
 END:VEVENT
 BEGIN:VEVENT
-UID:67742142-519a-4c48-be9d-a2495e4d1bbd
+UID:798a88cd-a2d1-4724-ac12-7cc4d4a73c6a
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20251105T160000Z
 DTEND:20251105T190000Z
 SUMMARY:Mayor039\\\;s Food Truck Fiesta
@@ -256,9 +257,9 @@ DESCRIPTION:Mayors Food Truck Fiesta Wednesday\, November 5\, 2025 11am-2p
 URL;VALUE=URI:https://www.tampa.gov/node/165971
 END:VEVENT
 BEGIN:VEVENT
-UID:bb146394-b1cc-4240-9f02-67090b2e6c50
+UID:809a6524-a458-44dc-aae2-4eb9d04881fe
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20251115T133000Z
 DTEND:20251115T213000Z
 SUMMARY:Eagles Wings Juniors Disc Golf
@@ -272,23 +273,9 @@ DESCRIPTION:What: Juniors Disc Golf Tournament When: Saturday\, November 1
 URL;VALUE=URI:https://www.tampa.gov/node/170166
 END:VEVENT
 BEGIN:VEVENT
-UID:c3f4bdb3-18a4-420c-8161-0e3fd3be2529
+UID:959f05bb-23b7-4116-a5f0-5e5d692f9a93
 SEQUENCE:0
-DTSTAMP:20250919T000404Z
-DTSTART:20251120T230000Z
-DTEND:20251121T030000Z
-SUMMARY:3rd Thursday
-LOCATION:Tampa \, FL United States
-DESCRIPTION:3rd Thursday Thursday\, November 20\, 2025 6pm-10pm Channelsid
- e District- Madison between Meridian Channelside For additional informatio
- n\, please visit 3rd Thursday \n\nPermalink: https://www.tampa.gov/node/17
- 2176
-URL;VALUE=URI:https://www.tampa.gov/node/172176
-END:VEVENT
-BEGIN:VEVENT
-UID:92f143d3-9801-4525-bfca-5a310d626707
-SEQUENCE:0
-DTSTAMP:20250919T000404Z
+DTSTAMP:20250920T000402Z
 DTSTART:20251203T160000Z
 DTEND:20251203T190000Z
 SUMMARY:Mayor039\\\;s Food Truck Fiesta
@@ -299,19 +286,5 @@ DESCRIPTION:Mayors Food Truck Fiesta Wednesday\, December 3\, 2025 11am-2p
  -fiesta-24-243-847-650-862-945-373-685) \n\nPermalink: https://www.tampa.g
  ov/node/165976
 URL;VALUE=URI:https://www.tampa.gov/node/165976
-END:VEVENT
-BEGIN:VEVENT
-UID:71b52a79-409f-4c8d-8c59-18d4d9fb3851
-SEQUENCE:0
-DTSTAMP:20250919T000404Z
-DTSTART:20251218T230000Z
-DTEND:20251219T030000Z
-SUMMARY:3rd Thursday
-LOCATION:Tampa \, FL United States
-DESCRIPTION:3rd Thursday Thursday\, December 18\, 2025 6pm-10pm Channelsid
- e District- Madison between Meridian Channelside For additional informatio
- n\, please visit 3rd Thursday \n\nPermalink: https://www.tampa.gov/node/17
- 2181
-URL;VALUE=URI:https://www.tampa.gov/node/172181
 END:VEVENT
 END:VCALENDAR
