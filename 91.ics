@@ -5,9 +5,24 @@ NAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALNAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALDESC:Community events in Tampa for Special Events/Parks&amp;Rec
 BEGIN:VEVENT
-UID:3ebf5b1f-e163-4bd8-b127-cf94cc0fba5e
+UID:b70ff128-1823-471a-811a-159da0be33ba
 SEQUENCE:0
-DTSTAMP:20251003T000357Z
+DTSTAMP:20251004T000405Z
+DTSTART:20251004T130000Z
+DTEND:20251004T190000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:0f952e2c-ef59-49ab-9786-056b785df136
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
 DTSTART:20251004T190000Z
 DTEND:20251005T010000Z
 SUMMARY:Beats on the Streets
@@ -19,9 +34,9 @@ DESCRIPTION:Beats on the Streets Saturday\, October 4\, 2025 3pm-9pm Water
 URL;VALUE=URI:https://www.tampa.gov/node/173526
 END:VEVENT
 BEGIN:VEVENT
-UID:6ab60c9d-9feb-4c1c-bf7d-6ec528194720
+UID:3c3fc388-b9e2-41f2-b9b6-c6d2fd8fc548
 SEQUENCE:0
-DTSTAMP:20251003T000357Z
+DTSTAMP:20251004T000405Z
 DTSTART:20251004T160000Z
 DTEND:20251005T020000Z
 SUMMARY:Mimosa Land R B Festival
@@ -37,9 +52,53 @@ DESCRIPTION:Come groove with us at the R B Music Festival in beautiful Cur
 URL;VALUE=URI:https://www.tampa.gov/node/173946
 END:VEVENT
 BEGIN:VEVENT
-UID:659b2fc3-7a27-488b-9844-42147b193a70
+UID:4fea22e3-34b8-4e1e-9ef4-7637e3c19183
 SEQUENCE:0
-DTSTAMP:20251003T000357Z
+DTSTAMP:20251004T000405Z
+DTSTART:20251011T130000Z
+DTEND:20251011T190000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:65eaf56a-c592-4e90-9294-f5d95a9c9f7d
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
+DTSTART:20251018T130000Z
+DTEND:20251018T190000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff3a97f-20a9-4f92-a888-ecf6d74a1f89
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
+DTSTART:20251018T123000Z
+DTEND:20251018T150000Z
+SUMMARY:Walk to End Alzheimer039\\\;s
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Walk to End Alzheimers Saturday\, October 18\, 2025 8:30am-11:
+ 00pm Benchmark Area Bayshore Blvd. For additional information\, please vis
+ it Walk to End Alzheimers (https:www.alz.orgflgulfcoast) \n\nPermalink: ht
+ tps://www.tampa.gov/node/174396
+URL;VALUE=URI:https://www.tampa.gov/node/174396
+END:VEVENT
+BEGIN:VEVENT
+UID:c9544775-2154-4165-addf-2bd90ddcc8b5
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
 DTSTART:20251023T170000Z
 DTEND:20251026T040000Z
 SUMMARY:Pied Piper Haunted Halloween Carnival
@@ -52,9 +111,9 @@ DESCRIPTION:Pied Piper Haunted Halloween Carnival Armature Works Thursday\
 URL;VALUE=URI:https://www.tampa.gov/node/174331
 END:VEVENT
 BEGIN:VEVENT
-UID:ee41bba0-a3b7-45c5-a053-f2db98161a7e
+UID:638d758e-943b-473a-b4cf-b3895ebfaf87
 SEQUENCE:0
-DTSTAMP:20251003T000357Z
+DTSTAMP:20251004T000405Z
 DTSTART:20251025T140000Z
 DTEND:20251026T210000Z
 SUMMARY:Hyde Park Art Festival
@@ -66,9 +125,9 @@ DESCRIPTION:Hyde Park Art Festival Saturday\, October 25\, 2025 Sunday\, O
 URL;VALUE=URI:https://www.tampa.gov/node/172406
 END:VEVENT
 BEGIN:VEVENT
-UID:9a7dfec0-559c-4d7d-b755-7f45eb339c43
+UID:fe766bff-264d-4a34-b974-86cfe56857c7
 SEQUENCE:0
-DTSTAMP:20251003T000357Z
+DTSTAMP:20251004T000405Z
 DTSTART:20251025T130000Z
 DTEND:20251025T143000Z
 SUMMARY:Making Strides Against Breast Cancer
@@ -81,9 +140,24 @@ DESCRIPTION:Making Strides Against Breast Cancer Saturday\, October 25\, 2
 URL;VALUE=URI:https://www.tampa.gov/node/173586
 END:VEVENT
 BEGIN:VEVENT
-UID:16720934-ea8f-4908-8ac2-83fb8646b4be
+UID:2ad2fd7c-43ad-4615-9a74-785af700ab54
 SEQUENCE:0
-DTSTAMP:20251003T000357Z
+DTSTAMP:20251004T000405Z
+DTSTART:20251025T130000Z
+DTEND:20251025T190000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:87de16ac-36a3-401d-b769-cb7d9fc5e324
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
 DTSTART:20251025T120000Z
 DTEND:20251025T170000Z
 SUMMARY:Save the Tatas Walk
@@ -96,9 +170,24 @@ DESCRIPTION:What: Walk to support minority women battling breast cancer. W
 URL;VALUE=URI:https://www.tampa.gov/node/172026
 END:VEVENT
 BEGIN:VEVENT
-UID:b0e01569-3c6d-452a-b2ea-2660d7c95884
+UID:2cebd42e-2b3a-41b4-a5c5-e697848ca0ff
 SEQUENCE:0
-DTSTAMP:20251003T000357Z
+DTSTAMP:20251004T000405Z
+DTSTART:20251101T130000Z
+DTEND:20251101T190000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:c7bd4f53-9f69-4742-bb40-bcf8cfd023ea
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
 DTSTART:20251105T160000Z
 DTEND:20251105T190000Z
 SUMMARY:Mayor039\\\;s Food Truck Fiesta
@@ -111,9 +200,39 @@ DESCRIPTION:Mayors Food Truck Fiesta Wednesday\, November 5\, 2025 11am-2p
 URL;VALUE=URI:https://www.tampa.gov/node/165971
 END:VEVENT
 BEGIN:VEVENT
-UID:bc665a8c-10ae-4e25-94f2-04c7618ad53a
+UID:2a69d09e-d862-4222-875c-40289da10238
 SEQUENCE:0
-DTSTAMP:20251003T000357Z
+DTSTAMP:20251004T000405Z
+DTSTART:20251108T140000Z
+DTEND:20251108T200000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:b54498a7-0005-4af0-9699-d6531632d1f2
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
+DTSTART:20251115T140000Z
+DTEND:20251115T200000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:81da25a9-dc80-4ff8-8054-072496ccd34b
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
 DTSTART:20251115T133000Z
 DTEND:20251115T213000Z
 SUMMARY:Eagles Wings Juniors Disc Golf
@@ -127,9 +246,39 @@ DESCRIPTION:What: Juniors Disc Golf Tournament When: Saturday\, November 1
 URL;VALUE=URI:https://www.tampa.gov/node/170166
 END:VEVENT
 BEGIN:VEVENT
-UID:5b049996-be53-4865-961b-4142473dca74
+UID:3fb1c612-ee42-428e-91d4-bd982ed74880
 SEQUENCE:0
-DTSTAMP:20251003T000357Z
+DTSTAMP:20251004T000405Z
+DTSTART:20251122T140000Z
+DTEND:20251122T200000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:bb8a38ca-b814-40e2-a2a2-f5c5ba27f656
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
+DTSTART:20251129T140000Z
+DTEND:20251129T200000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:41d9d851-3143-43b2-8c3b-853c0eee2381
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
 DTSTART:20251203T160000Z
 DTEND:20251203T190000Z
 SUMMARY:Mayor039\\\;s Food Truck Fiesta
@@ -140,5 +289,65 @@ DESCRIPTION:Mayors Food Truck Fiesta Wednesday\, December 3\, 2025 11am-2p
  -fiesta-24-243-847-650-862-945-373-685) \n\nPermalink: https://www.tampa.g
  ov/node/165976
 URL;VALUE=URI:https://www.tampa.gov/node/165976
+END:VEVENT
+BEGIN:VEVENT
+UID:594bd44f-1d81-4b9c-b6aa-5058c0a828f4
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
+DTSTART:20251206T140000Z
+DTEND:20251206T200000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:3e729691-80ad-44e7-99c6-b67bc4ed81c8
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
+DTSTART:20251213T140000Z
+DTEND:20251213T200000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:6fbfb9c9-d480-4c4f-a510-684282a800a9
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
+DTSTART:20251220T140000Z
+DTEND:20251220T200000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:dd633e5a-d33c-4465-abbf-57119fd13840
+SEQUENCE:0
+DTSTAMP:20251004T000405Z
+DTSTART:20251227T140000Z
+DTEND:20251227T200000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Great place to meet and shop from local artists and pick up som
+ e locally made gourmet treats and produce. For additional information\, pl
+ ease visit the Ybor Market. (https:ybormarket.com) \n\nPermalink: https://
+ www.tampa.gov/node/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
 END:VEVENT
 END:VCALENDAR
