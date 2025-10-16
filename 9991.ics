@@ -5,26 +5,9 @@ NAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALNAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALDESC:Community events in Tampa for Tampa Convention Center
 BEGIN:VEVENT
-UID:8e808d8a-8976-4416-b290-5870b7df82fb
+UID:b434da30-9a04-4052-a55e-7b515cb01d0f
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
-DTSTART:20251017T120000Z
-DTEND:20251017T200000Z
-SUMMARY:Gasparilla Bowl Inshore Slam Fishing Tournament
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:The Gasparilla Bowl Inshore Slam Fishing Tournament is held an
- nually and supports Tampa Bay Waterkeeper. This is a catch and release eve
- nt captured through iAngler focused on catching the largest snook\, redfis
- h and trout. Prizes will be awarded to the top three teams\, including the
-  captain and three anglers. Location: Tampa Convention Center Front Drive 
- \n\nPermalink: https://www.tampa.gov/node/167571
-URL;VALUE=URI:https://www.tampa.gov/node/167571
-END:VEVENT
-BEGIN:VEVENT
-UID:b52c6398-6d9a-41ed-8a52-a5e74f9c44a7
-SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
 DTSTART:20251017T100000Z
 DTEND:20251019T210000Z
 SUMMARY:Tampa Home Show
@@ -39,9 +22,26 @@ DESCRIPTION:Produced by the East Coast Consumer Shows\, the Tampa Home  Ga
 URL;VALUE=URI:https://www.tampa.gov/node/167576
 END:VEVENT
 BEGIN:VEVENT
-UID:b70b9e5b-9fe9-4ce9-96ea-8ed1fbf3ac7d
+UID:96bb2d72-a7fd-48a8-8f87-ed8a3d8a0064
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
+DTSTART:20251017T120000Z
+DTEND:20251017T200000Z
+SUMMARY:Gasparilla Bowl Inshore Slam Fishing Tournament
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:The Gasparilla Bowl Inshore Slam Fishing Tournament is held an
+ nually and supports Tampa Bay Waterkeeper. This is a catch and release eve
+ nt captured through iAngler focused on catching the largest snook\, redfis
+ h and trout. Prizes will be awarded to the top three teams\, including the
+  captain and three anglers. Location: Tampa Convention Center Front Drive 
+ \n\nPermalink: https://www.tampa.gov/node/167571
+URL;VALUE=URI:https://www.tampa.gov/node/167571
+END:VEVENT
+BEGIN:VEVENT
+UID:e4cc831b-c791-4f15-aa27-e7abcb3687dd
+SEQUENCE:0
+DTSTAMP:20251016T000422Z
 DTSTART:20251018T230000Z
 DTEND:20251019T030000Z
 SUMMARY:Humane Society of Tampa Bay
@@ -58,9 +58,9 @@ DESCRIPTION:For event details: www.humanesocietytampa.org (http:www.humane
 URL;VALUE=URI:https://www.tampa.gov/node/167581
 END:VEVENT
 BEGIN:VEVENT
-UID:ffeeb3a0-d0bb-43a1-a580-821110257483
+UID:079cb0cd-0e9f-4b37-bbd8-5153905a6320
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
 DTSTART:20251021T110000Z
 DTEND:20251021T203000Z
 SUMMARY:Tampa Bay Condo HOA Expo
@@ -74,9 +74,9 @@ DESCRIPTION:Tampa Bay Condo  HOA Expo is open to the public and intended f
 URL;VALUE=URI:https://www.tampa.gov/node/167701
 END:VEVENT
 BEGIN:VEVENT
-UID:4570bf7f-ba53-4de8-b85c-01621662b8e3
+UID:e4706549-5a1a-4d27-af05-c09cd191b915
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
 DTSTART:20251026T110000Z
 DTEND:20251029T210000Z
 SUMMARY:ICMA Annual Conference
@@ -105,9 +105,9 @@ DESCRIPTION:PURPOSE OF MEETING: Since 1914\, ICMAs annual conference has e
 URL;VALUE=URI:https://www.tampa.gov/node/167961
 END:VEVENT
 BEGIN:VEVENT
-UID:4229655a-99e1-4c96-9e93-5298d45fe3a2
+UID:97745da4-ba34-4a4e-82aa-f13aec28e48b
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
 DTSTART:20251030T150000Z
 DTEND:20251030T190000Z
 SUMMARY:Tampa Veterans Job Fair
@@ -119,9 +119,9 @@ DESCRIPTION:This is a job fair for veterans. For more details: my.recruitm
 URL;VALUE=URI:https://www.tampa.gov/node/168081
 END:VEVENT
 BEGIN:VEVENT
-UID:0bb336b2-c6b6-4fd9-8f84-8311e3da4405
+UID:9c42d8c7-5128-4d53-a97f-62ea5f1b5385
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
 DTSTART:20251030T203000Z
 DTEND:20251030T233000Z
 SUMMARY:2025 Florida College IMPACT
@@ -136,24 +136,9 @@ DESCRIPTION:Event details: floridacollege.edu (https:floridacollege.eduimp
 URL;VALUE=URI:https://www.tampa.gov/node/168086
 END:VEVENT
 BEGIN:VEVENT
-UID:f0844b9f-bea4-4e69-9f23-f2a42630f780
+UID:bd9038b7-a25d-4c33-86a5-6e41f94fc78b
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
-DTSTART:20251101T110000Z
-DTEND:20251103T045900Z
-SUMMARY:NASB Fall Summit
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:Event: NASB Fall Summit The NASB Fall Summit is an annual sale
- s team conference that brings together team members from across the countr
- y for connecting\, team building\, training and recognition of achievement
- s. \n\nPermalink: https://www.tampa.gov/node/173856
-URL;VALUE=URI:https://www.tampa.gov/node/173856
-END:VEVENT
-BEGIN:VEVENT
-UID:6fb4a3e5-47aa-4bbe-8749-861eecba43f4
-SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
 DTSTART:20251101T150000Z
 DTEND:20251102T210000Z
 SUMMARY:The National Franchise Show
@@ -172,9 +157,24 @@ DESCRIPTION:Own your own business and take the next step to becoming your
 URL;VALUE=URI:https://www.tampa.gov/node/168106
 END:VEVENT
 BEGIN:VEVENT
-UID:a36c795c-b5b0-4d35-812c-8a4bdb998eeb
+UID:d58d94e7-2d27-45fe-ad03-c0396afc986c
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
+DTSTART:20251101T110000Z
+DTEND:20251103T045900Z
+SUMMARY:NASB Fall Summit
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:Event: NASB Fall Summit The NASB Fall Summit is an annual sale
+ s team conference that brings together team members from across the countr
+ y for connecting\, team building\, training and recognition of achievement
+ s. \n\nPermalink: https://www.tampa.gov/node/173856
+URL;VALUE=URI:https://www.tampa.gov/node/173856
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ced15c-aa19-4b84-9592-864f6374a3aa
+SEQUENCE:0
+DTSTAMP:20251016T000422Z
 DTSTART:20251106T220000Z
 DTEND:20251107T045900Z
 SUMMARY:MARCENT Birthday Ball
@@ -184,21 +184,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/174831
 URL;VALUE=URI:https://www.tampa.gov/node/174831
 END:VEVENT
 BEGIN:VEVENT
-UID:0a8d23aa-479a-4c38-87a4-57f9c55ca42d
+UID:fdae81de-b106-410f-8061-7cb64dea393b
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
-DTSTART:20251107T120000Z
-DTEND:20251110T045900Z
-SUMMARY:Tattoo Arts Convention 2025
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/168551
-URL;VALUE=URI:https://www.tampa.gov/node/168551
-END:VEVENT
-BEGIN:VEVENT
-UID:8e012fdd-fccd-4b70-9ee1-d121b011cb0e
-SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
 DTSTART:20251107T120000Z
 DTEND:20251109T045900Z
 SUMMARY:IBEW Local 108 - 125th Anniversary
@@ -210,9 +198,21 @@ DESCRIPTION:125th Anniversary gala celebration to include cocktails  hors
 URL;VALUE=URI:https://www.tampa.gov/node/168556
 END:VEVENT
 BEGIN:VEVENT
-UID:37402aa4-7c79-4530-bee0-b8c91a0e8db7
+UID:edb6d627-7721-4145-ae65-1497c98b2508
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
+DTSTART:20251107T120000Z
+DTEND:20251110T045900Z
+SUMMARY:Tattoo Arts Convention 2025
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/168551
+URL;VALUE=URI:https://www.tampa.gov/node/168551
+END:VEVENT
+BEGIN:VEVENT
+UID:c00080df-1eeb-4c81-8aa3-1525cfa2a8f6
+SEQUENCE:0
+DTSTAMP:20251016T000422Z
 DTSTART:20251107T110000Z
 DTEND:20251108T000000Z
 SUMMARY:Port Tampa Bayslam
@@ -225,9 +225,9 @@ DESCRIPTION:The Port Tampa Bayslam is a 1-day catch and release charity fi
 URL;VALUE=URI:https://www.tampa.gov/node/168546
 END:VEVENT
 BEGIN:VEVENT
-UID:1b1db830-10a8-4d45-a793-bbd70e01fd8b
+UID:a8374869-6c60-49d6-b1c8-3c2130ac9533
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
 DTSTART:20251114T120000Z
 DTEND:20251116T050000Z
 SUMMARY:Hack Your Health
@@ -249,9 +249,9 @@ DESCRIPTION:Hack Your Health (formerly KetoCon) is the premier destination
 URL;VALUE=URI:https://www.tampa.gov/node/168861
 END:VEVENT
 BEGIN:VEVENT
-UID:80119438-6c2b-4451-8f8b-b877d86b4556
+UID:451040de-17b4-40bf-a11a-bdb0f493c024
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
 DTSTART:20251204T170000Z
 DTEND:20251204T183000Z
 SUMMARY:Tampa Bay Chamber-Annual Luncheon
@@ -266,9 +266,9 @@ DESCRIPTION:For event details: www.tampabaychamber.com (http:www.tampabayc
 URL;VALUE=URI:https://www.tampa.gov/node/173861
 END:VEVENT
 BEGIN:VEVENT
-UID:0c1e8016-9b06-4057-b8b9-369a25f5dc6c
+UID:7ef08467-0d39-4702-9c77-983a33d8cddb
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
 DTSTART:20251208T120000Z
 DTEND:20251210T190000Z
 SUMMARY:Dealer Week: The MRAA Conference Expo
@@ -288,9 +288,9 @@ DESCRIPTION:For event details: www.dealerweek.com (http:www.dealerweek.com
 URL;VALUE=URI:https://www.tampa.gov/node/169931
 END:VEVENT
 BEGIN:VEVENT
-UID:7bce78dc-c269-4c2d-9707-e204706c1fce
+UID:90fbe2e2-b305-4a5d-847a-9321548bdd20
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
 DTSTART:20251214T130000Z
 DTEND:20251215T210000Z
 SUMMARY:National Athletic Directors Conference
@@ -302,9 +302,9 @@ DESCRIPTION:For event details: www.adconference.org (http:www.adconference
 URL;VALUE=URI:https://www.tampa.gov/node/170101
 END:VEVENT
 BEGIN:VEVENT
-UID:6600547d-33c6-4938-84c4-ad705726edab
+UID:f3b6d745-f305-4592-994d-fa2f01efe96a
 SEQUENCE:0
-DTSTAMP:20251015T000416Z
+DTSTAMP:20251016T000422Z
 DTSTART:20260114T140000Z
 DTEND:20260118T020000Z
 SUMMARY:FMEA Professional Development Conference 2026
