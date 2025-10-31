@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Police General
 X-WR-CALNAME:Tampa Calendar - Police General
 X-WR-CALDESC:Community events in Tampa for Police General
 BEGIN:VEVENT
-UID:1a6b104f-2877-4dd3-999f-ebef291ecb55
+UID:56310899-d0df-4d61-bddd-802feb216ab0
 SEQUENCE:0
-DTSTAMP:20251030T000419Z
+DTSTAMP:20251031T000422Z
 DTSTART:20251004T220000Z
 DTEND:20251005T010000Z
 SUMMARY:Faith and Blue
@@ -19,9 +19,9 @@ DESCRIPTION:Faith and Blue is a night where law enforcement\, community me
 URL;VALUE=URI:https://www.tampa.gov/node/172846
 END:VEVENT
 BEGIN:VEVENT
-UID:ad26d16e-eeb6-4f94-a780-c3bbb9be0210
+UID:538820d0-0e9b-4835-85ec-508ce7b49275
 SEQUENCE:0
-DTSTAMP:20251030T000419Z
+DTSTAMP:20251031T000422Z
 DTSTART:20251007T220000Z
 DTEND:20251007T230000Z
 SUMMARY:Chiefs Advisory Panel For The Tampa Police Department
@@ -48,9 +48,9 @@ DESCRIPTION:AGENDA CHIEFS ADVISORY PANEL FOR THE TAMPA POLICE DEPARTMENT O
 URL;VALUE=URI:https://www.tampa.gov/node/174051
 END:VEVENT
 BEGIN:VEVENT
-UID:f71f3b17-bacc-4296-837b-726fcca340f9
+UID:246daa01-9f4e-4a69-985f-e98251a4912c
 SEQUENCE:0
-DTSTAMP:20251030T000419Z
+DTSTAMP:20251031T000422Z
 DTSTART:20251011T120000Z
 DTEND:20251011T160000Z
 SUMMARY:31st Annual Tampa Police Memorial Run
@@ -78,5 +78,27 @@ DESCRIPTION:The Tampa Police Memorial Committee is pleased to announce tha
  \, charitable donations\, and improvements to the Tampa Police Memorial Mo
  nument. \n\nPermalink: https://www.tampa.gov/node/172006
 URL;VALUE=URI:https://www.tampa.gov/node/172006
+END:VEVENT
+BEGIN:VEVENT
+UID:9bf6206e-664f-4c4f-ade1-d344f42ff8a6
+SEQUENCE:0
+DTSTAMP:20251031T000422Z
+DTSTART:20251220T163000Z
+DTEND:20251220T200000Z
+SUMMARY:Join the Magic at Enchanted Wonderland!
+LOCATION:Middleton High School 4801 N. 22nd St. Tampa \, FL 33610 United S
+ tates
+DESCRIPTION:Get ready for a jolly good time with the Tampa Police Departme
+ nt at our annual Enchanted Wonderland Holiday Celebration!  This joyful ev
+ ent spreads holiday cheer by providing gifts to children in our community.
+  Kids will have a blast choosing presents from their special age-group tab
+ les\, getting their faces painted\, and picking out a fun balloon animal d
+ esign from our talented balloon artist! Dont forget to snap a photo with M
+ r. and Mrs. Claus and enjoy a day filled with games\, crafts\, treats\, an
+ d festive fun!  Ages: Newborn to 14 years old  Children must be present to
+  participate  Spots are limited  register below to join the magic! Registe
+ r for Enchanted Wonderland \n\nPermalink: https://www.tampa.gov/node/17582
+ 6
+URL;VALUE=URI:https://www.tampa.gov/node/175826
 END:VEVENT
 END:VCALENDAR
