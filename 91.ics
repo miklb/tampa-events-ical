@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALNAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALDESC:Community events in Tampa for Special Events/Parks&amp;Rec
 BEGIN:VEVENT
-UID:15be9ac8-418f-4019-b54f-90f7f9f4e7dd
+UID:f425612a-faf0-47e3-9a0e-f386492eb71d
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251108T140000Z
 DTEND:20251108T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -20,9 +20,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/174356
 END:VEVENT
 BEGIN:VEVENT
-UID:28810803-a2a1-41c5-865f-8de68dd8d441
+UID:b4df9276-310a-4dd3-a5f3-7e4d03a54bc6
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251114T220000Z
 DTEND:20251115T020000Z
 SUMMARY:Water Street Season Spectacular
@@ -35,9 +35,24 @@ DESCRIPTION:Water Street Season Spectacular Friday\, November 14\, 2025 5p
 URL;VALUE=URI:https://www.tampa.gov/node/176076
 END:VEVENT
 BEGIN:VEVENT
-UID:f6cf1983-8f59-42f3-a344-4acbd1170341
+UID:82580ac2-1508-4d1b-82bd-646b7ecda4b5
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
+DTSTART:20251115T140000Z
+DTEND:20251115T200000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Meet and shop from local artists and pick up some locally made 
+ gourmet treats and produce. For additional information\, please visit the 
+ Ybor Market. (https:ybormarket.com) \n\nPermalink: https://www.tampa.gov/n
+ ode/174356
+URL;VALUE=URI:https://www.tampa.gov/node/174356
+END:VEVENT
+BEGIN:VEVENT
+UID:3d237c96-9e3a-4571-a33d-80145a92ab55
+SEQUENCE:0
+DTSTAMP:20251127T000413Z
 DTSTART:20251115T133000Z
 DTEND:20251115T213000Z
 SUMMARY:Eagles Wings Juniors Disc Golf
@@ -51,24 +66,9 @@ DESCRIPTION:What: Juniors Disc Golf Tournament When: Saturday\, November 1
 URL;VALUE=URI:https://www.tampa.gov/node/170166
 END:VEVENT
 BEGIN:VEVENT
-UID:c758072a-5400-48dd-a64c-b8450b3eee5d
+UID:a30d72ce-5685-4e40-8d0f-3ad3a1040500
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
-DTSTART:20251115T140000Z
-DTEND:20251115T200000Z
-SUMMARY:Ybor City Saturday Market
-LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
-DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
- nial Park. Meet and shop from local artists and pick up some locally made 
- gourmet treats and produce. For additional information\, please visit the 
- Ybor Market. (https:ybormarket.com) \n\nPermalink: https://www.tampa.gov/n
- ode/174356
-URL;VALUE=URI:https://www.tampa.gov/node/174356
-END:VEVENT
-BEGIN:VEVENT
-UID:80b8bcd0-9021-459d-ba43-32d512b0594e
-SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251120T223000Z
 DTEND:20251121T013000Z
 SUMMARY:Hyde Park Tree Lighting
@@ -80,9 +80,9 @@ DESCRIPTION:Hyde Park Tree Lighting Thursday November 20\, 2025 5:30pm-8:3
 URL;VALUE=URI:https://www.tampa.gov/node/176451
 END:VEVENT
 BEGIN:VEVENT
-UID:7cdf640d-34f5-499f-b848-8dababe0b7a9
+UID:e5de88c4-65f7-4c2e-b3e0-96454bf261c5
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251121T170000Z
 DTEND:20260105T020000Z
 SUMMARY:Winter Village
@@ -94,9 +94,9 @@ DESCRIPTION:Celebrate the holiday season in Tampas Downtown at Winter Vill
 URL;VALUE=URI:https://www.tampa.gov/node/176596
 END:VEVENT
 BEGIN:VEVENT
-UID:62e850e8-42cd-4976-9dea-219fc3bd2876
+UID:88a3a052-8b27-4f56-a989-776f1ac89425
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251122T140000Z
 DTEND:20251122T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -109,9 +109,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/174356
 END:VEVENT
 BEGIN:VEVENT
-UID:5b1451a5-bdc8-4189-8946-33ac837f3bc1
+UID:d2ea920a-4297-470e-bfd0-b28f5243bab9
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251127T120000Z
 DTEND:20251127T140000Z
 SUMMARY:Tampa YMCA Turkey Gobble
@@ -123,9 +123,9 @@ DESCRIPTION:Tampa YMCA Turkey Gobble Thursday\, November 27\, 2025 7am-9am
 URL;VALUE=URI:https://www.tampa.gov/node/175991
 END:VEVENT
 BEGIN:VEVENT
-UID:415edfc6-f185-46df-b6ca-8f38b553d9c4
+UID:40f8b39a-1c54-47a5-94e3-08d9ac1fbcbe
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251129T140000Z
 DTEND:20251129T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -138,9 +138,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/174356
 END:VEVENT
 BEGIN:VEVENT
-UID:09b0343e-b077-4d2c-aff2-c17e117a4d02
+UID:2e9e6c25-d6d5-46ee-99f8-d160fcacdcc1
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251129T150000Z
 DTEND:20251129T190000Z
 SUMMARY:Davis Islands Holiday Market
@@ -157,9 +157,9 @@ DESCRIPTION:Davis Islands Holiday Market Saturday\, November 29\, 2025 10:
 URL;VALUE=URI:https://www.tampa.gov/node/176106
 END:VEVENT
 BEGIN:VEVENT
-UID:7c23ae2a-0230-4527-9cd0-5d7e9838fb7b
+UID:48ed1c06-4335-4a3d-9539-fda4246cc2ec
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251206T140000Z
 DTEND:20251206T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -172,9 +172,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/174356
 END:VEVENT
 BEGIN:VEVENT
-UID:c1eb2d85-4a65-46df-a762-8d68d35fbe4b
+UID:99f5860b-33a4-46e4-97a4-b0ff974d0cd0
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251206T180000Z
 DTEND:20251207T020000Z
 SUMMARY:Tampas Santa Fest Tree Lighting
@@ -186,9 +186,24 @@ DESCRIPTION:The 2025 Santa Fest is back at Curtis Hixon Waterfront Park fo
 URL;VALUE=URI:https://www.tampa.gov/node/176591
 END:VEVENT
 BEGIN:VEVENT
-UID:9bc25d39-b8b1-4418-aa9c-56393fef3a2e
+UID:412fb3af-2911-409e-810a-8169725bcec0
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
+DTSTART:20251207T160000Z
+DTEND:20251207T220000Z
+SUMMARY:Ybor City Cigar Festival
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:Ybor City Cigar Festival Sunday\, December 7\, 2025 11am-5pm C
+ entennial Park Enjoy cigar rolling demonstrations\, cigars from around the
+  world and our very own Ybor City at one of the largest cigar festivals! F
+ or more information\, please visit Ybor City Cigar Festival (https:www.ybo
+ rcigarfestival.com). \n\nPermalink: https://www.tampa.gov/node/177016
+URL;VALUE=URI:https://www.tampa.gov/node/177016
+END:VEVENT
+BEGIN:VEVENT
+UID:bdd69d59-e47b-4c61-9bbb-b0efe030a59d
+SEQUENCE:0
+DTSTAMP:20251127T000413Z
 DTSTART:20251211T220000Z
 DTEND:20251212T020000Z
 SUMMARY:Water Street Holiday Promenade
@@ -200,9 +215,9 @@ DESCRIPTION:Water Street Holiday Promenade Thursday\, December 11\, 2025 5
 URL;VALUE=URI:https://www.tampa.gov/node/176461
 END:VEVENT
 BEGIN:VEVENT
-UID:6227cb32-2575-4e53-bbe8-00d2645d5fc6
+UID:8acdf5f0-9800-4477-9cbc-6c25ba8c3443
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251213T140000Z
 DTEND:20251213T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -215,9 +230,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/174356
 END:VEVENT
 BEGIN:VEVENT
-UID:85a88e40-4e0d-4c6c-a81d-cdc3d2745dfe
+UID:05157e81-6e21-4fe4-bed8-36ad069a660b
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251220T140000Z
 DTEND:20251220T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -230,9 +245,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/174356
 END:VEVENT
 BEGIN:VEVENT
-UID:97abe994-b270-4d7d-ba17-cffeaa511df9
+UID:3639506d-8329-42f9-97ae-f9a7fd7f15b3
 SEQUENCE:0
-DTSTAMP:20251126T000411Z
+DTSTAMP:20251127T000413Z
 DTSTART:20251227T140000Z
 DTEND:20251227T200000Z
 SUMMARY:Ybor City Saturday Market
