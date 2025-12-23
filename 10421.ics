@@ -4,4 +4,35 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:Tampa Calendar - Parks &amp; Recreation
 X-WR-CALNAME:Tampa Calendar - Parks &amp; Recreation
 X-WR-CALDESC:Community events in Tampa for Parks &amp; Recreation
+BEGIN:VEVENT
+UID:f1bfa431-1831-4ca8-a946-bc98750cd745
+SEQUENCE:0
+DTSTAMP:20251223T000445Z
+DTSTART:20251230T223000Z
+DTEND:20251231T000000Z
+SUMMARY:ReliaQuest Bowl Parade
+LOCATION:Tampa \, FL United States
+DESCRIPTION:ReliaQuest Bowl Parade Tuesday\, December 30\, 2025 5:30pm-7pm
+  7th Ave. Ybor For additional information\, please visit ReliaQuest Bowl (
+ https:www.reliaquestbowl.com) \n\nPermalink: https://www.tampa.gov/node/17
+ 8026
+URL;VALUE=URI:https://www.tampa.gov/node/178026
+END:VEVENT
+BEGIN:VEVENT
+UID:70691bf5-5a7f-406a-95e8-935acec90f55
+SEQUENCE:0
+DTSTAMP:20251223T000445Z
+DTSTART:20260110T133000Z
+DTEND:20260110T154500Z
+SUMMARY:Rhythm Fitness
+LOCATION:Fair Oaks Recreation Center 3400 E Louisiana Ave. Tampa \, FL 336
+ 10 United States
+DESCRIPTION:Come get 2026 off to a great start for your health by attendin
+ g the New Yer\, New You Challenge\, led by coaches Art\, Alex\, Mike and H
+ ayden. Registration at 8 am\, followed by a warm-up walk at 8:30. Mashup F
+ itness starts at 9 am\, with high-impact aerobics at 9:50. And this fabulo
+ us event takes place at the brand-new Fair Oaks Recreation Center. \n\nPer
+ malink: https://www.tampa.gov/node/178251
+URL;VALUE=URI:https://www.tampa.gov/node/178251
+END:VEVENT
 END:VCALENDAR
