@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Public Meetings
 X-WR-CALNAME:Tampa Calendar - Public Meetings
 X-WR-CALDESC:Community events in Tampa for Public Meetings
 BEGIN:VEVENT
-UID:62b8038e-6bd2-4d45-8a0e-6a325c1cc51e
+UID:eefa7a48-7793-4e28-8062-1f0153447d20
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
 DTSTART:20260105T223000Z
 DTEND:20260105T223000Z
 SUMMARY:Architectural Review Commission
@@ -28,9 +28,9 @@ DESCRIPTION:CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC
 URL;VALUE=URI:https://www.tampa.gov/node/178366
 END:VEVENT
 BEGIN:VEVENT
-UID:0d78d13b-8289-452d-b344-1796f2acde05
+UID:d488f265-a86c-4f9e-ade9-2d6328b8bbfe
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
 DTSTART:20260106T190000Z
 DTEND:20260106T210000Z
 SUMMARY:Notice Of Negotiations
@@ -46,9 +46,9 @@ DESCRIPTION:PUBLIC MEETING NOTICE NOTICE OF NEGOTIATIONS The City of Tampa
 URL;VALUE=URI:https://www.tampa.gov/node/177421
 END:VEVENT
 BEGIN:VEVENT
-UID:d19aca5b-3af8-44e8-9275-1758fd041003
+UID:6b4696c8-a2e8-4aa8-99ad-367727eb4928
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
 DTSTART:20260106T223000Z
 DTEND:20260106T223000Z
 SUMMARY:Cancelled- Downtown Community Advisory Committee
@@ -71,9 +71,9 @@ DESCRIPTION:DOWNTOWN COMMUNITY ADVISORY COMMITTEE FOR THE DOWNTOWN COMMUNI
 URL;VALUE=URI:https://www.tampa.gov/node/178576
 END:VEVENT
 BEGIN:VEVENT
-UID:0b35c527-67af-4458-93b3-0c562ac601a8
+UID:e099effe-c5f9-4d57-81ce-225b22169b7c
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
 DTSTART:20260106T230000Z
 DTEND:20260106T230000Z
 SUMMARY:East Tampa Community Advisory Committee
@@ -105,30 +105,9 @@ DESCRIPTION:EAST TAMPA COMMUNITY ADVISORY COMMITTEE FOR THE EAST TAMPA COM
 URL;VALUE=URI:https://www.tampa.gov/node/178361
 END:VEVENT
 BEGIN:VEVENT
-UID:1f744c8e-02d6-4438-b94a-a9f85d6cb5ff
+UID:e303ec45-f2b1-4910-b905-94dc2187dffe
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
-DTSTART:20260107T223000Z
-DTEND:20260107T223000Z
-SUMMARY:CANCELLED - Architectural Review Commission
-LOCATION:Tampa \, FL United States
-DESCRIPTION:CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC
-  HEARING Date and Time: Wednesday\, January 7\, 2026\, at 5:30 P.M. CANCEL
- LED Members of the public who do not wish to appear in person may submit w
- ritten comments by mail to Architectural Review Historic Preservation\, 25
- 55 E. Hanna Avenue\, Tampa\, FL 33610\, or by e-mail to HistoricPreservati
- ontampagov.net. All written comments must be received no later than 24 hou
- rs prior to the scheduled meeting in order to be distributed to the Commis
- sion members and to be included in the official meeting record. To check t
- he postponement or cancellation status of the public hearing\, please cont
- act our office at 813- 274-3100\, option 3. NOTE: ALL MEETINGS ARE OPEN TO
-  THE PUBLIC \n\nPermalink: https://www.tampa.gov/node/178371
-URL;VALUE=URI:https://www.tampa.gov/node/178371
-END:VEVENT
-BEGIN:VEVENT
-UID:7b97edeb-e126-4f4b-919c-879d64d1aa41
-SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
 DTSTART:20260107T223000Z
 DTEND:20260107T223000Z
 SUMMARY:Cancelled - Channel District Community Advisory Committee
@@ -151,9 +130,30 @@ DESCRIPTION:CHANNEL DISTRICT COMMUNITY ADVISORY COMMITTEE FOR THE CHANNEL
 URL;VALUE=URI:https://www.tampa.gov/node/178571
 END:VEVENT
 BEGIN:VEVENT
-UID:fdd0e5a0-81fa-4035-93ba-a431867936b6
+UID:68155170-1a6d-431b-93c2-3569f5951be5
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
+DTSTART:20260107T223000Z
+DTEND:20260107T223000Z
+SUMMARY:CANCELLED - Architectural Review Commission
+LOCATION:Tampa \, FL United States
+DESCRIPTION:CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC
+  HEARING Date and Time: Wednesday\, January 7\, 2026\, at 5:30 P.M. CANCEL
+ LED Members of the public who do not wish to appear in person may submit w
+ ritten comments by mail to Architectural Review Historic Preservation\, 25
+ 55 E. Hanna Avenue\, Tampa\, FL 33610\, or by e-mail to HistoricPreservati
+ ontampagov.net. All written comments must be received no later than 24 hou
+ rs prior to the scheduled meeting in order to be distributed to the Commis
+ sion members and to be included in the official meeting record. To check t
+ he postponement or cancellation status of the public hearing\, please cont
+ act our office at 813- 274-3100\, option 3. NOTE: ALL MEETINGS ARE OPEN TO
+  THE PUBLIC \n\nPermalink: https://www.tampa.gov/node/178371
+URL;VALUE=URI:https://www.tampa.gov/node/178371
+END:VEVENT
+BEGIN:VEVENT
+UID:838f3e1b-1204-4df3-adfa-fc740a37f9f7
+SEQUENCE:0
+DTSTAMP:20260108T000439Z
 DTSTART:20260108T140000Z
 DTEND:20260108T140000Z
 SUMMARY:City Council Regular Agenda
@@ -205,9 +205,9 @@ DESCRIPTION:NOTICE OF PUBLIC MEETING TAMPA CITY COUNCIL REGULAR AGENDA Dat
 URL;VALUE=URI:https://www.tampa.gov/node/178381
 END:VEVENT
 BEGIN:VEVENT
-UID:c55da22c-6baa-4b8d-8eee-6229afc1a56f
+UID:4a28ee88-e745-4ffc-ba79-b7121c297d7d
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
 DTSTART:20260108T140000Z
 DTEND:20260108T160000Z
 SUMMARY:Notice Of Negotiations
@@ -223,9 +223,9 @@ DESCRIPTION:PUBLIC MEETING NOTICE NOTICE OF NEGOTIATIONS The City of Tampa
 URL;VALUE=URI:https://www.tampa.gov/node/178661
 END:VEVENT
 BEGIN:VEVENT
-UID:1e7ad60c-39bc-4b33-9a0c-f6b7c7ae68ac
+UID:691780f4-e44d-41db-98e4-cf196509f7d9
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
 DTSTART:20260109T143000Z
 DTEND:20260109T143000Z
 SUMMARY:CANCELLED - City Council Citizens Advisory Budget And Finance Comm
@@ -245,27 +245,43 @@ DESCRIPTION:CANCELLED CITY COUNCIL CITIZENS ADVISORY BUDGET AND FINANCE CO
 URL;VALUE=URI:https://www.tampa.gov/node/178051
 END:VEVENT
 BEGIN:VEVENT
-UID:a548bd53-4c3a-49e9-9350-35e7439fd715
+UID:6efc373b-8928-4733-8a31-716d79d05df4
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
-DTSTART:20260113T170000Z
-DTEND:20260113T170000Z
-SUMMARY:1st Scoring Evaluation Committee Meeting Professional Building Pla
- n Review Inspections\, RFQ26-P-00009
-LOCATION:City Center at Hanna - 2nd Floor Purchasing Conference Room 2555 
- E Hanna Avenue Tampa \, FL 33610 United States
-DESCRIPTION:1st SCORING EVALUATION COMMITTEE MEETING  Professional Buildin
- g Plan Review Inspections\, RFQ 26-P-00009 Date: January 13\, 2026 Time: 1
- 2:00 PM Location: AMALIE ROOM 2555 E HANNA AVENUE TAMPA\, FL 33610 CONTACT
- : CHELSEA MULLIGAN\, PROCUREMENT ANALYST CITY OF TAMPA PURCHASING DEPARTME
- NT 2555 E HANNA AVENUE\, 2nd Floor (813) 274-8342 \n\nPermalink: https://w
- ww.tampa.gov/node/178211
-URL;VALUE=URI:https://www.tampa.gov/node/178211
+DTSTAMP:20260108T000439Z
+DTSTART:20260109T153000Z
+DTEND:20260109T153000Z
+SUMMARY:Committee Meeting - RFP25-P-00272 Analog Phone Line Replacement
+LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:COMMITTEE MEETING - RFP25-P-00272 ANALOG PHONE LINE REPLACEMEN
+ T Date: JANUARY 9\, 2026 Time: 10:30 A.M. (EST) Location: HANNA CITY CENTE
+ R 2555 EAST HANNA AVENUE 3 RD FLOOR TECHNOLOGY INNOVATION SMALL CONFERENCE
+  ROOM TAMPA\, FLORIDA 33610 CONTACT: CELESTE GIBBONS-PEOPLES\, CPPB\, CERT
+ IFIED SENIOR PROCUREMENT ANALYST CITY OF TAMPA PURCHASING DEPARTMENT HANNA
+  CITY CENTER 2555 EAST HANNA AVENUE\, 2 ND FLOOR TAMPA\, FL 33610 (813) 27
+ 4-8834 \n\nPermalink: https://www.tampa.gov/node/178761
+URL;VALUE=URI:https://www.tampa.gov/node/178761
 END:VEVENT
 BEGIN:VEVENT
-UID:b3e2e004-dead-466c-bf55-ddaec37d46d5
+UID:eada6e84-24cf-4a44-a353-51a758966684
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
+DTSTART:20260113T180000Z
+DTEND:20260113T180000Z
+SUMMARY:1st Scoring Evaluation Committee Meeting  Municipal Solid Waste Co
+ mposition Study\, Rfp 25-p-00383
+LOCATION:4010 W Spruce St Tampa \, FL 33607 United States
+DESCRIPTION:UPDATED 1 st SCORING EVALUATION COMMITTEE MEETING  MUNICIPAL S
+ OLID WASTE COMPOSITION STUDY\, RFP 25-P-00383 Date: January 13\, 2026 Time
+ : 1:00PM Location: SOLID WASTE CONFERENCE ROOM 4010 W SPRUCE ST TAMPA\, FL
+  33607 CONTACT: ERIN ELLIS\, PROCUREMENT ANALYST CITY OF TAMPA PURCHASING 
+ DEPARTMENT 2555 E HANNA AVENUE\, 2 nd Floor (813) 348-3241 \n\nPermalink: 
+ https://www.tampa.gov/node/177796
+URL;VALUE=URI:https://www.tampa.gov/node/177796
+END:VEVENT
+BEGIN:VEVENT
+UID:e96fadb1-ad8b-4e29-8c6e-394826086646
+SEQUENCE:0
+DTSTAMP:20260108T000439Z
 DTSTART:20260113T220000Z
 DTEND:20260113T220000Z
 SUMMARY:Special Call Workshop
@@ -291,26 +307,59 @@ DESCRIPTION:TAMPA CITY COUNCIL NOTICE OF PUBLIC MEETING SPECIAL CALL WORKS
 URL;VALUE=URI:https://www.tampa.gov/node/178666
 END:VEVENT
 BEGIN:VEVENT
-UID:65b1063f-efba-4ef7-8c1b-1f514730a805
+UID:8bb96572-6689-449a-b4b7-6b8d77b0d2de
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
-DTSTART:20260113T180000Z
-DTEND:20260113T180000Z
-SUMMARY:1st Scoring Evaluation Committee Meeting  Municipal Solid Waste Co
- mposition Study\, Rfp 25-p-00383
-LOCATION:4010 W Spruce St Tampa \, FL 33607 United States
-DESCRIPTION:UPDATED 1 st SCORING EVALUATION COMMITTEE MEETING  MUNICIPAL S
- OLID WASTE COMPOSITION STUDY\, RFP 25-P-00383 Date: January 13\, 2026 Time
- : 1:00PM Location: SOLID WASTE CONFERENCE ROOM 4010 W SPRUCE ST TAMPA\, FL
-  33607 CONTACT: ERIN ELLIS\, PROCUREMENT ANALYST CITY OF TAMPA PURCHASING 
- DEPARTMENT 2555 E HANNA AVENUE\, 2 nd Floor (813) 348-3241 \n\nPermalink: 
- https://www.tampa.gov/node/177796
-URL;VALUE=URI:https://www.tampa.gov/node/177796
+DTSTAMP:20260108T000439Z
+DTSTART:20260113T170000Z
+DTEND:20260113T170000Z
+SUMMARY:1st Scoring Evaluation Committee Meeting Professional Building Pla
+ n Review Inspections\, RFQ26-P-00009
+LOCATION:City Center at Hanna - 2nd Floor Purchasing Conference Room 2555 
+ E Hanna Avenue Tampa \, FL 33610 United States
+DESCRIPTION:1st SCORING EVALUATION COMMITTEE MEETING  Professional Buildin
+ g Plan Review Inspections\, RFQ 26-P-00009 Date: January 13\, 2026 Time: 1
+ 2:00 PM Location: AMALIE ROOM 2555 E HANNA AVENUE TAMPA\, FL 33610 CONTACT
+ : CHELSEA MULLIGAN\, PROCUREMENT ANALYST CITY OF TAMPA PURCHASING DEPARTME
+ NT 2555 E HANNA AVENUE\, 2nd Floor (813) 274-8342 \n\nPermalink: https://w
+ ww.tampa.gov/node/178211
+URL;VALUE=URI:https://www.tampa.gov/node/178211
 END:VEVENT
 BEGIN:VEVENT
-UID:3f5290a0-b5ba-4d0a-8aa4-ae951157f1c4
+UID:3134363e-e72c-4446-91b7-f4f2f60b3e42
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
+DTSTART:20260114T140000Z
+DTEND:20260114T140000Z
+SUMMARY:Human Rights Board Meeting
+LOCATION:2555 E Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:City of Tampa Human Rights Board Meeting Date: Wednesday\, Jan
+ uary 14\, 2026 Time: 9:00 a.m. Location: City Center at Hanna Ave 2555 E H
+ anna Ave\, 3 rd Floor The Bay Conference Room Tampa\, FL 33610 Topic: Meet
+ ing of Human Rights Board Contact: Questions may be directed to Naomi Cand
+ elaria\, Interim Human Rights Supervisor at (813) 274-5856 or by email at 
+ naomi.candelariatampagov.net (mailto:naomi.candelariatampagov.net) Members
+  of the public who do not wish to appear in person due to COVID-19 or othe
+ rwise may submit written comments by mail to the City of Tampa Human Right
+ s Board\, 2555 E Hanna Ave\, Tampa\, FL 33610\, or by email to naomi.cande
+ lariatampagov.net (mailto:naomi.candelariatampagov.net). All written comme
+ nts must be received no later than 24 hours before the scheduled meeting t
+ o be distributed to the Board members and be included in the official reco
+ rd of the meeting. To check the status of the public hearing regarding pos
+ tponement or cancellation\, please contact Naomi Candelaria at (813) 274-5
+ 856 a minimum of two (2) days before the public hearing date. In accordanc
+ e with the Americans with Disabilities Act (ADA) and Section 286.26\, Flor
+ ida Statutes\, persons with disabilities needing a reasonable accommodatio
+ n to participate in this event should contact the City of Tampas ADA Coord
+ inator at least 48 hours prior to the event. The ADA Coordinator may be co
+ ntacted by phone at (813) 274-3964\, email at TampaADAtampagov.net\, or by
+  submitting an ADA - Accommodations Request online form available at tampa
+ gov.netADARequest. \n\nPermalink: https://www.tampa.gov/node/178766
+URL;VALUE=URI:https://www.tampa.gov/node/178766
+END:VEVENT
+BEGIN:VEVENT
+UID:92fab702-5a90-4da3-ba35-0991d4f5e22a
+SEQUENCE:0
+DTSTAMP:20260108T000439Z
 DTSTART:20260116T150000Z
 DTEND:20260116T150000Z
 SUMMARY:Equal Business Opportunity Advisory Committee Meeting
@@ -331,9 +380,9 @@ DESCRIPTION:Public Meeting Notice EQUAL BUSINESS OPPORTUNITY ADVISORY COMM
 URL;VALUE=URI:https://www.tampa.gov/node/178591
 END:VEVENT
 BEGIN:VEVENT
-UID:1202adc6-d6a1-4f35-a5c0-b5bb8f736d81
+UID:7e3758a7-9a3e-47e1-a6a6-1a68a6fce1ef
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
 DTSTART:20260120T223000Z
 DTEND:20260120T223000Z
 SUMMARY:West Tampa Community Advisory Committee
@@ -367,9 +416,9 @@ DESCRIPTION:WEST TAMPA COMMUNITY ADVISORY COMMITTEE FOR THE WEST TAMPA COM
 URL;VALUE=URI:https://www.tampa.gov/node/178586
 END:VEVENT
 BEGIN:VEVENT
-UID:9fd3264b-283e-427c-8615-8561ced20132
+UID:9f4f9bbe-57de-4468-9ac9-8dd1a2bd7f7d
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
 DTSTART:20260120T223000Z
 DTEND:20260120T223000Z
 SUMMARY:West Tampa Community Advisory Committee
@@ -404,9 +453,9 @@ DESCRIPTION:WEST TAMPA COMMUNITY ADVISORY COMMITTEE FOR THE WEST TAMPA COM
 URL;VALUE=URI:https://www.tampa.gov/node/178611
 END:VEVENT
 BEGIN:VEVENT
-UID:7be80493-789b-4e19-8482-f704fd582e5c
+UID:a58984df-4518-4208-9862-12d7ad031d0a
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
 DTSTART:20260121T223000Z
 DTEND:20260121T223000Z
 SUMMARY:Drew Park Community Advisory Committee
@@ -438,9 +487,9 @@ DESCRIPTION:DREW PARK COMMUNITY ADVISORY COMMITTEE FOR THE DREW PARK COMMU
 URL;VALUE=URI:https://www.tampa.gov/node/178596
 END:VEVENT
 BEGIN:VEVENT
-UID:3152f83f-585c-403f-9028-05a46f4812fd
+UID:2bcbeb4c-37d7-45e4-a0a9-7eb76ae747ab
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
 DTSTART:20260123T150000Z
 DTEND:20260123T150000Z
 SUMMARY:Scoring Meeting -redevelopment Of The Royal Street Parking Lot And
@@ -457,9 +506,9 @@ DESCRIPTION:SCORING MEETING -REDEVELOPMENT OF THE ROYAL STREET PARKING LOT
 URL;VALUE=URI:https://www.tampa.gov/node/177866
 END:VEVENT
 BEGIN:VEVENT
-UID:6cbb1811-ef7d-49b0-a5b2-73ed79276203
+UID:c6fc1497-6ebd-4fd5-b2c9-69d336d82ac0
 SEQUENCE:0
-DTSTAMP:20260107T000415Z
+DTSTAMP:20260108T000439Z
 DTSTART:20260130T140000Z
 DTEND:20260130T140000Z
 SUMMARY:Meeting of CCNA SelectionCertification Committee
