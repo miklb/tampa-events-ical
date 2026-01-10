@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Public Meetings
 X-WR-CALNAME:Tampa Calendar - Public Meetings
 X-WR-CALDESC:Community events in Tampa for Public Meetings
 BEGIN:VEVENT
-UID:dde73a22-dc6f-4203-abfd-c3db51517d9f
+UID:bd652491-e09f-4cb0-950b-3c3918a17f21
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260105T223000Z
 DTEND:20260105T223000Z
 SUMMARY:Architectural Review Commission
@@ -28,9 +28,9 @@ DESCRIPTION:CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC
 URL;VALUE=URI:https://www.tampa.gov/node/178366
 END:VEVENT
 BEGIN:VEVENT
-UID:fbf34a87-aa1c-4a22-89f2-1dcd21609978
+UID:b4a76e41-28c6-4014-a6cd-30e954f33fcb
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260106T190000Z
 DTEND:20260106T210000Z
 SUMMARY:Notice Of Negotiations
@@ -46,9 +46,9 @@ DESCRIPTION:PUBLIC MEETING NOTICE NOTICE OF NEGOTIATIONS The City of Tampa
 URL;VALUE=URI:https://www.tampa.gov/node/177421
 END:VEVENT
 BEGIN:VEVENT
-UID:c1aa6d7c-d3ce-421b-816e-cc1e5c84d689
+UID:c6dfaa52-3b23-43a5-9f8e-e6b2828ca3b1
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260106T223000Z
 DTEND:20260106T223000Z
 SUMMARY:Cancelled- Downtown Community Advisory Committee
@@ -71,9 +71,9 @@ DESCRIPTION:DOWNTOWN COMMUNITY ADVISORY COMMITTEE FOR THE DOWNTOWN COMMUNI
 URL;VALUE=URI:https://www.tampa.gov/node/178576
 END:VEVENT
 BEGIN:VEVENT
-UID:c28c6d89-2110-463f-b338-4e29850f26f8
+UID:442d1ed2-5ad5-4703-b1ca-fca62fd6fd97
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260106T230000Z
 DTEND:20260106T230000Z
 SUMMARY:East Tampa Community Advisory Committee
@@ -105,9 +105,9 @@ DESCRIPTION:EAST TAMPA COMMUNITY ADVISORY COMMITTEE FOR THE EAST TAMPA COM
 URL;VALUE=URI:https://www.tampa.gov/node/178361
 END:VEVENT
 BEGIN:VEVENT
-UID:ccd36b89-b165-4461-9a6b-bdb5f196a736
+UID:136646ca-93e5-4207-92d9-5a0216c8f8cc
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260107T223000Z
 DTEND:20260107T223000Z
 SUMMARY:CANCELLED - Architectural Review Commission
@@ -126,9 +126,9 @@ DESCRIPTION:CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC
 URL;VALUE=URI:https://www.tampa.gov/node/178371
 END:VEVENT
 BEGIN:VEVENT
-UID:b3c8c449-dfdb-48a5-99f6-4c9ddd456976
+UID:e49085e4-b665-43ce-a192-6b8d5b245c56
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260107T223000Z
 DTEND:20260107T223000Z
 SUMMARY:Cancelled - Channel District Community Advisory Committee
@@ -151,27 +151,9 @@ DESCRIPTION:CHANNEL DISTRICT COMMUNITY ADVISORY COMMITTEE FOR THE CHANNEL
 URL;VALUE=URI:https://www.tampa.gov/node/178571
 END:VEVENT
 BEGIN:VEVENT
-UID:2e28adc9-3b10-4afd-ad44-c89ddbd43f3d
+UID:29d03354-9bc3-4a29-bb67-0b990199a33b
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
-DTSTART:20260108T140000Z
-DTEND:20260108T160000Z
-SUMMARY:Notice Of Negotiations
-LOCATION:411 N Franklin St. Tampa \, FL 33602 United States
-DESCRIPTION:PUBLIC MEETING NOTICE NOTICE OF NEGOTIATIONS The City of Tampa
-  and the International Association of Firefighters AFL-CIO-CLC\, Local Uni
- on No. 754 will hold a collective bargaining session on Thursday\, January
-  8\, 2026\, from 9:00 am  11:00 am in the 5th floor large conference room 
- of the Tampa Police Department. Tampa Police Department 5th Floor Large Co
- nference Room 411 N. Franklin St. Tampa\, Florida 33602 For further inform
- ation\, contact Rebecca Carr at 274-8168. \n\nPermalink: https://www.tampa
- .gov/node/178661
-URL;VALUE=URI:https://www.tampa.gov/node/178661
-END:VEVENT
-BEGIN:VEVENT
-UID:ef4669a6-49dc-410b-b0bb-1bf80d1c5781
-SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260108T140000Z
 DTEND:20260108T140000Z
 SUMMARY:City Council Regular Agenda
@@ -223,9 +205,27 @@ DESCRIPTION:NOTICE OF PUBLIC MEETING TAMPA CITY COUNCIL REGULAR AGENDA Dat
 URL;VALUE=URI:https://www.tampa.gov/node/178381
 END:VEVENT
 BEGIN:VEVENT
-UID:5eee0de1-bd47-438a-b07e-99103687a6a4
+UID:18db04a8-8bcd-494c-8e02-af5115db7bd1
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
+DTSTART:20260108T140000Z
+DTEND:20260108T160000Z
+SUMMARY:Notice Of Negotiations
+LOCATION:411 N Franklin St. Tampa \, FL 33602 United States
+DESCRIPTION:PUBLIC MEETING NOTICE NOTICE OF NEGOTIATIONS The City of Tampa
+  and the International Association of Firefighters AFL-CIO-CLC\, Local Uni
+ on No. 754 will hold a collective bargaining session on Thursday\, January
+  8\, 2026\, from 9:00 am  11:00 am in the 5th floor large conference room 
+ of the Tampa Police Department. Tampa Police Department 5th Floor Large Co
+ nference Room 411 N. Franklin St. Tampa\, Florida 33602 For further inform
+ ation\, contact Rebecca Carr at 274-8168. \n\nPermalink: https://www.tampa
+ .gov/node/178661
+URL;VALUE=URI:https://www.tampa.gov/node/178661
+END:VEVENT
+BEGIN:VEVENT
+UID:4ec3736e-ef5d-4a5d-ab37-629cc737e734
+SEQUENCE:0
+DTSTAMP:20260110T000427Z
 DTSTART:20260109T143000Z
 DTEND:20260109T143000Z
 SUMMARY:CANCELLED - City Council Citizens Advisory Budget And Finance Comm
@@ -245,9 +245,9 @@ DESCRIPTION:CANCELLED CITY COUNCIL CITIZENS ADVISORY BUDGET AND FINANCE CO
 URL;VALUE=URI:https://www.tampa.gov/node/178051
 END:VEVENT
 BEGIN:VEVENT
-UID:ea8d1e18-0f43-4c9e-8ca2-fb806db6ce59
+UID:3a9ef391-02fa-477e-9e72-72a794fe5905
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260109T153000Z
 DTEND:20260109T153000Z
 SUMMARY:Committee Meeting - RFP25-P-00272 Analog Phone Line Replacement
@@ -262,9 +262,9 @@ DESCRIPTION:COMMITTEE MEETING - RFP25-P-00272 ANALOG PHONE LINE REPLACEMEN
 URL;VALUE=URI:https://www.tampa.gov/node/178761
 END:VEVENT
 BEGIN:VEVENT
-UID:5c8341db-0256-401a-8d4e-0e7d54acc1e7
+UID:df7dc2a4-c9a5-4f50-92dd-86eb20698693
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260113T180000Z
 DTEND:20260113T180000Z
 SUMMARY:1st Scoring Evaluation Committee Meeting  Municipal Solid Waste Co
@@ -279,9 +279,9 @@ DESCRIPTION:UPDATED 1 st SCORING EVALUATION COMMITTEE MEETING  MUNICIPAL S
 URL;VALUE=URI:https://www.tampa.gov/node/177796
 END:VEVENT
 BEGIN:VEVENT
-UID:b561595a-7010-486c-bf2a-4513e4a30fa1
+UID:62e2808c-d19e-4f20-b301-8441ffcf006d
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260113T220000Z
 DTEND:20260113T220000Z
 SUMMARY:Special Call Workshop
@@ -307,9 +307,9 @@ DESCRIPTION:TAMPA CITY COUNCIL NOTICE OF PUBLIC MEETING SPECIAL CALL WORKS
 URL;VALUE=URI:https://www.tampa.gov/node/178666
 END:VEVENT
 BEGIN:VEVENT
-UID:24b37712-5257-4432-96ba-b363ca67159a
+UID:bf66ff2e-0348-43a5-9265-60ce846ad54b
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260113T170000Z
 DTEND:20260113T170000Z
 SUMMARY:1st Scoring Evaluation Committee Meeting Professional Building Pla
@@ -325,9 +325,27 @@ DESCRIPTION:1st SCORING EVALUATION COMMITTEE MEETING  Professional Buildin
 URL;VALUE=URI:https://www.tampa.gov/node/178211
 END:VEVENT
 BEGIN:VEVENT
-UID:1f745db0-9e8d-4e4d-bb91-fa43da5a26a0
+UID:f49556d5-11b0-44e9-8ddb-1eb8757f389f
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
+DTSTART:20260113T150000Z
+DTEND:20260113T170000Z
+SUMMARY:Notice Of Negotiations
+LOCATION:411 N Franklin St. Tampa \, FL 33602 United States
+DESCRIPTION:PUBLIC MEETING NOTICE NOTICE OF NEGOTIATIONS The City of Tampa
+  and the International Association of Firefighters AFL-CIO-CLC\, Local Uni
+ on No. 754 will hold a collective bargaining session on Tuesday\, January 
+ 13\, 2026\, from 10:00 am  12:00 pm in the 5th floor large conference room
+  of the Tampa Police Department. Tampa Police Department 5th Floor Large C
+ onference Room 411 N. Franklin St. Tampa\, Florida 33602 For further infor
+ mation\, contact Rebecca Carr at 274-8168. \n\nPermalink: https://www.tamp
+ a.gov/node/178861
+URL;VALUE=URI:https://www.tampa.gov/node/178861
+END:VEVENT
+BEGIN:VEVENT
+UID:3a6af64e-9ad0-47c4-91c8-a6a92725a532
+SEQUENCE:0
+DTSTAMP:20260110T000427Z
 DTSTART:20260114T140000Z
 DTEND:20260114T140000Z
 SUMMARY:Human Rights Board Meeting
@@ -357,9 +375,102 @@ DESCRIPTION:City of Tampa Human Rights Board Meeting Date: Wednesday\, Jan
 URL;VALUE=URI:https://www.tampa.gov/node/178766
 END:VEVENT
 BEGIN:VEVENT
-UID:35f2377f-ae7b-497b-930d-a26b0b5b1dcb
+UID:23f84d3b-e9fb-434c-b517-c3c2754d1c3e
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
+DTSTART:20260115T140000Z
+DTEND:20260115T140000Z
+SUMMARY:Community Redevelopment Agency Regular Meeting
+LOCATION:315 E Kennedy Blvd Tampa \, FL 33602 United States
+DESCRIPTION:NOTICE OF PUBLIC MEETING CITY OF TAMPA COMMUNITY REDEVELOPMENT
+  AGENCY REGULAR MEETING Date: Thursday\, January 15\, 2026 Time: 9:00 AM L
+ ocation: Old City Hall 315 E. Kennedy Blvd. Tampa FL 33602 Agenda: https:t
+ ampa.govagendas (https:tampa.govagendas) The public and citizens of the Ci
+ ty of Tampa will be able to watch\, listen or view this meeting on: Cable 
+ TV: Spectrum Channel 640 Frontier Channel 15 Internet: https:www.tampa.gov
+ livestream (https:www.tampa.govlivestream) Members of the public can eithe
+ r attend the meeting in person in City Council Chambers located on the 3 r
+ d Floor in Old City Hall\, or virtually participate in this public meeting
+  by using what is referred to by State of Florida statutes and rules as co
+ mmunications media technology (CMT). TO SPEAK REMOTELY DURING PUBLIC COMME
+ NT WITH THE USE OF CMT PRE-REGISTRATION IS REQUIRED : Complete the form at
+  https:www.tampa.govPublicComment (https:www.tampa.govPublicComment) AND s
+ tate on the form under Request Type that you wish to speak live during the
+  public comment period. You will then be contacted with additional instruc
+ tions on how to participate live through the use of CMT. Registration for 
+ speaking remotely must be requested at least 24 hours prior to the meeting
+ . Persons requiring help in accessing these means of remote participation 
+ should call 813-274-8397 for assistance . In accordance with the Americans
+  with Disabilities Act (ADA) and Section 286.26\, Florida Statutes\, perso
+ ns with disabilities needing a reasonable accommodation to participate in 
+ this public hearing or meeting should contact the City of Tampas ADA Coord
+ inator at least 48 hours prior to the proceeding. The ADA Coordinator may 
+ be contacted via phone at 813-274-3964\, email at TampaADAtampagov.net\, o
+ r by submitting an ADA - Accommodations Request form available online at h
+ ttps:tampa.govADARequest (https:tampa.govADARequest). Should any person de
+ sire to appeal any decision of the City of Tampa Community Redevelopment A
+ gency with respect to any matter to be considered at this meeting\, that p
+ erson shall ensure that a verbatim record of the proceeding is made includ
+ ing all testimony and evidence upon which any appeal may be based (F.S. 28
+ 6.0105 (http:www.leg.state.fl.usStatutesindex.cfm?App_modeDisplay_Statute 
+ URL0200-02990286Sections0286.0105.html)). \n\nPermalink: https://www.tampa
+ .gov/node/178871
+URL;VALUE=URI:https://www.tampa.gov/node/178871
+END:VEVENT
+BEGIN:VEVENT
+UID:db52861e-f970-46fd-a641-da233865e508
+SEQUENCE:0
+DTSTAMP:20260110T000427Z
+DTSTART:20260115T220100Z
+DTEND:20260115T220100Z
+SUMMARY:City Council Evening Meeting Quasi-judicial Land Use Hearings
+LOCATION:315 E Kennedy Blvd Tampa \, FL 33602 United States
+DESCRIPTION:NOTICE OF PUBLIC MEETING TAMPA CITY COUNCIL EVENING MEETING QU
+ ASI-JUDICIAL LAND USE HEARINGS Date: Thursday\, January 15\, 2026 Time: 5:
+ 01 PM Location: Old City Hall 315 E. Kennedy Blvd. Tampa FL 33602 Agenda: 
+ https:tampa.govagendas (https:tampa.govagendas) The public and citizens of
+  the City of Tampa will be able to watch\, listen or view this meeting on:
+  Cable TV: Spectrum Channel 640 Frontier Channel 15 Internet: https:www.ta
+ mpa.govlivestream (https:www.tampa.govlivestream) Members of the public ma
+ y participate in the Tampa City Council meetings by either attending in pe
+ rson in the City Council Chambers\, Old City Hall\, 315 E. Kennedy Blvd.\,
+  Tampa\, FL 33602 or virtually through video teleconferencing\, referred t
+ o by Florida Statutes and rules as communications media technology (CMT). 
+ PRE-REGISTRATION IS NECESSARY TO PARTICIPATE VIRTUALLY IN A PUBLIC HEARING
+  ON A QUASI-JUDICIAL OR LEGISLATIVE MATTER. FOR MORE INFORMATION ABOUT THE
+  ABILITY TO PARTICIPATE IN THE PUBLIC HEARINGS VIA CMT\, INCLUDING SCHEDUL
+ ES\, A LINK TO REGISTRATIONS FORMS\, AND DETAILED INSTRUCTIONS ON HOW TO P
+ ARTICIPATE THROUGH THE USE OF CMT\, SEE : https:www.tampa.govquasi (https:
+ www.tampa.govquasi) In order to participate via CMT you must have access t
+ o a communications media device (such as a tablet or a computer equipped w
+ ith a camera and microphone) that will enable you to be seen (video) and h
+ eard (audio) by the City Council and all other participants. For these spe
+ cific two-way video virtual meeting formats\, cell phones and smartphones 
+ are not compatible as they will not allow you to share your camera when co
+ nnected. Persons in need of assistance or having questions regarding means
+  of public participation should call the Office of the City Clerk at 813-2
+ 74-8397 for assistance . Should any person desire to appeal any decision o
+ f the Tampa City Council with respect to any matter to be considered at th
+ is meeting\, that person shall ensure that a verbatim record of the procee
+ ding is made including all testimony and evidence upon which any appeal ma
+ y be based (F.S. 286.0105 (http:www.leg.state.fl.usStatutesindex.cfm?App_m
+ odeDisplay_Statute URL0200-02990286Sections0286.0105.html)). In accordance
+  with the Americans with Disabilities Act (ADA) and Section 286.26\, Flori
+ da Statutes\, persons with disabilities needing a reasonable accommodation
+  to participate in this public hearing or meeting should contact the City 
+ of Tampas ADA Coordinator at least 48 hours prior to the proceeding. The A
+ DA Coordinator may be contacted via phone at 813-274-3964\, email at Tampa
+ ADAtampagov.net\, or by submitting an ADA - Accommodations Request form av
+ ailable online at https:tampa.govADARequest (https:tampa.govADARequest). F
+ or additional information\, please contact the Clerks Office at 813-274-83
+ 97 or at CityClerkStafftampagov.net (mailto:CityClerkStafftampagov.net). \
+ n\nPermalink: https://www.tampa.gov/node/178866
+URL;VALUE=URI:https://www.tampa.gov/node/178866
+END:VEVENT
+BEGIN:VEVENT
+UID:27b6124a-fdad-4516-bf2c-26d10f1dc713
+SEQUENCE:0
+DTSTAMP:20260110T000427Z
 DTSTART:20260116T150000Z
 DTEND:20260116T150000Z
 SUMMARY:Equal Business Opportunity Advisory Committee Meeting
@@ -380,13 +491,13 @@ DESCRIPTION:Public Meeting Notice EQUAL BUSINESS OPPORTUNITY ADVISORY COMM
 URL;VALUE=URI:https://www.tampa.gov/node/178591
 END:VEVENT
 BEGIN:VEVENT
-UID:08cacbff-ab18-43c0-974f-734299858e3b
+UID:a9dbeebf-89fe-41fe-a425-c1e1d96ee5ab
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260120T223000Z
 DTEND:20260120T223000Z
 SUMMARY:West Tampa Community Advisory Committee
-LOCATION:2306 North Howard Avenue Tampa \, FL 33607 United States
+LOCATION:2306 N Howard Ave Tampa \, FL 33607 United States
 DESCRIPTION:WEST TAMPA COMMUNITY ADVISORY COMMITTEE FOR THE WEST TAMPA COM
  MUNITY REDEVELOPMENT AREA NOTICE OF PUBLIC MEETING Dates: Tuesday\, Januar
  y 20. 2026 Time: 5:30 p.m. Location: Hillsborough Education Foundation 230
@@ -412,50 +523,13 @@ DESCRIPTION:WEST TAMPA COMMUNITY ADVISORY COMMITTEE FOR THE WEST TAMPA COM
   the proceeding. The ADA Coordinator may be contacted via phone at 813-274
  -3964\, email at TampaADAtampagov.net\, (mailto:TampaADAtampagov.net) or b
  y submitting an ADA - Accommodations Request form available online at tamp
- agov.netADARequest. \n\nPermalink: https://www.tampa.gov/node/178586
-URL;VALUE=URI:https://www.tampa.gov/node/178586
-END:VEVENT
-BEGIN:VEVENT
-UID:7831a45c-144e-44da-aa0f-21ea615cca39
-SEQUENCE:0
-DTSTAMP:20260109T000431Z
-DTSTART:20260120T223000Z
-DTEND:20260120T223000Z
-SUMMARY:West Tampa Community Advisory Committee
-LOCATION:1101 W Main St Tampa \, FL 33607 United States
-DESCRIPTION:WEST TAMPA COMMUNITY ADVISORY COMMITTEE FOR THE WEST TAMPA COM
- MUNITY REDEVELOPMENT AREA NOTICE OF PUBLIC MEETING Dates: Tuesday\, Januar
- y 20. 2026 Time: 5:30 p.m. Location: The Canopy Community Room at West Riv
- er 1101 W Main Street Tampa\, Florida 33607 Teams meeting: Join on your co
- mputer\, mobile app or room device Click here to join the meeting (https:t
- eams.microsoft.comlmeetup-join193ameeting_ODg4N2M5ZGQtMmU0OS00MzBmLTk2ZmIt
- MDQ4ZTgyNTY0ZWUx40thread.v20?context7b22Tid223a228d9d0373-5c91-45b4-905b-1
- 2fe918cb628222c22Oid223a220a5a0546-45b8-481e-9ddd-010c3022b0ed227d) Meetin
- g ID: 246 667 438 538 Passcode: Nz2qtC Download Teams (https:www.microsoft
- .comen-usmicrosoft-teamsdownload-app)  Join on the web (https:www.microsof
- t.commicrosoft-teamsjoin-a-meeting) Or call in (audio only) 1 941-263-1615
- \,\,11791594 (tel:19412631615\,\,11791594 ) United States\, Sarasota Phone
-  Conference ID: 117 915 94 Agenda: Please contact Brenda Thrower at 813-27
- 4-7917 or at Brenda.Throwertampagov.net (mailto:090909090909Brenda.Thrower
- tampagov.net) The purpose of this public meeting of the West Tampa Communi
- ty Advisory Committee (CAC) is to discuss and make recommendations regardi
- ng Community Redevelopment Activities in the West Tampa Community Redevelo
- pment Area for consideration by the City of Tampa Community Redevelopment 
- Agency (CRA). In accordance with the Americans with Disabilities Act (ADA)
-  and Section 286.26\, Florida Statutes\, persons with disabilities needing
-  a reasonable accommodation to participate in this public hearing or meeti
- ng should contact the City of Tampas ADA Coordinator at least 48 hours pri
- or to the proceeding. The ADA Coordinator may be contacted via phone at 81
- 3-274-3964\, email at TampaADAtampagov.net\, (mailto:TampaADAtampagov.net)
-  or by submitting an ADA - Accommodations Request form available online at
-  tampagov.netADARequest. CAC MEETING FORM NOTICE \n\nPermalink: https://ww
- w.tampa.gov/node/178611
+ agov.netADARequest. \n\nPermalink: https://www.tampa.gov/node/178611
 URL;VALUE=URI:https://www.tampa.gov/node/178611
 END:VEVENT
 BEGIN:VEVENT
-UID:82add292-7296-443a-a4a0-ed5eafdf368f
+UID:d3794b60-eb16-4708-a989-f9c65c79b1b9
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260121T223000Z
 DTEND:20260121T223000Z
 SUMMARY:Drew Park Community Advisory Committee
@@ -487,9 +561,9 @@ DESCRIPTION:DREW PARK COMMUNITY ADVISORY COMMITTEE FOR THE DREW PARK COMMU
 URL;VALUE=URI:https://www.tampa.gov/node/178596
 END:VEVENT
 BEGIN:VEVENT
-UID:2ff0f572-ffa2-481d-bda1-14f41b17d5e1
+UID:0a0edb59-88f8-4670-a7ba-735ac82d2a33
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260123T150000Z
 DTEND:20260123T150000Z
 SUMMARY:Scoring Meeting -redevelopment Of The Royal Street Parking Lot And
@@ -506,9 +580,9 @@ DESCRIPTION:SCORING MEETING -REDEVELOPMENT OF THE ROYAL STREET PARKING LOT
 URL;VALUE=URI:https://www.tampa.gov/node/177866
 END:VEVENT
 BEGIN:VEVENT
-UID:23f1fe62-2186-411f-acf2-e9bf5820c7ee
+UID:771dd776-ab3a-4879-a03d-7fc2169380f4
 SEQUENCE:0
-DTSTAMP:20260109T000431Z
+DTSTAMP:20260110T000427Z
 DTSTART:20260130T140000Z
 DTEND:20260130T140000Z
 SUMMARY:Meeting of CCNA SelectionCertification Committee
