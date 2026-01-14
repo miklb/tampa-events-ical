@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Public Meetings
 X-WR-CALNAME:Tampa Calendar - Public Meetings
 X-WR-CALDESC:Community events in Tampa for Public Meetings
 BEGIN:VEVENT
-UID:a2a34916-5292-447d-9b81-73fd3e526324
+UID:86465dba-de13-4225-b83e-889c1f957f47
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
 DTSTART:20260105T223000Z
 DTEND:20260105T223000Z
 SUMMARY:Architectural Review Commission
@@ -28,27 +28,9 @@ DESCRIPTION:CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC
 URL;VALUE=URI:https://www.tampa.gov/node/178366
 END:VEVENT
 BEGIN:VEVENT
-UID:ea8a1bab-b1fe-4a86-a4c6-196fdcbc91ce
+UID:06fe2714-e5fa-480c-aaf6-faf0b1cc5852
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
-DTSTART:20260106T190000Z
-DTEND:20260106T210000Z
-SUMMARY:Notice Of Negotiations
-LOCATION:411 N Franklin St Tampa \, FL 33602 United States
-DESCRIPTION:PUBLIC MEETING NOTICE NOTICE OF NEGOTIATIONS The City of Tampa
-  and the International Association of Firefighters AFL-CIO-CLC\, Local Uni
- on No. 754 will hold a collective bargaining session on Tuesday\, January 
- 6\, 2026\, from 2pm-4pm in the 5th floor large conference room of the Tamp
- a Police Department. Tampa Police Department 5th Floor Large Conference Ro
- om 411 N. Franklin St. Tampa\, Florida 33602 For further information\, con
- tact Rebecca Carr at 274-8168. \n\nPermalink: https://www.tampa.gov/node/1
- 77421
-URL;VALUE=URI:https://www.tampa.gov/node/177421
-END:VEVENT
-BEGIN:VEVENT
-UID:1343c34e-e950-436b-bf34-999111516af0
-SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
 DTSTART:20260106T230000Z
 DTEND:20260106T230000Z
 SUMMARY:East Tampa Community Advisory Committee
@@ -80,9 +62,9 @@ DESCRIPTION:EAST TAMPA COMMUNITY ADVISORY COMMITTEE FOR THE EAST TAMPA COM
 URL;VALUE=URI:https://www.tampa.gov/node/178361
 END:VEVENT
 BEGIN:VEVENT
-UID:585157ea-dcdf-4232-85b9-3b83658d87df
+UID:ddebcb69-8bcd-41b9-b572-f74267456c5d
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
 DTSTART:20260106T223000Z
 DTEND:20260106T223000Z
 SUMMARY:Cancelled- Downtown Community Advisory Committee
@@ -105,9 +87,27 @@ DESCRIPTION:DOWNTOWN COMMUNITY ADVISORY COMMITTEE FOR THE DOWNTOWN COMMUNI
 URL;VALUE=URI:https://www.tampa.gov/node/178576
 END:VEVENT
 BEGIN:VEVENT
-UID:d2bfafb6-7293-4307-ab6a-518028e4ff8e
+UID:2ba9f7a6-f97c-47d1-8a74-d42ef4fcbc0a
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
+DTSTART:20260106T190000Z
+DTEND:20260106T210000Z
+SUMMARY:Notice Of Negotiations
+LOCATION:411 N Franklin St Tampa \, FL 33602 United States
+DESCRIPTION:PUBLIC MEETING NOTICE NOTICE OF NEGOTIATIONS The City of Tampa
+  and the International Association of Firefighters AFL-CIO-CLC\, Local Uni
+ on No. 754 will hold a collective bargaining session on Tuesday\, January 
+ 6\, 2026\, from 2pm-4pm in the 5th floor large conference room of the Tamp
+ a Police Department. Tampa Police Department 5th Floor Large Conference Ro
+ om 411 N. Franklin St. Tampa\, Florida 33602 For further information\, con
+ tact Rebecca Carr at 274-8168. \n\nPermalink: https://www.tampa.gov/node/1
+ 77421
+URL;VALUE=URI:https://www.tampa.gov/node/177421
+END:VEVENT
+BEGIN:VEVENT
+UID:e236aca8-ffaf-48b1-a8e3-20b3f33aeaeb
+SEQUENCE:0
+DTSTAMP:20260114T000505Z
 DTSTART:20260107T223000Z
 DTEND:20260107T223000Z
 SUMMARY:CANCELLED - Architectural Review Commission
@@ -126,9 +126,9 @@ DESCRIPTION:CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC
 URL;VALUE=URI:https://www.tampa.gov/node/178371
 END:VEVENT
 BEGIN:VEVENT
-UID:8c12a0c0-2d7e-4b79-a8cb-2319c2448e88
+UID:63aab2d3-d110-49ec-88a9-be341cec3197
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
 DTSTART:20260107T223000Z
 DTEND:20260107T223000Z
 SUMMARY:Cancelled - Channel District Community Advisory Committee
@@ -151,9 +151,9 @@ DESCRIPTION:CHANNEL DISTRICT COMMUNITY ADVISORY COMMITTEE FOR THE CHANNEL
 URL;VALUE=URI:https://www.tampa.gov/node/178571
 END:VEVENT
 BEGIN:VEVENT
-UID:b48adf91-5443-4bc3-9bfe-82aa10e2f7c1
+UID:4dc7ea45-9f3f-4baf-8594-668b7554b85b
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
 DTSTART:20260108T140000Z
 DTEND:20260108T140000Z
 SUMMARY:City Council Regular Agenda
@@ -205,9 +205,9 @@ DESCRIPTION:NOTICE OF PUBLIC MEETING TAMPA CITY COUNCIL REGULAR AGENDA Dat
 URL;VALUE=URI:https://www.tampa.gov/node/178381
 END:VEVENT
 BEGIN:VEVENT
-UID:43feae7f-6b3e-49f5-867f-9b9cd92ec6fb
+UID:e0d78377-8d40-45bf-82cb-553dcc5d8c60
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
 DTSTART:20260108T140000Z
 DTEND:20260108T160000Z
 SUMMARY:Notice Of Negotiations
@@ -223,9 +223,9 @@ DESCRIPTION:PUBLIC MEETING NOTICE NOTICE OF NEGOTIATIONS The City of Tampa
 URL;VALUE=URI:https://www.tampa.gov/node/178661
 END:VEVENT
 BEGIN:VEVENT
-UID:fcb00c42-6736-42c9-b450-6410b8842322
+UID:ac9c66c9-6bbf-4f15-9b73-88419fef611d
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
 DTSTART:20260109T143000Z
 DTEND:20260109T143000Z
 SUMMARY:CANCELLED - City Council Citizens Advisory Budget And Finance Comm
@@ -245,9 +245,9 @@ DESCRIPTION:CANCELLED CITY COUNCIL CITIZENS ADVISORY BUDGET AND FINANCE CO
 URL;VALUE=URI:https://www.tampa.gov/node/178051
 END:VEVENT
 BEGIN:VEVENT
-UID:b6eec4ef-db9c-462a-a537-8092c6cfef49
+UID:588548f0-d8d4-45c0-a779-d39da4d8ac0d
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
 DTSTART:20260109T153000Z
 DTEND:20260109T153000Z
 SUMMARY:Committee Meeting - RFP25-P-00272 Analog Phone Line Replacement
@@ -262,26 +262,9 @@ DESCRIPTION:COMMITTEE MEETING - RFP25-P-00272 ANALOG PHONE LINE REPLACEMEN
 URL;VALUE=URI:https://www.tampa.gov/node/178761
 END:VEVENT
 BEGIN:VEVENT
-UID:7d0afe90-3f20-4172-b8be-29a7508a2275
+UID:7e96ae6e-de12-4465-b1e5-db16dcdb6b3d
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
-DTSTART:20260113T180000Z
-DTEND:20260113T180000Z
-SUMMARY:1st Scoring Evaluation Committee Meeting  Municipal Solid Waste Co
- mposition Study\, Rfp 25-p-00383
-LOCATION:4010 W Spruce St Tampa \, FL 33607 United States
-DESCRIPTION:UPDATED 1 st SCORING EVALUATION COMMITTEE MEETING  MUNICIPAL S
- OLID WASTE COMPOSITION STUDY\, RFP 25-P-00383 Date: January 13\, 2026 Time
- : 1:00PM Location: SOLID WASTE CONFERENCE ROOM 4010 W SPRUCE ST TAMPA\, FL
-  33607 CONTACT: ERIN ELLIS\, PROCUREMENT ANALYST CITY OF TAMPA PURCHASING 
- DEPARTMENT 2555 E HANNA AVENUE\, 2 nd Floor (813) 348-3241 \n\nPermalink: 
- https://www.tampa.gov/node/177796
-URL;VALUE=URI:https://www.tampa.gov/node/177796
-END:VEVENT
-BEGIN:VEVENT
-UID:bbe003ed-6f7b-462e-81d7-ee9add353e1f
-SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
 DTSTART:20260113T150000Z
 DTEND:20260113T170000Z
 SUMMARY:Notice Of Negotiations
@@ -297,9 +280,9 @@ DESCRIPTION:PUBLIC MEETING NOTICE NOTICE OF NEGOTIATIONS The City of Tampa
 URL;VALUE=URI:https://www.tampa.gov/node/178861
 END:VEVENT
 BEGIN:VEVENT
-UID:edb23184-8e15-4dd5-b9a9-e84fb5b4f505
+UID:8dd37e31-6e22-45ef-b00e-8e335c94e91c
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
 DTSTART:20260113T220000Z
 DTEND:20260113T220000Z
 SUMMARY:Special Call Workshop
@@ -325,27 +308,9 @@ DESCRIPTION:TAMPA CITY COUNCIL NOTICE OF PUBLIC MEETING SPECIAL CALL WORKS
 URL;VALUE=URI:https://www.tampa.gov/node/178666
 END:VEVENT
 BEGIN:VEVENT
-UID:df22bf48-0789-4ad5-8d6e-5866fbc6315b
+UID:cc18183f-1395-40ba-bf9b-f5dcc80ce17c
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
-DTSTART:20260113T170000Z
-DTEND:20260113T170000Z
-SUMMARY:1st Scoring Evaluation Committee Meeting Professional Building Pla
- n Review Inspections\, RFQ26-P-00009
-LOCATION:City Center at Hanna - 2nd Floor Purchasing Conference Room 2555 
- E Hanna Avenue Tampa \, FL 33610 United States
-DESCRIPTION:1st SCORING EVALUATION COMMITTEE MEETING  Professional Buildin
- g Plan Review Inspections\, RFQ 26-P-00009 Date: January 13\, 2026 Time: 1
- 2:00 PM Location: AMALIE ROOM 2555 E HANNA AVENUE TAMPA\, FL 33610 CONTACT
- : CHELSEA MULLIGAN\, PROCUREMENT ANALYST CITY OF TAMPA PURCHASING DEPARTME
- NT 2555 E HANNA AVENUE\, 2nd Floor (813) 274-8342 \n\nPermalink: https://w
- ww.tampa.gov/node/178211
-URL;VALUE=URI:https://www.tampa.gov/node/178211
-END:VEVENT
-BEGIN:VEVENT
-UID:72921553-ce6a-4b1e-aa2d-11049a2af6eb
-SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
 DTSTART:20260114T140000Z
 DTEND:20260114T140000Z
 SUMMARY:Human Rights Board Meeting
@@ -375,9 +340,52 @@ DESCRIPTION:City of Tampa Human Rights Board Meeting Date: Wednesday\, Jan
 URL;VALUE=URI:https://www.tampa.gov/node/178766
 END:VEVENT
 BEGIN:VEVENT
-UID:2c56432c-b5b9-475c-a328-3438de0413bd
+UID:c8079a49-c241-48c2-8855-f2b34ed333f0
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
+DTSTART:20260115T140000Z
+DTEND:20260115T140000Z
+SUMMARY:Community Redevelopment Agency Regular Meeting
+LOCATION:315 E Kennedy Blvd Tampa \, FL 33602 United States
+DESCRIPTION:NOTICE OF PUBLIC MEETING CITY OF TAMPA COMMUNITY REDEVELOPMENT
+  AGENCY REGULAR MEETING Date: Thursday\, January 15\, 2026 Time: 9:00 AM L
+ ocation: Old City Hall 315 E. Kennedy Blvd. Tampa FL 33602 Agenda: https:t
+ ampa.govagendas (https:tampa.govagendas) The public and citizens of the Ci
+ ty of Tampa will be able to watch\, listen or view this meeting on: Cable 
+ TV: Spectrum Channel 640 Frontier Channel 15 Internet: https:www.tampa.gov
+ livestream (https:www.tampa.govlivestream) Members of the public can eithe
+ r attend the meeting in person in City Council Chambers located on the 3 r
+ d Floor in Old City Hall\, or virtually participate in this public meeting
+  by using what is referred to by State of Florida statutes and rules as co
+ mmunications media technology (CMT). TO SPEAK REMOTELY DURING PUBLIC COMME
+ NT WITH THE USE OF CMT PRE-REGISTRATION IS REQUIRED : Complete the form at
+  https:www.tampa.govPublicComment (https:www.tampa.govPublicComment) AND s
+ tate on the form under Request Type that you wish to speak live during the
+  public comment period. You will then be contacted with additional instruc
+ tions on how to participate live through the use of CMT. Registration for 
+ speaking remotely must be requested at least 24 hours prior to the meeting
+ . Persons requiring help in accessing these means of remote participation 
+ should call 813-274-8397 for assistance . In accordance with the Americans
+  with Disabilities Act (ADA) and Section 286.26\, Florida Statutes\, perso
+ ns with disabilities needing a reasonable accommodation to participate in 
+ this public hearing or meeting should contact the City of Tampas ADA Coord
+ inator at least 48 hours prior to the proceeding. The ADA Coordinator may 
+ be contacted via phone at 813-274-3964\, email at TampaADAtampagov.net\, o
+ r by submitting an ADA - Accommodations Request form available online at h
+ ttps:tampa.govADARequest (https:tampa.govADARequest). Should any person de
+ sire to appeal any decision of the City of Tampa Community Redevelopment A
+ gency with respect to any matter to be considered at this meeting\, that p
+ erson shall ensure that a verbatim record of the proceeding is made includ
+ ing all testimony and evidence upon which any appeal may be based (F.S. 28
+ 6.0105 (http:www.leg.state.fl.usStatutesindex.cfm?App_modeDisplay_Statute 
+ URL0200-02990286Sections0286.0105.html)). \n\nPermalink: https://www.tampa
+ .gov/node/178871
+URL;VALUE=URI:https://www.tampa.gov/node/178871
+END:VEVENT
+BEGIN:VEVENT
+UID:664e1952-e515-45af-a742-665f99034c02
+SEQUENCE:0
+DTSTAMP:20260114T000505Z
 DTSTART:20260115T220100Z
 DTEND:20260115T220100Z
 SUMMARY:City Council Evening Meeting Quasi-judicial Land Use Hearings
@@ -425,52 +433,51 @@ DESCRIPTION:NOTICE OF PUBLIC MEETING TAMPA CITY COUNCIL EVENING MEETING QU
 URL;VALUE=URI:https://www.tampa.gov/node/178866
 END:VEVENT
 BEGIN:VEVENT
-UID:12185717-c49c-4123-8016-1c88f75642c7
+UID:51d0cf6e-066a-4a15-ad4e-f48dc4e93416
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
-DTSTART:20260115T140000Z
-DTEND:20260115T140000Z
-SUMMARY:Community Redevelopment Agency Regular Meeting
-LOCATION:315 E Kennedy Blvd Tampa \, FL 33602 United States
-DESCRIPTION:NOTICE OF PUBLIC MEETING CITY OF TAMPA COMMUNITY REDEVELOPMENT
-  AGENCY REGULAR MEETING Date: Thursday\, January 15\, 2026 Time: 9:00 AM L
- ocation: Old City Hall 315 E. Kennedy Blvd. Tampa FL 33602 Agenda: https:t
- ampa.govagendas (https:tampa.govagendas) The public and citizens of the Ci
- ty of Tampa will be able to watch\, listen or view this meeting on: Cable 
- TV: Spectrum Channel 640 Frontier Channel 15 Internet: https:www.tampa.gov
- livestream (https:www.tampa.govlivestream) Members of the public can eithe
- r attend the meeting in person in City Council Chambers located on the 3 r
- d Floor in Old City Hall\, or virtually participate in this public meeting
-  by using what is referred to by State of Florida statutes and rules as co
- mmunications media technology (CMT). TO SPEAK REMOTELY DURING PUBLIC COMME
- NT WITH THE USE OF CMT PRE-REGISTRATION IS REQUIRED : Complete the form at
-  https:www.tampa.govPublicComment (https:www.tampa.govPublicComment) AND s
- tate on the form under Request Type that you wish to speak live during the
-  public comment period. You will then be contacted with additional instruc
- tions on how to participate live through the use of CMT. Registration for 
- speaking remotely must be requested at least 24 hours prior to the meeting
- . Persons requiring help in accessing these means of remote participation 
- should call 813-274-8397 for assistance . In accordance with the Americans
-  with Disabilities Act (ADA) and Section 286.26\, Florida Statutes\, perso
- ns with disabilities needing a reasonable accommodation to participate in 
- this public hearing or meeting should contact the City of Tampas ADA Coord
- inator at least 48 hours prior to the proceeding. The ADA Coordinator may 
- be contacted via phone at 813-274-3964\, email at TampaADAtampagov.net\, o
- r by submitting an ADA - Accommodations Request form available online at h
- ttps:tampa.govADARequest (https:tampa.govADARequest). Should any person de
- sire to appeal any decision of the City of Tampa Community Redevelopment A
- gency with respect to any matter to be considered at this meeting\, that p
- erson shall ensure that a verbatim record of the proceeding is made includ
- ing all testimony and evidence upon which any appeal may be based (F.S. 28
- 6.0105 (http:www.leg.state.fl.usStatutesindex.cfm?App_modeDisplay_Statute 
- URL0200-02990286Sections0286.0105.html)). \n\nPermalink: https://www.tampa
- .gov/node/178871
-URL;VALUE=URI:https://www.tampa.gov/node/178871
+DTSTAMP:20260114T000505Z
+DTSTART:20260115T200000Z
+DTEND:20260115T200000Z
+SUMMARY:Tampa Ethics Commission
+LOCATION:306 E Jackson St 5th Floor Large Conference Room Floor Tampa \, F
+ L 33602 United States
+DESCRIPTION:CITY OF TAMPA ETHICS COMMISSION PUBLIC MEETING Date: Thursday\
+ , January 15\, 2026 Time: 3:00 p.m. Location: Tampa Municipal Building 306
+  E. Jackson St. 5th Floor Large Conference Room Floor Tampa\, FL 33602 Top
+ ic: Quarterly Meeting Contact: Questions may be directed to Rebecca Carr\,
+  Employee Relations Manager\, at (813) 274-8041\, or by email at Rebecca.c
+ arrtampagov.net In accordance with the Americans with Disabilities Act (AD
+ A) and Section 286.26\, Florida Statutes\, persons with disabilities needi
+ ng a reasonable accommodation to participate in this public hearing\, meet
+ ing or event should contact the City of Tampas ADA Coordinator at least 48
+  hours prior to the proceeding. The ADA Coordinator may be contacted by ph
+ one at 813-274-3964\, email at TampaADAtampagov.net\, or by submitting an 
+ ADA - Accommodations Request online form available at tampa.govADARequest 
+ \n\nPermalink: https://www.tampa.gov/node/178971
+URL;VALUE=URI:https://www.tampa.gov/node/178971
 END:VEVENT
 BEGIN:VEVENT
-UID:883fa124-487b-40f9-a549-89dae5b36d6b
+UID:5e645b1b-57f6-4074-b2f2-09e7ed90d720
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
+DTSTART:20260115T140000Z
+DTEND:20260115T160000Z
+SUMMARY:Notice Of Negotiations
+LOCATION:411 N Franklin St Tampa \, FL 33602 United States
+DESCRIPTION:PUBLIC MEETING NOTICE NOTICE OF NEGOTIATIONS The City of Tampa
+  and the International Association of Firefighters AFL-CIO-CLC\, Local Uni
+ on No. 754 will hold a collective bargaining session on Thursday\, January
+  15\, 2026\, from 9:00 am  11:00 am in the 5th floor large conference room
+  of the Tampa Police Department. Tampa Police Department 5th Floor Large C
+ onference Room 411 N. Franklin St. Tampa\, Florida 33602 For further infor
+ mation\, contact Rebecca Carr at 274-8168. \n\nPermalink: https://www.tamp
+ a.gov/node/179086
+URL;VALUE=URI:https://www.tampa.gov/node/179086
+END:VEVENT
+BEGIN:VEVENT
+UID:f00a7c94-dc18-46dd-83dc-1dce758a828e
+SEQUENCE:0
+DTSTAMP:20260114T000505Z
 DTSTART:20260116T150000Z
 DTEND:20260116T150000Z
 SUMMARY:Equal Business Opportunity Advisory Committee Meeting
@@ -491,9 +498,27 @@ DESCRIPTION:Public Meeting Notice EQUAL BUSINESS OPPORTUNITY ADVISORY COMM
 URL;VALUE=URI:https://www.tampa.gov/node/178591
 END:VEVENT
 BEGIN:VEVENT
-UID:31cab28a-5fc7-40f5-b3a4-4320ce59b933
+UID:db8b0cc9-a1da-473c-867e-92464f42d425
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
+DTSTART:20260116T140000Z
+DTEND:20260116T140000Z
+SUMMARY:Scoring Meeting - The Disposition Of Real Property Located At 412 
+ S. West Shore Boulevard
+LOCATION:306 E Jackson St Tampa \, FL 33602 United States
+DESCRIPTION:SCORING MEETING THE DISPOSITION OF REAL PROPERTY LOCATED AT 41
+ 2 S. WEST SHORE BOULEVARD (FOLIO: 113815.0000) RFP 26-P-00010 Date: JANUAR
+ Y 16\, 2026 Time: 9:00 AM Location: TAMPA MUNICIPAL OFFICE BUILDING 306 E.
+  JACKSON STREET TAMPA\, FL 33602 CONTACT: LEWINA WOODARD\, PROCUREMENT ANA
+ LYST CITY OF TAMPA PURCHASING DEPARTMENT 2555 E. HANNA AVE. TAMPA\, FLORID
+ A 33610 (813) 274-8354 PURPOSE: SCORING MEETING FOR THE ABOVE RFP \n\nPerm
+ alink: https://www.tampa.gov/node/178981
+URL;VALUE=URI:https://www.tampa.gov/node/178981
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc1b435-108a-496a-9418-0dd2e574ca08
+SEQUENCE:0
+DTSTAMP:20260114T000505Z
 DTSTART:20260120T223000Z
 DTEND:20260120T223000Z
 SUMMARY:West Tampa Community Advisory Committee
@@ -527,9 +552,24 @@ DESCRIPTION:WEST TAMPA COMMUNITY ADVISORY COMMITTEE FOR THE WEST TAMPA COM
 URL;VALUE=URI:https://www.tampa.gov/node/178611
 END:VEVENT
 BEGIN:VEVENT
-UID:b5fe6f86-227f-401c-9447-04b2fa8104b0
+UID:88ab3777-81cf-468d-92a4-99fad57c831b
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
+DTSTART:20260121T200000Z
+DTEND:20260121T200000Z
+SUMMARY:Affordable Housing Advisory Committee Meeting
+LOCATION:2555 E Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:Affordable Housing Advisory Committee Meeting Dates: Wednesday
+ \, January 21\,2026\, at 3:00 pm Location: 2555 E. Hanna Ave. (3 rd Floor 
+ Conference Room) Tampa\, FL 33610 Contact: Michelle Boone\, HCD Supervisor
+  at 813-274-8229 or MichelleBoonetampagov.net (mailto:MichelleBoonetampago
+ v.net) \n\nPermalink: https://www.tampa.gov/node/178976
+URL;VALUE=URI:https://www.tampa.gov/node/178976
+END:VEVENT
+BEGIN:VEVENT
+UID:311c6fd8-9c7b-43a3-bb78-fa2dc41ce52b
+SEQUENCE:0
+DTSTAMP:20260114T000505Z
 DTSTART:20260121T223000Z
 DTEND:20260121T223000Z
 SUMMARY:Drew Park Community Advisory Committee
@@ -561,9 +601,44 @@ DESCRIPTION:DREW PARK COMMUNITY ADVISORY COMMITTEE FOR THE DREW PARK COMMU
 URL;VALUE=URI:https://www.tampa.gov/node/178596
 END:VEVENT
 BEGIN:VEVENT
-UID:4ee294e1-51c2-4668-88ce-ab31d3cb2bf0
+UID:4637c831-9a6b-484c-a4f3-faa580153e50
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
+DTSTART:20260122T180000Z
+DTEND:20260122T180000Z
+SUMMARY:1st Scoring Evaluation Committee Meeting  Municipal Solid Waste Co
+ mposition Study\, Rfp 25-p-00383
+LOCATION:4010 W Spruce St Tampa \, FL 33607 United States
+DESCRIPTION:UPDATED 1 st SCORING EVALUATION COMMITTEE MEETING  MUNICIPAL S
+ OLID WASTE COMPOSITION STUDY\, RFP 25-P-00383 Date: January 22\, 2026 Time
+ : 1:00PM Location: SOLID WASTE CONFERENCE ROOM 4010 W SPRUCE ST TAMPA\, FL
+  33607 CONTACT: ERIN ELLIS\, PROCUREMENT ANALYST CITY OF TAMPA PURCHASING 
+ DEPARTMENT 2555 E HANNA AVENUE\, 2 nd Floor (813) 348-3241 \n\nPermalink: 
+ https://www.tampa.gov/node/177796
+URL;VALUE=URI:https://www.tampa.gov/node/177796
+END:VEVENT
+BEGIN:VEVENT
+UID:96d62099-ec69-4fe9-947e-70ad567cee94
+SEQUENCE:0
+DTSTAMP:20260114T000505Z
+DTSTART:20260123T190000Z
+DTEND:20260123T190000Z
+SUMMARY:1st Scoring Evaluation Committee Meeting Professional Building Pla
+ n Review Inspections\, RFQ26-P-00009
+LOCATION:City Center at Hanna - 2nd Floor Purchasing Conference Room 2555 
+ E Hanna Avenue Tampa \, FL 33610 United States
+DESCRIPTION:1st SCORING EVALUATION COMMITTEE MEETING  Professional Buildin
+ g Plan Review Inspections\, RFQ 26-P-00009 Date: January 23\, 2026 Time: 2
+ :00 PM Location: AMALIE ROOM 2555 E HANNA AVENUE TAMPA\, FL 33610 CONTACT:
+  CHELSEA MULLIGAN\, PROCUREMENT ANALYST CITY OF TAMPA PURCHASING DEPARTMEN
+ T 2555 E HANNA AVENUE\, 2nd Floor (813) 274-8342 \n\nPermalink: https://ww
+ w.tampa.gov/node/178211
+URL;VALUE=URI:https://www.tampa.gov/node/178211
+END:VEVENT
+BEGIN:VEVENT
+UID:00aa5518-3e30-4cef-9ecf-19ad08e16f87
+SEQUENCE:0
+DTSTAMP:20260114T000505Z
 DTSTART:20260123T150000Z
 DTEND:20260123T150000Z
 SUMMARY:Scoring Meeting -redevelopment Of The Royal Street Parking Lot And
@@ -580,9 +655,9 @@ DESCRIPTION:SCORING MEETING -REDEVELOPMENT OF THE ROYAL STREET PARKING LOT
 URL;VALUE=URI:https://www.tampa.gov/node/177866
 END:VEVENT
 BEGIN:VEVENT
-UID:28347625-e550-49cc-96a4-7802b66a73ce
+UID:8043c424-566d-4414-a001-1ecc0e218262
 SEQUENCE:0
-DTSTAMP:20260113T000410Z
+DTSTAMP:20260114T000505Z
 DTSTART:20260130T140000Z
 DTEND:20260130T140000Z
 SUMMARY:Meeting of CCNA SelectionCertification Committee
