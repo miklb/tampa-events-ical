@@ -5,43 +5,9 @@ NAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALNAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALDESC:Community events in Tampa for Tampa Convention Center
 BEGIN:VEVENT
-UID:c95f9536-3dee-483f-ab41-c05406532bf2
+UID:d57698c8-9d7e-472a-ac96-2bb30f679c91
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
-DTSTART:20260121T120000Z
-DTEND:20260123T045900Z
-SUMMARY:Marketplace Events
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:This is a tradeshow for the construction industry. For event d
- etails please visit buildexpousa.com (https:buildexpousa.comtampa-build-ex
- po.) Registration is required. This is a tradeshow for the construction in
- dustry. For event details please visit buildexpousa.com (https:buildexpous
- a.comtampa-build-expo.) Registration is required. \n\nPermalink: https://w
- ww.tampa.gov/node/179406
-URL;VALUE=URI:https://www.tampa.gov/node/179406
-END:VEVENT
-BEGIN:VEVENT
-UID:f71fb234-8909-4897-8058-372e2636190e
-SEQUENCE:0
-DTSTAMP:20260129T000619Z
-DTSTART:20260123T110000Z
-DTEND:20260123T230000Z
-SUMMARY:West Florida Kickoff 2026
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:Kimley Horn is one of the nations premier engineering\, planni
- ng\, and design consultants dedicated to the continuing success of their c
- lients. They are having a first time conference with offices in West Flori
- da to meet\, learn and collaborate with their colleagues from other office
- s. Location: Tampa Convention Center Ballroom A-C  Meeting Rooms \n\nPerma
- link: https://www.tampa.gov/node/171711
-URL;VALUE=URI:https://www.tampa.gov/node/171711
-END:VEVENT
-BEGIN:VEVENT
-UID:cfa3b99c-315e-4c08-8b41-5e359a4e6123
-SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260130T223000Z
 DTEND:20260131T033000Z
 SUMMARY:Rough Riders Pre Gasparilla Invasion Party
@@ -51,9 +17,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/176081
 URL;VALUE=URI:https://www.tampa.gov/node/176081
 END:VEVENT
 BEGIN:VEVENT
-UID:aa35edd9-4e80-48df-9828-4b77e18f4758
+UID:00b8de16-81ad-4603-b07d-cabf5f0d977d
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260131T120000Z
 DTEND:20260201T045900Z
 SUMMARY:Gasparilla Pirate Invasion Brunch
@@ -68,9 +34,9 @@ DESCRIPTION:The Gasparilla Invasion Brunch Experience at the Tampa Convent
 URL;VALUE=URI:https://www.tampa.gov/node/175376
 END:VEVENT
 BEGIN:VEVENT
-UID:d5455ea2-f46a-4d3a-9b43-cf750a11ecc2
+UID:418b9051-48c1-443d-8f89-859749ecdb7d
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260203T110000Z
 DTEND:20260204T210000Z
 SUMMARY:Military Additive Manufacturing Summit
@@ -84,23 +50,9 @@ DESCRIPTION:For event details: www.militaryam.com (https:www.militaryam.co
 URL;VALUE=URI:https://www.tampa.gov/node/172076
 END:VEVENT
 BEGIN:VEVENT
-UID:67ac35e9-075a-45e9-8277-3921c8948894
+UID:8980ae4d-8aa0-4e5f-8199-9879d197aea7
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
-DTSTART:20260205T190000Z
-DTEND:20260205T220000Z
-SUMMARY:Ice House Owners Association
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:The Ice House Owners Association is a self organized group of 
- business owners who own and operate ice vending machines. \n\nPermalink: h
- ttps://www.tampa.gov/node/179716
-URL;VALUE=URI:https://www.tampa.gov/node/179716
-END:VEVENT
-BEGIN:VEVENT
-UID:0c56e86b-946f-4de2-93b2-e35ebc529db8
-SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260205T120000Z
 DTEND:20260206T220000Z
 SUMMARY:Labor Law Labor Arbitration Conference
@@ -112,9 +64,23 @@ DESCRIPTION:At this conference\, you will learn the latest developments in
 URL;VALUE=URI:https://www.tampa.gov/node/172216
 END:VEVENT
 BEGIN:VEVENT
-UID:2a281f34-9e1e-434b-8811-a7129e603125
+UID:6da8aab5-ec19-4d01-9095-0484d21952b9
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
+DTSTART:20260205T190000Z
+DTEND:20260205T220000Z
+SUMMARY:Ice House Owners Association
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:The Ice House Owners Association is a self organized group of 
+ business owners who own and operate ice vending machines. \n\nPermalink: h
+ ttps://www.tampa.gov/node/179716
+URL;VALUE=URI:https://www.tampa.gov/node/179716
+END:VEVENT
+BEGIN:VEVENT
+UID:7362b316-16f5-4703-9280-17a71304d177
+SEQUENCE:0
+DTSTAMP:20260130T000615Z
 DTSTART:20260212T120000Z
 DTEND:20260212T213000Z
 SUMMARY:Tampa Bay Condo HOA Expo
@@ -128,9 +94,9 @@ DESCRIPTION:Tampa Bay Condo  HOA Expo is open to the public and intended f
 URL;VALUE=URI:https://www.tampa.gov/node/172481
 END:VEVENT
 BEGIN:VEVENT
-UID:2310a03e-8906-4a41-9b56-2814ae8c4765
+UID:11c8f8a0-5534-48d1-97a5-ec691f51f4f5
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260214T120000Z
 DTEND:20260216T230000Z
 SUMMARY:Tampa United Volleyball-Gasparilla Volleyball Classic 2026
@@ -147,9 +113,9 @@ DESCRIPTION:For event details: www.jvctournaments.com (http:www.jvctournam
 URL;VALUE=URI:https://www.tampa.gov/node/172586
 END:VEVENT
 BEGIN:VEVENT
-UID:d646fb9d-1e45-46dc-9198-3d9354bcb129
+UID:ae8b0521-8696-46cb-8028-20659c46ea80
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260218T123000Z
 DTEND:20260218T210000Z
 SUMMARY:2026 Hillsborough Regional STEM Fair
@@ -162,9 +128,9 @@ DESCRIPTION:For event details: www.tampabaystem.org (http:www.tampabaystem
 URL;VALUE=URI:https://www.tampa.gov/node/172641
 END:VEVENT
 BEGIN:VEVENT
-UID:a5099fba-54eb-4f1d-ac50-6709ec6070b7
+UID:98922b73-5df2-4303-b24d-69b02b7cb416
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260219T133000Z
 DTEND:20260219T223000Z
 SUMMARY:Annual Labor Employment Law Workshop
@@ -174,9 +140,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/172831
 URL;VALUE=URI:https://www.tampa.gov/node/172831
 END:VEVENT
 BEGIN:VEVENT
-UID:ca84b087-26c5-4816-88a2-61e7baace562
+UID:eff8a387-a65f-442f-a99a-7280488fc2fe
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260226T120000Z
 DTEND:20260304T045900Z
 SUMMARY:Student Television Network
@@ -186,9 +152,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/173296
 URL;VALUE=URI:https://www.tampa.gov/node/173296
 END:VEVENT
 BEGIN:VEVENT
-UID:232b354d-f82f-4036-8ba9-e18b7edd283e
+UID:bf739448-5d38-44f8-a455-298f5200cd74
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260304T170000Z
 DTEND:20260307T190000Z
 SUMMARY:National BBCB 2026 Summit
@@ -219,9 +185,9 @@ DESCRIPTION:For event details: web.cvent.com (https:web.cvent.comevent11f0
 URL;VALUE=URI:https://www.tampa.gov/node/178171
 END:VEVENT
 BEGIN:VEVENT
-UID:fc6a63ba-9756-488c-b9c6-1ac51f4d0926
+UID:78c2f924-f642-48bf-893e-a1ad05872850
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260306T130000Z
 DTEND:20260308T220000Z
 SUMMARY:Lightning City Gymnastics Gasparilla Classic
@@ -236,9 +202,9 @@ DESCRIPTION:38th Annual Gasparilla Classic Gymnastics is a three day meet
 URL;VALUE=URI:https://www.tampa.gov/node/173571
 END:VEVENT
 BEGIN:VEVENT
-UID:7d0d474c-87f3-440a-b968-db3da77aec44
+UID:7b583f48-fdf0-41a8-b9ec-6f4685a4b88a
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260314T120000Z
 DTEND:20260315T230000Z
 SUMMARY:Molten Florida Pre-Qualifier
@@ -249,9 +215,9 @@ DESCRIPTION:Location: Tampa Convention Center Exhibit Hall and Meeting Roo
 URL;VALUE=URI:https://www.tampa.gov/node/173986
 END:VEVENT
 BEGIN:VEVENT
-UID:39c381e6-f0f0-4ae2-8fc9-c29c16eb3753
+UID:3ce95783-4cd5-48d8-b8d5-cc4df5850b3e
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260319T110000Z
 DTEND:20260322T035900Z
 SUMMARY:The Great American Franchise Expo
@@ -261,9 +227,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/174411
 URL;VALUE=URI:https://www.tampa.gov/node/174411
 END:VEVENT
 BEGIN:VEVENT
-UID:ebb28ef4-5cd4-4f77-86ec-b17e89031f76
+UID:adfb67e8-fa93-4cc3-9c0e-48d6843b59bb
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260321T120000Z
 DTEND:20260322T210000Z
 SUMMARY:Tampa Home Show
@@ -278,9 +244,9 @@ DESCRIPTION:For event details: www.tampahomeshow.com (http:www.tampahomesh
 URL;VALUE=URI:https://www.tampa.gov/node/174416
 END:VEVENT
 BEGIN:VEVENT
-UID:9ef8bf1a-4f54-40f7-a484-bb69f7eae8f7
+UID:e6426e00-f043-4bac-8ca5-5be263ea84ad
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260323T110000Z
 DTEND:20260329T035900Z
 SUMMARY:SAGES POSTGRADUATE COURSE SCIENTIFIC SESSION 2026
@@ -294,9 +260,9 @@ DESCRIPTION:For event details: The Society of American Gastrointestinal an
 URL;VALUE=URI:https://www.tampa.gov/node/174486
 END:VEVENT
 BEGIN:VEVENT
-UID:6a44f7b6-355f-4b10-a354-b73cd446231e
+UID:897bafdc-f4da-4dca-8c9e-a69daa8f88a7
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260325T110000Z
 DTEND:20260327T035900Z
 SUMMARY:The Fertilizer Show
@@ -312,9 +278,9 @@ DESCRIPTION:The Fertilizer Show is the global gathering of the entire fert
 URL;VALUE=URI:https://www.tampa.gov/node/175071
 END:VEVENT
 BEGIN:VEVENT
-UID:686f50c7-ef2b-4d4f-87bb-efde6e13c78a
+UID:0c6d90f5-d712-4abe-9c88-921b52a82efb
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260331T110000Z
 DTEND:20260402T035900Z
 SUMMARY:EXHIBITORLIVE 2026
@@ -325,9 +291,9 @@ DESCRIPTION:Location: Tampa Convention Center Entire Convention Center \n\
 URL;VALUE=URI:https://www.tampa.gov/node/175076
 END:VEVENT
 BEGIN:VEVENT
-UID:9ba8a66e-9eac-4e22-93e6-13f7017750df
+UID:6c9254b0-b2c7-4cd7-95f9-b826a351fab0
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260407T120000Z
 DTEND:20260410T035900Z
 SUMMARY:Florida Child Nutrition Directors Farm 2 School Conference 2026
@@ -344,9 +310,9 @@ DESCRIPTION:The Florida Farm 2 School Conference is a free event that offe
 URL;VALUE=URI:https://www.tampa.gov/node/175521
 END:VEVENT
 BEGIN:VEVENT
-UID:ebf82a50-ea9b-4461-b6ab-fdf7da40c836
+UID:7918056b-68a4-4986-8ea8-0c1d76c7c3ac
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260408T110000Z
 DTEND:20260409T210000Z
 SUMMARY:The Future Career Academy
@@ -361,9 +327,9 @@ DESCRIPTION:The Future Career Academy\, is to prepare and connect graduati
 URL;VALUE=URI:https://www.tampa.gov/node/175591
 END:VEVENT
 BEGIN:VEVENT
-UID:0b864ae0-2d01-45c7-8786-d57b043ca2ae
+UID:6ab16514-5bd6-4fe5-80ed-a8cc10dc9b39
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260410T110000Z
 DTEND:20260410T203000Z
 SUMMARY:Tampa Bay Condo HOA Expo
@@ -373,9 +339,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/175596
 URL;VALUE=URI:https://www.tampa.gov/node/175596
 END:VEVENT
 BEGIN:VEVENT
-UID:459cfd9c-7170-4bf1-8624-63fb0f33a619
+UID:2141b7ec-febf-41c7-b972-9c3e48694ec2
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260410T110000Z
 DTEND:20260412T160000Z
 SUMMARY:2026 Tampa Bay Poker Run
@@ -385,9 +351,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/175601
 URL;VALUE=URI:https://www.tampa.gov/node/175601
 END:VEVENT
 BEGIN:VEVENT
-UID:a95bd220-aea0-4a6c-9e99-1cd0ceff1ca7
+UID:154a82b5-4037-4991-a0da-f933b6fc9f50
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260414T170000Z
 DTEND:20260418T035900Z
 SUMMARY:IUCX 2025
@@ -398,9 +364,9 @@ DESCRIPTION:Location: Tampa Convention Center Entire Convention Center \n\
 URL;VALUE=URI:https://www.tampa.gov/node/175881
 END:VEVENT
 BEGIN:VEVENT
-UID:45dca2a5-2883-4756-8f43-0659f793a794
+UID:59cc14c7-c117-4c07-979c-2a3fb67ba651
 SEQUENCE:0
-DTSTAMP:20260129T000619Z
+DTSTAMP:20260130T000615Z
 DTSTART:20260423T110000Z
 DTEND:20260426T220000Z
 SUMMARY:Varsity Spirit LLC
