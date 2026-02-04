@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Neighborhood Events
 X-WR-CALNAME:Tampa Calendar - Neighborhood Events
 X-WR-CALDESC:Community events in Tampa for Neighborhood Events
 BEGIN:VEVENT
-UID:f26f6ee2-a088-4166-9c7e-ce0ac794562d
+UID:d8b7c08f-ef9d-4af9-91a7-9fd4ab4bcd58
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260202T230000Z
 DTEND:20260203T000000Z
 SUMMARY:Pedestrian Safety: A Community Town Hall on Safety in Ybor City
@@ -22,9 +22,9 @@ DESCRIPTION:We want to hear from you! Share your ideas directly with Mayor
 URL;VALUE=URI:https://www.tampa.gov/node/179736
 END:VEVENT
 BEGIN:VEVENT
-UID:7b4e0e87-869b-40bd-8803-66aa548a5512
+UID:be1d4e28-5b91-4bf4-9502-fe6439f1e9d8
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260203T143000Z
 DTEND:20260203T160000Z
 SUMMARY:Studio 55  Daytime Choir
@@ -43,9 +43,49 @@ DESCRIPTION:The Master Chorale of Tampa Bay invites you to join the Daytim
 URL;VALUE=URI:https://www.tampa.gov/node/180001
 END:VEVENT
 BEGIN:VEVENT
-UID:fd7bce8e-8752-43a4-a50b-c805d6dd9e94
+UID:2ada9e7c-aa41-4fa5-bef1-2183f6cf4a85
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260203T163000Z
+DTEND:20260203T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179236
+URL;VALUE=URI:https://www.tampa.gov/node/179236
+END:VEVENT
+BEGIN:VEVENT
+UID:f0cf5f76-503b-4a1c-82c9-da47359a4b3f
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260204T163000Z
+DTEND:20260204T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179241
+URL;VALUE=URI:https://www.tampa.gov/node/179241
+END:VEVENT
+BEGIN:VEVENT
+UID:8a440ec9-55ae-4865-85f7-3985846aa210
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260204T160000Z
 DTEND:20260204T190000Z
 SUMMARY:Mayors Food Truck Fiesta
@@ -66,9 +106,9 @@ DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors
 URL;VALUE=URI:https://www.tampa.gov/node/179596
 END:VEVENT
 BEGIN:VEVENT
-UID:ceaf7ba9-ea31-45a1-af5f-51885e0ae9aa
+UID:80a1784d-8030-4413-8aa3-35c89cd8ada6
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260205T230000Z
 DTEND:20260206T020000Z
 SUMMARY:Rock the Park
@@ -87,9 +127,29 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:2cf63218-bf19-4de2-ab6e-eef1c2b1492c
+UID:0a89198e-b29d-4a1c-aa5d-4fb3c7a4466d
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260205T163000Z
+DTEND:20260205T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179246
+URL;VALUE=URI:https://www.tampa.gov/node/179246
+END:VEVENT
+BEGIN:VEVENT
+UID:940ccd89-0463-4794-9a49-c1cab1902540
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260205T160000Z
 DTEND:20260206T020000Z
 SUMMARY:Florida State Fair
@@ -107,9 +167,9 @@ DESCRIPTION:The Florida State Fair returns to Tampa with twelve days of wi
 URL;VALUE=URI:https://www.tampa.gov/node/174061
 END:VEVENT
 BEGIN:VEVENT
-UID:e4845123-2838-42a1-8251-bfdfaf4a819e
+UID:3f329bb1-b479-4497-9784-92c8e5391100
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260206T150000Z
 DTEND:20260207T020000Z
 SUMMARY:Florida State Fair
@@ -127,9 +187,29 @@ DESCRIPTION:The Florida State Fair returns to Tampa with twelve days of wi
 URL;VALUE=URI:https://www.tampa.gov/node/174066
 END:VEVENT
 BEGIN:VEVENT
-UID:8ae3e8fe-d229-470b-956a-1b46d12fa510
+UID:4ad1383c-ad79-4ed7-83b2-30d230675fba
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260206T163000Z
+DTEND:20260206T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179251
+URL;VALUE=URI:https://www.tampa.gov/node/179251
+END:VEVENT
+BEGIN:VEVENT
+UID:38cc0a85-a4b9-410a-9b32-df439be8638e
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260206T223000Z
 DTEND:20260207T010000Z
 SUMMARY:Busch Gardens Sunset on the Serengeti
@@ -149,9 +229,9 @@ DESCRIPTION:Experience the magic of the wild with Sunset on the Serengeti\
 URL;VALUE=URI:https://www.tampa.gov/node/179766
 END:VEVENT
 BEGIN:VEVENT
-UID:df537108-fd1e-4cb1-83b2-3b956434ccd1
+UID:aef9d815-7d90-4903-b0cd-cb54f05c9171
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260206T230000Z
 DTEND:20260207T020000Z
 SUMMARY:Science After Dark: The Science of Love
@@ -164,9 +244,99 @@ DESCRIPTION:An adults-only night of science\, drinks\, and discovery. Sip
 URL;VALUE=URI:https://www.tampa.gov/node/179156
 END:VEVENT
 BEGIN:VEVENT
-UID:55c95f13-98dc-4443-b9ab-bd38cd326a94
+UID:d5867bdd-5ee4-4403-8bae-26163a156111
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260207T130000Z
+DTEND:20260207T200100Z
+SUMMARY:Community Yard Sale
+LOCATION:4500 La Villa LN Tampa \, FL 33611 United States
+DESCRIPTION:COMMUNITY YARD SALE WHEN: SATURDAY  February 7\, 2023\, from 8
+ :00 AM to 3:00pm (approx.) WHAT: - Join us for a fantastic community yard 
+ sale at Tampa Villas South. The yard sale will take place all throughout t
+ he community on La Villa Lane. WHERE : TAMPA VILLAS SOUTH Community (TVS) 
+ For the GPS use: 4500 La Villa Lane\, Tampa\, FL 33611 Near GandyManhattan
+ \, corner of La Villa Lane and Manhattan\, next to the Citgo gas station P
+ ARKING: Please park in designated visitor parking spots. Do not block othe
+ r vehicles or park in reserve spots. Spread the word and bring your friend
+ s! \n\nPermalink: https://www.tampa.gov/node/180531
+URL;VALUE=URI:https://www.tampa.gov/node/180531
+END:VEVENT
+BEGIN:VEVENT
+UID:09d63810-aa4b-4ee6-9218-69808f7ebc11
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260207T223000Z
+DTEND:20260208T010000Z
+SUMMARY:Busch Gardens Sunset on the Serengeti
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:Experience the magic of the wild with Sunset on the Serengeti\
+ , an exclusive evening adventure at Busch Gardens Tampa. Offered on Select
+  Nights from January to March Begin your adventure with a breathtaking Ser
+ engeti Safari just before sunset\, where youll encounter majestic wildlife
+  as the golden hour paints the landscape in stunning hues. Next\, embark o
+ n a guided Walking Tour to Treetop Kitchen\, exploring up-close animal exp
+ eriences. Cap off your journey with an exquisite Dinner at Treetop Kitchen
+ \, featuring a variety of flavorful dishes inspired by the vibrant tastes 
+ of Africa Join us for an unforgettable evening filled with adventure\, cul
+ inary delights\, and the beauty of the Serengeti at sunset. \n\nPermalink:
+  https://www.tampa.gov/node/179771
+URL;VALUE=URI:https://www.tampa.gov/node/179771
+END:VEVENT
+BEGIN:VEVENT
+UID:7fc24737-6ce4-4056-95ab-281d8925d376
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260207T190000Z
+DTEND:20260207T220000Z
+SUMMARY:Love Letter Printing
+LOCATION:211 South Howard Ave Tampa \, FL 33606 United States
+DESCRIPTION:Learn to carve\, ink\, and print your own love letter. In this
+  class you will create your own block print which can then be used to make
+  postcards and greeting cards. Perfect for Valentines or sweet notes to yo
+ ur friends\, family\, or that special person. Ink block or linocut carving
+  is a fun and easy way to make your own original block stamp. Carve a stam
+ p for Valentines Day or create a new favorite scene. Learn tips and tricks
+  to design your own personal mark making tool. Rubber stamps are highly ad
+ dictive\, you may even make two! \n\nPermalink: https://www.tampa.gov/node
+ /180346
+URL;VALUE=URI:https://www.tampa.gov/node/180346
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b90f4b-8bbc-466b-baba-b935823ed1d1
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260207T170000Z
+DTEND:20260208T010000Z
+SUMMARY:Busch Gardens Mardi Gras
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:Family-Friendly Mardi Gras Event Get jazzed up with Mardi Gras
+ -style entertainment\, live music and catch some festival beads (after eac
+ h parade). Feast like kings and queens on New classic Cajun cuisine as Bus
+ ch Gardens brings the Big Easy to Tampa Bay. Entry is included with park a
+ dmittance. \n\nPermalink: https://www.tampa.gov/node/179326
+URL;VALUE=URI:https://www.tampa.gov/node/179326
+END:VEVENT
+BEGIN:VEVENT
+UID:8c98f43b-1f3b-4b55-a952-338753d23174
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260207T120000Z
+DTEND:20260207T140000Z
+SUMMARY:RunForUs 5k WalkRun
+LOCATION:Address: 4810 N Himes Ave Tampa \, FL 33614 United States
+DESCRIPTION:The Tampa Bay Black Heritage Festival Annual 5K RunWalk for He
+ alth Wellness presented by Publix. If you missed out this year register to
+ day with family and friends for Saturday\, February 7\, 2026 at Al Lopez P
+ ark. \n\nPermalink: https://www.tampa.gov/node/178466
+URL;VALUE=URI:https://www.tampa.gov/node/178466
+END:VEVENT
+BEGIN:VEVENT
+UID:760fe9cf-7871-44c9-9998-c68cb82ebc5d
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260207T124500Z
 DTEND:20260207T150000Z
 SUMMARY:Tutus Tennis Shoes 5K RunWalk
@@ -199,99 +369,9 @@ DESCRIPTION:The Greater Tampa Chapter of Jack and Jill of America\, Incorp
 URL;VALUE=URI:https://www.tampa.gov/node/178491
 END:VEVENT
 BEGIN:VEVENT
-UID:78c43a45-bbe7-410b-927d-4cae0edff083
+UID:615cb3ee-290d-4e95-a74f-63780e181125
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
-DTSTART:20260207T223000Z
-DTEND:20260208T010000Z
-SUMMARY:Busch Gardens Sunset on the Serengeti
-LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
- tes
-DESCRIPTION:Experience the magic of the wild with Sunset on the Serengeti\
- , an exclusive evening adventure at Busch Gardens Tampa. Offered on Select
-  Nights from January to March Begin your adventure with a breathtaking Ser
- engeti Safari just before sunset\, where youll encounter majestic wildlife
-  as the golden hour paints the landscape in stunning hues. Next\, embark o
- n a guided Walking Tour to Treetop Kitchen\, exploring up-close animal exp
- eriences. Cap off your journey with an exquisite Dinner at Treetop Kitchen
- \, featuring a variety of flavorful dishes inspired by the vibrant tastes 
- of Africa Join us for an unforgettable evening filled with adventure\, cul
- inary delights\, and the beauty of the Serengeti at sunset. \n\nPermalink:
-  https://www.tampa.gov/node/179771
-URL;VALUE=URI:https://www.tampa.gov/node/179771
-END:VEVENT
-BEGIN:VEVENT
-UID:d709cd5f-5616-4ba1-9f96-4a332c40914b
-SEQUENCE:0
-DTSTAMP:20260203T000737Z
-DTSTART:20260207T190000Z
-DTEND:20260207T220000Z
-SUMMARY:Love Letter Printing
-LOCATION:211 South Howard Ave Tampa \, FL 33606 United States
-DESCRIPTION:Learn to carve\, ink\, and print your own love letter. In this
-  class you will create your own block print which can then be used to make
-  postcards and greeting cards. Perfect for Valentines or sweet notes to yo
- ur friends\, family\, or that special person. Ink block or linocut carving
-  is a fun and easy way to make your own original block stamp. Carve a stam
- p for Valentines Day or create a new favorite scene. Learn tips and tricks
-  to design your own personal mark making tool. Rubber stamps are highly ad
- dictive\, you may even make two! \n\nPermalink: https://www.tampa.gov/node
- /180346
-URL;VALUE=URI:https://www.tampa.gov/node/180346
-END:VEVENT
-BEGIN:VEVENT
-UID:fad0a4fd-23bc-4893-a462-c9e704430c88
-SEQUENCE:0
-DTSTAMP:20260203T000737Z
-DTSTART:20260207T170000Z
-DTEND:20260208T010000Z
-SUMMARY:Busch Gardens Mardi Gras
-LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
- tes
-DESCRIPTION:Family-Friendly Mardi Gras Event Get jazzed up with Mardi Gras
- -style entertainment\, live music and catch some festival beads (after eac
- h parade). Feast like kings and queens on New classic Cajun cuisine as Bus
- ch Gardens brings the Big Easy to Tampa Bay. Entry is included with park a
- dmittance. \n\nPermalink: https://www.tampa.gov/node/179326
-URL;VALUE=URI:https://www.tampa.gov/node/179326
-END:VEVENT
-BEGIN:VEVENT
-UID:5f7fa721-398a-4106-bde6-1b482da9cfa0
-SEQUENCE:0
-DTSTAMP:20260203T000737Z
-DTSTART:20260207T130000Z
-DTEND:20260207T200100Z
-SUMMARY:Community Yard Sale
-LOCATION:4500 La Villa LN Tampa \, FL 33611 United States
-DESCRIPTION:COMMUNITY YARD SALE WHEN: SATURDAY  February 7\, 2023\, from 8
- :00 AM to 3:00pm (approx.) WHAT: - Join us for a fantastic community yard 
- sale at Tampa Villas South. The yard sale will take place all throughout t
- he community on La Villa Lane. WHERE : TAMPA VILLAS SOUTH Community (TVS) 
- For the GPS use: 4500 La Villa Lane\, Tampa\, FL 33611 Near GandyManhattan
- \, corner of La Villa Lane and Manhattan\, next to the Citgo gas station P
- ARKING: Please park in designated visitor parking spots. Do not block othe
- r vehicles or park in reserve spots. Spread the word and bring your friend
- s! \n\nPermalink: https://www.tampa.gov/node/180531
-URL;VALUE=URI:https://www.tampa.gov/node/180531
-END:VEVENT
-BEGIN:VEVENT
-UID:888a7745-5054-4c53-b12d-41fdf3a3928c
-SEQUENCE:0
-DTSTAMP:20260203T000737Z
-DTSTART:20260207T120000Z
-DTEND:20260207T140000Z
-SUMMARY:RunForUs 5k WalkRun
-LOCATION:Address: 4810 N Himes Ave Tampa \, FL 33614 United States
-DESCRIPTION:The Tampa Bay Black Heritage Festival Annual 5K RunWalk for He
- alth Wellness presented by Publix. If you missed out this year register to
- day with family and friends for Saturday\, February 7\, 2026 at Al Lopez P
- ark. \n\nPermalink: https://www.tampa.gov/node/178466
-URL;VALUE=URI:https://www.tampa.gov/node/178466
-END:VEVENT
-BEGIN:VEVENT
-UID:d26330f3-bdd3-4fdb-a9cb-4a4356dd5db5
-SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260207T150000Z
 DTEND:20260208T020000Z
 SUMMARY:Florida State Fair
@@ -309,9 +389,9 @@ DESCRIPTION:The Florida State Fair returns to Tampa with twelve days of wi
 URL;VALUE=URI:https://www.tampa.gov/node/174071
 END:VEVENT
 BEGIN:VEVENT
-UID:17a1c147-4a8d-4ad5-8610-bbe2cbc4b7ed
+UID:842bb768-6278-48cc-94d2-d11ac6a24b54
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260208T150000Z
 DTEND:20260208T180000Z
 SUMMARY:Ceramics Continued Study
@@ -328,9 +408,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/177306
 END:VEVENT
 BEGIN:VEVENT
-UID:4c4597b8-af0e-4b1c-a84e-05a3f39d6069
+UID:ab002697-db99-477e-a958-26e07cba8074
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260208T150000Z
 DTEND:20260208T180000Z
 SUMMARY:Ceramics Continued Study
@@ -347,9 +427,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/177496
 END:VEVENT
 BEGIN:VEVENT
-UID:827d980f-ce68-42cc-90ca-d8f63d8c7424
+UID:093a07b6-7d34-4dd6-bf80-40c112f6b065
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260208T170000Z
 DTEND:20260209T010000Z
 SUMMARY:Busch Gardens Mardi Gras
@@ -363,9 +443,9 @@ DESCRIPTION:Family-Friendly Mardi Gras Event Get jazzed up with Mardi Gras
 URL;VALUE=URI:https://www.tampa.gov/node/179331
 END:VEVENT
 BEGIN:VEVENT
-UID:68f600b5-4443-4ff6-97bc-a71941ee1b59
+UID:a41cd700-b7cc-4623-9a5d-c3f380287997
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260208T190000Z
 DTEND:20260208T220000Z
 SUMMARY:BLACK LOVE Classic Movie Series - The Photograph
@@ -392,9 +472,9 @@ DESCRIPTION:The Photograph follows a journalist\, Michael (LaKeith Stanfie
 URL;VALUE=URI:https://www.tampa.gov/node/180656
 END:VEVENT
 BEGIN:VEVENT
-UID:f338f7de-5148-47db-85bb-2e2b7df18211
+UID:faf426b4-d804-4b0c-b217-dc21ac96b008
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260209T213000Z
 DTEND:20260210T003000Z
 SUMMARY:Blind Date with a Book
@@ -419,9 +499,9 @@ DESCRIPTION:Its a match! Swipe right on a good read and start a new chapte
 URL;VALUE=URI:https://www.tampa.gov/node/179431
 END:VEVENT
 BEGIN:VEVENT
-UID:55fb21fb-1b45-4292-922e-33f440a238df
+UID:ef6aeb92-b7bc-4677-8b23-613e3abfa908
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260209T150000Z
 DTEND:20260209T210000Z
 SUMMARY:Workshop: Hot for Encaustics
@@ -433,9 +513,49 @@ DESCRIPTION:Get acquainted with the wonderful world of Encaustic hot wax p
 URL;VALUE=URI:https://www.tampa.gov/node/177146
 END:VEVENT
 BEGIN:VEVENT
-UID:92e55d3e-9afa-4769-8ca0-7e0579ebb76d
+UID:823354ca-9313-4815-8a3e-4917d90f29ff
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260209T163000Z
+DTEND:20260209T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179256
+URL;VALUE=URI:https://www.tampa.gov/node/179256
+END:VEVENT
+BEGIN:VEVENT
+UID:9f7f8f01-fb0f-4b67-aafe-a236d6968eec
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260210T163000Z
+DTEND:20260210T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179261
+URL;VALUE=URI:https://www.tampa.gov/node/179261
+END:VEVENT
+BEGIN:VEVENT
+UID:9517d2ee-4141-4ae9-9f4d-a8d4f4db9c61
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260211T170000Z
 DTEND:20260212T030000Z
 SUMMARY:Florida Conversations: The Heart of the Turf: Racings Black Pionee
@@ -467,24 +587,9 @@ DESCRIPTION:Join this seasons Florida Conversations for an exploration of
 URL;VALUE=URI:https://www.tampa.gov/node/178471
 END:VEVENT
 BEGIN:VEVENT
-UID:10bd6ff9-51eb-4d9c-8be9-7d9a59a5d709
+UID:16a3489b-05b5-434c-b634-0ccc0561d32c
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
-DTSTART:20260211T211500Z
-DTEND:20260211T223000Z
-SUMMARY:Teen Digital Studio
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Gain access to a quiet and creative space to explore digital d
- rawing with Procreate! With input from the instructor\, you can create you
- r own art\, comics\, anime characters\, and much more! Open to ages 12 All
-  programs and equipment are provided! \n\nPermalink: https://www.tampa.gov
- /node/177096
-URL;VALUE=URI:https://www.tampa.gov/node/177096
-END:VEVENT
-BEGIN:VEVENT
-UID:d529c060-2d3a-4e0e-bc2d-2946e7d0ca16
-SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260212T000000Z
 DTEND:20260212T020000Z
 SUMMARY:Channel District Date Night: Couples Yoga Class
@@ -504,9 +609,44 @@ DESCRIPTION:The Channel District Date Nights is a quarterly program from 7
 URL;VALUE=URI:https://www.tampa.gov/node/179446
 END:VEVENT
 BEGIN:VEVENT
-UID:d7e70fc0-78f7-49ee-b30f-43ddf283d358
+UID:69c16498-b255-49b5-8a86-686a811acd66
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260211T211500Z
+DTEND:20260211T223000Z
+SUMMARY:Teen Digital Studio
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Gain access to a quiet and creative space to explore digital d
+ rawing with Procreate! With input from the instructor\, you can create you
+ r own art\, comics\, anime characters\, and much more! Open to ages 12 All
+  programs and equipment are provided! \n\nPermalink: https://www.tampa.gov
+ /node/177096
+URL;VALUE=URI:https://www.tampa.gov/node/177096
+END:VEVENT
+BEGIN:VEVENT
+UID:6b7081f2-bd84-4ff8-a26c-be86a3d26325
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260211T163000Z
+DTEND:20260211T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179266
+URL;VALUE=URI:https://www.tampa.gov/node/179266
+END:VEVENT
+BEGIN:VEVENT
+UID:19be1f1c-5b3e-4d45-9256-294b52cd9acc
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260212T233000Z
 DTEND:20260213T010000Z
 SUMMARY:The Scrub: Histories and Stories - Presented by The BEAT at Tampa 
@@ -524,9 +664,9 @@ DESCRIPTION:The BEAT of Tampa Bay (Black Emerging Academic Talks) features
 URL;VALUE=URI:https://www.tampa.gov/node/178741
 END:VEVENT
 BEGIN:VEVENT
-UID:d519143b-8be8-413a-ac56-292e230a36f6
+UID:4fdbaeba-e61a-4534-a598-f7cc2d99f3ec
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260212T230000Z
 DTEND:20260213T020000Z
 SUMMARY:Butterfly Ball
@@ -543,9 +683,9 @@ DESCRIPTION:The Butterfly Ball is our largest annual fundraising event\, w
 URL;VALUE=URI:https://www.tampa.gov/node/179651
 END:VEVENT
 BEGIN:VEVENT
-UID:11562ae9-eb6f-4395-b341-b09b8eddcbee
+UID:dfdf2adf-5877-4aaa-bb47-a66d5a30034c
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260212T220000Z
 DTEND:20260213T000000Z
 SUMMARY:Member Mixer  Florida School of Woodwork
@@ -565,9 +705,9 @@ DESCRIPTION:Join the Tampa Downtown Partnership for an evening of creative
 URL;VALUE=URI:https://www.tampa.gov/node/179861
 END:VEVENT
 BEGIN:VEVENT
-UID:6bdfb88e-a70c-451f-a7b0-07f04f4e1443
+UID:19fa553c-b485-457f-abc6-2026611b6a34
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260212T170000Z
 DTEND:20260212T213000Z
 SUMMARY:Downtowns Backyard Market
@@ -589,9 +729,29 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179461
 END:VEVENT
 BEGIN:VEVENT
-UID:47c8c45c-1b0b-4fe4-942f-7b07fbddf4ba
+UID:c0ad3bcf-df41-4b69-b34f-f0dd326d28be
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260212T163000Z
+DTEND:20260212T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179271
+URL;VALUE=URI:https://www.tampa.gov/node/179271
+END:VEVENT
+BEGIN:VEVENT
+UID:9454e0a5-4ed8-4ae6-8e45-1dfbb704bf07
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260213T150000Z
 DTEND:20260214T020000Z
 SUMMARY:Florida State Fair
@@ -609,9 +769,51 @@ DESCRIPTION:The Florida State Fair returns to Tampa with twelve days of wi
 URL;VALUE=URI:https://www.tampa.gov/node/174111
 END:VEVENT
 BEGIN:VEVENT
-UID:116f6aa1-f2b8-4601-b42c-786f9da61979
+UID:054105a5-20a1-4eb1-840d-b8103fa0b252
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260213T163000Z
+DTEND:20260213T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179276
+URL;VALUE=URI:https://www.tampa.gov/node/179276
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb7495a-2be2-4529-a18a-fa56f71deb5b
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260214T223000Z
+DTEND:20260215T010000Z
+SUMMARY:Busch Gardens Sunset on the Serengeti
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:Experience the magic of the wild with Sunset on the Serengeti\
+ , an exclusive evening adventure at Busch Gardens Tampa. Offered on Select
+  Nights from January to March Begin your adventure with a breathtaking Ser
+ engeti Safari just before sunset\, where youll encounter majestic wildlife
+  as the golden hour paints the landscape in stunning hues. Next\, embark o
+ n a guided Walking Tour to Treetop Kitchen\, exploring up-close animal exp
+ eriences. Cap off your journey with an exquisite Dinner at Treetop Kitchen
+ \, featuring a variety of flavorful dishes inspired by the vibrant tastes 
+ of Africa Join us for an unforgettable evening filled with adventure\, cul
+ inary delights\, and the beauty of the Serengeti at sunset. \n\nPermalink:
+  https://www.tampa.gov/node/179776
+URL;VALUE=URI:https://www.tampa.gov/node/179776
+END:VEVENT
+BEGIN:VEVENT
+UID:ab2daf2c-4a0a-4191-89bf-adb9463471dd
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260214T220000Z
 DTEND:20260215T030000Z
 SUMMARY:Celebrate Valentine039\\\;s Day at Driftlight Steakhouse
@@ -633,31 +835,9 @@ DESCRIPTION:Located on the main floor of JW Marriott Tampa Water Street\,
 URL;VALUE=URI:https://www.tampa.gov/node/179916
 END:VEVENT
 BEGIN:VEVENT
-UID:fd6d81fd-5425-4a40-902e-4b70a77021a7
+UID:0f5637d7-5e64-4693-824f-f81510bef2aa
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
-DTSTART:20260214T223000Z
-DTEND:20260215T010000Z
-SUMMARY:Busch Gardens Sunset on the Serengeti
-LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
- tes
-DESCRIPTION:Experience the magic of the wild with Sunset on the Serengeti\
- , an exclusive evening adventure at Busch Gardens Tampa. Offered on Select
-  Nights from January to March Begin your adventure with a breathtaking Ser
- engeti Safari just before sunset\, where youll encounter majestic wildlife
-  as the golden hour paints the landscape in stunning hues. Next\, embark o
- n a guided Walking Tour to Treetop Kitchen\, exploring up-close animal exp
- eriences. Cap off your journey with an exquisite Dinner at Treetop Kitchen
- \, featuring a variety of flavorful dishes inspired by the vibrant tastes 
- of Africa Join us for an unforgettable evening filled with adventure\, cul
- inary delights\, and the beauty of the Serengeti at sunset. \n\nPermalink:
-  https://www.tampa.gov/node/179776
-URL;VALUE=URI:https://www.tampa.gov/node/179776
-END:VEVENT
-BEGIN:VEVENT
-UID:27421d92-d8a7-4861-a4d0-dfaaa3a8496c
-SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260214T203000Z
 DTEND:20260215T030000Z
 SUMMARY:Valentine039\\\;s at Rusty Pelican Tampa
@@ -676,9 +856,27 @@ DESCRIPTION:Love is in the air\, and Rusty Pelican Tampa is serving up a r
 URL;VALUE=URI:https://www.tampa.gov/node/180356
 END:VEVENT
 BEGIN:VEVENT
-UID:0789e50d-42d1-47d2-b0b7-bed826f56e7f
+UID:b7efdc3d-e190-412d-82b4-3274ec9ddb8c
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260214T190000Z
+DTEND:20260214T220000Z
+SUMMARY:Youth Council Exhibit Z: Palentines Day
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Celebrate Valentines Day at the Museum with your pals and the 
+ Youth Council. Exhibit Z is TMA Youth Councils bi-monthly program for the 
+ 2025-2026 school year that welcomes teens to the Tampa Museum of Art on a 
+ regular basis for fun\, safe\, and creative experiences. Teens can create 
+ their own art\, collaborate with like-minded peers\, and experience the ar
+ t on view all in a low pressure\, no cost environment. All Exhibit Z event
+ s are FREE and include materials\, gallery admission\, and refreshments. \
+ n\nPermalink: https://www.tampa.gov/node/178566
+URL;VALUE=URI:https://www.tampa.gov/node/178566
+END:VEVENT
+BEGIN:VEVENT
+UID:2dc7e82c-93a2-4560-87ae-c9abdebd58ce
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260214T170000Z
 DTEND:20260215T010000Z
 SUMMARY:Busch Gardens Mardi Gras
@@ -692,9 +890,9 @@ DESCRIPTION:Family-Friendly Mardi Gras Event Get jazzed up with Mardi Gras
 URL;VALUE=URI:https://www.tampa.gov/node/179336
 END:VEVENT
 BEGIN:VEVENT
-UID:05719797-5513-47ce-b8a9-3f070e6f91ea
+UID:d42c41ac-d8ac-4ab5-a722-3fa198fcbc67
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260214T160000Z
 DTEND:20260214T190000Z
 SUMMARY:Celebrate Valentine039\\\;s Day at Beacon Rooftop Lounge
@@ -720,27 +918,9 @@ DESCRIPTION:Located on the 27th floor of the JW Marriott Tampa Water Stree
 URL;VALUE=URI:https://www.tampa.gov/node/179981
 END:VEVENT
 BEGIN:VEVENT
-UID:43982e00-fb38-40ba-be55-f40dae3a283f
+UID:0408ee0e-e345-4554-8790-2035067e5ae0
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
-DTSTART:20260214T190000Z
-DTEND:20260214T220000Z
-SUMMARY:Youth Council Exhibit Z: Palentines Day
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Celebrate Valentines Day at the Museum with your pals and the 
- Youth Council. Exhibit Z is TMA Youth Councils bi-monthly program for the 
- 2025-2026 school year that welcomes teens to the Tampa Museum of Art on a 
- regular basis for fun\, safe\, and creative experiences. Teens can create 
- their own art\, collaborate with like-minded peers\, and experience the ar
- t on view all in a low pressure\, no cost environment. All Exhibit Z event
- s are FREE and include materials\, gallery admission\, and refreshments. \
- n\nPermalink: https://www.tampa.gov/node/178566
-URL;VALUE=URI:https://www.tampa.gov/node/178566
-END:VEVENT
-BEGIN:VEVENT
-UID:af1650e0-1a6c-4625-8eee-4647064f58a0
-SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260215T163000Z
 DTEND:20260215T203000Z
 SUMMARY:26th Annual Old Seminole Heights Home Tour
@@ -752,9 +932,9 @@ DESCRIPTION:Please join us for the 26th Annual Old Seminole Heights Home T
 URL;VALUE=URI:https://www.tampa.gov/node/178496
 END:VEVENT
 BEGIN:VEVENT
-UID:248b25ee-163f-4e3c-91e4-5946fd379fac
+UID:5d8e1a40-216a-4977-87de-4c055a7b7f03
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260215T223000Z
 DTEND:20260216T010000Z
 SUMMARY:Busch Gardens Sunset on the Serengeti
@@ -774,9 +954,9 @@ DESCRIPTION:Experience the magic of the wild with Sunset on the Serengeti\
 URL;VALUE=URI:https://www.tampa.gov/node/179781
 END:VEVENT
 BEGIN:VEVENT
-UID:c492fa4b-9ebb-425f-8144-38b73d021838
+UID:d4c88070-420e-4924-8fed-13bbb1e55550
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260215T210000Z
 DTEND:20260215T230000Z
 SUMMARY:Trap Yoga Social
@@ -810,9 +990,9 @@ DESCRIPTION:Meeyogis Trap Yoga Social is brought to you in part by Smudged
 URL;VALUE=URI:https://www.tampa.gov/node/180671
 END:VEVENT
 BEGIN:VEVENT
-UID:dbab1211-1e6e-4a19-976d-4a60ae103cb3
+UID:1872c9d2-1762-4555-b516-f2999ed26e88
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260215T200000Z
 DTEND:20260215T230000Z
 SUMMARY:BLACK LOVE Classics Series - Boomerang
@@ -834,9 +1014,9 @@ DESCRIPTION:Eddie Murphy stars as M arcus Graham\, a hotshot ad exec whos
 URL;VALUE=URI:https://www.tampa.gov/node/180661
 END:VEVENT
 BEGIN:VEVENT
-UID:7b2aa1e7-b2b3-4a68-878e-cdeb70d8e5c9
+UID:580085a5-3dad-424f-83cd-32f7dc7ea3f3
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260215T180000Z
 DTEND:20260215T200000Z
 SUMMARY:Valentine039\\\;s Day High Tea
@@ -849,9 +1029,9 @@ DESCRIPTION:Toast to love with refined indulgence at Lilac. The High Tea b
 URL;VALUE=URI:https://www.tampa.gov/node/179721
 END:VEVENT
 BEGIN:VEVENT
-UID:bdf1c580-7c2e-4885-8c44-048f384194e3
+UID:5efbe447-20cc-421f-ba85-3703c07448a6
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260215T170000Z
 DTEND:20260216T010000Z
 SUMMARY:Busch Gardens Mardi Gras
@@ -865,9 +1045,9 @@ DESCRIPTION:Family-Friendly Mardi Gras Event Get jazzed up with Mardi Gras
 URL;VALUE=URI:https://www.tampa.gov/node/179341
 END:VEVENT
 BEGIN:VEVENT
-UID:9b9bb94c-8865-4693-8b99-86a6fbd9d56d
+UID:2c50a971-9359-414a-af9a-c51c0c9d25c6
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260215T150000Z
 DTEND:20260215T180000Z
 SUMMARY:Ceramics Continued Study
@@ -884,9 +1064,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/177501
 END:VEVENT
 BEGIN:VEVENT
-UID:9be80c7c-e09c-4053-ab67-bbbf8da8dc34
+UID:262af78e-c205-4274-b00f-f2406fc4e648
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260215T150000Z
 DTEND:20260216T020000Z
 SUMMARY:Florida State Fair
@@ -904,9 +1084,9 @@ DESCRIPTION:The Florida State Fair returns to Tampa with twelve days of wi
 URL;VALUE=URI:https://www.tampa.gov/node/174121
 END:VEVENT
 BEGIN:VEVENT
-UID:353a47a0-004c-484a-a5ce-01d96bb2a003
+UID:0e56c774-4377-4330-8d42-f631555bf8cb
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260216T160000Z
 DTEND:20260217T020000Z
 SUMMARY:Florida State Fair
@@ -924,9 +1104,89 @@ DESCRIPTION:The Florida State Fair returns to Tampa with twelve days of wi
 URL;VALUE=URI:https://www.tampa.gov/node/174126
 END:VEVENT
 BEGIN:VEVENT
-UID:c1d9e8ea-f787-4e7a-8bb4-5d906a0bf83c
+UID:9b8db101-adf6-4ee6-8972-ebb34d48cef3
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260216T163000Z
+DTEND:20260216T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179281
+URL;VALUE=URI:https://www.tampa.gov/node/179281
+END:VEVENT
+BEGIN:VEVENT
+UID:f87f330c-2bbd-4b9a-a3b6-a3062b173961
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260217T163000Z
+DTEND:20260217T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179286
+URL;VALUE=URI:https://www.tampa.gov/node/179286
+END:VEVENT
+BEGIN:VEVENT
+UID:ef5c0185-28a8-4256-84cb-e1b40479bc5b
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260218T163000Z
+DTEND:20260218T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179291
+URL;VALUE=URI:https://www.tampa.gov/node/179291
+END:VEVENT
+BEGIN:VEVENT
+UID:35caaf61-4be4-4ba4-b374-35534d1139b3
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260218T163000Z
+DTEND:20260218T180000Z
+SUMMARY:LiveLung Tampa\, FL In-Person Meeting
+LOCATION:3751 E Fowler Ave\, Tampa \, FL 33612 United States
+DESCRIPTION:The LiveLung Tampa chapter is a community for anyone impacted 
+ by lung cancersurvivors and care partners alike. We meet in person on the 
+ third Wednesday of each month at 11:00 a.m. ET at Holiday Inn Tampa North 
+ at 3751 E. Fowler Avenue\, Tampa\, FL 33612. Join us this month as the gro
+ up learns about Live Strong: The Importance of Exercise in the Lung Cancer
+  Journey from expert speaker Nancy J. Belli\, M.A.\, Senior Wellness Direc
+ tor\, LIVESTRONG at the YMCA. Free lunch is provided\, so be sure to regis
+ ter and place your order at least 24hours in advance. Register here - http
+ s:livelung.linktampa (https:livelung.linktampa) We look forward to seeing 
+ you! \n\nPermalink: https://www.tampa.gov/node/179576
+URL;VALUE=URI:https://www.tampa.gov/node/179576
+END:VEVENT
+BEGIN:VEVENT
+UID:d1438301-5328-4a05-8170-85b4d73bd074
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260218T180000Z
 DTEND:20260218T210000Z
 SUMMARY:Studio 55: Printmaking
@@ -942,9 +1202,9 @@ DESCRIPTION:This class will help develop technical skills in various print
 URL;VALUE=URI:https://www.tampa.gov/node/177211
 END:VEVENT
 BEGIN:VEVENT
-UID:4f26fcdc-9ca1-40fa-bd75-0649eda770fb
+UID:7cdcfb95-1cac-45d5-9df5-ce204172d643
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260219T230000Z
 DTEND:20260220T020000Z
 SUMMARY:Remix: Life Death in the Ancient World
@@ -959,9 +1219,29 @@ DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
 URL;VALUE=URI:https://www.tampa.gov/node/177291
 END:VEVENT
 BEGIN:VEVENT
-UID:c7bb46d1-4669-40e2-b45c-2ca638ef3c3d
+UID:7adb57c3-cf56-4664-a878-3717e2c4ec43
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260219T163000Z
+DTEND:20260219T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179296
+URL;VALUE=URI:https://www.tampa.gov/node/179296
+END:VEVENT
+BEGIN:VEVENT
+UID:26ab9a25-8693-4377-b037-c477d01d411b
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260219T130000Z
 DTEND:20260219T210000Z
 SUMMARY:Vended Laundry Experience Service School Hosted By Laundry Pro of 
@@ -986,9 +1266,29 @@ DESCRIPTION:Join us for the Vended Laundry Experience and Service School o
 URL;VALUE=URI:https://www.tampa.gov/node/178356
 END:VEVENT
 BEGIN:VEVENT
-UID:a53dade9-df6b-4d9e-a71c-8d1b82fc6e35
+UID:32b6997f-0b03-4cb0-86cb-29ec5cf2ae1b
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260220T163000Z
+DTEND:20260220T183000Z
+SUMMARY:Busch Gardens Real Music Series
+LOCATION:10165 N McKinley Dr Tampa \, FL 33612 United States
+DESCRIPTION:The Real Music Series features an exciting mix of talented per
+ formers showcasing classic rock\, soul\, pop\, and R B. Whether you love t
+ imeless hits or discovering new artists\, the series invites all guests to
+  experience outstanding entertainment at Busch Gardens. Tickets are no lon
+ ger given out for seating at Real Music shows. Real Music concerts are inc
+ luded with park admission. Event dates\, showtimes\, and details subject t
+ o change andor cancellation without prior notice. Show seating is availabl
+ e on a first-come\, first-serve basis. Doors open 15 minutes before showti
+ me and may close prior to showtime when the theater has reached full capac
+ ity \n\nPermalink: https://www.tampa.gov/node/179301
+URL;VALUE=URI:https://www.tampa.gov/node/179301
+END:VEVENT
+BEGIN:VEVENT
+UID:ab5c4d30-d963-4276-878f-98c856eb20d4
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260220T223000Z
 DTEND:20260221T010000Z
 SUMMARY:Busch Gardens Sunset on the Serengeti
@@ -1008,9 +1308,30 @@ DESCRIPTION:Experience the magic of the wild with Sunset on the Serengeti\
 URL;VALUE=URI:https://www.tampa.gov/node/179786
 END:VEVENT
 BEGIN:VEVENT
-UID:d858d6d5-5d21-45e1-9b64-d2087d4c593f
+UID:955c4ffd-28d2-4ef2-933c-07308ef11945
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260221T160000Z
+DTEND:20260221T180000Z
+SUMMARY:Free Community Baby Shower
+LOCATION:2225 E 109th Ave Tampa \, FL 33612 United States
+DESCRIPTION:This special event is designed to support expecting mothers an
+ d families with children ages 05 by providing helpful resources\, connecti
+ ons\, and encouragement in a welcoming environment. During the event\, fam
+ ilies will have access to: Free resources for mothers-to-be Free items and
+  information for children ages 05 Community vendors offering valuable reso
+ urces and support services This event is completely free and open to the c
+ ommunity\, and we would love for you to join us or share this invitation w
+ ith anyone who may benefit. If you have any questions or would like more i
+ nformation\, please feel free to email community.service1usda.org (mailto:
+ community.service1usda.org) We look forward to celebrating and supporting 
+ our families together! \n\nPermalink: https://www.tampa.gov/node/179741
+URL;VALUE=URI:https://www.tampa.gov/node/179741
+END:VEVENT
+BEGIN:VEVENT
+UID:a56dd918-5eb2-4bb5-ad76-b0a2fb31f45d
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260221T223000Z
 DTEND:20260222T010000Z
 SUMMARY:Busch Gardens Sunset on the Serengeti
@@ -1030,9 +1351,9 @@ DESCRIPTION:Experience the magic of the wild with Sunset on the Serengeti\
 URL;VALUE=URI:https://www.tampa.gov/node/179791
 END:VEVENT
 BEGIN:VEVENT
-UID:6643c0d2-aac9-4260-b95f-c8f6bfe78c23
+UID:8c59632a-6f8e-4da4-864c-c6b291fcbd4d
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260221T170000Z
 DTEND:20260222T010000Z
 SUMMARY:Busch Gardens Mardi Gras
@@ -1046,30 +1367,9 @@ DESCRIPTION:Family-Friendly Mardi Gras Event Get jazzed up with Mardi Gras
 URL;VALUE=URI:https://www.tampa.gov/node/179346
 END:VEVENT
 BEGIN:VEVENT
-UID:c24fda91-9b6f-4b2f-bc13-eadaa3d984fb
+UID:f2935fe3-d8ce-418d-b57c-277f9b6d009b
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
-DTSTART:20260221T160000Z
-DTEND:20260221T180000Z
-SUMMARY:Free Community Baby Shower
-LOCATION:2225 E 109th Ave Tampa \, FL 33612 United States
-DESCRIPTION:This special event is designed to support expecting mothers an
- d families with children ages 05 by providing helpful resources\, connecti
- ons\, and encouragement in a welcoming environment. During the event\, fam
- ilies will have access to: Free resources for mothers-to-be Free items and
-  information for children ages 05 Community vendors offering valuable reso
- urces and support services This event is completely free and open to the c
- ommunity\, and we would love for you to join us or share this invitation w
- ith anyone who may benefit. If you have any questions or would like more i
- nformation\, please feel free to email community.service1usda.org (mailto:
- community.service1usda.org) We look forward to celebrating and supporting 
- our families together! \n\nPermalink: https://www.tampa.gov/node/179741
-URL;VALUE=URI:https://www.tampa.gov/node/179741
-END:VEVENT
-BEGIN:VEVENT
-UID:68b1e3cd-070c-4021-a087-46a219ee4a4b
-SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260221T140000Z
 DTEND:20260221T170000Z
 SUMMARY:Coalition for Community Air Monitoring Network Annual Summit
@@ -1090,9 +1390,9 @@ DESCRIPTION:The Hillsborough Transportation Planning Organization\, in par
 URL;VALUE=URI:https://www.tampa.gov/node/179711
 END:VEVENT
 BEGIN:VEVENT
-UID:ba4e7e0d-02f7-42a2-a909-353bed016c48
+UID:741a43b4-cae0-4ea3-8f5a-05a206681f4e
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260222T170000Z
 DTEND:20260223T020000Z
 SUMMARY:Punk Rock Flea Market
@@ -1104,9 +1404,9 @@ DESCRIPTION:Join us for a FREE event in the Courtyard of the Cuban Club\,
 URL;VALUE=URI:https://www.tampa.gov/node/178966
 END:VEVENT
 BEGIN:VEVENT
-UID:75b09f92-128b-409c-9592-2d3e8c7d6f51
+UID:e9d81666-dff5-4a1d-80dc-8bae3e89e944
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260222T170000Z
 DTEND:20260223T010000Z
 SUMMARY:Busch Gardens Mardi Gras
@@ -1120,9 +1420,9 @@ DESCRIPTION:Family-Friendly Mardi Gras Event Get jazzed up with Mardi Gras
 URL;VALUE=URI:https://www.tampa.gov/node/179351
 END:VEVENT
 BEGIN:VEVENT
-UID:ad78632a-0567-43f1-a7a1-0270a304b365
+UID:aed72074-256c-44a6-aa97-93c3ecb84fbb
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260222T200000Z
 DTEND:20260222T230000Z
 SUMMARY:BLACK LOVE Classics Series - Carmen Jones
@@ -1147,9 +1447,9 @@ DESCRIPTION:A unique project from Otto Preminger\, Carmen Jones is a moder
 URL;VALUE=URI:https://www.tampa.gov/node/180666
 END:VEVENT
 BEGIN:VEVENT
-UID:6f3ad4e8-498b-45fc-83b8-b96a20d191d4
+UID:d2ae38c7-cfe3-49e2-a4cf-b289a28233b5
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260224T230000Z
 DTEND:20260225T020000Z
 SUMMARY:Figure Drawing Study
@@ -1164,9 +1464,9 @@ DESCRIPTION:Work in your drawing and painting media of choice or explore n
 URL;VALUE=URI:https://www.tampa.gov/node/177256
 END:VEVENT
 BEGIN:VEVENT
-UID:383ac915-ee08-43f1-abd6-1b0b2a6f0c39
+UID:24545369-2f74-4218-815e-890eb24e34c0
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260225T233000Z
 DTEND:20260226T010000Z
 SUMMARY:Gallery Opening: Avant Garde
@@ -1198,9 +1498,9 @@ DESCRIPTION:The Tampa Museum of Art invites you to join us in celebrating
 URL;VALUE=URI:https://www.tampa.gov/node/180251
 END:VEVENT
 BEGIN:VEVENT
-UID:2cea63b7-93b5-4659-9cf3-ffe3b64d9229
+UID:e0ecf249-e106-4c8c-8c31-c55fa0eb2130
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260226T150000Z
 DTEND:20260226T220000Z
 SUMMARY:New Exhibition: Avant Garde
@@ -1224,9 +1524,9 @@ DESCRIPTION:Avant Garde: Remarkable Women in the Permanent Collection open
 URL;VALUE=URI:https://www.tampa.gov/node/180546
 END:VEVENT
 BEGIN:VEVENT
-UID:cdd4253d-c7a3-49b5-8dd7-d22cbf3531c7
+UID:74d668b3-6f83-4026-a409-351171d3ca77
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260227T170000Z
 DTEND:20260227T180000Z
 SUMMARY:Virtual Artful Connections
@@ -1244,9 +1544,9 @@ DESCRIPTION:Want a break from your day to de-stress and enjoy artwork? The
 URL;VALUE=URI:https://www.tampa.gov/node/180301
 END:VEVENT
 BEGIN:VEVENT
-UID:703b420e-0d86-4b23-99f7-796dda691c42
+UID:3784869b-b209-453b-b298-e96c14381a3c
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260228T230000Z
 DTEND:20260301T030000Z
 SUMMARY:Diamonds Dice Casino Night
@@ -1261,9 +1561,9 @@ DESCRIPTION:The Tampa Womans Club is celebrating 125 years of community se
 URL;VALUE=URI:https://www.tampa.gov/node/176491
 END:VEVENT
 BEGIN:VEVENT
-UID:66a84cb3-d567-4a61-8395-12719887466d
+UID:e97551db-8313-4dfd-ba7b-e07c4595e4dd
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260228T170000Z
 DTEND:20260301T010000Z
 SUMMARY:Busch Gardens Mardi Gras
@@ -1277,9 +1577,9 @@ DESCRIPTION:Family-Friendly Mardi Gras Event Get jazzed up with Mardi Gras
 URL;VALUE=URI:https://www.tampa.gov/node/179356
 END:VEVENT
 BEGIN:VEVENT
-UID:fd6bafe3-bc93-4d38-ba51-03f202834863
+UID:f79b8d63-74f7-4f99-a8be-67b40e46470c
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260228T150000Z
 DTEND:20260228T170000Z
 SUMMARY:Finding Neutral
@@ -1310,9 +1610,9 @@ DESCRIPTION:Reclaiming the Time-In-Between A Somatic Journey into Flow\, P
 URL;VALUE=URI:https://www.tampa.gov/node/180351
 END:VEVENT
 BEGIN:VEVENT
-UID:2bdb2a50-394d-4b7c-b73d-6b4fa9dd63b8
+UID:cb22f280-6294-4020-9cb5-074a86604c1d
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260301T150000Z
 DTEND:20260301T180000Z
 SUMMARY:Ceramics Continued Study
@@ -1329,9 +1629,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/177311
 END:VEVENT
 BEGIN:VEVENT
-UID:c9f5ef22-8978-4917-a370-48ee7fc16251
+UID:6d3cf819-0441-4153-a42f-e3f299367d5d
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260301T150000Z
 DTEND:20260301T180000Z
 SUMMARY:Ceramics Continued Study
@@ -1348,9 +1648,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/177511
 END:VEVENT
 BEGIN:VEVENT
-UID:f4a5e1ca-efcf-4f18-ad9e-8552ac67c421
+UID:afaff20a-1b88-4e21-a3b8-fcd4a646182c
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260301T170000Z
 DTEND:20260302T010000Z
 SUMMARY:Busch Gardens Mardi Gras
@@ -1364,9 +1664,26 @@ DESCRIPTION:Family-Friendly Mardi Gras Event Get jazzed up with Mardi Gras
 URL;VALUE=URI:https://www.tampa.gov/node/179361
 END:VEVENT
 BEGIN:VEVENT
-UID:27e1a366-dec2-4d51-a22b-9edf0fb0249c
+UID:5642e27c-e7ee-4ac2-adc0-0cf76f7e06d0
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260304T003000Z
+DTEND:20260304T013000Z
+SUMMARY:Again\, but Different - MFA Thesis Dance Concert
+LOCATION:1920 7th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:A thesis dance concert constructed from everyday actions\, ges
+ tures\, and task-based movement\, organized through choreographic tools an
+ d principles. Drawing on early 1960s postmodern minimalism\, the work trea
+ ts ordinary behavior as both compositional material and a pedagogical stra
+ tegy. In turn\, it broadens what we recognize as dance\, offering access b
+ eyond codified technique and widening participation regardless of technica
+ l training or ability. \n\nPermalink: https://www.tampa.gov/node/179581
+URL;VALUE=URI:https://www.tampa.gov/node/179581
+END:VEVENT
+BEGIN:VEVENT
+UID:cd0d2a85-803e-472e-b55c-f0f287f73f90
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260304T160000Z
 DTEND:20260304T190000Z
 SUMMARY:Mayors Food Truck Fiesta
@@ -1387,9 +1704,9 @@ DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors
 URL;VALUE=URI:https://www.tampa.gov/node/179601
 END:VEVENT
 BEGIN:VEVENT
-UID:545da155-ffc9-4159-8959-3ae4a619b3cc
+UID:81875edc-e19a-476c-80fe-7acc6066308c
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260305T130000Z
 DTEND:20260305T223000Z
 SUMMARY:National BBCB Summit
@@ -1424,9 +1741,9 @@ DESCRIPTION:For event details: Home - 19th Annual National BBCB Summit (ht
 URL;VALUE=URI:https://www.tampa.gov/node/178141
 END:VEVENT
 BEGIN:VEVENT
-UID:3a62bd2c-f61d-46d2-82dd-c40eebb84095
+UID:ee316760-478a-4ab4-85a8-a200c6e32165
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260305T230000Z
 DTEND:20260306T020000Z
 SUMMARY:Rock the Park
@@ -1445,9 +1762,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:105416dd-f504-4bac-b8cc-7ff91ef1d5ec
+UID:cda30e52-f38c-43de-8d1e-3ed380e6ffda
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260306T170000Z
 DTEND:20260307T030000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -1463,9 +1780,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180371
 END:VEVENT
 BEGIN:VEVENT
-UID:8f3c6540-1c5e-4df2-b57f-938e8ea26f99
+UID:86b71837-8bbb-4601-a43c-781fa13639cd
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260307T000000Z
 DTEND:20260307T013000Z
 SUMMARY:Tom Ingui - Organ Recital
@@ -1478,9 +1795,9 @@ DESCRIPTION:International award winning organist Tom Ingui presenting work
 URL;VALUE=URI:https://www.tampa.gov/node/180651
 END:VEVENT
 BEGIN:VEVENT
-UID:37c3c4ed-afc9-4c31-a7ef-573909cc6008
+UID:6891eaa0-0cff-4d03-934b-431a7723ddb1
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260307T130000Z
 DTEND:20260307T183000Z
 SUMMARY:National BBCB Summit
@@ -1515,9 +1832,9 @@ DESCRIPTION:For event details: Home - 19th Annual National BBCB Summit (ht
 URL;VALUE=URI:https://www.tampa.gov/node/178151
 END:VEVENT
 BEGIN:VEVENT
-UID:8fd5aed7-8239-413c-852f-851e63b905c4
+UID:5f764d6d-1415-4df2-88be-cd7888fb0da6
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260307T150000Z
 DTEND:20260307T190000Z
 SUMMARY:Bulls Family Fest
@@ -1530,9 +1847,9 @@ DESCRIPTION:Celebrate with the University of South Florida at this free\,
 URL;VALUE=URI:https://www.tampa.gov/node/172706
 END:VEVENT
 BEGIN:VEVENT
-UID:ec95bee4-24a3-4b09-b2ba-1e4c5f0aff2c
+UID:524551d3-108e-4ce4-8d10-c531c376ec0e
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260307T170000Z
 DTEND:20260308T030000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -1548,9 +1865,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180376
 END:VEVENT
 BEGIN:VEVENT
-UID:5add3c58-98a0-4b3e-931d-50903bf34347
+UID:3c82cd14-5141-4652-b6f8-46553f7f9826
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260307T223000Z
 DTEND:20260308T010000Z
 SUMMARY:Busch Gardens Sunset on the Serengeti
@@ -1570,28 +1887,24 @@ DESCRIPTION:Experience the magic of the wild with Sunset on the Serengeti\
 URL;VALUE=URI:https://www.tampa.gov/node/179796
 END:VEVENT
 BEGIN:VEVENT
-UID:ad4f76a3-1e12-4b10-beb4-5a6ecec40abf
+UID:ccd5f427-199d-4e57-90dc-fafb0a3c629d
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
-DTSTART:20260308T140000Z
-DTEND:20260308T170000Z
-SUMMARY:Ceramics Continued Study
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
- eir learning experience with instructor assistance and guiding knowledge. 
- Sign up for a single class to continue working and add the finishing touch
- es on projects youve started in one of our other classes. Sign up for mult
- iple classes to choose your own adventure in hand-building or wheel thrown
-  ceramics. Work with your instructor to plan out your projects and make th
- em a reality. Some experience with clay is recommended. 16 Firing costs\, 
- essential tools\, and glazes included. Clay is available for purchase sepa
- rately in studio. \n\nPermalink: https://www.tampa.gov/node/177516
-URL;VALUE=URI:https://www.tampa.gov/node/177516
+DTSTAMP:20260204T000601Z
+DTSTART:20260308T210000Z
+DTEND:20260308T223000Z
+SUMMARY:Bach Festival of Central Florida
+LOCATION:509 E Twiggs St Tampa \, FL 33602 United States
+DESCRIPTION:Directed by Dr. Larry Sledge\, the Bach Festival of Central Fl
+ oridas choir and orchestra will present Bachs Mass in G Minor Cantata No. 
+ 21 and Handels organ concerto Cuckoo and Nightingale joined by internation
+ al award winning organist Tom Ingui. \n\nPermalink: https://www.tampa.gov/
+ node/180771
+URL;VALUE=URI:https://www.tampa.gov/node/180771
 END:VEVENT
 BEGIN:VEVENT
-UID:1f769016-1cd4-4bee-a878-e3b54bfe1120
+UID:c11d53e5-77e3-4aee-91bc-4ab4f3790be3
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260308T213000Z
 DTEND:20260309T000000Z
 SUMMARY:Busch Gardens Sunset on the Serengeti
@@ -1611,9 +1924,9 @@ DESCRIPTION:Experience the magic of the wild with Sunset on the Serengeti\
 URL;VALUE=URI:https://www.tampa.gov/node/179801
 END:VEVENT
 BEGIN:VEVENT
-UID:9947da5a-8b8d-4c0c-9cac-7f26bf8cf33e
+UID:f651f2f4-263b-4197-989f-7fb63a4f0414
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260308T160000Z
 DTEND:20260309T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -1629,9 +1942,28 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180381
 END:VEVENT
 BEGIN:VEVENT
-UID:c33a20c3-6576-4a9c-ad30-42d1512b9306
+UID:a4f82d5a-3df9-41a7-8aa1-aa1384d9a0c0
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260308T140000Z
+DTEND:20260308T170000Z
+SUMMARY:Ceramics Continued Study
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
+ eir learning experience with instructor assistance and guiding knowledge. 
+ Sign up for a single class to continue working and add the finishing touch
+ es on projects youve started in one of our other classes. Sign up for mult
+ iple classes to choose your own adventure in hand-building or wheel thrown
+  ceramics. Work with your instructor to plan out your projects and make th
+ em a reality. Some experience with clay is recommended. 16 Firing costs\, 
+ essential tools\, and glazes included. Clay is available for purchase sepa
+ rately in studio. \n\nPermalink: https://www.tampa.gov/node/177516
+URL;VALUE=URI:https://www.tampa.gov/node/177516
+END:VEVENT
+BEGIN:VEVENT
+UID:296cb840-af86-4f24-9534-4a7c0322c4fd
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260309T140000Z
 DTEND:20260309T200000Z
 SUMMARY:Workshop: Encaustic Monotype Basics
@@ -1647,9 +1979,9 @@ DESCRIPTION:In this specialized class students will learn the process of e
 URL;VALUE=URI:https://www.tampa.gov/node/177276
 END:VEVENT
 BEGIN:VEVENT
-UID:768a95da-cc8a-4f4e-a236-79a752da804e
+UID:9e2925f1-c46b-458a-8746-2bd5a36e15ee
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260310T140000Z
 DTEND:20260310T200000Z
 SUMMARY:Workshop: Encaustic Monotype Basics
@@ -1665,9 +1997,9 @@ DESCRIPTION:In this specialized class students will learn the process of e
 URL;VALUE=URI:https://www.tampa.gov/node/177281
 END:VEVENT
 BEGIN:VEVENT
-UID:24a21997-f7ce-400f-abac-a6c919e46540
+UID:7040bf93-325d-4f8f-b3fe-e9cd93629fbc
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260311T201500Z
 DTEND:20260311T213000Z
 SUMMARY:Teen Digital Studio
@@ -1680,9 +2012,9 @@ DESCRIPTION:Gain access to a quiet and creative space to explore digital d
 URL;VALUE=URI:https://www.tampa.gov/node/177101
 END:VEVENT
 BEGIN:VEVENT
-UID:59a7b98f-5f86-4aec-8c7c-1d095748443e
+UID:52f421ee-d335-4243-b840-689ed781d1d8
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260312T160000Z
 DTEND:20260312T203000Z
 SUMMARY:Downtowns Backyard Market
@@ -1704,9 +2036,27 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179466
 END:VEVENT
 BEGIN:VEVENT
-UID:e744b707-5d91-47ac-9bf1-027501dab828
+UID:4bdb0c3c-9653-4f68-9d10-0c574a61c7b9
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260312T210000Z
+DTEND:20260313T013000Z
+SUMMARY:14th Annual Buildings Alive
+LOCATION:2701 N 16th St\, Tampa \, FL 33605 United States
+DESCRIPTION:Buildings Alive is our annual architecture hop celebrating the
+  historical preservation and cultural heritage of Ybor City. Popular with 
+ any age\, hoppers board a rubber-wheel Jolley Trolley and visit 6 of Ybor 
+ Citys historic buildings. Each stop provides behind-the-scenes tours while
+  enjoying light bites at each location. All funding supports the Ybor City
+  Historical Society and our mission of preserving\, promoting\, and celebr
+ ating the unique cultural heritage of Ybor City. Tickets are limited! \n\n
+ Permalink: https://www.tampa.gov/node/180036
+URL;VALUE=URI:https://www.tampa.gov/node/180036
+END:VEVENT
+BEGIN:VEVENT
+UID:6a9903d0-58f5-4d01-93b0-e80f0e49cd6a
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260312T220000Z
 DTEND:20260313T010000Z
 SUMMARY:Thursday Night Ceramics
@@ -1723,9 +2073,9 @@ DESCRIPTION:Work with clay on the potters wheel and learn how to hand-buil
 URL;VALUE=URI:https://www.tampa.gov/node/177131
 END:VEVENT
 BEGIN:VEVENT
-UID:d1d9690f-77f8-42da-91bc-d1b2a305704d
+UID:031377b3-a500-4e00-b6e7-9fa250f7a4c4
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260313T160000Z
 DTEND:20260314T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -1741,9 +2091,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180391
 END:VEVENT
 BEGIN:VEVENT
-UID:f3085169-0cc0-46e0-ac7e-05fa4a65c67b
+UID:8dba007e-dc03-4635-98fd-45dff41b7fc4
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260314T160000Z
 DTEND:20260315T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -1759,9 +2109,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180386
 END:VEVENT
 BEGIN:VEVENT
-UID:a150a879-ae48-4a05-b9c7-ed6d55981724
+UID:1f861daa-22e0-436d-adba-5cce1c0d8302
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260315T160000Z
 DTEND:20260316T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -1777,9 +2127,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180396
 END:VEVENT
 BEGIN:VEVENT
-UID:0b3636b7-a9a8-44f9-9c7a-340a1bd9f679
+UID:ae27ff5f-76f4-418d-b24e-0c3658927227
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260317T220000Z
 DTEND:20260317T233000Z
 SUMMARY:Central Park Jazz Jam
@@ -1795,9 +2145,9 @@ DESCRIPTION:Let the good times roll at Central Park Jazz Jam! This FREE co
 URL;VALUE=URI:https://www.tampa.gov/node/177846
 END:VEVENT
 BEGIN:VEVENT
-UID:ad4a14af-cf12-40df-a82a-91d99f7840cc
+UID:7ca6d7d8-1adf-49d3-9eb3-a5352e31a652
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260318T220000Z
 DTEND:20260318T230000Z
 SUMMARY:Foreword: A Town Hall with Audrey Chapuis
@@ -1821,9 +2171,45 @@ DESCRIPTION:Meet the Tampa Bay History Centers new president and CEO\, Aud
 URL;VALUE=URI:https://www.tampa.gov/node/178931
 END:VEVENT
 BEGIN:VEVENT
-UID:5446975f-5385-4cec-8354-42b91d3caa48
+UID:4212bece-ab97-49c1-aa79-a3e9875f1f02
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260320T160000Z
+DTEND:20260321T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180401
+URL;VALUE=URI:https://www.tampa.gov/node/180401
+END:VEVENT
+BEGIN:VEVENT
+UID:616e8c94-8a1c-4383-acce-62b027a059a9
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260321T160000Z
+DTEND:20260322T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180406
+URL;VALUE=URI:https://www.tampa.gov/node/180406
+END:VEVENT
+BEGIN:VEVENT
+UID:97c0992a-7775-4b1e-abc8-f01ec88c5b7a
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260322T140000Z
 DTEND:20260322T170000Z
 SUMMARY:Ceramics Continued Study
@@ -1840,9 +2226,27 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/177521
 END:VEVENT
 BEGIN:VEVENT
-UID:05a63581-acfa-4f73-81cb-aae148922b98
+UID:968c6e63-57c2-4a36-aaf4-16570b5f7dee
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260322T160000Z
+DTEND:20260323T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180411
+URL;VALUE=URI:https://www.tampa.gov/node/180411
+END:VEVENT
+BEGIN:VEVENT
+UID:830acf33-b96a-42d9-922f-8a1dfb7dd38e
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260324T220000Z
 DTEND:20260325T010000Z
 SUMMARY:Figure Drawing Study
@@ -1857,9 +2261,9 @@ DESCRIPTION:Work in your drawing and painting media of choice or explore n
 URL;VALUE=URI:https://www.tampa.gov/node/177261
 END:VEVENT
 BEGIN:VEVENT
-UID:fa0d6e42-ed54-4fb1-bcf0-f94d353f39ce
+UID:06581239-46f3-4ba0-8c6e-0f082b60b17f
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260326T220000Z
 DTEND:20260326T230000Z
 SUMMARY:Lecture: You Cant Step Into The Same River Twice
@@ -1878,9 +2282,9 @@ DESCRIPTION:Time changes everything: the natural world\, the human world\,
 URL;VALUE=URI:https://www.tampa.gov/node/179986
 END:VEVENT
 BEGIN:VEVENT
-UID:c28a27c7-c31f-4c7b-98ad-632696326cef
+UID:92865e33-16f4-4164-b6c5-06170f49d0ce
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260326T220000Z
 DTEND:20260327T010000Z
 SUMMARY:Remix: Charles Atlas
@@ -1893,9 +2297,9 @@ DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
 URL;VALUE=URI:https://www.tampa.gov/node/177176
 END:VEVENT
 BEGIN:VEVENT
-UID:3351dc67-228e-402e-9bf2-e3479c0fd42a
+UID:bc64243c-e4a7-44ff-a7e6-2b195e68e729
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260327T160000Z
 DTEND:20260327T170000Z
 SUMMARY:Virtual Artful Connections
@@ -1913,9 +2317,27 @@ DESCRIPTION:Want a break from your day to de-stress and enjoy artwork? The
 URL;VALUE=URI:https://www.tampa.gov/node/180306
 END:VEVENT
 BEGIN:VEVENT
-UID:7f13c074-1a75-427d-816e-ba784e7d12de
+UID:4ce921a5-3c8f-477b-b2b5-9b9371b44e74
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260327T160000Z
+DTEND:20260328T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180416
+URL;VALUE=URI:https://www.tampa.gov/node/180416
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb8b3ae-946b-4a86-890f-558d34788fa1
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260328T113000Z
 DTEND:20260328T180000Z
 SUMMARY:Tampa Noles039\\\; Seminole Scramble Golf Tournament
@@ -1941,9 +2363,27 @@ DESCRIPTION:Get ready to tee it high and let it fly at the Inaugural Semin
 URL;VALUE=URI:https://www.tampa.gov/node/177156
 END:VEVENT
 BEGIN:VEVENT
-UID:1bc6b953-d237-4691-a96e-d57056564a25
+UID:e80e9f24-1447-413d-8ef6-abbf0f9f16aa
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260328T160000Z
+DTEND:20260329T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180421
+URL;VALUE=URI:https://www.tampa.gov/node/180421
+END:VEVENT
+BEGIN:VEVENT
+UID:47241140-d303-4268-93d7-807b0cec89f1
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260329T140000Z
 DTEND:20260329T170000Z
 SUMMARY:Ceramics Continued Study
@@ -1960,9 +2400,27 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/177526
 END:VEVENT
 BEGIN:VEVENT
-UID:14c26f3f-a381-4b35-99ec-ae116b0059b3
+UID:d23c2a57-2f06-4c62-8df2-f9cb3099d0e7
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260329T160000Z
+DTEND:20260330T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180426
+URL;VALUE=URI:https://www.tampa.gov/node/180426
+END:VEVENT
+BEGIN:VEVENT
+UID:88c0f629-abf5-4746-9ce6-0ce9f68de6bc
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260329T170000Z
 DTEND:20260329T200000Z
 SUMMARY:Portrait Painting
@@ -1977,9 +2435,9 @@ DESCRIPTION:In this class\, students will learn how to paint a head study
 URL;VALUE=URI:https://www.tampa.gov/node/177336
 END:VEVENT
 BEGIN:VEVENT
-UID:f35f66e4-652a-406a-b350-f911803e4f90
+UID:9509ff37-d8dd-4bb3-a4c4-af0a9d068ca4
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260331T223000Z
 DTEND:20260401T003000Z
 SUMMARY:Animation Workshop
@@ -1993,9 +2451,9 @@ DESCRIPTION:Learn digital art fundamentals and create illustrations\, pain
 URL;VALUE=URI:https://www.tampa.gov/node/177231
 END:VEVENT
 BEGIN:VEVENT
-UID:90a6ac1b-a063-4561-8573-d9d0ac998382
+UID:946bb20c-593b-49c3-9563-27016909a4da
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260401T150000Z
 DTEND:20260401T180000Z
 SUMMARY:Mayors Food Truck Fiesta
@@ -2016,9 +2474,9 @@ DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors
 URL;VALUE=URI:https://www.tampa.gov/node/179606
 END:VEVENT
 BEGIN:VEVENT
-UID:2fd51f12-0033-4e6c-afe1-d9a25d3acd75
+UID:b1ce4982-76e6-41fd-8b2b-3dfa303512ad
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260402T220000Z
 DTEND:20260403T010000Z
 SUMMARY:Rock the Park
@@ -2037,9 +2495,45 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:b209e8c8-c4be-4982-9097-c71a85f028ff
+UID:f64b3319-4c46-44dd-85af-71f82bcee28e
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260403T160000Z
+DTEND:20260404T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180431
+URL;VALUE=URI:https://www.tampa.gov/node/180431
+END:VEVENT
+BEGIN:VEVENT
+UID:6926d751-7a15-4667-894e-5662f142a7db
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260404T160000Z
+DTEND:20260405T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180436
+URL;VALUE=URI:https://www.tampa.gov/node/180436
+END:VEVENT
+BEGIN:VEVENT
+UID:095a7c0d-0c67-4f50-a0b3-3dd0172487ca
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260404T170000Z
 DTEND:20260405T030000Z
 SUMMARY:16th Edition Annual Brazilian Festival Tampa
@@ -2057,9 +2551,27 @@ DESCRIPTION:Get ready for an exciting celebration as the Annual Brazilian
 URL;VALUE=URI:https://www.tampa.gov/node/174851
 END:VEVENT
 BEGIN:VEVENT
-UID:40881ae8-bf41-492d-9dde-5215d10c5d7a
+UID:f4f20b95-581f-4384-a488-48d135855dcf
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260405T160000Z
+DTEND:20260406T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180441
+URL;VALUE=URI:https://www.tampa.gov/node/180441
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf81b8f-01c3-4cca-b973-d54303fb6a66
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260408T201500Z
 DTEND:20260408T213000Z
 SUMMARY:Teen Digital Studio
@@ -2072,9 +2584,9 @@ DESCRIPTION:Gain access to a quiet and creative space to explore digital d
 URL;VALUE=URI:https://www.tampa.gov/node/177106
 END:VEVENT
 BEGIN:VEVENT
-UID:6d4278d5-7da7-4ba8-b4de-2d4b302a1eb4
+UID:df24df2b-33f7-4bc8-b232-e46e5a5b6559
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260409T160000Z
 DTEND:20260409T203000Z
 SUMMARY:Downtowns Backyard Market
@@ -2096,9 +2608,63 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179471
 END:VEVENT
 BEGIN:VEVENT
-UID:42d17d84-bdcb-4669-8483-f2d555abad08
+UID:fe251c13-c08c-4034-b4a7-654514ffa8ff
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260410T160000Z
+DTEND:20260411T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180446
+URL;VALUE=URI:https://www.tampa.gov/node/180446
+END:VEVENT
+BEGIN:VEVENT
+UID:9497b685-86b0-4a67-bad1-f2bba702b1bd
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260411T120000Z
+DTEND:20260411T160000Z
+SUMMARY:Walk For Wishes Tampa
+LOCATION:1701 N Highland Ave Tampa \, FL 33602 United States
+DESCRIPTION:The 13th Annual Walk for Wishes Tampa will take place on Satur
+ day\, April 11\, 2026. Lace up your shoes and join us for a heartwarming d
+ ay of fitness and fun at Water Works Park! For additional event details\, 
+ please visit walkforwishestampa.org. Walk For Wishes is a feel-good event 
+ that everyone from student groups to large companies can participate in an
+ d make a difference in the lives of local children and families. Since the
+  events inception\, over 15\,000 supporters have made wishes come true one
+  step at a time. \n\nPermalink: https://www.tampa.gov/node/179586
+URL;VALUE=URI:https://www.tampa.gov/node/179586
+END:VEVENT
+BEGIN:VEVENT
+UID:1bcefe0d-6f0a-4a02-bc6a-f7135c39800c
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260411T160000Z
+DTEND:20260412T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180451
+URL;VALUE=URI:https://www.tampa.gov/node/180451
+END:VEVENT
+BEGIN:VEVENT
+UID:10d63df8-0d19-4905-8db9-31de0b5278e6
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260412T140000Z
 DTEND:20260412T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2115,9 +2681,27 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/177316
 END:VEVENT
 BEGIN:VEVENT
-UID:99232cbd-1c7c-4073-8b6d-7318f76c4317
+UID:cdf53703-bd9a-427b-b934-1168dfe8e27a
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260412T160000Z
+DTEND:20260413T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180456
+URL;VALUE=URI:https://www.tampa.gov/node/180456
+END:VEVENT
+BEGIN:VEVENT
+UID:e708abfa-f10c-4895-b9e0-6cb17dbaea22
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260412T140000Z
 DTEND:20260412T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2134,9 +2718,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/177531
 END:VEVENT
 BEGIN:VEVENT
-UID:c8049df6-efa1-4a95-a746-8c292528e13d
+UID:d5709801-9c68-4677-aebc-ce627907005e
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260416T220000Z
 DTEND:20260417T020000Z
 SUMMARY:A Night with Mary Lee039\\\;s House: Viva Havana!
@@ -2149,9 +2733,45 @@ DESCRIPTION:Step into the spirit of Havana for an unforgettable evening de
 URL;VALUE=URI:https://www.tampa.gov/node/179456
 END:VEVENT
 BEGIN:VEVENT
-UID:58699055-7d8c-4336-9474-13ee8a709326
+UID:668e20a4-4038-4d5b-b85a-d8f795f98aae
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260417T160000Z
+DTEND:20260418T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180461
+URL;VALUE=URI:https://www.tampa.gov/node/180461
+END:VEVENT
+BEGIN:VEVENT
+UID:879d4b26-6d1c-44a5-b832-83131eb9d8a8
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260418T160000Z
+DTEND:20260419T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180466
+URL;VALUE=URI:https://www.tampa.gov/node/180466
+END:VEVENT
+BEGIN:VEVENT
+UID:15e4c9a0-c224-4c87-98ed-7589e4f03753
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260418T220000Z
 DTEND:20260419T020000Z
 SUMMARY:National Pediatric Cancer Foundation039\\\;s Fashion Funds the Cur
@@ -2166,9 +2786,27 @@ DESCRIPTION:Fashion Funds the Cure returns to Tampa with an unforgettable
 URL;VALUE=URI:https://www.tampa.gov/node/179476
 END:VEVENT
 BEGIN:VEVENT
-UID:4d9fc5ea-d388-456a-b309-323711347035
+UID:d31435a2-78be-48ef-8599-b253737c054a
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260419T160000Z
+DTEND:20260420T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180471
+URL;VALUE=URI:https://www.tampa.gov/node/180471
+END:VEVENT
+BEGIN:VEVENT
+UID:f62080a1-6f4a-472b-bab4-8feb0253ef2f
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260419T140000Z
 DTEND:20260419T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2185,9 +2823,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/177536
 END:VEVENT
 BEGIN:VEVENT
-UID:c083a77b-2347-4bc4-8c28-4973326d2b68
+UID:9288088d-1852-4e24-b324-f9f390a20a1b
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260421T220000Z
 DTEND:20260422T010000Z
 SUMMARY:Figure Drawing Study
@@ -2202,27 +2840,9 @@ DESCRIPTION:Work in your drawing and painting media of choice or explore n
 URL;VALUE=URI:https://www.tampa.gov/node/177266
 END:VEVENT
 BEGIN:VEVENT
-UID:22a9acc0-8613-4ddd-b9c5-4c20d2cbbb81
+UID:a031c9b1-df1e-4700-b105-1e9ff66a06a3
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
-DTSTART:20260423T220000Z
-DTEND:20260424T010000Z
-SUMMARY:Remix: The Etruscans
-LOCATION:120 W Gasparilla Plaza Tampa FL Tampa \, FL 33602 United States
-DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
- spired by the Museums current exhibitions with a new project every month. 
- This months project will be inspired by our The Etruscans: A Mysterious It
- alian People (https:tampamuseum.orgthe-etruscans-a-mysterious-italian-peop
- le) exhibition. Paint and decorate your own personal box\, similar to the 
- detailed ash boxes of the Etruscans! Ages 18 Workshops are designed to be 
- enjoyed by participants of any skill level\, and all materials are provide
- d. \n\nPermalink: https://www.tampa.gov/node/177226
-URL;VALUE=URI:https://www.tampa.gov/node/177226
-END:VEVENT
-BEGIN:VEVENT
-UID:b07ec363-012a-4a67-b248-0bc55ee7cfb4
-SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260423T190000Z
 DTEND:20260423T220000Z
 SUMMARY:The Wonderment Weekend
@@ -2252,9 +2872,27 @@ DESCRIPTION:Join us for a celebration of art and whimsy Are you a curious
 URL;VALUE=URI:https://www.tampa.gov/node/178896
 END:VEVENT
 BEGIN:VEVENT
-UID:2a528035-3346-4611-b673-6b440ebd9a94
+UID:ede3eae2-2b44-4ddf-b11a-9975b8e71a07
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260423T220000Z
+DTEND:20260424T010000Z
+SUMMARY:Remix: The Etruscans
+LOCATION:120 W Gasparilla Plaza Tampa FL Tampa \, FL 33602 United States
+DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
+ spired by the Museums current exhibitions with a new project every month. 
+ This months project will be inspired by our The Etruscans: A Mysterious It
+ alian People (https:tampamuseum.orgthe-etruscans-a-mysterious-italian-peop
+ le) exhibition. Paint and decorate your own personal box\, similar to the 
+ detailed ash boxes of the Etruscans! Ages 18 Workshops are designed to be 
+ enjoyed by participants of any skill level\, and all materials are provide
+ d. \n\nPermalink: https://www.tampa.gov/node/177226
+URL;VALUE=URI:https://www.tampa.gov/node/177226
+END:VEVENT
+BEGIN:VEVENT
+UID:bd5f99fb-eebc-483e-ace2-5d0b1b46011d
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260424T140000Z
 DTEND:20260424T220000Z
 SUMMARY:The Wonderment Weekend
@@ -2284,9 +2922,27 @@ DESCRIPTION:Join us for a celebration of art and whimsy Are you a curious
 URL;VALUE=URI:https://www.tampa.gov/node/178901
 END:VEVENT
 BEGIN:VEVENT
-UID:34dcfe1f-3ce2-4497-864a-a7e11ffd1977
+UID:421bb380-278d-40db-98fc-4ff986954e8c
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260424T160000Z
+DTEND:20260425T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180476
+URL;VALUE=URI:https://www.tampa.gov/node/180476
+END:VEVENT
+BEGIN:VEVENT
+UID:4a9804a7-f071-4c41-a112-519be97b4db0
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260424T160000Z
 DTEND:20260424T170000Z
 SUMMARY:Virtual Artful Connections
@@ -2304,9 +2960,9 @@ DESCRIPTION:Want a break from your day to de-stress and enjoy artwork? The
 URL;VALUE=URI:https://www.tampa.gov/node/180311
 END:VEVENT
 BEGIN:VEVENT
-UID:c73e48a9-3abd-47f3-8325-cd1f6c78329c
+UID:23c549bc-4ca0-4e42-ba7b-ee474a988300
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260425T160000Z
 DTEND:20260426T020000Z
 SUMMARY:2026 Music Fest - Tampa Bay Black Heritage Festival
@@ -2325,9 +2981,27 @@ DESCRIPTION:The Tampa Bay Black Heritage Festival 2026 returns for two pow
 URL;VALUE=URI:https://www.tampa.gov/node/178451
 END:VEVENT
 BEGIN:VEVENT
-UID:8731b60e-40c4-43d9-b8a0-52c26e8482e2
+UID:98d74b8f-db87-4acc-b7e8-79b38975e318
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260425T160000Z
+DTEND:20260426T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180481
+URL;VALUE=URI:https://www.tampa.gov/node/180481
+END:VEVENT
+BEGIN:VEVENT
+UID:46ad9c42-4b6c-4445-a796-38f1b973776c
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260426T153000Z
 DTEND:20260426T193000Z
 SUMMARY:26th Annual Old Seminole Heights Home Tour
@@ -2339,9 +3013,9 @@ DESCRIPTION:Please join us for the 26th Annual Old Seminole Heights Home T
 URL;VALUE=URI:https://www.tampa.gov/node/180596
 END:VEVENT
 BEGIN:VEVENT
-UID:40a311dc-4de6-46a1-8f4d-eb5729661128
+UID:57c69491-f103-4106-9580-8e8d04052bd8
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260426T160000Z
 DTEND:20260427T020000Z
 SUMMARY:2026 Sunday - Tampa Bay Black Heritage Festival
@@ -2360,9 +3034,27 @@ DESCRIPTION:The Tampa Bay Black Heritage Festival 2026 returns for two pow
 URL;VALUE=URI:https://www.tampa.gov/node/178456
 END:VEVENT
 BEGIN:VEVENT
-UID:7042550d-0285-45df-9e0c-034f048df0b1
+UID:fca2bdbc-0a47-44d2-a7ee-92569dbf6adb
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
+DTSTART:20260426T160000Z
+DTEND:20260427T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180486
+URL;VALUE=URI:https://www.tampa.gov/node/180486
+END:VEVENT
+BEGIN:VEVENT
+UID:27d8ccd2-4d3c-4c54-9648-469f2ffb67dd
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
 DTSTART:20260501T160000Z
 DTEND:20260502T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -2378,9 +3070,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180491
 END:VEVENT
 BEGIN:VEVENT
-UID:bad0d7e3-b249-4244-8e5e-75f70b6baf38
+UID:6c40b747-b528-4759-a6f9-fa50b9f1b2ac
 SEQUENCE:0
-DTSTAMP:20260203T000737Z
+DTSTAMP:20260204T000601Z
 DTSTART:20260502T160000Z
 DTEND:20260503T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -2394,5 +3086,23 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
  xperience live concert performances every weekend FREE with park admission
  . \n\nPermalink: https://www.tampa.gov/node/180496
 URL;VALUE=URI:https://www.tampa.gov/node/180496
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6d312f-66f3-4b7d-9e37-52270d7a452c
+SEQUENCE:0
+DTSTAMP:20260204T000601Z
+DTSTART:20260503T160000Z
+DTEND:20260504T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180501
+URL;VALUE=URI:https://www.tampa.gov/node/180501
 END:VEVENT
 END:VCALENDAR
