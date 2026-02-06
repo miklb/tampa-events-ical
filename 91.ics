@@ -5,9 +5,34 @@ NAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALNAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALDESC:Community events in Tampa for Special Events/Parks&amp;Rec
 BEGIN:VEVENT
-UID:4c2f3d7e-0417-43f2-b22b-b3daa0be8db6
+UID:2c3e9da6-2c6c-4ed2-951d-73ef606403a4
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
+DTSTART:20260207T160000Z
+DTEND:20260207T200000Z
+SUMMARY:Healthy Family Fair
+LOCATION:Water Works Park 1710 Highland Ave. Tampa \, FL 33602 United Stat
+ es
+DESCRIPTION:The Tampa Bay Moms Group invites you to attend our annual 12th
+    ! This FREE event allows Tampa Bay Families to connect with resources i
+ ncluding services\, products and experts that cover all areas of health fo
+ r your family plus other organizations that can enrich your lives and comm
+ unity!           : Health Screenings\, Wellness Resources\, Safety Informa
+ tion\, Swag from our Sponsor\, Inflatable Obstacle Course\, Fitness Demons
+ trations\, Food Trucks\, Live Entertainment\, and MORE! And we are accepti
+ ng donations of toiletries and personal care items for Childrens Home Soci
+ ety of Florida! Water Works Parkfeatures a fantastic Dog Park\, Water Area
+ \, Playground and is located on the beautiful Tampa Riverwalk just a few s
+ teps from Uleles Armature Works and other local attractions! Its an event 
+ for all and a great way to help get information on how to keep you and you
+ r family happy and healthy. Please email any questions to steffanytampabay
+ momsgroup.com \n\nPermalink: https://www.tampa.gov/node/181006
+URL;VALUE=URI:https://www.tampa.gov/node/181006
+END:VEVENT
+BEGIN:VEVENT
+UID:644cc33e-a9d2-4573-bdbb-2d12041e749e
+SEQUENCE:0
+DTSTAMP:20260206T000454Z
 DTSTART:20260207T140000Z
 DTEND:20260207T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -20,9 +45,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/178396
 END:VEVENT
 BEGIN:VEVENT
-UID:a38f9aef-5aa2-44c5-970e-d8c0934fdd8c
+UID:91d198a6-3d9d-4006-b86b-675c11350e73
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260213T230000Z
 DTEND:20260214T030000Z
 SUMMARY:Beer Bourbon BBQ
@@ -37,9 +62,24 @@ DESCRIPTION:Tampa  Were Back!  Enjoy TWO BIG DAYS of beer sippin\, bourbon
 URL;VALUE=URI:https://www.tampa.gov/node/180266
 END:VEVENT
 BEGIN:VEVENT
-UID:5b36b7e4-34e7-4c25-b9e6-a905efa00ee7
+UID:d947142d-2174-4114-bd46-5db0d9d48553
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
+DTSTART:20260214T140000Z
+DTEND:20260214T200000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Meet and shop from local artists and pick up some locally made 
+ gourmet treats and produce. For additional information\, please visit the 
+ Ybor Market. (https:ybormarket.com) \n\nPermalink: https://www.tampa.gov/n
+ ode/178396
+URL;VALUE=URI:https://www.tampa.gov/node/178396
+END:VEVENT
+BEGIN:VEVENT
+UID:8bb9d776-ac30-4fe0-8509-802f085ed383
+SEQUENCE:0
+DTSTAMP:20260206T000454Z
 DTSTART:20260215T000000Z
 DTEND:20260215T030000Z
 SUMMARY:Krewe of Sant039\\\;Yago Knight Parade
@@ -49,9 +89,9 @@ DESCRIPTION:Krewe of SantYago Knight Parade February 14\, 2026\, 7:00 -10:
 URL;VALUE=URI:https://www.tampa.gov/node/180991
 END:VEVENT
 BEGIN:VEVENT
-UID:67986643-749f-4ecd-82f9-a43d33058410
+UID:e1a67dab-5ac9-46bd-8804-4b1da6569c0e
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260214T170000Z
 DTEND:20260214T230000Z
 SUMMARY:2026 Beer Bourbon BBQ
@@ -66,24 +106,9 @@ DESCRIPTION:Tampa  Were Back!  Enjoy TWO BIG DAYS of beer sippin\, bourbon
 URL;VALUE=URI:https://www.tampa.gov/node/180271
 END:VEVENT
 BEGIN:VEVENT
-UID:7b901575-5c0f-4f59-a405-bdf6c13997c3
+UID:d715a5ac-2817-48d7-b648-94c4781e17bb
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
-DTSTART:20260214T140000Z
-DTEND:20260214T200000Z
-SUMMARY:Ybor City Saturday Market
-LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
-DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
- nial Park. Meet and shop from local artists and pick up some locally made 
- gourmet treats and produce. For additional information\, please visit the 
- Ybor Market. (https:ybormarket.com) \n\nPermalink: https://www.tampa.gov/n
- ode/178396
-URL;VALUE=URI:https://www.tampa.gov/node/178396
-END:VEVENT
-BEGIN:VEVENT
-UID:fd165473-44d1-466b-ada1-447e872769b1
-SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260215T150000Z
 DTEND:20260215T200000Z
 SUMMARY:Water Street Tampa Market
@@ -95,9 +120,9 @@ DESCRIPTION:Water Street Tampa Market Sunday\, February 15\, 2026 10am-3pm
 URL;VALUE=URI:https://www.tampa.gov/node/179096
 END:VEVENT
 BEGIN:VEVENT
-UID:e6b0e178-dda1-40fc-91b2-c91def41809b
+UID:4b21b442-93a9-446a-98b5-2a09ba9b9ec3
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260219T230000Z
 DTEND:20260220T030000Z
 SUMMARY:3rd Thursday
@@ -109,9 +134,28 @@ DESCRIPTION:3rd Thursday Thursday\, February 19\, 2026 6pm-10pm Channelsid
 URL;VALUE=URI:https://www.tampa.gov/node/178751
 END:VEVENT
 BEGIN:VEVENT
-UID:fe16f3a1-134f-4350-af92-730fb53976e8
+UID:72239bdf-f256-4f28-8b5f-d114daf9ac64
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
+DTSTART:20260220T230000Z
+DTEND:20260221T010000Z
+SUMMARY:Pepperjack039\\\;s Hot Diggity Dog Walk
+LOCATION:The Sail Pavilion 333 S. Franklin St. Tampa \, FL 33602 United St
+ ates
+DESCRIPTION:The Pepperjacks Hot Diggity Dog Walk is an exciting event for 
+ dogs and their owners\, taking place on February 20\, 2025\, along the Tam
+ pa Riverwalk. Participants can enjoy a half-mile walk\, and dogs must be l
+ eashed and licensed. The event benefits the local animal rescue Mercy Full
+  Project\, which helps animals in need. Registration is required\, and par
+ ticipants must provide proof of their dogs vaccinations. For more details\
+ , you can visit the official event page here (https:www.rungasparilla.comd
+ og-walk) \n\nPermalink: https://www.tampa.gov/node/181016
+URL;VALUE=URI:https://www.tampa.gov/node/181016
+END:VEVENT
+BEGIN:VEVENT
+UID:0b357853-95a5-4a34-af7f-7fadcad378fc
+SEQUENCE:0
+DTSTAMP:20260206T000454Z
 DTSTART:20260221T140000Z
 DTEND:20260221T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -124,9 +168,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/178396
 END:VEVENT
 BEGIN:VEVENT
-UID:69cecfe3-e13c-476b-99d3-803d074fb5af
+UID:1f35ed0e-7c63-4937-9d98-924b802f1233
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260228T140000Z
 DTEND:20260228T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -139,9 +183,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/178396
 END:VEVENT
 BEGIN:VEVENT
-UID:7d64ee61-e6ef-48de-9a21-4e632457a592
+UID:4f2df6fc-c0b3-4216-a518-59589cb8cba6
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260301T150000Z
 DTEND:20260301T200000Z
 SUMMARY:Hyde Park Fresh Market
@@ -153,9 +197,24 @@ DESCRIPTION:Hyde Park Fresh Market Sunday\, March 1\, 2026 10am-3pm Hyde P
 URL;VALUE=URI:https://www.tampa.gov/node/177896
 END:VEVENT
 BEGIN:VEVENT
-UID:2dcc2f18-3ca3-44bc-9b53-181f37dddefd
+UID:f023459c-d05b-491d-a9ff-2ec482d75c74
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
+DTSTART:20260307T140000Z
+DTEND:20260307T200000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
+ nial Park. Meet and shop from local artists and pick up some locally made 
+ gourmet treats and produce. For additional information\, please visit the 
+ Ybor Market. (https:ybormarket.com) \n\nPermalink: https://www.tampa.gov/n
+ ode/178396
+URL;VALUE=URI:https://www.tampa.gov/node/178396
+END:VEVENT
+BEGIN:VEVENT
+UID:565e5d57-f094-468e-85e6-40746b8d784a
+SEQUENCE:0
+DTSTAMP:20260206T000454Z
 DTSTART:20260307T150000Z
 DTEND:20260307T220000Z
 SUMMARY:Tampa Fine Art Show by Hot Works
@@ -180,24 +239,9 @@ DESCRIPTION:Cotanchobee Fort Brooke Park is a beautifully renovated waterf
 URL;VALUE=URI:https://www.tampa.gov/node/178511
 END:VEVENT
 BEGIN:VEVENT
-UID:d483ab76-ca5a-4701-9e8f-402aa96ea1b0
+UID:92152133-2da2-418b-ba62-a3f03b3aa47c
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
-DTSTART:20260307T140000Z
-DTEND:20260307T200000Z
-SUMMARY:Ybor City Saturday Market
-LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
-DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
- nial Park. Meet and shop from local artists and pick up some locally made 
- gourmet treats and produce. For additional information\, please visit the 
- Ybor Market. (https:ybormarket.com) \n\nPermalink: https://www.tampa.gov/n
- ode/178396
-URL;VALUE=URI:https://www.tampa.gov/node/178396
-END:VEVENT
-BEGIN:VEVENT
-UID:8ed8325b-3c9d-4cd3-a565-15af5ef7e00a
-SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260308T140000Z
 DTEND:20260308T200000Z
 SUMMARY:Tampa Fine Art Show by Hot Works
@@ -222,9 +266,9 @@ DESCRIPTION:Cotanchobee Fort Brooke Park is a beautifully renovated waterf
 URL;VALUE=URI:https://www.tampa.gov/node/178511
 END:VEVENT
 BEGIN:VEVENT
-UID:0ff41237-f794-4556-aebd-435ef72ed2e3
+UID:d40259d0-f253-46e2-b399-a9f2a537d6cd
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260314T130000Z
 DTEND:20260314T190000Z
 SUMMARY:Ybor City Saturday Market
@@ -237,9 +281,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/178396
 END:VEVENT
 BEGIN:VEVENT
-UID:e3204378-c3fb-4f2f-a7b7-3199910297a6
+UID:0de60826-8bf6-413e-b30d-c00dc4f5e83e
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260315T140000Z
 DTEND:20260315T190000Z
 SUMMARY:Water Street Tampa Market
@@ -251,9 +295,9 @@ DESCRIPTION:Water Street Tampa Market Sunday\, March 15\, 2026 10am-3pm Wa
 URL;VALUE=URI:https://www.tampa.gov/node/179101
 END:VEVENT
 BEGIN:VEVENT
-UID:cb54039e-4144-4062-8c48-8d2c2a6cc39d
+UID:123268e2-8bee-4d92-a6ec-0eda46180a44
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260315T120000Z
 DTEND:20260315T150000Z
 SUMMARY:Unite to Run 5k
@@ -267,9 +311,9 @@ DESCRIPTION:What: Unite to Run 5k When: Sunday\, March 15\, 2026 Where: Al
 URL;VALUE=URI:https://www.tampa.gov/node/180926
 END:VEVENT
 BEGIN:VEVENT
-UID:a45cf5cc-043c-440b-8b8b-e36b75a05417
+UID:79235191-7091-4b10-b2d4-e67fe37dda5e
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260319T220000Z
 DTEND:20260320T020000Z
 SUMMARY:3rd Thursday
@@ -281,9 +325,9 @@ DESCRIPTION:3rd Thursday Thursday\, March 19\, 2026 6pm-10pm Channelside D
 URL;VALUE=URI:https://www.tampa.gov/node/178756
 END:VEVENT
 BEGIN:VEVENT
-UID:1f916e66-d2b2-4c98-9d0e-2621f7459cb3
+UID:d5ec4b7a-3f9d-4c6d-a978-6a2ab02daa7b
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260321T130000Z
 DTEND:20260321T190000Z
 SUMMARY:Ybor City Saturday Market
@@ -296,9 +340,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/178396
 END:VEVENT
 BEGIN:VEVENT
-UID:6598e06b-75d0-4069-a43d-3bf00f837371
+UID:7e3e8202-2c29-4f20-bce3-77f982fb37f4
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260328T130000Z
 DTEND:20260328T190000Z
 SUMMARY:Ybor City Saturday Market
@@ -311,9 +355,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/178396
 END:VEVENT
 BEGIN:VEVENT
-UID:4ef3e08c-0e6b-400d-8810-19f6fce7a1c6
+UID:655b76cd-a555-480d-b9c8-4d2e13959699
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260405T140000Z
 DTEND:20260405T190000Z
 SUMMARY:Hyde Park Fresh Market
@@ -325,9 +369,9 @@ DESCRIPTION:Hyde Park Fresh Market Sunday\, April 5\, 2026 10am-3pm Hyde P
 URL;VALUE=URI:https://www.tampa.gov/node/177901
 END:VEVENT
 BEGIN:VEVENT
-UID:7a675032-2d64-4a67-878e-91cd082afb37
+UID:37ff4adc-a5d4-4656-8d19-22d68a660869
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260419T140000Z
 DTEND:20260419T190000Z
 SUMMARY:Water Street Tampa Market
@@ -339,9 +383,9 @@ DESCRIPTION:Water Street Tampa Market Sunday\, April 19\, 2026 10am-3pm Wa
 URL;VALUE=URI:https://www.tampa.gov/node/179106
 END:VEVENT
 BEGIN:VEVENT
-UID:70a60eab-fc02-412f-8c11-e05437601e6a
+UID:0214bcf4-a7e1-4479-8bd2-f69c2eaa2130
 SEQUENCE:0
-DTSTAMP:20260205T000721Z
+DTSTAMP:20260206T000454Z
 DTSTART:20260503T140000Z
 DTEND:20260503T180000Z
 SUMMARY:Hyde Park Fresh Market
