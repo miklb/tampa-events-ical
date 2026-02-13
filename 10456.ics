@@ -6,9 +6,9 @@ X-WR-CALNAME:Tampa Calendar - Asian and Pacific Islander Events
 X-WR-CALDESC:Community events in Tampa for Asian and Pacific Islander Even
  ts
 BEGIN:VEVENT
-UID:ac5a3897-09ac-478d-a4bb-16705f9a81a8
+UID:16a464ca-afe1-4eb0-a999-593d5ea52fae
 SEQUENCE:0
-DTSTAMP:20260212T000616Z
+DTSTAMP:20260213T000900Z
 DTSTART:20260219T230000Z
 DTEND:20260220T030000Z
 SUMMARY:3rd Thursday
@@ -18,5 +18,17 @@ DESCRIPTION:3rd Thursday Thursday\, February 19\, 2026 6pm-10pm Channelsid
  n\, please visit 3rd Thursday (https:www.tampabaymarkets.com) \n\nPermalin
  k: https://www.tampa.gov/node/178751
 URL;VALUE=URI:https://www.tampa.gov/node/178751
+END:VEVENT
+BEGIN:VEVENT
+UID:e873c7ec-523d-4c6e-b06b-42050068a419
+SEQUENCE:0
+DTSTAMP:20260213T000900Z
+DTSTART:20260221T190000Z
+DTEND:20260221T220000Z
+SUMMARY:CCCTB Chinese New Year 2026
+LOCATION:Grand Harvest 4022 Tampa Road Oldsmar \, FL 34677 United States
+DESCRIPTION:Celebrate the year of the Horse with Chinese Chamber of Commer
+ ce Tampa Bay. \n\nPermalink: https://www.tampa.gov/node/185341
+URL;VALUE=URI:https://www.tampa.gov/node/185341
 END:VEVENT
 END:VCALENDAR
