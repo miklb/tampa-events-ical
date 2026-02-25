@@ -5,9 +5,23 @@ NAME:Tampa Calendar - Parks &amp; Recreation
 X-WR-CALNAME:Tampa Calendar - Parks &amp; Recreation
 X-WR-CALDESC:Community events in Tampa for Parks &amp; Recreation
 BEGIN:VEVENT
-UID:9750c017-1031-4924-8381-722224829e4d
+UID:b4752b64-0496-40c8-84e7-456fb3119971
 SEQUENCE:0
-DTSTAMP:20260224T000804Z
+DTSTAMP:20260225T000906Z
+DTSTART:20260226T230000Z
+DTEND:20260227T020000Z
+SUMMARY:Rhythm on Water
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Rhythm on Water Thursday\, February 26\, 2026 10am-2pm Water S
+ treet District For additional information\, please visit Water Street (htt
+ ps:www.waterstreettampa.com) \n\nPermalink: https://www.tampa.gov/node/185
+ 511
+URL;VALUE=URI:https://www.tampa.gov/node/185511
+END:VEVENT
+BEGIN:VEVENT
+UID:9cf23598-3d5d-405b-b554-ac7c793976dd
+SEQUENCE:0
+DTSTAMP:20260225T000906Z
 DTSTART:20260307T150000Z
 DTEND:20260307T220000Z
 SUMMARY:Tampa Fine Art Show by Hot Works
@@ -32,9 +46,9 @@ DESCRIPTION:Cotanchobee Fort Brooke Park is a beautifully renovated waterf
 URL;VALUE=URI:https://www.tampa.gov/node/178511
 END:VEVENT
 BEGIN:VEVENT
-UID:e8c54584-2250-4210-9ec6-bf8eb06ff93e
+UID:2f69e926-e834-427a-be43-6a13dc9bdab8
 SEQUENCE:0
-DTSTAMP:20260224T000804Z
+DTSTAMP:20260225T000906Z
 DTSTART:20260308T140000Z
 DTEND:20260308T200000Z
 SUMMARY:Tampa Fine Art Show by Hot Works
@@ -57,5 +71,35 @@ DESCRIPTION:Cotanchobee Fort Brooke Park is a beautifully renovated waterf
  s-hot-workstampa-fine-art-show-march-7-8-2026) Phone: (941) 755-3088 Email
  : infohotworks.org \n\nPermalink: https://www.tampa.gov/node/178511
 URL;VALUE=URI:https://www.tampa.gov/node/178511
+END:VEVENT
+BEGIN:VEVENT
+UID:1986f04e-5e18-4ad5-9362-67d8bf2b2ba4
+SEQUENCE:0
+DTSTAMP:20260225T000906Z
+DTSTART:20260315T120000Z
+DTEND:20260315T150000Z
+SUMMARY:Unite to Run 5k
+LOCATION:Al Lopez Park 4810 N. Himes Avenue Tampa \, FL 33614 United State
+ s
+DESCRIPTION:What: Unite to Run 5k When: Sunday\, March 15\, 2026 Where: Al
+  Lopez Park\, at shelter 315 Unite to Run is a 5K fundraiser supporting Un
+ ite for Health\, a non-profit organization committed to reducing maternal 
+ and child mortality in underserved rural villages of Africa. \n\nPermalink
+ : https://www.tampa.gov/node/180926
+URL;VALUE=URI:https://www.tampa.gov/node/180926
+END:VEVENT
+BEGIN:VEVENT
+UID:26168fdf-30a0-4e6e-bfaa-aa290fba8ea8
+SEQUENCE:0
+DTSTAMP:20260225T000906Z
+DTSTART:20260321T140000Z
+DTEND:20260322T210000Z
+SUMMARY:Hyde Park Art Festival
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Hyde Park Art Festival Saturday and Sunday\, March 21-22\, 202
+ 6 10am-5pm Hyde Park Village For additional information\, please visit Hyd
+ e Park Art Festival (https:www.artfestival.com) \n\nPermalink: https://www
+ .tampa.gov/node/185981
+URL;VALUE=URI:https://www.tampa.gov/node/185981
 END:VEVENT
 END:VCALENDAR
