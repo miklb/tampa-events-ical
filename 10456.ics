@@ -6,9 +6,9 @@ X-WR-CALNAME:Tampa Calendar - Asian and Pacific Islander Events
 X-WR-CALDESC:Community events in Tampa for Asian and Pacific Islander Even
  ts
 BEGIN:VEVENT
-UID:916a4901-11c0-45f9-8225-e8aa57c856e6
+UID:bb07bc24-bd65-42cf-b712-416c0aed603d
 SEQUENCE:0
-DTSTAMP:20260226T000714Z
+DTSTAMP:20260227T000816Z
 DTSTART:20260219T230000Z
 DTEND:20260220T030000Z
 SUMMARY:3rd Thursday
@@ -20,9 +20,9 @@ DESCRIPTION:3rd Thursday Thursday\, February 19\, 2026 6pm-10pm Channelsid
 URL;VALUE=URI:https://www.tampa.gov/node/178751
 END:VEVENT
 BEGIN:VEVENT
-UID:839ac40a-9b94-4ef5-a804-17efed384acd
+UID:12cb2e8a-b0c0-4b7f-a122-ca097b017c04
 SEQUENCE:0
-DTSTAMP:20260226T000714Z
+DTSTAMP:20260227T000816Z
 DTSTART:20260221T190000Z
 DTEND:20260221T220000Z
 SUMMARY:CCCTB Chinese New Year 2026
@@ -30,5 +30,55 @@ LOCATION:Grand Harvest 4022 Tampa Road Oldsmar \, FL 34677 United States
 DESCRIPTION:Celebrate the year of the Horse with Chinese Chamber of Commer
  ce Tampa Bay. \n\nPermalink: https://www.tampa.gov/node/185341
 URL;VALUE=URI:https://www.tampa.gov/node/185341
+END:VEVENT
+BEGIN:VEVENT
+UID:fca19b29-4884-4c7e-9970-180a3b54e3ec
+SEQUENCE:0
+DTSTAMP:20260227T000816Z
+DTSTART:20260307T213000Z
+DTEND:20260307T230000Z
+SUMMARY:Gasparilla International Film Festival --Isle Child
+LOCATION:AMC Westshore 210 Westshore Plaza Tampa \, FL 33609 United States
+DESCRIPTION:Back the AAPI-led feature film about Asian identity\, adoption
+ \, and self-love! See this award winning film as part of the 2026 Gasparil
+ la International Film Festival. \n\nPermalink: https://www.tampa.gov/node/
+ 186221
+URL;VALUE=URI:https://www.tampa.gov/node/186221
+END:VEVENT
+BEGIN:VEVENT
+UID:648767db-456b-4a5a-bb85-9ca8e8151c0e
+SEQUENCE:0
+DTSTAMP:20260227T000816Z
+DTSTART:20260410T210000Z
+DTEND:20260411T030000Z
+SUMMARY:2026 Philfest
+LOCATION:Philippine Cultural Enrichment Complex 14301 Nine Eagles Drive Ta
+ mpa \, FL 33626 United States
+DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/186211
+URL;VALUE=URI:https://www.tampa.gov/node/186211
+END:VEVENT
+BEGIN:VEVENT
+UID:513d9126-2fca-432e-bea4-29c413e250a8
+SEQUENCE:0
+DTSTAMP:20260227T000816Z
+DTSTART:20260411T140000Z
+DTEND:20260412T030000Z
+SUMMARY:2026 Philfest
+LOCATION:Philippine Cultural Enrichment Complex 14301 Nine Eagles Drive Ta
+ mpa \, FL 33626 United States
+DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/186211
+URL;VALUE=URI:https://www.tampa.gov/node/186211
+END:VEVENT
+BEGIN:VEVENT
+UID:fc5a46a3-61a7-416c-9422-5cc2ce6db684
+SEQUENCE:0
+DTSTAMP:20260227T000816Z
+DTSTART:20260412T140000Z
+DTEND:20260412T220000Z
+SUMMARY:2026 Philfest
+LOCATION:Philippine Cultural Enrichment Complex 14301 Nine Eagles Drive Ta
+ mpa \, FL 33626 United States
+DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/186211
+URL;VALUE=URI:https://www.tampa.gov/node/186211
 END:VEVENT
 END:VCALENDAR
