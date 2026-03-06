@@ -4,4 +4,60 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:Tampa Calendar - Office Closures
 X-WR-CALNAME:Tampa Calendar - Office Closures
 X-WR-CALDESC:Community events in Tampa for Office Closures
+BEGIN:VEVENT
+UID:91db0c4b-a85e-4bed-b696-dade4c1ccf8d
+SEQUENCE:0
+DTSTAMP:20260306T001223Z
+DTSTART:20260403T040000Z
+DTEND:20260404T035900Z
+SUMMARY:Spring Holiday - City Office Closures
+LOCATION:Tampa \, FL United States
+DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
+  be closed. For trash\, recycling\, or yard waste pickup disruptions: See 
+ Solid Waste Collection Schedule Calendar for more information \n\nPermalin
+ k: https://www.tampa.gov/node/167801
+URL;VALUE=URI:https://www.tampa.gov/node/167801
+END:VEVENT
+BEGIN:VEVENT
+UID:63910d53-5dfa-494b-ad36-0fd26d6a63be
+SEQUENCE:0
+DTSTAMP:20260306T001223Z
+DTSTART:20260525T040000Z
+DTEND:20260526T035900Z
+SUMMARY:Memorial Day - City Office Closures
+LOCATION:Tampa \, FL United States
+DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
+  be closed. For trash\, recycling\, or yard waste pickup disruptions: See 
+ Solid Waste Collection Schedule Calendar for more information \n\nPermalin
+ k: https://www.tampa.gov/node/167806
+URL;VALUE=URI:https://www.tampa.gov/node/167806
+END:VEVENT
+BEGIN:VEVENT
+UID:ebb806f9-0e49-4274-bf14-756982ea86ee
+SEQUENCE:0
+DTSTAMP:20260306T001223Z
+DTSTART:20260619T040000Z
+DTEND:20260620T035900Z
+SUMMARY:Juneteenth - City Office Closures
+LOCATION:Tampa \, FL United States
+DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
+  be closed. For trash\, recycling\, or yard waste pickup disruptions: See 
+ Solid Waste Collection Schedule Calendar for more information \n\nPermalin
+ k: https://www.tampa.gov/node/167811
+URL;VALUE=URI:https://www.tampa.gov/node/167811
+END:VEVENT
+BEGIN:VEVENT
+UID:315c41d3-36ce-4752-aa12-491ccdfc9f5b
+SEQUENCE:0
+DTSTAMP:20260306T001223Z
+DTSTART:20260703T040000Z
+DTEND:20260704T035900Z
+SUMMARY:Independence Day - City Office Closures
+LOCATION:Tampa \, FL United States
+DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
+  be closed. For trash\, recycling\, or yard waste pickup disruptions: See 
+ Solid Waste Collection Schedule Calendar for more information \n\nPermalin
+ k: https://www.tampa.gov/node/167816
+URL;VALUE=URI:https://www.tampa.gov/node/167816
+END:VEVENT
 END:VCALENDAR
