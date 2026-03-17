@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALNAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALDESC:Community events in Tampa for Special Events/Parks&amp;Rec
 BEGIN:VEVENT
-UID:21964e2e-122e-40ae-ac47-affecc0021b1
+UID:b11189f6-6b4c-4f20-9cb9-aa2e72fb56d1
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260307T140000Z
 DTEND:20260307T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -20,9 +20,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/178396
 END:VEVENT
 BEGIN:VEVENT
-UID:1a343e2d-c261-4e56-9fcd-58a4e0212707
+UID:4493448c-00ef-4c67-834b-4f10f1f5c5c4
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260307T150000Z
 DTEND:20260307T220000Z
 SUMMARY:Tampa Fine Art Show by Hot Works
@@ -47,9 +47,9 @@ DESCRIPTION:Cotanchobee Fort Brooke Park is a beautifully renovated waterf
 URL;VALUE=URI:https://www.tampa.gov/node/178511
 END:VEVENT
 BEGIN:VEVENT
-UID:65418f2f-3893-40fa-977b-9eead13efb32
+UID:c691a014-0375-42b0-b82c-7bb18510bb78
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260308T140000Z
 DTEND:20260308T200000Z
 SUMMARY:Tampa Fine Art Show by Hot Works
@@ -74,23 +74,9 @@ DESCRIPTION:Cotanchobee Fort Brooke Park is a beautifully renovated waterf
 URL;VALUE=URI:https://www.tampa.gov/node/178511
 END:VEVENT
 BEGIN:VEVENT
-UID:cf8aadc2-e3f3-4596-89e5-de247c37847a
+UID:89609c93-0433-4c22-b323-315d03a3392f
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
-DTSTART:20260314T180000Z
-DTEND:20260314T203000Z
-SUMMARY:Rough Riders St. Patrick039\\\;s Day Parade
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Rough Riders St. Patricks Day Parade Saturday\, March 14\, 202
- 6 2pm-4:30pm Downtown Tampa For additional information\, please visit Tamp
- a Rough Riders (https:tamparoughriders.org) \n\nPermalink: https://www.tam
- pa.gov/node/187186
-URL;VALUE=URI:https://www.tampa.gov/node/187186
-END:VEVENT
-BEGIN:VEVENT
-UID:39b67c9d-c1bd-45ce-a9e9-80cfd956c05c
-SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260314T130000Z
 DTEND:20260314T190000Z
 SUMMARY:Ybor City Saturday Market
@@ -103,23 +89,23 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/178396
 END:VEVENT
 BEGIN:VEVENT
-UID:24f6b79b-c626-4cdf-8d0d-480d638f8e78
+UID:cdac4770-440c-4ef1-b05f-478ac038cf6d
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
-DTSTART:20260315T140000Z
-DTEND:20260315T190000Z
-SUMMARY:Water Street Tampa Market
+DTSTAMP:20260317T000751Z
+DTSTART:20260314T180000Z
+DTEND:20260314T203000Z
+SUMMARY:Rough Riders St. Patrick039\\\;s Day Parade
 LOCATION:Tampa \, FL United States
-DESCRIPTION:Water Street Tampa Market Sunday\, March 15\, 2026 10am-3pm Wa
- ter Street District For additional information\, please visit Water Street
-  Tampa Market (https:www.waterstreettampa.com) \n\nPermalink: https://www.
- tampa.gov/node/179101
-URL;VALUE=URI:https://www.tampa.gov/node/179101
+DESCRIPTION:Rough Riders St. Patricks Day Parade Saturday\, March 14\, 202
+ 6 2pm-4:30pm Downtown Tampa For additional information\, please visit Tamp
+ a Rough Riders (https:tamparoughriders.org) \n\nPermalink: https://www.tam
+ pa.gov/node/187186
+URL;VALUE=URI:https://www.tampa.gov/node/187186
 END:VEVENT
 BEGIN:VEVENT
-UID:c5b56734-f396-4313-ae6e-a58e028b289f
+UID:5ab11875-992e-4ae2-9b0d-4b3305a4e63b
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260315T120000Z
 DTEND:20260315T150000Z
 SUMMARY:Unite to Run 5k
@@ -133,9 +119,23 @@ DESCRIPTION:What: Unite to Run 5k When: Sunday\, March 15\, 2026 Where: Al
 URL;VALUE=URI:https://www.tampa.gov/node/180926
 END:VEVENT
 BEGIN:VEVENT
-UID:663c38d4-0bc4-4232-a011-b52222fc54df
+UID:ccc9a0c4-7580-4d09-b875-7dba7d551c6b
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
+DTSTART:20260315T140000Z
+DTEND:20260315T190000Z
+SUMMARY:Water Street Tampa Market
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Water Street Tampa Market Sunday\, March 15\, 2026 10am-3pm Wa
+ ter Street District For additional information\, please visit Water Street
+  Tampa Market (https:www.waterstreettampa.com) \n\nPermalink: https://www.
+ tampa.gov/node/179101
+URL;VALUE=URI:https://www.tampa.gov/node/179101
+END:VEVENT
+BEGIN:VEVENT
+UID:e6a02608-7d45-4a32-ac2d-682ae308c96f
+SEQUENCE:0
+DTSTAMP:20260317T000751Z
 DTSTART:20260319T220000Z
 DTEND:20260320T020000Z
 SUMMARY:3rd Thursday
@@ -147,9 +147,23 @@ DESCRIPTION:3rd Thursday Thursday\, March 19\, 2026 6pm-10pm Channelside D
 URL;VALUE=URI:https://www.tampa.gov/node/178756
 END:VEVENT
 BEGIN:VEVENT
-UID:577de271-831b-4dfe-806a-5bc9f0f082f1
+UID:1eb23562-55d5-4896-a254-78c320b589e1
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
+DTSTART:20260321T140000Z
+DTEND:20260322T210000Z
+SUMMARY:Hyde Park Art Festival
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Hyde Park Art Festival Saturday and Sunday\, March 21-22\, 202
+ 6 10am-5pm Hyde Park Village For additional information\, please visit Hyd
+ e Park Art Festival (https:www.artfestival.com) \n\nPermalink: https://www
+ .tampa.gov/node/185981
+URL;VALUE=URI:https://www.tampa.gov/node/185981
+END:VEVENT
+BEGIN:VEVENT
+UID:c784617d-3b64-4234-84ea-6280ae01376d
+SEQUENCE:0
+DTSTAMP:20260317T000751Z
 DTSTART:20260321T130000Z
 DTEND:20260321T190000Z
 SUMMARY:Ybor City Saturday Market
@@ -162,23 +176,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/178396
 END:VEVENT
 BEGIN:VEVENT
-UID:6cf31f1c-4fc2-4c8b-abcb-10b480c2a174
+UID:a3975621-4858-4704-b42f-f0db0313b1e3
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
-DTSTART:20260321T140000Z
-DTEND:20260322T210000Z
-SUMMARY:Hyde Park Art Festival
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Hyde Park Art Festival Saturday and Sunday\, March 21-22\, 202
- 6 10am-5pm Hyde Park Village For additional information\, please visit Hyd
- e Park Art Festival (https:www.artfestival.com) \n\nPermalink: https://www
- .tampa.gov/node/185981
-URL;VALUE=URI:https://www.tampa.gov/node/185981
-END:VEVENT
-BEGIN:VEVENT
-UID:e6386e23-88f7-4cb0-aa35-1bcad2752462
-SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260325T213000Z
 DTEND:20260326T013000Z
 SUMMARY:Cover to Cover
@@ -190,9 +190,9 @@ DESCRIPTION:Cover to Cover Wednesday\, March 25\, 2026 5:30pm-9:30pm Water
 URL;VALUE=URI:https://www.tampa.gov/node/185811
 END:VEVENT
 BEGIN:VEVENT
-UID:4fa1af53-f411-48b6-a4b7-76c13afdd2c0
+UID:66a17321-e5fb-42b9-971c-faff7aa88352
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260328T130000Z
 DTEND:20260328T190000Z
 SUMMARY:Ybor City Saturday Market
@@ -205,9 +205,9 @@ DESCRIPTION:The Ybor City Saturday Market is open every Saturday at Centen
 URL;VALUE=URI:https://www.tampa.gov/node/178396
 END:VEVENT
 BEGIN:VEVENT
-UID:6a3a7d22-ae34-4cff-aa1e-171d93e88c80
+UID:00baa3e4-1be6-4c8a-a079-074c7f8ca4bb
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260404T120000Z
 DTEND:20260404T140000Z
 SUMMARY:Tampa Firefighters 5k
@@ -219,9 +219,9 @@ DESCRIPTION:Tampa Firefighters 5k Saturday\, April 4\, 2026 Downtown Ybor
 URL;VALUE=URI:https://www.tampa.gov/node/186841
 END:VEVENT
 BEGIN:VEVENT
-UID:1cb91500-43dc-4995-8383-a06287aea09a
+UID:f4a660a7-2f0a-4a90-8bf6-27998a316ce4
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260405T140000Z
 DTEND:20260405T190000Z
 SUMMARY:Hyde Park Fresh Market
@@ -233,9 +233,37 @@ DESCRIPTION:Hyde Park Fresh Market Sunday\, April 5\, 2026 10am-3pm Hyde P
 URL;VALUE=URI:https://www.tampa.gov/node/177901
 END:VEVENT
 BEGIN:VEVENT
-UID:ee7758f1-f5f8-4aa3-975f-a2bc487cb8e9
+UID:bfe46ade-d937-4a04-8e7b-e42beb68fc0b
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
+DTSTART:20260411T120000Z
+DTEND:20260411T150000Z
+SUMMARY:Breakthrough T1D Walk
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Breakthrough T1D Walk Saturday\, April 11\, 2026 8am-11am Benc
+ hmark Arena Bayshore For additional information\, please visit Breakthroug
+ h T1D (https:www.breakthrought1d.org) \n\nPermalink: https://www.tampa.gov
+ /node/187246
+URL;VALUE=URI:https://www.tampa.gov/node/187246
+END:VEVENT
+BEGIN:VEVENT
+UID:4f23e00b-cd1b-4174-af57-8bf21bd67e13
+SEQUENCE:0
+DTSTAMP:20260317T000751Z
+DTSTART:20260412T150000Z
+DTEND:20260412T200000Z
+SUMMARY:Summer Vibes Car Show
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Summer Vibes Car Show Sunday\, April 12\, 2026 11am-4pm 7th Av
+ e\, Ybor City For additional information\, Please visit Summer Vibes (http
+ s:www.ilovedrivingslow.com) \n\nPermalink: https://www.tampa.gov/node/1872
+ 41
+URL;VALUE=URI:https://www.tampa.gov/node/187241
+END:VEVENT
+BEGIN:VEVENT
+UID:325fed81-0fad-483a-8652-72cc658c058e
+SEQUENCE:0
+DTSTAMP:20260317T000751Z
 DTSTART:20260416T220000Z
 DTEND:20260417T020000Z
 SUMMARY:3rd Thursday
@@ -247,9 +275,9 @@ DESCRIPTION:3rd Thursday Thursday\, April 16\, 2026 6pm-10pm Channelside D
 URL;VALUE=URI:https://www.tampa.gov/node/186541
 END:VEVENT
 BEGIN:VEVENT
-UID:273a3668-9298-495e-96f7-8669ab384b84
+UID:90b7b102-9839-4efd-aedb-7014ebd2ef76
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260419T140000Z
 DTEND:20260419T190000Z
 SUMMARY:Water Street Tampa Market
@@ -261,9 +289,9 @@ DESCRIPTION:Water Street Tampa Market Sunday\, April 19\, 2026 10am-3pm Wa
 URL;VALUE=URI:https://www.tampa.gov/node/179106
 END:VEVENT
 BEGIN:VEVENT
-UID:ae75fba1-7ba9-4810-a7c8-fd8b8381767e
+UID:d98ca731-ced2-4571-baab-902f334f3643
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260422T210000Z
 DTEND:20260422T230000Z
 SUMMARY:Tampa Theatre Earth Day Block Party
@@ -275,9 +303,9 @@ DESCRIPTION:Tampa Theatre Earth Day Block Party Wednesday\, April 22\, 202
 URL;VALUE=URI:https://www.tampa.gov/node/185986
 END:VEVENT
 BEGIN:VEVENT
-UID:1a3236ca-3335-4958-8bdd-972d47c63b21
+UID:0c9818e7-cb7c-4ef4-8999-58a6559beca2
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260503T140000Z
 DTEND:20260503T180000Z
 SUMMARY:Hyde Park Fresh Market
@@ -289,9 +317,9 @@ DESCRIPTION:Hyde Park Fresh Market Sunday\, May 3\, 2026 10am-2pm Hyde Par
 URL;VALUE=URI:https://www.tampa.gov/node/177906
 END:VEVENT
 BEGIN:VEVENT
-UID:93df0eee-5dc4-49b0-9f66-947778407885
+UID:edeade4b-c21d-412f-8d47-5665ba9fc009
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260517T140000Z
 DTEND:20260517T190000Z
 SUMMARY:Water Street Tampa Market
@@ -303,9 +331,9 @@ DESCRIPTION:Water Street Tampa Market Sunday\, May 17\, 2026 10am-3pm Wate
 URL;VALUE=URI:https://www.tampa.gov/node/179111
 END:VEVENT
 BEGIN:VEVENT
-UID:b5ce3b66-6f55-4735-8df9-c51787893417
+UID:eeff1572-c368-43c9-8454-32258fffad04
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260521T220000Z
 DTEND:20260522T020000Z
 SUMMARY:3rd Thursday
@@ -317,9 +345,9 @@ DESCRIPTION:3rd Thursday Thursday\, May 21\, 2026 6pm-10pm Channelside Dis
 URL;VALUE=URI:https://www.tampa.gov/node/186546
 END:VEVENT
 BEGIN:VEVENT
-UID:ee2a51c8-db9e-4531-af3d-cb7f62288af2
+UID:c013796a-1f2b-4b42-a3ac-cdb8a25d1aba
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260607T140000Z
 DTEND:20260607T180000Z
 SUMMARY:Hyde Park Fresh Market
@@ -331,9 +359,9 @@ DESCRIPTION:Hyde Park Fresh Market Sunday\, June 7\, 2026 10am-2pm Hyde Pa
 URL;VALUE=URI:https://www.tampa.gov/node/177911
 END:VEVENT
 BEGIN:VEVENT
-UID:6d80eb4f-4366-4c6b-998b-759ab76c39d3
+UID:dedbcdd0-cd36-4c4c-a0ff-e1cae903bd13
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260618T220000Z
 DTEND:20260619T020000Z
 SUMMARY:3rd Thursday
@@ -345,9 +373,9 @@ DESCRIPTION:3rd Thursday Thursday\, June 18\, 2026 6pm-10pm Channelside Di
 URL;VALUE=URI:https://www.tampa.gov/node/186551
 END:VEVENT
 BEGIN:VEVENT
-UID:ee0906ba-a095-4e21-9e90-83d573a14754
+UID:d60f9956-79df-4d22-9ee9-7579a8911af9
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260621T140000Z
 DTEND:20260621T180000Z
 SUMMARY:Water Street Tampa Market
@@ -359,9 +387,9 @@ DESCRIPTION:Water Street Tampa Market Sunday\, June 21\, 2026 10am-2pm Wat
 URL;VALUE=URI:https://www.tampa.gov/node/179116
 END:VEVENT
 BEGIN:VEVENT
-UID:ebf3f25c-6d12-4957-b8e5-e9b037bf6797
+UID:dee6aa65-3bd7-4135-ba0f-8b7079c225cf
 SEQUENCE:0
-DTSTAMP:20260316T000909Z
+DTSTAMP:20260317T000751Z
 DTSTART:20260705T140000Z
 DTEND:20260705T180000Z
 SUMMARY:Hyde Park Fresh Market
