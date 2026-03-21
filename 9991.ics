@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALNAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALDESC:Community events in Tampa for Tampa Convention Center
 BEGIN:VEVENT
-UID:5435712a-0670-4285-9ade-177036b68066
+UID:ce4eedad-377d-4e5d-a36e-a9eaa1ed9bd8
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260304T170000Z
 DTEND:20260307T190000Z
 SUMMARY:National BBCB 2026 Summit
@@ -38,9 +38,39 @@ DESCRIPTION:For event details: web.cvent.com (https:web.cvent.comevent11f0
 URL;VALUE=URI:https://www.tampa.gov/node/178171
 END:VEVENT
 BEGIN:VEVENT
-UID:bd7af13b-f23f-4317-a96d-95b987d08721
+UID:a6e0d31a-25f7-45f3-b142-a8e6cc4ee06a
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
+DTSTART:20260320T140000Z
+DTEND:20260320T160000Z
+SUMMARY:Texas Tech Basketball Pre-Game Party
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:Texas Tech Basketball Pre-Game Party for NCAA Tournament at Be
+ nchmark Arena \n\nPermalink: https://www.tampa.gov/node/187476
+URL;VALUE=URI:https://www.tampa.gov/node/187476
+END:VEVENT
+BEGIN:VEVENT
+UID:697a0718-7017-4d6f-aca6-b4f0d6838dbe
+SEQUENCE:0
+DTSTAMP:20260321T000650Z
+DTSTART:20260321T120000Z
+DTEND:20260322T210000Z
+SUMMARY:Tampa Home Show
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:For event details: www.tampahomeshow.com (http:www.tampahomesh
+ ow.com) or (877) 730-7469 Produced by the East Coast Consumer Shows\, the 
+ Tampa Home  Garden Show brings together vendors such as landscapers\, pool
+ spa professionals\, builders\, and contractors who all specialize in home 
+ improvement. Location: Tampa Convention Center East Exhibit Hall \n\nPerma
+ link: https://www.tampa.gov/node/174416
+URL;VALUE=URI:https://www.tampa.gov/node/174416
+END:VEVENT
+BEGIN:VEVENT
+UID:14140884-ad1f-4e4c-b85d-ae8b94e631f9
+SEQUENCE:0
+DTSTAMP:20260321T000650Z
 DTSTART:20260321T110000Z
 DTEND:20260323T035900Z
 SUMMARY:The Great American Franchise Expo
@@ -61,26 +91,9 @@ DESCRIPTION:The Great American Franchise Expo is the 1 trade show for thos
 URL;VALUE=URI:https://www.tampa.gov/node/174411
 END:VEVENT
 BEGIN:VEVENT
-UID:c4780766-5581-480b-bafe-98dce0bff7cb
+UID:905ac0d3-63f0-4d4a-bd8d-e575244cdf3f
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
-DTSTART:20260321T120000Z
-DTEND:20260322T210000Z
-SUMMARY:Tampa Home Show
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:For event details: www.tampahomeshow.com (http:www.tampahomesh
- ow.com) or (877) 730-7469 Produced by the East Coast Consumer Shows\, the 
- Tampa Home  Garden Show brings together vendors such as landscapers\, pool
- spa professionals\, builders\, and contractors who all specialize in home 
- improvement. Location: Tampa Convention Center East Exhibit Hall \n\nPerma
- link: https://www.tampa.gov/node/174416
-URL;VALUE=URI:https://www.tampa.gov/node/174416
-END:VEVENT
-BEGIN:VEVENT
-UID:a806f833-1c0d-44a0-a455-3cc7886fa2e9
-SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260323T110000Z
 DTEND:20260329T035900Z
 SUMMARY:SAGES POSTGRADUATE COURSE SCIENTIFIC SESSION 2026
@@ -94,9 +107,9 @@ DESCRIPTION:For event details: The Society of American Gastrointestinal an
 URL;VALUE=URI:https://www.tampa.gov/node/174486
 END:VEVENT
 BEGIN:VEVENT
-UID:b939edd2-e4bc-40dd-9678-e2b2573b74cc
+UID:02602d7e-fe65-4f9a-b858-5765cfd8b098
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260326T110000Z
 DTEND:20260328T035900Z
 SUMMARY:Applied Medical Meeting
@@ -109,9 +122,9 @@ DESCRIPTION:Through a collaborative and team-based work environment\, Appl
 URL;VALUE=URI:https://www.tampa.gov/node/186451
 END:VEVENT
 BEGIN:VEVENT
-UID:51632b64-8979-4201-b0ad-b322e0a40323
+UID:0c206f8a-2192-40dd-b101-50561dceec33
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260331T110000Z
 DTEND:20260402T035900Z
 SUMMARY:EXHIBITORLIVE 2026
@@ -129,9 +142,9 @@ DESCRIPTION:For more information: web.cvent.com (https:web.cvent.comeventd
 URL;VALUE=URI:https://www.tampa.gov/node/175076
 END:VEVENT
 BEGIN:VEVENT
-UID:c9e80deb-12f4-4281-b881-3528c1dcc7e2
+UID:b8c1eccd-4d5a-4e22-9d50-0320d3d04b97
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260407T120000Z
 DTEND:20260410T035900Z
 SUMMARY:Florida Child Nutrition Directors Farm 2 School Conference 2026
@@ -148,9 +161,9 @@ DESCRIPTION:The Florida Farm 2 School Conference is a free event that offe
 URL;VALUE=URI:https://www.tampa.gov/node/175521
 END:VEVENT
 BEGIN:VEVENT
-UID:498d215d-8dad-45fb-8f42-f70e41e35763
+UID:ea362eeb-f8e8-4ff7-abd6-7391dbafcab7
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260408T110000Z
 DTEND:20260409T210000Z
 SUMMARY:The Future Career Academy
@@ -165,9 +178,9 @@ DESCRIPTION:The Future Career Academy\, is to prepare and connect graduati
 URL;VALUE=URI:https://www.tampa.gov/node/175591
 END:VEVENT
 BEGIN:VEVENT
-UID:d3eb842b-7529-4833-a3ad-363d59d167f4
+UID:017b9ac2-bdaf-4096-8bbf-b94a4b81eb31
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260410T110000Z
 DTEND:20260410T203000Z
 SUMMARY:Tampa Bay Condo HOA Expo
@@ -177,9 +190,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/175596
 URL;VALUE=URI:https://www.tampa.gov/node/175596
 END:VEVENT
 BEGIN:VEVENT
-UID:f7385c30-8e98-4869-a9e6-fc778569c09e
+UID:829e16d2-0938-4b52-95d2-ee4aa0904de1
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260410T110000Z
 DTEND:20260412T160000Z
 SUMMARY:2026 Tampa Bay Poker Run
@@ -189,9 +202,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/175601
 URL;VALUE=URI:https://www.tampa.gov/node/175601
 END:VEVENT
 BEGIN:VEVENT
-UID:22a5328e-5bc5-436e-ab80-eec729daf3d6
+UID:15d9a2d2-fd4c-4cb8-940c-fcba94d4dff6
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260414T170000Z
 DTEND:20260418T035900Z
 SUMMARY:IUCX 2026
@@ -202,9 +215,9 @@ DESCRIPTION:Location: Tampa Convention Center Entire Convention Center \n\
 URL;VALUE=URI:https://www.tampa.gov/node/175881
 END:VEVENT
 BEGIN:VEVENT
-UID:b5d625be-609a-46f9-9a6c-36fec9060226
+UID:86e37433-706f-4cc1-b50b-5afb68812adb
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260423T110000Z
 DTEND:20260426T220000Z
 SUMMARY:Varsity Spirit LLC
@@ -219,9 +232,9 @@ DESCRIPTION:End-of-Season cheerleading competition that will attract young
 URL;VALUE=URI:https://www.tampa.gov/node/176201
 END:VEVENT
 BEGIN:VEVENT
-UID:131be6ed-e926-431d-9b82-230ce1851b35
+UID:24f011e5-b89f-4271-9074-f3c87e13af32
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260430T110000Z
 DTEND:20260503T035900Z
 SUMMARY:Life Surge
@@ -233,9 +246,9 @@ DESCRIPTION:Inspire\, train\,  equip others to SURGE their resources and i
 URL;VALUE=URI:https://www.tampa.gov/node/176571
 END:VEVENT
 BEGIN:VEVENT
-UID:f808b96c-56b3-4e1b-b80e-79aad11e7108
+UID:6fc00fbf-5d80-48a2-8de4-88d49770f509
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260509T100000Z
 DTEND:20260513T035900Z
 SUMMARY:ASCRS 2026 Annual Convention
@@ -251,9 +264,9 @@ DESCRIPTION:PURPOSE OF MEETING: The American Society of Colon and Rectal S
 URL;VALUE=URI:https://www.tampa.gov/node/176871
 END:VEVENT
 BEGIN:VEVENT
-UID:5660004c-61f9-4c19-9f85-d62297d5058c
+UID:742607ca-3f5c-477d-a3f3-037c012b6bbf
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260622T120000Z
 DTEND:20260624T210000Z
 SUMMARY:2026 Tampa Summer Institute
@@ -270,9 +283,9 @@ DESCRIPTION:For event details: www.avid.org (http:www.avid.org) or (833) 2
 URL;VALUE=URI:https://www.tampa.gov/node/178506
 END:VEVENT
 BEGIN:VEVENT
-UID:4670b103-8130-4ab4-b429-3117f0409c26
+UID:48bb9c16-6cc6-404b-a6c9-12d63b6ce3bb
 SEQUENCE:0
-DTSTAMP:20260320T000810Z
+DTSTAMP:20260321T000650Z
 DTSTART:20260711T110000Z
 DTEND:20260717T035900Z
 SUMMARY:Shriners International Annual Session and Meeting
