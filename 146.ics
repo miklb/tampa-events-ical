@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Neighborhood Events
 X-WR-CALNAME:Tampa Calendar - Neighborhood Events
 X-WR-CALDESC:Community events in Tampa for Neighborhood Events
 BEGIN:VEVENT
-UID:4d54d9ea-9f82-4925-b8fc-c119c632b686
+UID:a3543f77-c02d-4a57-99e8-ee3c0299da61
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001341Z
 DTSTART:20260402T170000Z
 DTEND:20260402T180000Z
 SUMMARY:Best Florida Jobs Power Hour Hiring Event
@@ -20,9 +20,9 @@ DESCRIPTION:GET HIRED! 50 local and national employers with jobs from 16 d
 URL;VALUE=URI:https://www.tampa.gov/node/187551
 END:VEVENT
 BEGIN:VEVENT
-UID:75359b47-e2be-4771-8b9f-53b0380b5d4d
+UID:d93d2e59-5a17-46f4-a209-6f5f99271fb2
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001341Z
 DTSTART:20260402T223000Z
 DTEND:20260402T233000Z
 SUMMARY:Poetry in the Galleries: TMA x UTampa NEON
@@ -42,9 +42,9 @@ DESCRIPTION:Join us for an evening of live poetry inside the galleries of
 URL;VALUE=URI:https://www.tampa.gov/node/186881
 END:VEVENT
 BEGIN:VEVENT
-UID:b6e48719-b9d0-4bf9-af18-315734c43914
+UID:da2f3a49-0143-41ee-9670-0311211d60a4
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001341Z
 DTSTART:20260402T220000Z
 DTEND:20260403T010000Z
 SUMMARY:Rock the Park
@@ -63,9 +63,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:4df2ff00-aff5-4ecd-9128-b6e0bd45710b
+UID:6b5e1027-56d8-4e5c-9f08-73cbbb1c7fad
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001341Z
 DTSTART:20260403T160000Z
 DTEND:20260404T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -81,27 +81,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180431
 END:VEVENT
 BEGIN:VEVENT
-UID:e508e51d-4e8c-40d6-ac82-3671f141f779
+UID:3ebff125-6bb2-429c-a3ee-ef4099022303
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
-DTSTART:20260404T160000Z
-DTEND:20260405T020000Z
-SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
-LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
- tes
-DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
- Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
- d unique as the parks thrilling roller coaster collection (https:buschgard
- ens.comtamparides). Guests can sip savor their way through flavorful eats 
- and mouthwatering treats each weekend of the event. Park guests can also e
- xperience live concert performances every weekend FREE with park admission
- . \n\nPermalink: https://www.tampa.gov/node/180436
-URL;VALUE=URI:https://www.tampa.gov/node/180436
-END:VEVENT
-BEGIN:VEVENT
-UID:6149b363-3a63-48b7-85dc-dd5d562eba4a
-SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001341Z
 DTSTART:20260404T170000Z
 DTEND:20260405T030000Z
 SUMMARY:16th Edition Annual Brazilian Festival Tampa
@@ -119,11 +101,11 @@ DESCRIPTION:Get ready for an exciting celebration as the Annual Brazilian
 URL;VALUE=URI:https://www.tampa.gov/node/174851
 END:VEVENT
 BEGIN:VEVENT
-UID:bb9e3ca8-e898-4911-bc23-ee1fc5ac92fa
+UID:a5a79d27-d5f9-4e7c-ae4d-00acfbe19f4e
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
-DTSTART:20260405T160000Z
-DTEND:20260406T020000Z
+DTSTAMP:20260425T001341Z
+DTSTART:20260404T160000Z
+DTEND:20260405T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
 LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
  tes
@@ -133,13 +115,13 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
  ens.comtamparides). Guests can sip savor their way through flavorful eats 
  and mouthwatering treats each weekend of the event. Park guests can also e
  xperience live concert performances every weekend FREE with park admission
- . \n\nPermalink: https://www.tampa.gov/node/180441
-URL;VALUE=URI:https://www.tampa.gov/node/180441
+ . \n\nPermalink: https://www.tampa.gov/node/180436
+URL;VALUE=URI:https://www.tampa.gov/node/180436
 END:VEVENT
 BEGIN:VEVENT
-UID:76ab1461-59ab-4915-96d6-0d563b8c98c4
+UID:7f4cd54d-86e3-4513-9d63-5fdef1a7897a
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001341Z
 DTSTART:20260405T140000Z
 DTEND:20260405T200000Z
 SUMMARY:Easter Brunch at Rusty Pelican
@@ -164,9 +146,27 @@ DESCRIPTION:Hop over to Rusty Pelican Tampa for a special three-course Eas
 URL;VALUE=URI:https://www.tampa.gov/node/187396
 END:VEVENT
 BEGIN:VEVENT
-UID:49affa0a-1270-4897-87df-31b7d531ff70
+UID:f593f302-be2f-4324-8052-e64dd6e01608
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001341Z
+DTSTART:20260405T160000Z
+DTEND:20260406T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180441
+URL;VALUE=URI:https://www.tampa.gov/node/180441
+END:VEVENT
+BEGIN:VEVENT
+UID:3d25402a-1a92-43f1-a44d-9f36e6e0dd4d
+SEQUENCE:0
+DTSTAMP:20260425T001341Z
 DTSTART:20260406T210000Z
 DTEND:20260406T230000Z
 SUMMARY:Neighborhood Intelligence Workshop
@@ -187,9 +187,9 @@ DESCRIPTION:Join the Tampa Downtown Partnership for our Neighborhood Intel
 URL;VALUE=URI:https://www.tampa.gov/node/187686
 END:VEVENT
 BEGIN:VEVENT
-UID:981bdf2b-6433-4527-bffe-72de9bddef67
+UID:00479807-eb61-4e6a-86cf-77735170cd33
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001341Z
 DTSTART:20260407T210000Z
 DTEND:20260407T230000Z
 SUMMARY:Neighborhood Intelligence Workshop: Channel District
@@ -210,39 +210,29 @@ DESCRIPTION:Join the Tampa Downtown Partnership for our Neighborhood Intel
 URL;VALUE=URI:https://www.tampa.gov/node/187691
 END:VEVENT
 BEGIN:VEVENT
-UID:2a88ab5e-32ab-4d0b-98e3-e70c07506e09
+UID:52e6987c-eaa5-4095-ac30-f2e3e44181b4
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
-DTSTART:20260408T170000Z
-DTEND:20260408T180000Z
-SUMMARY:Best Florida Jobs Power Hour Hiring Event
-LOCATION:333 S Franklin St Tampa \, FL 33602 United States
-DESCRIPTION:GET HIRED! 50 local and national employers with jobs from 16 d
- ifferent industries! Hiring managers on site as well as training programs 
- ready to help you make more money! Pre-register for free at BestFloridaJob
- s.com (http:bestfloridajobs.com) \n\nPermalink: https://www.tampa.gov/node
- /188046
-URL;VALUE=URI:https://www.tampa.gov/node/188046
+DTSTAMP:20260425T001341Z
+DTSTART:20260408T210000Z
+DTEND:20260408T230000Z
+SUMMARY:Real Estate Photography  Intro and Basics
+LOCATION:1630 E 7th Ave Tampa \, FL 33605 United States
+DESCRIPTION:For Sale! How do you photograph a house thats about to hit the
+  market? Because traditional photography alone isnt enough to sell. Do you
+  want to photograph real estate? Youve come to the right place. Here\, we 
+ dive deep into the business of Real Estate Photography. We will talk mobil
+ e homes\, fixer-uppers\, new construction\, expansive estates\, and everyt
+ hing in between. How to capture marketing images that sell. Not only the g
+ ear youll need\, but also the photographic techniques\, editing processes 
+ and options\, business models\, the psychology of working with agents and 
+ sellers\, and marketing plans to help get you business. \n\nPermalink: htt
+ ps://www.tampa.gov/node/187891
+URL;VALUE=URI:https://www.tampa.gov/node/187891
 END:VEVENT
 BEGIN:VEVENT
-UID:a6c3e1a0-98b1-4dab-b1a2-afbef0a484b1
+UID:82076a04-6062-41fe-a70a-0633a18bfd8e
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
-DTSTART:20260408T201500Z
-DTEND:20260408T213000Z
-SUMMARY:Teen Digital Studio
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Gain access to a quiet and creative space to explore digital d
- rawing with Procreate! With input from the instructor\, you can create you
- r own art\, comics\, anime characters\, and much more! Open to ages 12 All
-  programs and equipment are provided! \n\nPermalink: https://www.tampa.gov
- /node/177106
-URL;VALUE=URI:https://www.tampa.gov/node/177106
-END:VEVENT
-BEGIN:VEVENT
-UID:65559a5d-eb34-4825-b74d-e2501c98d142
-SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001341Z
 DTSTART:20260408T210000Z
 DTEND:20260408T230000Z
 SUMMARY:Neighborhood Intelligence Workshop: Central Park
@@ -263,44 +253,39 @@ DESCRIPTION:Join the Tampa Downtown Partnership for our Neighborhood Intel
 URL;VALUE=URI:https://www.tampa.gov/node/187696
 END:VEVENT
 BEGIN:VEVENT
-UID:efa234e8-8e49-4a04-a356-c09d74a751ec
+UID:12100cb8-e099-48ab-b396-3aa5d1e41154
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
-DTSTART:20260408T210000Z
-DTEND:20260408T230000Z
-SUMMARY:Real Estate Photography  Intro and Basics
-LOCATION:1630 E 7th Ave Tampa \, FL 33605 United States
-DESCRIPTION:For Sale! How do you photograph a house thats about to hit the
-  market? Because traditional photography alone isnt enough to sell. Do you
-  want to photograph real estate? Youve come to the right place. Here\, we 
- dive deep into the business of Real Estate Photography. We will talk mobil
- e homes\, fixer-uppers\, new construction\, expansive estates\, and everyt
- hing in between. How to capture marketing images that sell. Not only the g
- ear youll need\, but also the photographic techniques\, editing processes 
- and options\, business models\, the psychology of working with agents and 
- sellers\, and marketing plans to help get you business. \n\nPermalink: htt
- ps://www.tampa.gov/node/187891
-URL;VALUE=URI:https://www.tampa.gov/node/187891
+DTSTAMP:20260425T001342Z
+DTSTART:20260408T201500Z
+DTEND:20260408T213000Z
+SUMMARY:Teen Digital Studio
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Gain access to a quiet and creative space to explore digital d
+ rawing with Procreate! With input from the instructor\, you can create you
+ r own art\, comics\, anime characters\, and much more! Open to ages 12 All
+  programs and equipment are provided! \n\nPermalink: https://www.tampa.gov
+ /node/177106
+URL;VALUE=URI:https://www.tampa.gov/node/177106
 END:VEVENT
 BEGIN:VEVENT
-UID:ad150400-f95a-44be-a527-17100922cf1b
+UID:e510e6dd-dce3-4791-b951-d680fec95c53
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
-DTSTART:20260409T170000Z
-DTEND:20260409T180000Z
+DTSTAMP:20260425T001342Z
+DTSTART:20260408T170000Z
+DTEND:20260408T180000Z
 SUMMARY:Best Florida Jobs Power Hour Hiring Event
 LOCATION:333 S Franklin St Tampa \, FL 33602 United States
 DESCRIPTION:GET HIRED! 50 local and national employers with jobs from 16 d
  ifferent industries! Hiring managers on site as well as training programs 
  ready to help you make more money! Pre-register for free at BestFloridaJob
  s.com (http:bestfloridajobs.com) \n\nPermalink: https://www.tampa.gov/node
- /188051
-URL;VALUE=URI:https://www.tampa.gov/node/188051
+ /188046
+URL;VALUE=URI:https://www.tampa.gov/node/188046
 END:VEVENT
 BEGIN:VEVENT
-UID:9e732fff-55db-4536-8324-9979e2f4ca35
+UID:0f43ebb0-159f-496e-aa9c-f63dbd9bf8a5
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260409T160000Z
 DTEND:20260409T203000Z
 SUMMARY:Downtowns Backyard Market
@@ -322,9 +307,24 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179471
 END:VEVENT
 BEGIN:VEVENT
-UID:d10c80dc-e171-4262-9294-b782a61d80c4
+UID:52526098-1c20-4065-8600-ab40b4ae1a8c
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
+DTSTART:20260409T170000Z
+DTEND:20260409T180000Z
+SUMMARY:Best Florida Jobs Power Hour Hiring Event
+LOCATION:333 S Franklin St Tampa \, FL 33602 United States
+DESCRIPTION:GET HIRED! 50 local and national employers with jobs from 16 d
+ ifferent industries! Hiring managers on site as well as training programs 
+ ready to help you make more money! Pre-register for free at BestFloridaJob
+ s.com (http:bestfloridajobs.com) \n\nPermalink: https://www.tampa.gov/node
+ /188051
+URL;VALUE=URI:https://www.tampa.gov/node/188051
+END:VEVENT
+BEGIN:VEVENT
+UID:13a89ce3-4ee1-4bb6-92ed-dbd4df256b64
+SEQUENCE:0
+DTSTAMP:20260425T001342Z
 DTSTART:20260410T220000Z
 DTEND:20260411T010000Z
 SUMMARY:Science After Dark
@@ -350,9 +350,9 @@ DESCRIPTION:Science After Dark  Adult Nights Kick off your MOSI adventure
 URL;VALUE=URI:https://www.tampa.gov/node/186516
 END:VEVENT
 BEGIN:VEVENT
-UID:4b463b5a-7fec-4168-aab0-fe6ddac3eb17
+UID:f417312c-9a62-4c99-84a8-63ef528d33a8
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260410T210000Z
 DTEND:20260410T230000Z
 SUMMARY:Neighborhood Intelligence Workshop: Tampa Heights
@@ -373,9 +373,9 @@ DESCRIPTION:Join the Tampa Downtown Partnership for our Neighborhood Intel
 URL;VALUE=URI:https://www.tampa.gov/node/187701
 END:VEVENT
 BEGIN:VEVENT
-UID:968a0f61-cbd3-4327-ad03-fdc0f348dc36
+UID:30a8ac33-521a-471d-862b-652b67828d66
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260410T190000Z
 DTEND:20260411T030000Z
 SUMMARY:Gasparilla Music Festival 2026
@@ -389,9 +389,9 @@ DESCRIPTION:The 2026 Gasparilla Music Festival\, presented by Water Street
 URL;VALUE=URI:https://www.tampa.gov/node/186251
 END:VEVENT
 BEGIN:VEVENT
-UID:10d6759a-ca4c-4f97-866b-7c086a26bb1b
+UID:c2d76b40-5b4c-42bd-b081-cee6aaf702ec
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260410T160000Z
 DTEND:20260411T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -407,9 +407,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180446
 END:VEVENT
 BEGIN:VEVENT
-UID:08ef05ca-9855-45e5-92a3-9d46045a97c9
+UID:b6936e45-c4fd-4b8d-9e68-1d1977df8edb
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260410T143000Z
 DTEND:20260410T170000Z
 SUMMARY:Vision in Bloom Tea Party
@@ -432,9 +432,9 @@ DESCRIPTION:We are pleased to invite you to the 3rd annual Vision in Bloom
 URL;VALUE=URI:https://www.tampa.gov/node/186321
 END:VEVENT
 BEGIN:VEVENT
-UID:4e6fb785-72b3-4d87-932f-aca4048fcd4e
+UID:aec12f73-499c-4543-b07c-d7fc873cea65
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260411T210000Z
 DTEND:20260412T000000Z
 SUMMARY:Young Directors Film Festival
@@ -453,9 +453,9 @@ DESCRIPTION:Celebrate the best of Tampa Bay high school film making with t
 URL;VALUE=URI:https://www.tampa.gov/node/186876
 END:VEVENT
 BEGIN:VEVENT
-UID:23af5c0d-7753-468a-9ab8-60ebfc9aa8d8
+UID:858a052f-cb05-4408-838a-a1b911c1eb7b
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260411T190000Z
 DTEND:20260412T030000Z
 SUMMARY:Gasparilla Music Festival 2026
@@ -469,9 +469,9 @@ DESCRIPTION:The 2026 Gasparilla Music Festival\, presented by Water Street
 URL;VALUE=URI:https://www.tampa.gov/node/186256
 END:VEVENT
 BEGIN:VEVENT
-UID:421cfe10-e9cd-4bf2-a839-28d53dee1f47
+UID:5a1b6a68-64b6-49b5-aa30-7bc0f57359b4
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260411T160000Z
 DTEND:20260412T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -487,9 +487,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180451
 END:VEVENT
 BEGIN:VEVENT
-UID:3aeb08bc-10b6-4c99-ac37-5b5ec3492422
+UID:c8600892-4262-49d8-9e94-1ed827cc9b98
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260411T140000Z
 DTEND:20260411T180000Z
 SUMMARY:Tampa Fire Rescue Annual Open House
@@ -506,9 +506,9 @@ DESCRIPTION:Join us for a fun\, family-friendly day with TampasBravest at
 URL;VALUE=URI:https://www.tampa.gov/node/186526
 END:VEVENT
 BEGIN:VEVENT
-UID:bf3e0b88-684e-41ae-8b6e-d32645bd894e
+UID:9cac303b-8363-483a-b64a-074dc8d98c43
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260411T140000Z
 DTEND:20260411T200000Z
 SUMMARY:Next Level Workshop  Discovering the Unexpected
@@ -526,9 +526,9 @@ DESCRIPTION:Move beyond your preconceptions into a state of authentic disc
 URL;VALUE=URI:https://www.tampa.gov/node/185956
 END:VEVENT
 BEGIN:VEVENT
-UID:6e4cc2f1-2c8c-4d99-b6fc-9e288bc42d71
+UID:9979d2bd-8277-4093-a2d8-a66ccb1774b0
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260411T140000Z
 DTEND:20260411T153000Z
 SUMMARY:Walking Tour: Downtown Tampa
@@ -552,9 +552,9 @@ DESCRIPTION:Looking for a unique activity to do in Tampa Bay? Join the Tam
 URL;VALUE=URI:https://www.tampa.gov/node/185851
 END:VEVENT
 BEGIN:VEVENT
-UID:729386e0-7051-407f-9fd5-ed1192126d86
+UID:4dc9f1eb-eb4a-4e53-9bc3-d19fe57d87da
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260411T130000Z
 DTEND:20260411T200000Z
 SUMMARY:2026 Spring Plant Festival
@@ -589,9 +589,9 @@ DESCRIPTION:Join us for a two-day celebration of all things plants! The US
 URL;VALUE=URI:https://www.tampa.gov/node/187631
 END:VEVENT
 BEGIN:VEVENT
-UID:113e8a48-36db-4b97-84ff-4f762020a660
+UID:eeb756de-e01f-4ac5-a12b-3702f7d024db
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260411T120000Z
 DTEND:20260411T160000Z
 SUMMARY:Walk For Wishes Tampa
@@ -607,13 +607,13 @@ DESCRIPTION:The 13th Annual Walk for Wishes Tampa will take place on Satur
 URL;VALUE=URI:https://www.tampa.gov/node/179586
 END:VEVENT
 BEGIN:VEVENT
-UID:3466f8c8-4129-456e-b83d-453a5dfe527b
+UID:c197f722-0d5e-4465-9e35-819b42f1068c
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260412T140000Z
 DTEND:20260412T170000Z
 SUMMARY:Ceramics Continued Study
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+LOCATION:120 W. Gasparilla Plaza Tampa \, FL 33602 United States
 DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
  eir learning experience with instructor assistance and guiding knowledge. 
  Sign up for a single class to continue working and add the finishing touch
@@ -622,13 +622,13 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
   ceramics. Work with your instructor to plan out your projects and make th
  em a reality. Some experience with clay is recommended. 16 Firing costs\, 
  essential tools\, and glazes included. Clay is available for purchase sepa
- rately in studio. \n\nPermalink: https://www.tampa.gov/node/177531
-URL;VALUE=URI:https://www.tampa.gov/node/177531
+ rately in studio. \n\nPermalink: https://www.tampa.gov/node/177316
+URL;VALUE=URI:https://www.tampa.gov/node/177316
 END:VEVENT
 BEGIN:VEVENT
-UID:d948562e-8c4d-4aa2-a49b-9c9a79006b67
+UID:89e65680-680a-4b86-9b61-6597f086472c
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260412T190000Z
 DTEND:20260413T030000Z
 SUMMARY:Gasparilla Music Festival 2026
@@ -642,9 +642,9 @@ DESCRIPTION:The 2026 Gasparilla Music Festival\, presented by Water Street
 URL;VALUE=URI:https://www.tampa.gov/node/186261
 END:VEVENT
 BEGIN:VEVENT
-UID:78f4e70c-35af-41d1-be41-45bbec440350
+UID:b2b2c59f-99d9-4c57-96dc-88f97c029911
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260412T180000Z
 DTEND:20260412T190000Z
 SUMMARY:Lecture  Faces of Power
@@ -664,9 +664,9 @@ DESCRIPTION:Faces of Power: Stories Behind Portraits on Greek and Roman Co
 URL;VALUE=URI:https://www.tampa.gov/node/180961
 END:VEVENT
 BEGIN:VEVENT
-UID:4c00e921-2c0c-4f0c-8577-f8d5c1e008fb
+UID:ca804e60-a9f4-459b-99d1-28e9696a940c
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260412T170000Z
 DTEND:20260412T180000Z
 SUMMARY:Gallery Talk Book Signing Featuring Liz Burns of The Burns Collect
@@ -685,9 +685,9 @@ DESCRIPTION:Join FMoPA for an intimate afternoon with Liz Burns\, Co-Direc
 URL;VALUE=URI:https://www.tampa.gov/node/187901
 END:VEVENT
 BEGIN:VEVENT
-UID:4f233224-896f-4238-8d13-b6740306b16c
+UID:fe8f82f5-29bd-4355-a6c6-b2c52b71fd04
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260412T160000Z
 DTEND:20260413T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -703,9 +703,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180456
 END:VEVENT
 BEGIN:VEVENT
-UID:cafdeb8a-95d1-41ed-97eb-78a523c29e47
+UID:bc84c181-8abf-4350-8d52-a7f55a34c727
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260412T140000Z
 DTEND:20260412T160000Z
 SUMMARY:Photography 101
@@ -724,13 +724,13 @@ DESCRIPTION:Learn the fundamentals of photography and unlock your creative
 URL;VALUE=URI:https://www.tampa.gov/node/187896
 END:VEVENT
 BEGIN:VEVENT
-UID:a6645546-0eae-4371-8f7d-a51389b95559
+UID:01e04e81-2fe4-44d2-ac74-21909273efa9
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260412T140000Z
 DTEND:20260412T170000Z
 SUMMARY:Ceramics Continued Study
-LOCATION:120 W. Gasparilla Plaza Tampa \, FL 33602 United States
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
 DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
  eir learning experience with instructor assistance and guiding knowledge. 
  Sign up for a single class to continue working and add the finishing touch
@@ -739,13 +739,13 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
   ceramics. Work with your instructor to plan out your projects and make th
  em a reality. Some experience with clay is recommended. 16 Firing costs\, 
  essential tools\, and glazes included. Clay is available for purchase sepa
- rately in studio. \n\nPermalink: https://www.tampa.gov/node/177316
-URL;VALUE=URI:https://www.tampa.gov/node/177316
+ rately in studio. \n\nPermalink: https://www.tampa.gov/node/177531
+URL;VALUE=URI:https://www.tampa.gov/node/177531
 END:VEVENT
 BEGIN:VEVENT
-UID:401d08d2-c5ac-424b-b8b6-9a332f6ced5a
+UID:eb160578-4e6d-44c9-8af7-f846c49e6f29
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260413T151500Z
 DTEND:20260413T180000Z
 SUMMARY:Crafted History Cruise
@@ -782,9 +782,9 @@ DESCRIPTION:Set sail aboard Crafts History Brunch Cruise to celebrate the
 URL;VALUE=URI:https://www.tampa.gov/node/185821
 END:VEVENT
 BEGIN:VEVENT
-UID:d15785e5-28b3-4fd1-8f15-951985e7355f
+UID:cb9db7f9-426e-48d5-845d-e83b74b41cf8
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260414T210000Z
 DTEND:20260414T230000Z
 SUMMARY:Neighborhood Intelligence Workshop: Water Street
@@ -805,9 +805,9 @@ DESCRIPTION:Join the Tampa Downtown Partnership for our Neighborhood Intel
 URL;VALUE=URI:https://www.tampa.gov/node/187706
 END:VEVENT
 BEGIN:VEVENT
-UID:e5e07130-0fb3-4f7c-b0c7-db4b9dc9a2e9
+UID:68a467dc-2e1c-480c-89ff-5e17037d69f7
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260415T150000Z
 DTEND:20260415T170000Z
 SUMMARY:The Importance of Palliative Care in Lung Cancer
@@ -829,9 +829,9 @@ DESCRIPTION:LiveLung Tampa Chapter: Lung Cancer Education Support Meeting
 URL;VALUE=URI:https://www.tampa.gov/node/187286
 END:VEVENT
 BEGIN:VEVENT
-UID:a1b8323a-6a52-411d-a929-8a444911acf0
+UID:1d3008b4-7016-4d83-b88b-96cd3047a2bd
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260416T160000Z
 DTEND:20260416T180000Z
 SUMMARY:Neighborhood Intelligence Workshop: Downtown Core
@@ -852,9 +852,9 @@ DESCRIPTION:Join the Tampa Downtown Partnership for our Neighborhood Intel
 URL;VALUE=URI:https://www.tampa.gov/node/187711
 END:VEVENT
 BEGIN:VEVENT
-UID:491fdb16-69b1-4eba-ae95-c593f1d69d53
+UID:f99bf6e3-caf0-4410-9b79-eebc4dc02dd6
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260416T220000Z
 DTEND:20260417T020000Z
 SUMMARY:A Night with Mary Lee039\\\;s House: Viva Havana!
@@ -867,9 +867,9 @@ DESCRIPTION:Step into the spirit of Havana for an unforgettable evening de
 URL;VALUE=URI:https://www.tampa.gov/node/179456
 END:VEVENT
 BEGIN:VEVENT
-UID:7f239db5-0115-4272-8389-40fc38dd63a4
+UID:7d532190-0842-4a04-b67c-c0cce67ba419
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260417T150000Z
 DTEND:20260417T180000Z
 SUMMARY:Food Truck Fridays at Hanna
@@ -889,9 +889,9 @@ DESCRIPTION:Lunch plans? Sorted.  Join us on April 17 for Food Truck Frida
 URL;VALUE=URI:https://www.tampa.gov/node/188696
 END:VEVENT
 BEGIN:VEVENT
-UID:8a779114-cff0-463e-b9eb-65396c3b46c0
+UID:c55224ed-beec-4ffc-bfe5-c095ffd81a0c
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260417T220000Z
 DTEND:20260418T020000Z
 SUMMARY:Yuengling Night Market
@@ -907,9 +907,9 @@ DESCRIPTION:Join us for a spirited Night Market in the courtyard at Yuengl
 URL;VALUE=URI:https://www.tampa.gov/node/188716
 END:VEVENT
 BEGIN:VEVENT
-UID:460aa39b-8f6c-4bc5-b06b-000350ba4f50
+UID:ff16e2ef-39ba-4c55-a713-bafae64d76e6
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260417T160000Z
 DTEND:20260418T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -925,26 +925,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180461
 END:VEVENT
 BEGIN:VEVENT
-UID:5cc767f4-6716-4799-8092-a3cdf2f9be69
+UID:6ae572ef-ea4b-42ff-90c9-88ffffde06b7
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
-DTSTART:20260418T133000Z
-DTEND:20260418T190000Z
-SUMMARY:Earth Day Celebration
-LOCATION:110 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:In the spirit of celebrating Mother Earth\, join us this Satur
- day\, April 18! From 9:30am to 3pm\, well have special guests\, animal fri
- ends\, and experts sharing how we can all take care of our planet. The cel
- ebration continues in our MakeSpace exhibit! Throughout April and May\, fa
- milies can explore eco-friendly art by transforming recycled materials int
- o creative masterpieces that celebrate our planet! Sponsored by The Ball F
- oundation. \n\nPermalink: https://www.tampa.gov/node/188931
-URL;VALUE=URI:https://www.tampa.gov/node/188931
-END:VEVENT
-BEGIN:VEVENT
-UID:cedafa8f-577b-4dc3-835f-daf07e26aa1e
-SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260418T220000Z
 DTEND:20260419T020000Z
 SUMMARY:National Pediatric Cancer Foundation039\\\;s Fashion Funds the Cur
@@ -959,9 +942,9 @@ DESCRIPTION:Fashion Funds the Cure returns to Tampa with an unforgettable
 URL;VALUE=URI:https://www.tampa.gov/node/179476
 END:VEVENT
 BEGIN:VEVENT
-UID:c4cd1f0a-589d-44dc-bcc9-8faa2c207ba2
+UID:63514edb-b5f1-49e5-b55f-7fdcb5e5a050
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260418T160000Z
 DTEND:20260419T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -977,9 +960,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180466
 END:VEVENT
 BEGIN:VEVENT
-UID:b4ca28db-92dd-468a-9d3a-e843c701bdc2
+UID:61b1cf01-899b-48d0-a46f-6667579d8252
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260418T123000Z
 DTEND:20260418T160000Z
 SUMMARY:Best Buddies Friendship Walk: Tampa Bay
@@ -994,9 +977,26 @@ DESCRIPTION:The Best Buddies Friendship Walk is the leading event in the c
 URL;VALUE=URI:https://www.tampa.gov/node/187756
 END:VEVENT
 BEGIN:VEVENT
-UID:e7adb4de-9d46-4a2b-9ebc-ad5a9c77aa5d
+UID:203f1d7f-6c7b-4e1a-aa81-c0c69670f050
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
+DTSTART:20260418T133000Z
+DTEND:20260418T190000Z
+SUMMARY:Earth Day Celebration
+LOCATION:110 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:In the spirit of celebrating Mother Earth\, join us this Satur
+ day\, April 18! From 9:30am to 3pm\, well have special guests\, animal fri
+ ends\, and experts sharing how we can all take care of our planet. The cel
+ ebration continues in our MakeSpace exhibit! Throughout April and May\, fa
+ milies can explore eco-friendly art by transforming recycled materials int
+ o creative masterpieces that celebrate our planet! Sponsored by The Ball F
+ oundation. \n\nPermalink: https://www.tampa.gov/node/188931
+URL;VALUE=URI:https://www.tampa.gov/node/188931
+END:VEVENT
+BEGIN:VEVENT
+UID:64e7e789-24dc-42e8-ae63-9c398dbe6596
+SEQUENCE:0
+DTSTAMP:20260425T001342Z
 DTSTART:20260419T140000Z
 DTEND:20260419T170000Z
 SUMMARY:Ceramics Continued Study
@@ -1013,9 +1013,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/177536
 END:VEVENT
 BEGIN:VEVENT
-UID:bff5bf4c-5bec-4fa7-afab-733fc99ef756
+UID:722a36d0-3d41-4103-bc41-0bf174571b32
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260419T140000Z
 DTEND:20260419T160000Z
 SUMMARY:Bird and Wildlife Photography
@@ -1041,9 +1041,9 @@ DESCRIPTION:Dont just take a picture of wildlifelearn how to craft an awar
 URL;VALUE=URI:https://www.tampa.gov/node/187916
 END:VEVENT
 BEGIN:VEVENT
-UID:7071e90f-b954-487c-abe0-2e602cc11d23
+UID:007ddda9-3156-45b6-9b43-47f2f3409016
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260419T160000Z
 DTEND:20260420T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -1059,9 +1059,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180471
 END:VEVENT
 BEGIN:VEVENT
-UID:3c63ffde-c525-45d6-a085-bfc935ed6054
+UID:d4bbe70c-7591-40f7-8fd5-0a8331d99c51
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260419T170000Z
 DTEND:20260419T180000Z
 SUMMARY:Gallery Talk: Beth Belaschky on Echos of the Luminous
@@ -1075,9 +1075,9 @@ DESCRIPTION:Join us for an intimate afternoon with award-winning artist Be
 URL;VALUE=URI:https://www.tampa.gov/node/187921
 END:VEVENT
 BEGIN:VEVENT
-UID:d3c2259a-afbe-4107-850e-41717a283521
+UID:1f8f634b-280e-450e-9274-a728f996e078
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260421T220000Z
 DTEND:20260422T010000Z
 SUMMARY:Figure Drawing Study
@@ -1092,9 +1092,9 @@ DESCRIPTION:Work in your drawing and painting media of choice or explore n
 URL;VALUE=URI:https://www.tampa.gov/node/177266
 END:VEVENT
 BEGIN:VEVENT
-UID:4a4959ff-dff0-45c2-83ca-0e6cd9a6bf39
+UID:6f42843f-6f05-4b42-844b-e57517e64483
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260423T190000Z
 DTEND:20260423T220000Z
 SUMMARY:The Wonderment Weekend
@@ -1124,9 +1124,27 @@ DESCRIPTION:Join us for a celebration of art and whimsy Are you a curious
 URL;VALUE=URI:https://www.tampa.gov/node/178896
 END:VEVENT
 BEGIN:VEVENT
-UID:8f6b27ef-1624-48f6-b57b-a2c6eb7c6cb5
+UID:3599c3d2-fa1b-4409-9715-fa604c1b00cb
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
+DTSTART:20260423T220000Z
+DTEND:20260424T010000Z
+SUMMARY:Remix: The Etruscans
+LOCATION:120 W Gasparilla Plaza Tampa FL Tampa \, FL 33602 United States
+DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
+ spired by the Museums current exhibitions with a new project every month. 
+ This months project will be inspired by our The Etruscans: A Mysterious It
+ alian People (https:tampamuseum.orgthe-etruscans-a-mysterious-italian-peop
+ le) exhibition. Paint and decorate your own personal box\, similar to the 
+ detailed ash boxes of the Etruscans! Ages 18 Workshops are designed to be 
+ enjoyed by participants of any skill level\, and all materials are provide
+ d. \n\nPermalink: https://www.tampa.gov/node/177226
+URL;VALUE=URI:https://www.tampa.gov/node/177226
+END:VEVENT
+BEGIN:VEVENT
+UID:7ea0ec41-0572-4c64-a241-c3f9736c252a
+SEQUENCE:0
+DTSTAMP:20260425T001342Z
 DTSTART:20260423T223000Z
 DTEND:20260424T023000Z
 SUMMARY:A Legacy of Love: 70 Years of Heart and Hope
@@ -1145,27 +1163,27 @@ DESCRIPTION:Heart of Adoptions Alliance Inc. (HOAA) is a non-profit 501(c)
 URL;VALUE=URI:https://www.tampa.gov/node/187451
 END:VEVENT
 BEGIN:VEVENT
-UID:b2802d98-be0b-4b5a-bdee-0e4c96f126ac
+UID:d30f9ab3-7c7b-4db6-b110-8caf816c17e5
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
-DTSTART:20260423T220000Z
-DTEND:20260424T010000Z
-SUMMARY:Remix: The Etruscans
-LOCATION:120 W Gasparilla Plaza Tampa FL Tampa \, FL 33602 United States
-DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
- spired by the Museums current exhibitions with a new project every month. 
- This months project will be inspired by our The Etruscans: A Mysterious It
- alian People (https:tampamuseum.orgthe-etruscans-a-mysterious-italian-peop
- le) exhibition. Paint and decorate your own personal box\, similar to the 
- detailed ash boxes of the Etruscans! Ages 18 Workshops are designed to be 
- enjoyed by participants of any skill level\, and all materials are provide
- d. \n\nPermalink: https://www.tampa.gov/node/177226
-URL;VALUE=URI:https://www.tampa.gov/node/177226
+DTSTAMP:20260425T001342Z
+DTSTART:20260424T160000Z
+DTEND:20260425T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180476
+URL;VALUE=URI:https://www.tampa.gov/node/180476
 END:VEVENT
 BEGIN:VEVENT
-UID:763410d9-473d-403f-a6ed-250cf84e2df4
+UID:f66ed188-e4db-48a1-a335-f1fc010fbbfe
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260424T223000Z
 DTEND:20260424T233000Z
 SUMMARY:Rock the Cosmos: Prince- Laser Light Show in Planetarium
@@ -1186,9 +1204,9 @@ DESCRIPTION:Experience the intersection of music\, science\, and art at th
 URL;VALUE=URI:https://www.tampa.gov/node/189036
 END:VEVENT
 BEGIN:VEVENT
-UID:af34cc23-c39d-44f0-85cb-81043bc46d8c
+UID:611da531-d28c-487f-b207-ddae007fb7f5
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260424T220000Z
 DTEND:20260425T020000Z
 SUMMARY:Charity Casino Night
@@ -1208,9 +1226,9 @@ DESCRIPTION:Are you looking for a night of excitement that also supports h
 URL;VALUE=URI:https://www.tampa.gov/node/187416
 END:VEVENT
 BEGIN:VEVENT
-UID:0fa88f23-b5ac-4aaf-b0b5-667a498d7ffe
+UID:ba630a4a-7688-400d-9ecd-b5b6abc6495c
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260424T220000Z
 DTEND:20260424T230000Z
 SUMMARY:Artist Lecture  Radical Softness: Janet Echelman
@@ -1232,27 +1250,9 @@ DESCRIPTION:Join us for a lecture with Janet Echelman\, an artist featured
 URL;VALUE=URI:https://www.tampa.gov/node/185961
 END:VEVENT
 BEGIN:VEVENT
-UID:49d2b2b4-fea8-42e2-a7c4-ee1cd5f03f83
+UID:0c16cbda-a636-4152-ad65-ca5e3734ea85
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
-DTSTART:20260424T160000Z
-DTEND:20260425T020000Z
-SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
-LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
- tes
-DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
- Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
- d unique as the parks thrilling roller coaster collection (https:buschgard
- ens.comtamparides). Guests can sip savor their way through flavorful eats 
- and mouthwatering treats each weekend of the event. Park guests can also e
- xperience live concert performances every weekend FREE with park admission
- . \n\nPermalink: https://www.tampa.gov/node/180476
-URL;VALUE=URI:https://www.tampa.gov/node/180476
-END:VEVENT
-BEGIN:VEVENT
-UID:d80a7d85-8167-4a75-b949-d6a7e0c73f93
-SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260424T160000Z
 DTEND:20260424T170000Z
 SUMMARY:Virtual Artful Connections
@@ -1270,9 +1270,9 @@ DESCRIPTION:Want a break from your day to de-stress and enjoy artwork? The
 URL;VALUE=URI:https://www.tampa.gov/node/180311
 END:VEVENT
 BEGIN:VEVENT
-UID:71b7b580-93c0-4080-8056-f47f56c496ce
+UID:06da2d9e-1a25-412c-8d8c-2ce092d33234
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260424T150000Z
 DTEND:20260424T180000Z
 SUMMARY:Shred It with AARP
@@ -1289,9 +1289,9 @@ DESCRIPTION:Join AARP Florida and the City of Tampa for a free document sh
 URL;VALUE=URI:https://www.tampa.gov/node/188691
 END:VEVENT
 BEGIN:VEVENT
-UID:61dc2051-c024-4f5a-bbcd-98cf49c5c06a
+UID:e6439605-b986-4090-a276-d8e015725933
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260424T140000Z
 DTEND:20260424T220000Z
 SUMMARY:The Wonderment Weekend
@@ -1321,9 +1321,48 @@ DESCRIPTION:Join us for a celebration of art and whimsy Are you a curious
 URL;VALUE=URI:https://www.tampa.gov/node/178901
 END:VEVENT
 BEGIN:VEVENT
-UID:f77f1bb9-7472-491a-81ec-6e97a0ba7c87
+UID:cc31c238-1463-441b-a3b5-1f55f34bd9e0
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
+DTSTART:20260425T160000Z
+DTEND:20260426T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180481
+URL;VALUE=URI:https://www.tampa.gov/node/180481
+END:VEVENT
+BEGIN:VEVENT
+UID:933efb74-905c-460f-bb38-108857c8e575
+SEQUENCE:0
+DTSTAMP:20260425T001342Z
+DTSTART:20260425T160000Z
+DTEND:20260426T020000Z
+SUMMARY:2026 Music Fest - Tampa Bay Black Heritage Festival
+LOCATION:600 N Ashley Dr Tampa \, FL 33602 United States
+DESCRIPTION:The Tampa Bay Black Heritage Festival 2026 returns for two pow
+ erful days of music\, culture\, and community. Experience live performance
+ s from nationally recognized and legendary artists across jazz\, R B\, sou
+ l\, and gospelright in the heart of Tampa Bay. Beyond the stage\, explore 
+ food from local vendors\, shop Black-owned businesses\, and enjoy family-f
+ riendly activities that celebrate heritage and creativity. This isnt just 
+ a concertits a cultural experience that brings generations together. Wheth
+ er youre coming for the music\, the atmosphere\, or the legacy\, this is a
+  weekend you dont want to miss. Be part of one of Tampa Bays most anticipa
+ ted events of the year.  Tickets are on sale now. Secure yours and celebra
+ te the culture. \n\nPermalink: https://www.tampa.gov/node/178451
+URL;VALUE=URI:https://www.tampa.gov/node/178451
+END:VEVENT
+BEGIN:VEVENT
+UID:3fded41f-e0c8-4a61-9633-8435b64f8b62
+SEQUENCE:0
+DTSTAMP:20260425T001342Z
 DTSTART:20260425T150000Z
 DTEND:20260426T030000Z
 SUMMARY:Ink Mania Fest
@@ -1366,48 +1405,9 @@ DESCRIPTION:Ink Mania Fest is a threeday\, highenergy celebration of tatto
 URL;VALUE=URI:https://www.tampa.gov/node/187271
 END:VEVENT
 BEGIN:VEVENT
-UID:20f4d2e3-0c6c-4c3c-bbe6-c32f69130003
+UID:a87b207b-959a-4213-8d69-25bf7ea9b8de
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
-DTSTART:20260425T160000Z
-DTEND:20260426T020000Z
-SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
-LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
- tes
-DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
- Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
- d unique as the parks thrilling roller coaster collection (https:buschgard
- ens.comtamparides). Guests can sip savor their way through flavorful eats 
- and mouthwatering treats each weekend of the event. Park guests can also e
- xperience live concert performances every weekend FREE with park admission
- . \n\nPermalink: https://www.tampa.gov/node/180481
-URL;VALUE=URI:https://www.tampa.gov/node/180481
-END:VEVENT
-BEGIN:VEVENT
-UID:84e7afbc-b061-4b81-840f-d49560546534
-SEQUENCE:0
-DTSTAMP:20260424T001631Z
-DTSTART:20260425T160000Z
-DTEND:20260426T020000Z
-SUMMARY:2026 Music Fest - Tampa Bay Black Heritage Festival
-LOCATION:600 N Ashley Dr Tampa \, FL 33602 United States
-DESCRIPTION:The Tampa Bay Black Heritage Festival 2026 returns for two pow
- erful days of music\, culture\, and community. Experience live performance
- s from nationally recognized and legendary artists across jazz\, R B\, sou
- l\, and gospelright in the heart of Tampa Bay. Beyond the stage\, explore 
- food from local vendors\, shop Black-owned businesses\, and enjoy family-f
- riendly activities that celebrate heritage and creativity. This isnt just 
- a concertits a cultural experience that brings generations together. Wheth
- er youre coming for the music\, the atmosphere\, or the legacy\, this is a
-  weekend you dont want to miss. Be part of one of Tampa Bays most anticipa
- ted events of the year.  Tickets are on sale now. Secure yours and celebra
- te the culture. \n\nPermalink: https://www.tampa.gov/node/178451
-URL;VALUE=URI:https://www.tampa.gov/node/178451
-END:VEVENT
-BEGIN:VEVENT
-UID:c0c56140-ded2-4dfd-b7ce-a7547ca7051c
-SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260425T150000Z
 DTEND:20260425T190000Z
 SUMMARY:Founder039\\\;s Day at J.C. Newman Cigar Co.
@@ -1427,9 +1427,9 @@ DESCRIPTION:Join J.C. Newman Cigar Co. for the sixth annual Founders Day c
 URL;VALUE=URI:https://www.tampa.gov/node/186746
 END:VEVENT
 BEGIN:VEVENT
-UID:f0f08707-ce18-44e5-999b-9299d0a41d10
+UID:97068e38-2023-4e01-acdb-15e3ac7696a0
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260425T130000Z
 DTEND:20260425T160000Z
 SUMMARY:Mayor039\\\;s Neighborhood University Saturday Session  City Hall 
@@ -1456,9 +1456,9 @@ DESCRIPTION:Join Mayors Neighborhood University Saturday Session for an in
 URL;VALUE=URI:https://www.tampa.gov/node/188316
 END:VEVENT
 BEGIN:VEVENT
-UID:caf90b1f-0c3e-4ac8-a097-b83b387079b1
+UID:862039c6-531d-465c-9048-76144243b223
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260425T120000Z
 DTEND:20260425T140000Z
 SUMMARY:Sensory Saturday
@@ -1479,9 +1479,9 @@ DESCRIPTION:Experience the intersection of music\, science\, and art at th
 URL;VALUE=URI:https://www.tampa.gov/node/189041
 END:VEVENT
 BEGIN:VEVENT
-UID:0dd87256-5c05-4367-a87d-811453644926
+UID:3f57b0ad-cf04-4e47-aa68-49b193827e74
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260426T130000Z
 DTEND:20260426T140000Z
 SUMMARY:Film 101
@@ -1503,9 +1503,9 @@ DESCRIPTION:Dive into Film Photography! Whether you want to dip your toe i
 URL;VALUE=URI:https://www.tampa.gov/node/187906
 END:VEVENT
 BEGIN:VEVENT
-UID:0fa0a2a9-536a-4652-b16f-720b21fe3c85
+UID:e43e3142-3436-42a4-a5d7-94699a018230
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260426T143000Z
 DTEND:20260426T163000Z
 SUMMARY:Street Photography
@@ -1522,9 +1522,9 @@ DESCRIPTION:Learn the fundamentals of Street photography and unlock your c
 URL;VALUE=URI:https://www.tampa.gov/node/187911
 END:VEVENT
 BEGIN:VEVENT
-UID:b20d4943-4bf1-4cae-8e9d-61b81a1946ec
+UID:4be4ad03-7f30-4376-81d0-0b24af603df8
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260426T150000Z
 DTEND:20260427T010000Z
 SUMMARY:Ink Mania Fest
@@ -1567,9 +1567,9 @@ DESCRIPTION:Ink Mania Fest is a threeday\, highenergy celebration of tatto
 URL;VALUE=URI:https://www.tampa.gov/node/187276
 END:VEVENT
 BEGIN:VEVENT
-UID:21b9563c-fa14-46d5-8c6d-17ca49b29a86
+UID:96938858-7ea1-4ded-b0b6-5ece001a43dd
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260426T153000Z
 DTEND:20260426T193000Z
 SUMMARY:26th Annual Old Seminole Heights Home Tour
@@ -1581,9 +1581,9 @@ DESCRIPTION:Please join us for the 26th Annual Old Seminole Heights Home T
 URL;VALUE=URI:https://www.tampa.gov/node/180596
 END:VEVENT
 BEGIN:VEVENT
-UID:36d7a9d2-71b3-492b-8aae-e37132729b30
+UID:fe0c9ac1-dd22-4360-a5ed-d695bbcb7fe7
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260426T160000Z
 DTEND:20260427T020000Z
 SUMMARY:2026 Sunday - Tampa Bay Black Heritage Festival
@@ -1602,9 +1602,9 @@ DESCRIPTION:The Tampa Bay Black Heritage Festival 2026 returns for two pow
 URL;VALUE=URI:https://www.tampa.gov/node/178456
 END:VEVENT
 BEGIN:VEVENT
-UID:c2615fa4-ce6a-4b95-88d7-a57ae2190398
+UID:ee61ef97-bc09-42f0-8f53-a11905b4f04e
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260426T160000Z
 DTEND:20260427T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -1620,9 +1620,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180486
 END:VEVENT
 BEGIN:VEVENT
-UID:6d11a8f8-123c-4e1f-8ac9-bec456282306
+UID:a00437ec-8785-4b28-b7f9-d2577c46e239
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260428T223000Z
 DTEND:20260429T030000Z
 SUMMARY:Silver Oak Wine Dinner at Driftlight Steakhouse
@@ -1647,9 +1647,9 @@ DESCRIPTION:Located on the main floor of JW Marriott Tampa Water Street (h
 URL;VALUE=URI:https://www.tampa.gov/node/187421
 END:VEVENT
 BEGIN:VEVENT
-UID:a24630be-4f93-4fee-b3b3-7010a0b0969a
+UID:d1772fbb-eddf-4984-9493-aa419a294616
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260501T160000Z
 DTEND:20260502T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -1665,9 +1665,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180491
 END:VEVENT
 BEGIN:VEVENT
-UID:6b6c9296-1a63-4d0e-be89-edf4eea6a162
+UID:b9259297-6d0a-447c-aaef-f33d47ce7ccd
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260501T210000Z
 DTEND:20260502T020000Z
 SUMMARY:Tampa Riverfest presented by Publix
@@ -1686,9 +1686,9 @@ DESCRIPTION:The Tampa Riverwalk is set to come alive for its biggest celeb
 URL;VALUE=URI:https://www.tampa.gov/node/187746
 END:VEVENT
 BEGIN:VEVENT
-UID:77fff167-5c2d-471f-a033-44ee64299477
+UID:4bc9a0f0-7b67-4ce9-a5d6-816d25f9d9a6
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260502T170000Z
 DTEND:20260502T190000Z
 SUMMARY:2020 Year of the Nurse Documentary by Robyn Roots MSN\, RN\, CDN
@@ -1701,9 +1701,9 @@ DESCRIPTION:This distinguished event is held in honor of National Nurses W
 URL;VALUE=URI:https://www.tampa.gov/node/189401
 END:VEVENT
 BEGIN:VEVENT
-UID:373991d6-5a28-406c-8944-4ce83e87a663
+UID:cebab4d9-c259-4567-8c0b-6d8d713d4a6b
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260502T170000Z
 DTEND:20260502T190000Z
 SUMMARY:A Red Carpet Affair 2020 Year of The Nurse Documentary by Robyn Ro
@@ -1728,9 +1728,9 @@ DESCRIPTION:This distinguished event is held in honor of National Nurses W
 URL;VALUE=URI:https://www.tampa.gov/node/189396
 END:VEVENT
 BEGIN:VEVENT
-UID:108515a2-a6c5-4cdf-8448-7a696f75f39f
+UID:5e64d778-6687-4b3b-a409-47c1f63c4a97
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260502T160000Z
 DTEND:20260503T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -1746,9 +1746,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180496
 END:VEVENT
 BEGIN:VEVENT
-UID:27c29c3c-34b7-4304-a1b7-32e389af6a5a
+UID:503c6f22-b9de-4e56-a275-4d921487585e
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260502T130000Z
 DTEND:20260502T160000Z
 SUMMARY:2026 Tampa All Pro Dad Experience
@@ -1765,9 +1765,9 @@ DESCRIPTION:Join Hall of Fame Coach\, Tony Dungy\, for a Saturday morning
 URL;VALUE=URI:https://www.tampa.gov/node/187796
 END:VEVENT
 BEGIN:VEVENT
-UID:57317f2b-d650-4521-ba89-53fd9c1c436f
+UID:864377ef-f1e9-4356-b4f4-9298200641fe
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260502T130000Z
 DTEND:20260503T023000Z
 SUMMARY:Tampa Riverfest presented by Publix
@@ -1786,9 +1786,9 @@ DESCRIPTION:The Tampa Riverwalk is set to come alive for its biggest celeb
 URL;VALUE=URI:https://www.tampa.gov/node/187751
 END:VEVENT
 BEGIN:VEVENT
-UID:18e3a081-379c-4863-bb86-06fd6284eb84
+UID:edce2369-2a48-45d0-9eba-ee8472b9785a
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260503T180000Z
 DTEND:20260503T190000Z
 SUMMARY:Lecture: When Women Ruled the World
@@ -1813,9 +1813,9 @@ DESCRIPTION:A womans power in the ancient world (and much of human history
 URL;VALUE=URI:https://www.tampa.gov/node/187171
 END:VEVENT
 BEGIN:VEVENT
-UID:6a8b3338-c91f-4af5-adfe-c15c271a5715
+UID:d44de965-9f88-4642-b0b3-39f1fc3e47e5
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260503T160000Z
 DTEND:20260504T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -1831,9 +1831,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180501
 END:VEVENT
 BEGIN:VEVENT
-UID:b1453a40-a1c2-4384-8dd2-a465c247889e
+UID:38451116-6936-4905-8fa1-f38f0f5aadae
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260503T140000Z
 DTEND:20260503T170000Z
 SUMMARY:Ceramics Continued Study
@@ -1851,9 +1851,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188721
 END:VEVENT
 BEGIN:VEVENT
-UID:6eb10108-e803-49dc-8756-ffa17dd9f600
+UID:c94037e9-7552-4a70-bbb1-857f8e366209
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260506T150000Z
 DTEND:20260506T180000Z
 SUMMARY:Mayors Food Truck Fiesta
@@ -1874,9 +1874,9 @@ DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors
 URL;VALUE=URI:https://www.tampa.gov/node/179611
 END:VEVENT
 BEGIN:VEVENT
-UID:ce90db51-ee9f-4ad6-ad86-c6d7c704aa5b
+UID:7db9cc77-5d39-41e9-84fe-69742a150e6e
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260507T220000Z
 DTEND:20260508T010000Z
 SUMMARY:Rock the Park
@@ -1895,9 +1895,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:2b8adfb7-1ae1-4ec3-8612-84582c2af3cd
+UID:1ff7b80e-7427-4898-9313-cc512a2d63cf
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260507T220000Z
 DTEND:20260508T010000Z
 SUMMARY:Fundamental Designs in Adobe
@@ -1915,9 +1915,9 @@ DESCRIPTION:This hands-on digital design course introduces students to the
 URL;VALUE=URI:https://www.tampa.gov/node/188681
 END:VEVENT
 BEGIN:VEVENT
-UID:0232ad88-4b21-4c35-8702-c1df68fcae2d
+UID:eba415bf-c328-4e8c-8fef-e6dc37ca3d25
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260508T160000Z
 DTEND:20260509T020000Z
 SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
@@ -1933,9 +1933,9 @@ DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay
 URL;VALUE=URI:https://www.tampa.gov/node/180506
 END:VEVENT
 BEGIN:VEVENT
-UID:a481c763-dde7-450f-bf7f-9d673773b927
+UID:b03c49a1-7371-4edf-8fc7-5cfcd649541f
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260509T000000Z
 DTEND:20260509T030000Z
 SUMMARY:Divos: Live In Concert
@@ -1951,9 +1951,9 @@ DESCRIPTION:Our Divas dazzled you last year. Now\, Its the boys turn! Insp
 URL;VALUE=URI:https://www.tampa.gov/node/189386
 END:VEVENT
 BEGIN:VEVENT
-UID:c6f24aff-dd77-4880-a820-b831633f0ec2
+UID:4fe5f430-6a12-4c15-a4d8-09b76a3da8d1
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260510T000000Z
 DTEND:20260510T030000Z
 SUMMARY:Divos: Live In Concert
@@ -1969,27 +1969,9 @@ DESCRIPTION:Our Divas dazzled you last year. Now\, Its the boys turn! Insp
 URL;VALUE=URI:https://www.tampa.gov/node/189391
 END:VEVENT
 BEGIN:VEVENT
-UID:b8eecf21-7324-4181-94a6-26a17a6d0e0b
+UID:a395494f-ec1c-4ca7-b4f8-f114dd26930f
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
-DTSTART:20260509T160000Z
-DTEND:20260510T020000Z
-SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
-LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
- tes
-DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
- Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
- d unique as the parks thrilling roller coaster collection (https:buschgard
- ens.comtamparides). Guests can sip savor their way through flavorful eats 
- and mouthwatering treats each weekend of the event. Park guests can also e
- xperience live concert performances every weekend FREE with park admission
- . \n\nPermalink: https://www.tampa.gov/node/180511
-URL;VALUE=URI:https://www.tampa.gov/node/180511
-END:VEVENT
-BEGIN:VEVENT
-UID:d0c37f2e-219e-4bc9-b57f-9f8513afd830
-SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260509T133000Z
 DTEND:20260509T143000Z
 SUMMARY:Free Class: Hurricane Preparedness
@@ -2012,9 +1994,27 @@ DESCRIPTION:Tampa Family Health Centers (TFHC) hosts an interactive class
 URL;VALUE=URI:https://www.tampa.gov/node/189286
 END:VEVENT
 BEGIN:VEVENT
-UID:95d6fde3-2f89-4828-b417-2c4bdea74f6b
+UID:e7de5a07-289b-4eba-95b3-2481a841da6d
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
+DTSTART:20260509T160000Z
+DTEND:20260510T020000Z
+SUMMARY:Busch Gardens 2026 Food\, Wine Garden Festival
+LOCATION:10165 McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United Sta
+ tes
+DESCRIPTION:A world of taste awaits at the annual Busch Gardens Tampa Bay 
+ Food\, Wine Garden Festival with a delicious menu and drinks as dynamic an
+ d unique as the parks thrilling roller coaster collection (https:buschgard
+ ens.comtamparides). Guests can sip savor their way through flavorful eats 
+ and mouthwatering treats each weekend of the event. Park guests can also e
+ xperience live concert performances every weekend FREE with park admission
+ . \n\nPermalink: https://www.tampa.gov/node/180511
+URL;VALUE=URI:https://www.tampa.gov/node/180511
+END:VEVENT
+BEGIN:VEVENT
+UID:726b6a03-69fc-4442-9f4a-5a608b609723
+SEQUENCE:0
+DTSTAMP:20260425T001342Z
 DTSTART:20260510T140000Z
 DTEND:20260510T200000Z
 SUMMARY:Mother039\\\;s Day Brunch at Rusty Pelican Tampa
@@ -2035,9 +2035,9 @@ DESCRIPTION:Treat Mom to a truly special experience at Rusty Pelican Tampa
 URL;VALUE=URI:https://www.tampa.gov/node/189066
 END:VEVENT
 BEGIN:VEVENT
-UID:3bfd5def-e0dd-4dbb-91b7-b3737ace4ad6
+UID:71d942b7-ca3f-431d-9243-05117ae84688
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260511T203000Z
 DTEND:20260511T233000Z
 SUMMARY:Blind Date with a Book
@@ -2063,9 +2063,9 @@ DESCRIPTION:Its a match! Swipe right on a good read and start a new chapte
 URL;VALUE=URI:https://www.tampa.gov/node/188211
 END:VEVENT
 BEGIN:VEVENT
-UID:b5651bd1-5fae-4843-a5da-3b83eb6f94b9
+UID:a7593d87-4e3b-4aba-93e3-52f113af0962
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260514T160000Z
 DTEND:20260514T203000Z
 SUMMARY:Downtowns Backyard Market
@@ -2087,9 +2087,9 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179656
 END:VEVENT
 BEGIN:VEVENT
-UID:af82216a-9d6c-4e50-a5d6-172973b11620
+UID:4e0c90a9-f021-481e-b8dd-a7960e4ca77a
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260515T220000Z
 DTEND:20260516T020000Z
 SUMMARY:Yuengling Night Market
@@ -2105,9 +2105,9 @@ DESCRIPTION:Join us for a spirited Night Market in the courtyard at Yuengl
 URL;VALUE=URI:https://www.tampa.gov/node/189266
 END:VEVENT
 BEGIN:VEVENT
-UID:a66d6d58-01e5-4c0f-9ca9-165c49d618e1
+UID:8b09d4e6-732c-42cf-b6df-0f21ad520da6
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260517T000000Z
 DTEND:20260517T030000Z
 SUMMARY:CITY: Printemps NY Introduces Giuseppe di Morabito
@@ -2132,9 +2132,9 @@ DESCRIPTION:The Tampa Museum of Art is honored to announce CITY: FashionAr
 URL;VALUE=URI:https://www.tampa.gov/node/188906
 END:VEVENT
 BEGIN:VEVENT
-UID:06dca51c-c50d-49bc-a33d-544da4cc5fbd
+UID:bfc218db-0448-4269-ba60-33203bd419a9
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260520T150000Z
 DTEND:20260520T170000Z
 SUMMARY:LiveLung Tampa Chapter: Lung Cancer Education Support Meeting
@@ -2155,9 +2155,9 @@ DESCRIPTION:The LiveLung Tampa Chapter brings together people impacted by
 URL;VALUE=URI:https://www.tampa.gov/node/189406
 END:VEVENT
 BEGIN:VEVENT
-UID:4fb281f4-b8e9-460e-8d98-78b85a622e85
+UID:ac0ff584-f1d1-4a8c-b119-6e0232cecea3
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260523T213000Z
 DTEND:20260524T000000Z
 SUMMARY:Navy Federal Jams - Kashus Culpepper
@@ -2172,9 +2172,9 @@ DESCRIPTION:Join Navy Federal Credit Union for a free night of live music
 URL;VALUE=URI:https://www.tampa.gov/node/188896
 END:VEVENT
 BEGIN:VEVENT
-UID:67167ff2-1045-4ff9-873f-4c485391ae8b
+UID:370cab57-2d85-4831-ab04-fcd56f0b5046
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260529T160000Z
 DTEND:20260529T170000Z
 SUMMARY:Virtual Artful Connections
@@ -2192,9 +2192,9 @@ DESCRIPTION:Want a break from your day to de-stress and enjoy artwork? The
 URL;VALUE=URI:https://www.tampa.gov/node/180321
 END:VEVENT
 BEGIN:VEVENT
-UID:d533ba9d-c382-49c6-aecf-bf7632df8d64
+UID:75e93299-6711-4463-8f17-c62eecb5d77b
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260530T150000Z
 DTEND:20260530T190000Z
 SUMMARY:2026 Hurricane Preparedness Expo
@@ -2212,9 +2212,9 @@ DESCRIPTION:Its time to start planning! Save the date for Tampa Fire Rescu
 URL;VALUE=URI:https://www.tampa.gov/node/186531
 END:VEVENT
 BEGIN:VEVENT
-UID:f70d2f72-7a04-4384-b8ae-cd078323a47d
+UID:b4ea1dc2-5ea4-4236-bf5d-0dc7c2ccb439
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260530T150000Z
 DTEND:20260530T190000Z
 SUMMARY:Tampa Fire Rescue 4th Annual Hurricane Preparedness Expo
@@ -2232,9 +2232,9 @@ DESCRIPTION:Tampa Fire Rescue is proud to invite you to our 4th Annual Hur
 URL;VALUE=URI:https://www.tampa.gov/node/188801
 END:VEVENT
 BEGIN:VEVENT
-UID:18891ed2-0c1b-44b1-84a0-99cf2b7ef27f
+UID:2abc917e-1967-44d8-98b8-04b63ba69394
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260531T140000Z
 DTEND:20260531T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2252,9 +2252,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188731
 END:VEVENT
 BEGIN:VEVENT
-UID:927582b9-ac40-45b8-bdca-73c5eb909336
+UID:dd3bf253-4597-430a-8e97-4b52a5a7d431
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260531T170000Z
 DTEND:20260531T200000Z
 SUMMARY:Fundamental Figure Drawing
@@ -2270,9 +2270,9 @@ DESCRIPTION:This class will teach students to capture the character\, stru
 URL;VALUE=URI:https://www.tampa.gov/node/189276
 END:VEVENT
 BEGIN:VEVENT
-UID:9f398f9b-46e9-4057-b477-4b157e7942ed
+UID:6b3896ed-658e-4553-b949-3b1334103a85
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260603T140000Z
 DTEND:20260603T170000Z
 SUMMARY:Surface and Fire  Raku Firing
@@ -2295,9 +2295,9 @@ DESCRIPTION:This four-week workshop immerses students in the bold forms an
 URL;VALUE=URI:https://www.tampa.gov/node/188656
 END:VEVENT
 BEGIN:VEVENT
-UID:51c5890b-e5a8-44eb-b244-03f63efe5932
+UID:178a0cc5-f804-4f98-94e4-f591f519b06c
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260603T150000Z
 DTEND:20260603T180000Z
 SUMMARY:Mayors Food Truck Fiesta
@@ -2318,9 +2318,9 @@ DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors
 URL;VALUE=URI:https://www.tampa.gov/node/179616
 END:VEVENT
 BEGIN:VEVENT
-UID:0281917e-d1a8-4e51-b561-5861aacd8515
+UID:065ee417-ef71-47f7-be8c-56d3eff8d193
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260604T220000Z
 DTEND:20260605T010000Z
 SUMMARY:Rock the Park
@@ -2339,9 +2339,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:746d571c-7fba-445a-9f6c-5c4d78062e36
+UID:f05da28b-3cd7-4cda-9e51-c0fa5fa852ec
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260605T210000Z
 DTEND:20260606T010000Z
 SUMMARY:B4A Womens Conference - Rise from Pain to Purpose
@@ -2353,9 +2353,9 @@ DESCRIPTION:Join us for Day 1 of the B4A Womens Conference. A transformati
 URL;VALUE=URI:https://www.tampa.gov/node/188176
 END:VEVENT
 BEGIN:VEVENT
-UID:422efbbe-09e5-4d77-8d33-4628433002c8
+UID:4cddd956-405e-49f8-bf1a-5eff610e68db
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260607T140000Z
 DTEND:20260607T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2373,9 +2373,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188736
 END:VEVENT
 BEGIN:VEVENT
-UID:55e138ea-783e-43e1-add2-a9cbdbe9c45b
+UID:9a110a54-6c79-4ce1-a370-766ca8689bac
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260607T170000Z
 DTEND:20260607T200000Z
 SUMMARY:Studio55: Photography
@@ -2393,9 +2393,9 @@ DESCRIPTION:In this class\, students will explore a range of photographic
 URL;VALUE=URI:https://www.tampa.gov/node/188676
 END:VEVENT
 BEGIN:VEVENT
-UID:14b867a8-97a6-4aa3-9320-479437811c55
+UID:f831d760-9e4b-4ab4-a2a6-15025b5ccf68
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260611T160000Z
 DTEND:20260611T203000Z
 SUMMARY:Downtowns Backyard Market
@@ -2417,9 +2417,9 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179661
 END:VEVENT
 BEGIN:VEVENT
-UID:24291eec-58ec-4d8b-8437-40c9ab723719
+UID:512a4fb5-d021-499b-8f18-8f08b21cfd79
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260614T140000Z
 DTEND:20260614T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2437,9 +2437,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188741
 END:VEVENT
 BEGIN:VEVENT
-UID:b26242a9-2150-43c9-9176-c37dea2b3c40
+UID:78a1b24e-1707-4401-8d78-2dd492c05d7b
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260616T220000Z
 DTEND:20260616T233000Z
 SUMMARY:Central Park Jazz Jam
@@ -2455,9 +2455,9 @@ DESCRIPTION:Let the good times roll at Central Park Jazz Jam! This FREE co
 URL;VALUE=URI:https://www.tampa.gov/node/177851
 END:VEVENT
 BEGIN:VEVENT
-UID:a6f50da0-4ee1-4e11-b4ea-bf25de24c19a
+UID:9b997918-53bf-4355-a0ee-66202e1caca9
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260616T220000Z
 DTEND:20260617T010000Z
 SUMMARY:Figure Drawing Study
@@ -2473,9 +2473,9 @@ DESCRIPTION:Work in your drawing and painting media of choice or explore n
 URL;VALUE=URI:https://www.tampa.gov/node/189221
 END:VEVENT
 BEGIN:VEVENT
-UID:a685cb19-0755-4fbe-a093-ca8d61bca647
+UID:99ad1471-eb20-479e-9299-b0a2badb182d
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260618T220000Z
 DTEND:20260619T010000Z
 SUMMARY:Remix: Suchitra Mattai
@@ -2490,9 +2490,9 @@ DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
 URL;VALUE=URI:https://www.tampa.gov/node/188711
 END:VEVENT
 BEGIN:VEVENT
-UID:808bfbe2-396b-4121-a125-f359229a0234
+UID:97276578-491c-4ba6-b811-788256fdfcb8
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260618T220000Z
 DTEND:20260619T010000Z
 SUMMARY:Remix: Suchitra Mattai
@@ -2507,9 +2507,9 @@ DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
 URL;VALUE=URI:https://www.tampa.gov/node/188576
 END:VEVENT
 BEGIN:VEVENT
-UID:602082ca-aff5-4f2a-96ee-57147bc6926f
+UID:ae9f3ecb-7b82-4ebf-ac5f-b65824622c88
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260618T170000Z
 DTEND:20260618T200000Z
 SUMMARY:Studio55: Collage Explorations
@@ -2527,9 +2527,9 @@ DESCRIPTION:Ready to fall under the spell of collage? Join us for an eight
 URL;VALUE=URI:https://www.tampa.gov/node/188706
 END:VEVENT
 BEGIN:VEVENT
-UID:41490b1e-9083-48e4-b669-aa4eb14313ec
+UID:e94cff87-8f34-4b68-9f9c-47898cb2bc86
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260621T120000Z
 DTEND:20260621T160000Z
 SUMMARY:Juneteenth 5K CommUnity WalkRun
@@ -2549,9 +2549,9 @@ DESCRIPTION:The Juneteenth 5K CommUnity WalkRun is a free\, family-friendl
 URL;VALUE=URI:https://www.tampa.gov/node/188861
 END:VEVENT
 BEGIN:VEVENT
-UID:cfceff9f-a479-4440-9516-97ab90cf5f92
+UID:cc07d1bf-9649-4860-b443-bb891d324b08
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260627T140000Z
 DTEND:20260627T170000Z
 SUMMARY:Expressive Poetry
@@ -2567,9 +2567,9 @@ DESCRIPTION:Since ancient times\, humans have created meaning of our world
 URL;VALUE=URI:https://www.tampa.gov/node/188661
 END:VEVENT
 BEGIN:VEVENT
-UID:287b8b71-5a3b-4533-b8a8-17254f89d4a4
+UID:90d6e2d9-42fe-40b7-afff-428155c1d3ed
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260629T140000Z
 DTEND:20260629T200000Z
 SUMMARY:Studio55: Encaustic Explorations
@@ -2588,9 +2588,9 @@ DESCRIPTION:Explore the world of Encaustic art\, an ancient form of painti
 URL;VALUE=URI:https://www.tampa.gov/node/188726
 END:VEVENT
 BEGIN:VEVENT
-UID:3c6fc51d-9238-4705-a43d-ba60ad94728d
+UID:b7f4026c-8c22-4c58-97a0-f5806150230c
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260701T150000Z
 DTEND:20260701T180000Z
 SUMMARY:Mayors Food Truck Fiesta
@@ -2611,9 +2611,9 @@ DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors
 URL;VALUE=URI:https://www.tampa.gov/node/179621
 END:VEVENT
 BEGIN:VEVENT
-UID:33801955-e478-4135-8542-019581fb9ea4
+UID:55a6c395-c52c-4df3-b779-5383780420a3
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260702T220000Z
 DTEND:20260703T010000Z
 SUMMARY:Rock the Park
@@ -2632,9 +2632,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:79f65d77-f9a2-40c0-bdc5-272c2fc994a9
+UID:b0c04295-b8b1-4d7c-be68-08e563dee9b6
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260705T140000Z
 DTEND:20260705T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2652,9 +2652,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188746
 END:VEVENT
 BEGIN:VEVENT
-UID:ebc3b476-1bf5-4bab-9cb3-9ed9b3719ec5
+UID:6da50674-25df-4985-8ff5-06c9265add10
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260709T160000Z
 DTEND:20260709T203000Z
 SUMMARY:Downtowns Backyard Market
@@ -2676,9 +2676,9 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179666
 END:VEVENT
 BEGIN:VEVENT
-UID:b910c2b6-4421-4037-bf26-07a03faebe87
+UID:9abb1f92-dd79-4d06-8ddc-a539a632449a
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260711T140000Z
 DTEND:20260711T170000Z
 SUMMARY:Studio55: Ceramics
@@ -2693,9 +2693,9 @@ DESCRIPTION:Use clay to build\, mold\, and sculpt three-dimensional works
 URL;VALUE=URI:https://www.tampa.gov/node/188601
 END:VEVENT
 BEGIN:VEVENT
-UID:35e16283-bc2c-4d80-bbd4-076d16c16f3e
+UID:3db6c979-f550-46a7-9716-d74300468c9e
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260712T140000Z
 DTEND:20260712T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2713,9 +2713,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188751
 END:VEVENT
 BEGIN:VEVENT
-UID:56b2051e-d542-4d54-a25e-41f4bf3b7a5f
+UID:88afe5d0-509d-47ac-862d-e7c3f66167fc
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260717T220000Z
 DTEND:20260718T010000Z
 SUMMARY:Rhythm Hues: An Alleyway Art Show
@@ -2731,9 +2731,9 @@ DESCRIPTION:LOCATION: Rialto Theater Alleyway  1617 N Franklin St\, Tampa\
 URL;VALUE=URI:https://www.tampa.gov/node/188226
 END:VEVENT
 BEGIN:VEVENT
-UID:c4b04fad-e25a-4abe-ad97-c1fec19482c3
+UID:9de322e5-53f1-4615-aff5-bc11f4c812be
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260719T140000Z
 DTEND:20260719T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2751,9 +2751,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188756
 END:VEVENT
 BEGIN:VEVENT
-UID:304ec59f-9f99-4c12-84df-58611ed6e3ef
+UID:51502b3c-a2c3-4910-9536-c67baae210fb
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260721T220000Z
 DTEND:20260722T010000Z
 SUMMARY:Figure Drawing Study
@@ -2769,9 +2769,9 @@ DESCRIPTION:Work in your drawing and painting media of choice or explore n
 URL;VALUE=URI:https://www.tampa.gov/node/189216
 END:VEVENT
 BEGIN:VEVENT
-UID:9f13fc03-bacc-487e-b4eb-0927d84b5828
+UID:09473e10-8bd6-4f27-bbe6-a9a791cc744d
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260723T220000Z
 DTEND:20260724T010000Z
 SUMMARY:Remix: Mysteries of the Nile
@@ -2786,9 +2786,9 @@ DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
 URL;VALUE=URI:https://www.tampa.gov/node/189166
 END:VEVENT
 BEGIN:VEVENT
-UID:a1657880-2488-43fd-9c8a-b728bdb9771d
+UID:c6200a55-de00-4aaa-b459-7dee895f3df5
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260726T140000Z
 DTEND:20260726T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2806,9 +2806,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188761
 END:VEVENT
 BEGIN:VEVENT
-UID:5565129e-7be1-4291-9078-729a8b71d0a0
+UID:897a38a9-2e82-4bea-b389-62a444edb765
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260802T140000Z
 DTEND:20260802T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2826,9 +2826,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188766
 END:VEVENT
 BEGIN:VEVENT
-UID:179a8fec-8769-4c7a-9171-be3d423e10b8
+UID:f4e0e437-a324-4bcf-aa8b-e52d42eb47cf
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260804T140000Z
 DTEND:20260804T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -2846,9 +2846,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188521
 END:VEVENT
 BEGIN:VEVENT
-UID:1d5897f6-8bbd-4489-8cc3-c13b3c1e2ccd
+UID:c350de1c-4268-4d23-b4cd-cf551a8dc711
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260805T150000Z
 DTEND:20260805T180000Z
 SUMMARY:Mayors Food Truck Fiesta
@@ -2869,9 +2869,9 @@ DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors
 URL;VALUE=URI:https://www.tampa.gov/node/179626
 END:VEVENT
 BEGIN:VEVENT
-UID:4d968076-ceb2-4ec1-9e58-851f123d9a86
+UID:d855b5bb-7d37-4413-a3fc-a3574fe763fb
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260805T160000Z
 DTEND:20260805T190000Z
 SUMMARY:Studio55: Kitchen Lithography and Monotype Printmaking
@@ -2888,9 +2888,9 @@ DESCRIPTION:In this 4-week class students will experiment with 2 technique
 URL;VALUE=URI:https://www.tampa.gov/node/189186
 END:VEVENT
 BEGIN:VEVENT
-UID:f343b7d7-2e25-457b-91ce-e1e8b75a26c2
+UID:eff6c49f-8616-4899-8342-7bb97e814b54
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260806T220000Z
 DTEND:20260807T010000Z
 SUMMARY:Rock the Park
@@ -2909,9 +2909,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:4bc907ce-91a5-4081-ba41-91e75bb35cfb
+UID:ffa58d5e-d8f5-44c3-a8ec-82a97afd6a4e
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260810T203000Z
 DTEND:20260810T233000Z
 SUMMARY:Blind Date with a Book
@@ -2936,9 +2936,9 @@ DESCRIPTION:Its a match! Swipe right on a good read and start a new chapte
 URL;VALUE=URI:https://www.tampa.gov/node/179436
 END:VEVENT
 BEGIN:VEVENT
-UID:35f2224f-1490-49bb-b441-67723373510a
+UID:32d4eedc-ee02-4041-97d8-44002e401dfc
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260811T140000Z
 DTEND:20260811T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -2956,9 +2956,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188526
 END:VEVENT
 BEGIN:VEVENT
-UID:fd1b8424-8166-4c50-8cb4-2f583210f9ad
+UID:6527d2d9-da5d-4ef5-a7c4-9366b547aefb
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260812T160000Z
 DTEND:20260812T190000Z
 SUMMARY:Studio55: Kitchen Lithography and Monotype Printmaking
@@ -2975,9 +2975,9 @@ DESCRIPTION:In this 4-week class students will experiment with 2 technique
 URL;VALUE=URI:https://www.tampa.gov/node/189191
 END:VEVENT
 BEGIN:VEVENT
-UID:1ead2def-b3d0-4110-84d9-62cbeda07c06
+UID:c5f72450-fa9a-47c2-9cd6-0cda80c50fee
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260813T160000Z
 DTEND:20260813T203000Z
 SUMMARY:Downtowns Backyard Market
@@ -2999,9 +2999,9 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179671
 END:VEVENT
 BEGIN:VEVENT
-UID:d9ba946e-54b0-4874-a03e-1bef17753086
+UID:2e83ba3c-c576-4fda-aec1-baa4adea6d85
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260816T140000Z
 DTEND:20260816T170000Z
 SUMMARY:Tampa Museum of Art
@@ -3019,9 +3019,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188776
 END:VEVENT
 BEGIN:VEVENT
-UID:64bc1f09-17b3-4131-bc97-d33fa6ab809e
+UID:ff80f655-0644-4eba-b54e-2bfc248475f8
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260818T140000Z
 DTEND:20260818T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -3039,9 +3039,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188531
 END:VEVENT
 BEGIN:VEVENT
-UID:d2195124-828a-4320-a1a2-572a40343573
+UID:862e12b1-305c-4309-84eb-fe77064c3aa7
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260819T160000Z
 DTEND:20260819T190000Z
 SUMMARY:Studio55: Kitchen Lithography and Monotype Printmaking
@@ -3058,9 +3058,9 @@ DESCRIPTION:In this 4-week class students will experiment with 2 technique
 URL;VALUE=URI:https://www.tampa.gov/node/189196
 END:VEVENT
 BEGIN:VEVENT
-UID:68ef7e87-636b-4d6b-93b1-4e2e83fc0d45
+UID:3ae6c348-8927-45d4-9976-4c606e244af0
 SEQUENCE:0
-DTSTAMP:20260424T001631Z
+DTSTAMP:20260425T001342Z
 DTSTART:20260823T140000Z
 DTEND:20260823T170000Z
 SUMMARY:Ceramics Continued Study
