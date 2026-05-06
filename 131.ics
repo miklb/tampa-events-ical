@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Police General
 X-WR-CALNAME:Tampa Calendar - Police General
 X-WR-CALDESC:Community events in Tampa for Police General
 BEGIN:VEVENT
-UID:db3f569d-bab8-4ac6-9053-0b383f24c2cb
+UID:5c9cd3bf-77a1-4ea1-9e75-de976562c4d6
 SEQUENCE:0
-DTSTAMP:20260505T001902Z
+DTSTAMP:20260506T001844Z
 DTSTART:20260506T233000Z
 DTEND:20260507T003000Z
 SUMMARY:Tampa Police Memorial Ceremony
@@ -42,9 +42,9 @@ DESCRIPTION:The Tampa Police Department will commemorate the sacrifices of
 URL;VALUE=URI:https://www.tampa.gov/node/188686
 END:VEVENT
 BEGIN:VEVENT
-UID:161e5f27-4459-419c-959c-d683e235ccde
+UID:1fd204c5-7e11-4b26-b54e-750183846bc0
 SEQUENCE:0
-DTSTAMP:20260505T001902Z
+DTSTAMP:20260506T001844Z
 DTSTART:20260506T220000Z
 DTEND:20260506T230000Z
 SUMMARY:Chief039\\\;s Advisory Panel - May 2026
@@ -68,5 +68,35 @@ DESCRIPTION:AGENDA CHIEFS ADVISORY PANEL FOR THE TAMPA POLICE DEPARTMENT M
  ccommodations Request online form available at tampagov.netADARequest \n\n
  Permalink: https://www.tampa.gov/node/189551
 URL;VALUE=URI:https://www.tampa.gov/node/189551
+END:VEVENT
+BEGIN:VEVENT
+UID:97b53593-162d-4994-8c2e-172db5f144aa
+SEQUENCE:0
+DTSTAMP:20260506T001844Z
+DTSTART:20260510T140000Z
+DTEND:20260510T170000Z
+SUMMARY:Tampa Police Bicycle Safety Rodeo for Kids
+LOCATION:Tampa \, FL United States
+DESCRIPTION:The Tampa Police Bicycle Operations and Response Unit will be 
+ teaching kids from the community about bicycle safety\, including how to p
+ roperly wear a helmet\, check for traffic at intersections\, and maneuver 
+ their bikes through an obstacle course during a Tampa Police Bicycle Safet
+ y Rodeo being held on May 10\, 2026. The bicycle rodeo will be held from 1
+ 0:00 am until 1:00 pm at Armature Works\, located at 1910 N. Ola Ave. Whil
+ e supplies last\, Officers will provide free bicycle helmets to kids who d
+ o not have one yet. Officers will also assist parents in registering their
+  family bicycles with the Tampa Police Department. Registering is free and
+  gives the bike an ID number\, making it easier for officers to recover it
+  if the bike is stolen. The Tampa Police Department bicycle rodeos help su
+ pport the City of Tampa Vision Zero Action Plan (https:www.tampa.govvision
+ zero) goal of eliminating all roadway deaths and life-altering injuries wh
+ ile increasing safe\, healthy\, equitable mobility for all. Promoting bicy
+ cle safety helps reduce the number of citizens seriously injured or killed
+  in traffic crashes and encourages everyone using our shared roadways to b
+ e aware of how they can help us make Tampa safer\, together. For more bicy
+ cle safety tips\, and a link to register your bicycle\, go to tampa.govpol
+ iceinfobicycle-safety (https:www.tampa.govpoliceinfobicycle-safety) \n\nPe
+ rmalink: https://www.tampa.gov/node/189796
+URL;VALUE=URI:https://www.tampa.gov/node/189796
 END:VEVENT
 END:VCALENDAR
