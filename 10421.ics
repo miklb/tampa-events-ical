@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Parks &amp; Recreation
 X-WR-CALNAME:Tampa Calendar - Parks &amp; Recreation
 X-WR-CALDESC:Community events in Tampa for Parks &amp; Recreation
 BEGIN:VEVENT
-UID:798b3f07-1b1c-4f73-aa9a-3a148b34c0f0
+UID:d0ef600b-65ec-45c3-9801-d58138e75725
 SEQUENCE:0
-DTSTAMP:20260514T002353Z
+DTSTAMP:20260515T002117Z
 DTSTART:20260502T123000Z
 DTEND:20260502T143000Z
 SUMMARY:Rhythm Fitness IV
@@ -18,5 +18,19 @@ DESCRIPTION:Rhythm Fitness is a great event of fitness\, fun\, and friends
  begin at 9:15. Coach Arthur will make sure its a great time - what better 
  way to get healthier? \n\nPermalink: https://www.tampa.gov/node/186941
 URL;VALUE=URI:https://www.tampa.gov/node/186941
+END:VEVENT
+BEGIN:VEVENT
+UID:12943bd1-c856-4fb7-b29c-c81cdcad4012
+SEQUENCE:0
+DTSTAMP:20260515T002117Z
+DTSTART:20260517T140000Z
+DTEND:20260517T190000Z
+SUMMARY:Water Street Tampa Market
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Water Street Tampa Market Sunday\, May 17\, 2026 10am-3pm Wate
+ r Street District For additional information\, please visit Water Street T
+ ampa Market (https:www.waterstreettampa.com) \n\nPermalink: https://www.ta
+ mpa.gov/node/179111
+URL;VALUE=URI:https://www.tampa.gov/node/179111
 END:VEVENT
 END:VCALENDAR
