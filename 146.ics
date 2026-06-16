@@ -5,9 +5,29 @@ NAME:Tampa Calendar - Neighborhood Events
 X-WR-CALNAME:Tampa Calendar - Neighborhood Events
 X-WR-CALDESC:Community events in Tampa for Neighborhood Events
 BEGIN:VEVENT
-UID:84467c79-b524-493a-95e7-98e683a17e76
+UID:6b2aa0c2-ede4-45c4-a1b4-59e7a60d21bc
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260602T140000Z
+DTEND:20260602T170000Z
+SUMMARY:Studio 55  Ceramics Continued Study
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
+ eir learning experience with instructor assistance and guiding knowledge. 
+ Sign up for a single class to continue working and add the finishing touch
+ es on projects youve started in one of our other classes. Sign up for mult
+ iple classes to choose your own adventure in hand-building or wheel thrown
+  ceramics. Work with your instructor to plan out your projects and make th
+ em a reality. Some experience with clay is recommended. 55 Beginner-Interm
+ ediate Firing costs\, essential tools\, and glazes included. Clay availabl
+ e for purchase separately in studio. \n\nPermalink: https://www.tampa.gov/
+ node/188481
+URL;VALUE=URI:https://www.tampa.gov/node/188481
+END:VEVENT
+BEGIN:VEVENT
+UID:5f1ac846-5e36-4f04-b0cd-26561b459fa4
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260602T223000Z
 DTEND:20260602T233000Z
 SUMMARY:Land Development Code Update Interactive Community Meeting
@@ -28,75 +48,9 @@ DESCRIPTION:Tampa is growing\, and the rules that guide how our city devel
 URL;VALUE=URI:https://www.tampa.gov/node/190951
 END:VEVENT
 BEGIN:VEVENT
-UID:04356134-244f-472b-9a9e-adb08232b4b1
+UID:cd4cdbb9-46b0-4da3-b00d-c477a950e55e
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260602T140000Z
-DTEND:20260602T170000Z
-SUMMARY:Studio 55  Ceramics Continued Study
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
- eir learning experience with instructor assistance and guiding knowledge. 
- Sign up for a single class to continue working and add the finishing touch
- es on projects youve started in one of our other classes. Sign up for mult
- iple classes to choose your own adventure in hand-building or wheel thrown
-  ceramics. Work with your instructor to plan out your projects and make th
- em a reality. Some experience with clay is recommended. 55 Beginner-Interm
- ediate Firing costs\, essential tools\, and glazes included. Clay availabl
- e for purchase separately in studio. \n\nPermalink: https://www.tampa.gov/
- node/188481
-URL;VALUE=URI:https://www.tampa.gov/node/188481
-END:VEVENT
-BEGIN:VEVENT
-UID:16d82836-1fc0-4b9e-89ed-6852602590e2
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260603T223000Z
-DTEND:20260603T233000Z
-SUMMARY:Land Development Code Update Interactive Community Meeting
-LOCATION:Forest Hills Community Center 724 West 109th Avenue Tampa \, FL 3
- 3612 United States
-DESCRIPTION:Tampa is growing\, and the rules that guide how our city devel
- ops are evolving too. Join us for an interactive community meeting on Tamp
- a Forward\, where youll learn what the Land Development Code is\, why it m
- atters\, and how it impacts your neighborhood. Come ask questions\, share 
- your perspective\, and be part of the conversation shaping Tampas next cha
- pter. Learn more at: tampa.govTampaForward In accordance with the American
- s with Disabilities Act (ADA) and Section 286.26\, Florida Statutes\, pers
- ons with disabilities needing a reasonable accommodation should contact th
- e City of Tampas ADA Coordinator. The ADA Coordinator may be contacted by 
- phone at (813) 274-3964\, email at TampaADAtampagov.net\, or by submitting
-  an ADA - Accommodations Request online form available at tampagov.netADAR
- equest \n\nPermalink: https://www.tampa.gov/node/190956
-URL;VALUE=URI:https://www.tampa.gov/node/190956
-END:VEVENT
-BEGIN:VEVENT
-UID:7b7249f6-e855-43d4-aa2b-999e52b246c4
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260603T150000Z
-DTEND:20260603T180000Z
-SUMMARY:Mayors Food Truck Fiesta
-LOCATION:241-\, 263 E Madison St Tampa \, FL 33602 United States
-DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors 
- Food Truck Fiesta is rolling in to Lykes Gaslight Park the first Wednesday
-  of every month from 11am to 2pm. Join us for truckloads of local favorite
- s and food that goes the extra mile. (Literally!) Thank you to the City of
-  Tampa for their sponsorship of this event. (Interested in becoming a vend
- or? Contact Tampa Downtown Partnership!) - - - - - - - - - - Vmonos de fie
- sta! Debido a su popularidad (y hambre)\, el Mayors Food Truck Fiesta va a
-  hacer una parada en el parque de Lykes Gaslight el primer mircoles de cad
- a mes desde las 11am a las 2pm. Acompanos y disfruta de los mejores sabore
- s sobre ruedas de la ciudad. Gracias a la Ciudad de Tampa por patrocinar e
- l evento. (Tienes un food truck y quieres participar en el evento? Contact
- a a Tampa Downtown Partnership!) \n\nPermalink: https://www.tampa.gov/node
- /179616
-URL;VALUE=URI:https://www.tampa.gov/node/179616
-END:VEVENT
-BEGIN:VEVENT
-UID:03efda3f-ae28-460d-9eb4-6490006038d1
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260603T140000Z
 DTEND:20260603T170000Z
 SUMMARY:Surface and Fire  Raku Firing
@@ -119,9 +73,55 @@ DESCRIPTION:This four-week workshop immerses students in the bold forms an
 URL;VALUE=URI:https://www.tampa.gov/node/188656
 END:VEVENT
 BEGIN:VEVENT
-UID:fdda8f9b-0ba0-462d-b95c-203b335ab55b
+UID:c8adbdeb-2a85-4244-98ad-7c928112fb43
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260603T150000Z
+DTEND:20260603T180000Z
+SUMMARY:Mayors Food Truck Fiesta
+LOCATION:241-\, 263 E Madison St Tampa \, FL 33602 United States
+DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors 
+ Food Truck Fiesta is rolling in to Lykes Gaslight Park the first Wednesday
+  of every month from 11am to 2pm. Join us for truckloads of local favorite
+ s and food that goes the extra mile. (Literally!) Thank you to the City of
+  Tampa for their sponsorship of this event. (Interested in becoming a vend
+ or? Contact Tampa Downtown Partnership!) - - - - - - - - - - Vmonos de fie
+ sta! Debido a su popularidad (y hambre)\, el Mayors Food Truck Fiesta va a
+  hacer una parada en el parque de Lykes Gaslight el primer mircoles de cad
+ a mes desde las 11am a las 2pm. Acompanos y disfruta de los mejores sabore
+ s sobre ruedas de la ciudad. Gracias a la Ciudad de Tampa por patrocinar e
+ l evento. (Tienes un food truck y quieres participar en el evento? Contact
+ a a Tampa Downtown Partnership!) \n\nPermalink: https://www.tampa.gov/node
+ /179616
+URL;VALUE=URI:https://www.tampa.gov/node/179616
+END:VEVENT
+BEGIN:VEVENT
+UID:e3d7c3d9-8e63-42b1-bee2-dd2fce248aa8
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
+DTSTART:20260603T223000Z
+DTEND:20260603T233000Z
+SUMMARY:Land Development Code Update Interactive Community Meeting
+LOCATION:Forest Hills Community Center 724 West 109th Avenue Tampa \, FL 3
+ 3612 United States
+DESCRIPTION:Tampa is growing\, and the rules that guide how our city devel
+ ops are evolving too. Join us for an interactive community meeting on Tamp
+ a Forward\, where youll learn what the Land Development Code is\, why it m
+ atters\, and how it impacts your neighborhood. Come ask questions\, share 
+ your perspective\, and be part of the conversation shaping Tampas next cha
+ pter. Learn more at: tampa.govTampaForward In accordance with the American
+ s with Disabilities Act (ADA) and Section 286.26\, Florida Statutes\, pers
+ ons with disabilities needing a reasonable accommodation should contact th
+ e City of Tampas ADA Coordinator. The ADA Coordinator may be contacted by 
+ phone at (813) 274-3964\, email at TampaADAtampagov.net\, or by submitting
+  an ADA - Accommodations Request online form available at tampagov.netADAR
+ equest \n\nPermalink: https://www.tampa.gov/node/190956
+URL;VALUE=URI:https://www.tampa.gov/node/190956
+END:VEVENT
+BEGIN:VEVENT
+UID:fdafbfb4-e177-4ee4-ae0d-a1a58063e0e0
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260604T230000Z
 DTEND:20260605T000000Z
 SUMMARY:Parent Meeting For Co-Ed Referee Training
@@ -134,9 +134,9 @@ DESCRIPTION:Parent meeting at 7 pm. Co-Ed Referee Training for young adult
 URL;VALUE=URI:https://www.tampa.gov/node/191101
 END:VEVENT
 BEGIN:VEVENT
-UID:7c1e9bae-dfad-47cf-9c24-89a22de185f0
+UID:4e2d91ca-4fe5-44f6-abe9-b6e837d43041
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260604T223000Z
 DTEND:20260605T000000Z
 SUMMARY:Co-Ed Referee Training For Young Adults
@@ -150,9 +150,9 @@ DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
 URL;VALUE=URI:https://www.tampa.gov/node/191106
 END:VEVENT
 BEGIN:VEVENT
-UID:4b5451aa-a78b-4f8c-9c96-68903c9bdaba
+UID:f67aa4e4-b868-475b-b31f-bbf3baf769f0
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260604T220000Z
 DTEND:20260605T010000Z
 SUMMARY:Rock the Park
@@ -171,9 +171,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:38fbb23c-ac4f-46c3-83d2-8c264f0a9d2a
+UID:97708aab-326a-4b3c-9e38-48c6be4b7747
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260604T200000Z
 DTEND:20260605T000000Z
 SUMMARY:Art on the House
@@ -188,9 +188,9 @@ DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
 URL;VALUE=URI:https://www.tampa.gov/node/191221
 END:VEVENT
 BEGIN:VEVENT
-UID:c77f5393-fe45-4ef4-8ca6-b0679decdb4a
+UID:4b481bf7-56a2-49b4-a243-d304a6099bc1
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260605T210000Z
 DTEND:20260606T010000Z
 SUMMARY:B4A Womens Conference - Rise from Pain to Purpose
@@ -202,9 +202,9 @@ DESCRIPTION:Join us for Day 1 of the B4A Womens Conference. A transformati
 URL;VALUE=URI:https://www.tampa.gov/node/188176
 END:VEVENT
 BEGIN:VEVENT
-UID:4c3b5bfa-a608-462e-8a93-d01bd2104e17
+UID:7ec03fb5-b2aa-493b-bff5-c568be66b009
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260605T230000Z
 DTEND:20260606T013000Z
 SUMMARY:Teen Stay Play Pool Party
@@ -215,29 +215,28 @@ DESCRIPTION:Teen Stay Play Pool Party Free for teens. Rec Card - also free
 URL;VALUE=URI:https://www.tampa.gov/node/191111
 END:VEVENT
 BEGIN:VEVENT
-UID:28bb4965-0828-447b-be36-36699ffcdc09
+UID:df5afce8-59d3-43a5-8b79-1f3b8d7a8007
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260607T140000Z
-DTEND:20260607T170000Z
-SUMMARY:Ceramics Continued Study
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
- eir learning experience with instructor assistance and guiding knowledge. 
- Sign up for a single class to continue working and add the finishing touch
- es on projects youve started in one of our other classes. Sign up for mult
- iple classes to choose your own adventure in hand-building or wheel thrown
-  ceramics. Work with your instructor to plan out your projects and make th
- em a reality. Some experience with clay is recommended. 18 Beginner-Interm
- ediate Firing costs\, essential tools\, and glazes included. Clay availabl
- e for purchase separately in studio. \n\nPermalink: https://www.tampa.gov/
- node/188736
-URL;VALUE=URI:https://www.tampa.gov/node/188736
+DTSTAMP:20260616T003514Z
+DTSTART:20260607T200000Z
+DTEND:20260607T213000Z
+SUMMARY:Clean Comedy Showcase
+LOCATION:811 E 7th Ave Tampa \, FL 33602 United States
+DESCRIPTION:Looking for an afternoon of comedy you can simply enjoy? Join 
+ us for a clean\, supportive comedy experience featuring local comics worki
+ ng on material you can feel comfortable sharing with your friends. Sunday\
+ , June 7 4:005:30 PM The Commodore  Ybor 5 tickets  Free parking  No drink
+  minimum A relaxed Sunday crowd. Clean material. Plenty of laughs. Tweet G
+ ame Finale is a crowd favorite Adults and teens welcome. Supporting Shower
+ Up Were collecting:  New or gently used towels (no stains or rips)  Extra 
+ toothbrushes\, toothpaste\, floss\, and toiletries Comedy so clean we brin
+ g towels. \n\nPermalink: https://www.tampa.gov/node/191091
+URL;VALUE=URI:https://www.tampa.gov/node/191091
 END:VEVENT
 BEGIN:VEVENT
-UID:7a1d9b5a-2f25-4f73-9740-90fc1d20d067
+UID:523dbe7b-69a5-4375-9575-efb7aabaca55
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260607T170000Z
 DTEND:20260607T200000Z
 SUMMARY:Studio55: Photography
@@ -255,64 +254,29 @@ DESCRIPTION:In this class\, students will explore a range of photographic
 URL;VALUE=URI:https://www.tampa.gov/node/188676
 END:VEVENT
 BEGIN:VEVENT
-UID:f10d350c-3647-4fef-9f90-d3eb375351f5
+UID:2f59a3e4-4122-446d-ae20-12305bb212d8
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260607T200000Z
-DTEND:20260607T213000Z
-SUMMARY:Clean Comedy Showcase
-LOCATION:811 E 7th Ave Tampa \, FL 33602 United States
-DESCRIPTION:Looking for an afternoon of comedy you can simply enjoy? Join 
- us for a clean\, supportive comedy experience featuring local comics worki
- ng on material you can feel comfortable sharing with your friends. Sunday\
- , June 7 4:005:30 PM The Commodore  Ybor 5 tickets  Free parking  No drink
-  minimum A relaxed Sunday crowd. Clean material. Plenty of laughs. Tweet G
- ame Finale is a crowd favorite Adults and teens welcome. Supporting Shower
- Up Were collecting:  New or gently used towels (no stains or rips)  Extra 
- toothbrushes\, toothpaste\, floss\, and toiletries Comedy so clean we brin
- g towels. \n\nPermalink: https://www.tampa.gov/node/191091
-URL;VALUE=URI:https://www.tampa.gov/node/191091
+DTSTAMP:20260616T003514Z
+DTSTART:20260607T140000Z
+DTEND:20260607T170000Z
+SUMMARY:Ceramics Continued Study
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
+ eir learning experience with instructor assistance and guiding knowledge. 
+ Sign up for a single class to continue working and add the finishing touch
+ es on projects youve started in one of our other classes. Sign up for mult
+ iple classes to choose your own adventure in hand-building or wheel thrown
+  ceramics. Work with your instructor to plan out your projects and make th
+ em a reality. Some experience with clay is recommended. 18 Beginner-Interm
+ ediate Firing costs\, essential tools\, and glazes included. Clay availabl
+ e for purchase separately in studio. \n\nPermalink: https://www.tampa.gov/
+ node/188736
+URL;VALUE=URI:https://www.tampa.gov/node/188736
 END:VEVENT
 BEGIN:VEVENT
-UID:a78c9567-f2a7-4094-9a19-13c9aa0e3d61
+UID:4567a599-be44-4699-a7de-30078c6e0ae0
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260608T230000Z
-DTEND:20260609T020000Z
-SUMMARY:Teen Stay Play Kickball
-LOCATION:Springhill Park Recreation Center 1000 E. Eskimo Ave. Tampa \, FL
-  33604 United States
-DESCRIPTION:Teen Stay Play weekly kickball game. \n\nPermalink: https://ww
- w.tampa.gov/node/191116
-URL;VALUE=URI:https://www.tampa.gov/node/191116
-END:VEVENT
-BEGIN:VEVENT
-UID:1ba00b5d-53c9-4752-8299-60d4f5a86d61
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260608T223000Z
-DTEND:20260608T233000Z
-SUMMARY:Land Development Code Update Interactive Community Meeting
-LOCATION:Barksdale Community Center 1801 North Lincoln Avenue Tampa \, FL 
- 33607 United States
-DESCRIPTION:Tampa is growing\, and the rules that guide how our city devel
- ops are evolving too. Join us for an interactive community meeting on Tamp
- a Forward\, where youll learn what the Land Development Code is\, why it m
- atters\, and how it impacts your neighborhood. Come ask questions\, share 
- your perspective\, and be part of the conversation shaping Tampas next cha
- pter. Learn more at: tampa.govTampaForward In accordance with the American
- s with Disabilities Act (ADA) and Section 286.26\, Florida Statutes\, pers
- ons with disabilities needing a reasonable accommodation should contact th
- e City of Tampas ADA Coordinator. The ADA Coordinator may be contacted by 
- phone at (813) 274-3964\, email at TampaADAtampagov.net\, or by submitting
-  an ADA - Accommodations Request online form available at tampagov.netADAR
- equest \n\nPermalink: https://www.tampa.gov/node/190961
-URL;VALUE=URI:https://www.tampa.gov/node/190961
-END:VEVENT
-BEGIN:VEVENT
-UID:d6c56354-7484-4aad-946b-d6ff4e32c1ec
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260608T130000Z
 DTEND:20260608T160000Z
 SUMMARY:Level-Up Test Prep
@@ -326,9 +290,9 @@ DESCRIPTION:Rising10th12th grade student looking to secure your high schoo
 URL;VALUE=URI:https://www.tampa.gov/node/191256
 END:VEVENT
 BEGIN:VEVENT
-UID:84b8b629-1592-4baa-b158-a27f3efab85c
+UID:9298dbb8-6b20-4e45-a748-a737ca3909e0
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260608T213000Z
 DTEND:20260608T230000Z
 SUMMARY:The Heart of the Turf at Tampas Black History Museum
@@ -352,9 +316,45 @@ DESCRIPTION:Join us at Tampas Black History Museum (TBHM) (https:tampabayh
 URL;VALUE=URI:https://www.tampa.gov/node/189946
 END:VEVENT
 BEGIN:VEVENT
-UID:b62e6cc7-ef31-41a4-a983-1e499e8c0e46
+UID:d1791724-6752-41a0-a574-a8c070cdc03a
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260608T223000Z
+DTEND:20260608T233000Z
+SUMMARY:Land Development Code Update Interactive Community Meeting
+LOCATION:Barksdale Community Center 1801 North Lincoln Avenue Tampa \, FL 
+ 33607 United States
+DESCRIPTION:Tampa is growing\, and the rules that guide how our city devel
+ ops are evolving too. Join us for an interactive community meeting on Tamp
+ a Forward\, where youll learn what the Land Development Code is\, why it m
+ atters\, and how it impacts your neighborhood. Come ask questions\, share 
+ your perspective\, and be part of the conversation shaping Tampas next cha
+ pter. Learn more at: tampa.govTampaForward In accordance with the American
+ s with Disabilities Act (ADA) and Section 286.26\, Florida Statutes\, pers
+ ons with disabilities needing a reasonable accommodation should contact th
+ e City of Tampas ADA Coordinator. The ADA Coordinator may be contacted by 
+ phone at (813) 274-3964\, email at TampaADAtampagov.net\, or by submitting
+  an ADA - Accommodations Request online form available at tampagov.netADAR
+ equest \n\nPermalink: https://www.tampa.gov/node/190961
+URL;VALUE=URI:https://www.tampa.gov/node/190961
+END:VEVENT
+BEGIN:VEVENT
+UID:641237ef-6962-4110-9d40-2626b2035e08
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
+DTSTART:20260608T230000Z
+DTEND:20260609T020000Z
+SUMMARY:Teen Stay Play Kickball
+LOCATION:Springhill Park Recreation Center 1000 E. Eskimo Ave. Tampa \, FL
+  33604 United States
+DESCRIPTION:Teen Stay Play weekly kickball game. \n\nPermalink: https://ww
+ w.tampa.gov/node/191116
+URL;VALUE=URI:https://www.tampa.gov/node/191116
+END:VEVENT
+BEGIN:VEVENT
+UID:69846b0e-315a-4144-b133-91735d4c654a
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260609T140000Z
 DTEND:20260609T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -372,9 +372,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188486
 END:VEVENT
 BEGIN:VEVENT
-UID:0ba7a0f7-9ef3-4426-beaf-43c6d683e788
+UID:0925479d-7221-4adb-bf3b-cd1b215ab342
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260609T223000Z
 DTEND:20260610T013000Z
 SUMMARY:Teen Stay Play Girls Flag Football
@@ -386,9 +386,23 @@ DESCRIPTION:Teen Stay Play girls flag football game. Event is free. Rec Ca
 URL;VALUE=URI:https://www.tampa.gov/node/191236
 END:VEVENT
 BEGIN:VEVENT
-UID:25cfae20-d1cc-45ee-a8d3-e3d51919c2fa
+UID:f740a4ec-2228-4d39-a8b3-f2a05ed53c11
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260610T223000Z
+DTEND:20260611T003000Z
+SUMMARY:Teen Stay Play 15U Basketball
+LOCATION:Dr. Martin Luther King Jr. Recreation Center 2200 N Oregon Ave. T
+ ampa \, FL 33607 United States
+DESCRIPTION:Stay Play 15U Basketball. All Stay Play events are FREE. Rec C
+ ard (https:tampa.govrec-card)- also free - is required. \n\nPermalink: htt
+ ps://www.tampa.gov/node/191271
+URL;VALUE=URI:https://www.tampa.gov/node/191271
+END:VEVENT
+BEGIN:VEVENT
+UID:db762c45-4af3-4c47-8d68-ca9c7a9f1f05
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260610T230000Z
 DTEND:20260611T020000Z
 SUMMARY:Teen Stay Play Culinary Class
@@ -408,23 +422,9 @@ DESCRIPTION:The City of Tampa invites youth to experience the excitement o
 URL;VALUE=URI:https://www.tampa.gov/node/191316
 END:VEVENT
 BEGIN:VEVENT
-UID:7c5c3e67-9027-4efe-8294-4c6a670fb5f8
+UID:6528fbf9-b55f-4f36-971c-0284f17b829e
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260610T223000Z
-DTEND:20260611T003000Z
-SUMMARY:Teen Stay Play 15U Basketball
-LOCATION:Dr. Martin Luther King Jr. Recreation Center 2200 N Oregon Ave. T
- ampa \, FL 33607 United States
-DESCRIPTION:Stay Play 15U Basketball. All Stay Play events are FREE. Rec C
- ard (https:tampa.govrec-card)- also free - is required. \n\nPermalink: htt
- ps://www.tampa.gov/node/191271
-URL;VALUE=URI:https://www.tampa.gov/node/191271
-END:VEVENT
-BEGIN:VEVENT
-UID:1dbe3a05-ef05-43eb-be34-3f865d63c3d0
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260611T223000Z
 DTEND:20260612T000000Z
 SUMMARY:Co-Ed Referee Training For Young Adults
@@ -438,9 +438,26 @@ DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
 URL;VALUE=URI:https://www.tampa.gov/node/191106
 END:VEVENT
 BEGIN:VEVENT
-UID:f2f8498a-7020-40a7-a154-687318e098a5
+UID:96e448ee-c7e4-4816-b261-c1e3225627ab
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260611T200000Z
+DTEND:20260612T000000Z
+SUMMARY:Art on the House
+LOCATION:120 W. Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
+  Art on the House. This is the best admission deal for exploring the Tampa
+  Museum of Arts exhibitions. During Art on the House\, admission prices ch
+ ange to pay-as-you-will\, and visitors can choose whatever admission price
+  they want to pay. Choose 5 or choose 20\, this is a great way to cool off
+  and see the museum after work! \n\nPermalink: https://www.tampa.gov/node/
+ 191216
+URL;VALUE=URI:https://www.tampa.gov/node/191216
+END:VEVENT
+BEGIN:VEVENT
+UID:8e19d6ec-e48c-4743-b472-01734a78b020
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260611T160000Z
 DTEND:20260611T203000Z
 SUMMARY:Downtowns Backyard Market
@@ -462,41 +479,29 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179661
 END:VEVENT
 BEGIN:VEVENT
-UID:e14f50b1-9b70-47c2-bd4d-a8a8458817af
+UID:0a4d07ee-e91d-450b-8e52-604307532c69
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260611T200000Z
-DTEND:20260612T000000Z
-SUMMARY:Art on the House
-LOCATION:120 W. Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
-  Art on the House. This is the best admission deal for exploring the Tampa
-  Museum of Arts exhibitions. During Art on the House\, admission prices ch
- ange to pay-as-you-will\, and visitors can choose whatever admission price
-  they want to pay. Choose 5 or choose 20\, this is a great way to cool off
-  and see the museum after work! \n\nPermalink: https://www.tampa.gov/node/
- 191216
-URL;VALUE=URI:https://www.tampa.gov/node/191216
+DTSTAMP:20260616T003514Z
+DTSTART:20260612T213000Z
+DTEND:20260612T233000Z
+SUMMARY:Keys in the Park: A Melodic Duel
+LOCATION:400 N Franklin St Tampa \, FL 33602 United States
+DESCRIPTION:Join us for an unforgettable evening of musical magic at Keys 
+ in the Park: A Melodic Duel happening in the heart of Tampas Downtown! Exp
+ erience the thrill of dueling pianos as talented musicians go head-to-head
+ \, tickling the ivories and playing your favorite songs. Set against the s
+ tunning backdrop of our citys vibrant downtown\, this FREE lively event is
+  perfect for music lovers of all ages. So grab a blanket\, bring your frie
+ nds and family\, and immerse yourself in an evening filled with laughter\,
+  creativity\, and the joy of live music. Get ready to tap your feet\, sing
+  along\, and create cherished memories at Keys in the Park: A Melodic Duel
+ . \n\nPermalink: https://www.tampa.gov/node/188236
+URL;VALUE=URI:https://www.tampa.gov/node/188236
 END:VEVENT
 BEGIN:VEVENT
-UID:446d26e8-88e7-48b0-958f-d06c8caa2ce9
+UID:5611a404-f940-4ec8-9610-62a7aef2b150
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260612T140000Z
-DTEND:20260612T180000Z
-SUMMARY:Career Glow Up Job Fair
-LOCATION:2555 East Hanna Ave. Tampa \, FL 33610 United States
-DESCRIPTION:Career Glow Up is Tampas most electric job fair\, returning to
-  showcase its glowing opportunities and turning the traditional hiring pro
- cess into a high-energy celebration of potential. Job seekers of all ages 
- are welcome. Pre-registration is encouraged. \n\nPermalink: https://www.ta
- mpa.gov/node/190131
-URL;VALUE=URI:https://www.tampa.gov/node/190131
-END:VEVENT
-BEGIN:VEVENT
-UID:eb6d88ad-24b9-4a18-b06c-7fb9abbc6ca2
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260612T210000Z
 DTEND:20260613T000000Z
 SUMMARY:City of Tampa Annual Juneteenth Flag Raising Ceremony and Wellness
@@ -517,29 +522,46 @@ DESCRIPTION:Join us as we celebrate community\, culture and freedom at the
 URL;VALUE=URI:https://www.tampa.gov/node/190636
 END:VEVENT
 BEGIN:VEVENT
-UID:78709df3-fe94-4ca8-b011-d4fa87e64220
+UID:6991ad8a-e332-46d5-84e4-afdc0fc1011b
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260612T213000Z
-DTEND:20260612T233000Z
-SUMMARY:Keys in the Park: A Melodic Duel
-LOCATION:400 N Franklin St Tampa \, FL 33602 United States
-DESCRIPTION:Join us for an unforgettable evening of musical magic at Keys 
- in the Park: A Melodic Duel happening in the heart of Tampas Downtown! Exp
- erience the thrill of dueling pianos as talented musicians go head-to-head
- \, tickling the ivories and playing your favorite songs. Set against the s
- tunning backdrop of our citys vibrant downtown\, this FREE lively event is
-  perfect for music lovers of all ages. So grab a blanket\, bring your frie
- nds and family\, and immerse yourself in an evening filled with laughter\,
-  creativity\, and the joy of live music. Get ready to tap your feet\, sing
-  along\, and create cherished memories at Keys in the Park: A Melodic Duel
- . \n\nPermalink: https://www.tampa.gov/node/188236
-URL;VALUE=URI:https://www.tampa.gov/node/188236
+DTSTAMP:20260616T003514Z
+DTSTART:20260612T140000Z
+DTEND:20260612T180000Z
+SUMMARY:Career Glow Up Job Fair
+LOCATION:2555 East Hanna Ave. Tampa \, FL 33610 United States
+DESCRIPTION:Career Glow Up is Tampas most electric job fair\, returning to
+  showcase its glowing opportunities and turning the traditional hiring pro
+ cess into a high-energy celebration of potential. Job seekers of all ages 
+ are welcome. Pre-registration is encouraged. \n\nPermalink: https://www.ta
+ mpa.gov/node/190131
+URL;VALUE=URI:https://www.tampa.gov/node/190131
 END:VEVENT
 BEGIN:VEVENT
-UID:7baf9d27-6f7c-4c94-abd5-3d30c4d052cf
+UID:c41aac2e-db11-4fc6-8dc7-8fe2a527b5a1
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260613T123000Z
+DTEND:20260613T203000Z
+SUMMARY:FREE HUD Approved In person Homebuyer workshop
+LOCATION:13704 North 20th Street Tampa \, FL 33613 United States
+DESCRIPTION:Your journey to homeownership starts here! Join us for our FRE
+ E In-Person Homebuyers Workshop and learn everything you need to know abou
+ t purchasing your first home\, improving your credit\, understanding the m
+ ortgage process\, and accessing available down payment assistance programs
+ . Up to 100\,000 in Down Payment Assistance may be available for qualified
+  buyers! Harvest Hope Park Center 13704 North 20th Street\, Tampa\, FL 336
+ 13 Saturday\, June 13 8:30 AM  4:00 PM HUD-Approved Housing Counseling Age
+ ncy Lunch will be provided Limited seats available  Registration is REQUIR
+ ED! Take the first step toward building generational wealth and making you
+ r dream of homeownership a reality. Register today at: www.reach4housing.o
+ rg (http:www.reach4housing.org) \n\nPermalink: https://www.tampa.gov/node/
+ 190516
+URL;VALUE=URI:https://www.tampa.gov/node/190516
+END:VEVENT
+BEGIN:VEVENT
+UID:422accd1-3b2b-49d5-a0bb-636a8fe92b9d
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260613T133000Z
 DTEND:20260613T143000Z
 SUMMARY:Free Class: Plumerias
@@ -562,9 +584,9 @@ DESCRIPTION:Overview: Tampa Family Health Centers (TFHC) hosts an interact
 URL;VALUE=URI:https://www.tampa.gov/node/191066
 END:VEVENT
 BEGIN:VEVENT
-UID:175c1f19-3416-4b7d-b8a2-72acb94890fb
+UID:e2aa33a8-7871-4733-b740-050864b71733
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260613T180000Z
 DTEND:20260613T200000Z
 SUMMARY:Heat is On- Staying Safe as Temperatures Rise
@@ -587,31 +609,9 @@ DESCRIPTION:Summer is upon us. We are seeing all kinds of weather extremes
 URL;VALUE=URI:https://www.tampa.gov/node/190851
 END:VEVENT
 BEGIN:VEVENT
-UID:735d62a3-8265-4af7-94dc-56bbd072881b
+UID:78066fef-ce6c-47d8-9f54-a74477d16e32
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260613T123000Z
-DTEND:20260613T203000Z
-SUMMARY:FREE HUD Approved In person Homebuyer workshop
-LOCATION:13704 North 20th Street Tampa \, FL 33613 United States
-DESCRIPTION:Your journey to homeownership starts here! Join us for our FRE
- E In-Person Homebuyers Workshop and learn everything you need to know abou
- t purchasing your first home\, improving your credit\, understanding the m
- ortgage process\, and accessing available down payment assistance programs
- . Up to 100\,000 in Down Payment Assistance may be available for qualified
-  buyers! Harvest Hope Park Center 13704 North 20th Street\, Tampa\, FL 336
- 13 Saturday\, June 13 8:30 AM  4:00 PM HUD-Approved Housing Counseling Age
- ncy Lunch will be provided Limited seats available  Registration is REQUIR
- ED! Take the first step toward building generational wealth and making you
- r dream of homeownership a reality. Register today at: www.reach4housing.o
- rg (http:www.reach4housing.org) \n\nPermalink: https://www.tampa.gov/node/
- 190516
-URL;VALUE=URI:https://www.tampa.gov/node/190516
-END:VEVENT
-BEGIN:VEVENT
-UID:e9eaee8d-923d-4e23-b3ad-5e910acd1431
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260614T140000Z
 DTEND:20260614T170000Z
 SUMMARY:Ceramics Continued Study
@@ -629,9 +629,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188741
 END:VEVENT
 BEGIN:VEVENT
-UID:b65a1fb7-2048-4a1e-ae11-b7d51f24c3b0
+UID:0b86cc38-9706-4196-b06e-2b196b9c36af
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260615T170000Z
 DTEND:20260615T230000Z
 SUMMARY:Youth Summit
@@ -644,9 +644,76 @@ DESCRIPTION:Connecting the youth with local community resources for their
 URL;VALUE=URI:https://www.tampa.gov/node/190476
 END:VEVENT
 BEGIN:VEVENT
-UID:2b23ae9b-cda6-4b80-b8d7-434882b3c89c
+UID:027e163d-87f0-46ec-ac59-1f94252e9619
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260616T230000Z
+DTEND:20260617T020000Z
+SUMMARY:Teen Stay Play Dodgeball
+LOCATION:Jackson Heights Recreation Center 3310 E Lake Ave. Tampa \, FL 33
+ 610 United States
+DESCRIPTION:Teen Stay Play dodgeball. Event is free. Rec Card (https:www.t
+ ampa.govrec-card) - also free - is required. \n\nPermalink: https://www.ta
+ mpa.gov/node/191396
+URL;VALUE=URI:https://www.tampa.gov/node/191396
+END:VEVENT
+BEGIN:VEVENT
+UID:05f7708e-adcc-481a-9e01-e31ed9e095a1
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
+DTSTART:20260616T220000Z
+DTEND:20260617T010000Z
+SUMMARY:Figure Drawing Study
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Work in your drawing and painting media of choice or explore n
+ ew ones. In these three-hour instructor-guided single-session classes\, st
+ udents will learn the fundamentals and expand their 2D knowledge while cre
+ ating images from life. Learn the basics and grow your techniques with tai
+ lored instruction and live model sessions. Select Tuesdays  6:009:00 PM Cl
+ asses Available  519\, 616\, 721\, 825 Ages 18  Beginner Level Drawing mat
+ erials provided. These classes do have live Nude Models. \n\nPermalink: ht
+ tps://www.tampa.gov/node/189221
+URL;VALUE=URI:https://www.tampa.gov/node/189221
+END:VEVENT
+BEGIN:VEVENT
+UID:84a8da5f-e044-4dda-b548-6e2fc5e4d206
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
+DTSTART:20260616T220000Z
+DTEND:20260616T233000Z
+SUMMARY:Central Park Jazz Jam
+LOCATION:1213 N Central Ave Tampa \, FL 33602 United States
+DESCRIPTION:Let the good times roll at Central Park Jazz Jam! This FREE co
+ mmunity event celebrates the musical history of Downtown Tampas Central Pa
+ rk neighborhood. Enjoy LIVE performances from local bands and musicians\, 
+ along with family-friendly fun from the YMCA. Bring a chair (and your danc
+ ing shoes!) as we fill the courtyard of the Tampa Black History Museum wit
+ h encore-worthy music and community vibes. So lets get jazzy and swing it 
+ like you mean it this jam is sure to end your evening on a high note! \n\n
+ Permalink: https://www.tampa.gov/node/177851
+URL;VALUE=URI:https://www.tampa.gov/node/177851
+END:VEVENT
+BEGIN:VEVENT
+UID:8242b722-3a4e-4412-b7e7-56125a6f5937
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
+DTSTART:20260616T170000Z
+DTEND:20260616T230000Z
+SUMMARY:Juneteenth Health Wellness Conference
+LOCATION:4201 N Dale Mabry Hwy Tampa \, FL 33607 United States
+DESCRIPTION:Uniting leaders and stakeholders to problem solve health dispa
+ rities within the community and strategize holistic solutions. - Nutrition
+  Presentation  Panel Discussion - Health Disparities - Womens Health Prese
+ ntation  Panel Discussion - Maternal Health Presentation - Public Health C
+ risis - Sexual Health - STDs  STIs - Mental Health Presentation  Panel Dis
+ cussion - Mindfulness Presentation  Panel Discussion - Nutrition \n\nPerma
+ link: https://www.tampa.gov/node/190481
+URL;VALUE=URI:https://www.tampa.gov/node/190481
+END:VEVENT
+BEGIN:VEVENT
+UID:759dcdde-b1a8-4150-9320-3735efad6594
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260616T140000Z
 DTEND:20260616T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -664,76 +731,61 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188491
 END:VEVENT
 BEGIN:VEVENT
-UID:df8e09ed-829a-4692-bdd1-1fd732bcbb9b
+UID:e4134070-623b-478e-99e8-c10462f06fbb
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260616T230000Z
-DTEND:20260617T020000Z
-SUMMARY:Teen Stay Play Dodgeball
-LOCATION:Jackson Heights Recreation Center 3310 E Lake Ave. Tampa \, FL 33
- 610 United States
-DESCRIPTION:Teen Stay Play dodgeball. Event is free. Rec Card (https:www.t
- ampa.govrec-card) - also free - is required. \n\nPermalink: https://www.ta
- mpa.gov/node/191396
-URL;VALUE=URI:https://www.tampa.gov/node/191396
+DTSTAMP:20260616T003514Z
+DTSTART:20260617T230000Z
+DTEND:20260618T020000Z
+SUMMARY:Teen Stay Play Culinary Class
+LOCATION:Grant Park 3724 N 54th St. Tampa \, FL 33619 United States
+DESCRIPTION:The City of Tampa invites youth to experience the excitement o
+ f cooking\, learning\, and leading through our fantastic culinary program\
+ , offered at Stay Play locations across the city! Our hands-on program tea
+ ches more than recipes  campers build leadership\, sharpen public speaking
+  skills\, practice teamwork\, and explore the arts and science of fine foo
+ ds. Working together in small groups\, youth learn how to plan\, prepare\,
+  and present delicious dishes while striving for one shared goal: creating
+  a plate of perfection. We cover kitchen safety\, healthy food choices\, a
+ nd sanitary and safety measures for food and utensils. Every session is de
+ signed to inspire confidence\, responsibility\, and fun\, all while encour
+ aging young chefs to discover new talents and flavors. \n\nPermalink: http
+ s://www.tampa.gov/node/191331
+URL;VALUE=URI:https://www.tampa.gov/node/191331
 END:VEVENT
 BEGIN:VEVENT
-UID:5f9e4e34-8a59-44b7-b5a7-0d9899d1079f
+UID:fdeeb4bc-b4f0-42a0-9656-d5e293df0053
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260616T220000Z
-DTEND:20260617T010000Z
-SUMMARY:Figure Drawing Study
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Work in your drawing and painting media of choice or explore n
- ew ones. In these three-hour instructor-guided single-session classes\, st
- udents will learn the fundamentals and expand their 2D knowledge while cre
- ating images from life. Learn the basics and grow your techniques with tai
- lored instruction and live model sessions. Select Tuesdays  6:009:00 PM Cl
- asses Available  519\, 616\, 721\, 825 Ages 18  Beginner Level Drawing mat
- erials provided. These classes do have live Nude Models. \n\nPermalink: ht
- tps://www.tampa.gov/node/189221
-URL;VALUE=URI:https://www.tampa.gov/node/189221
+DTSTAMP:20260616T003514Z
+DTSTART:20260617T223000Z
+DTEND:20260618T003000Z
+SUMMARY:Teen Stay Play 15U Basketball
+LOCATION:Dr. Martin Luther King Jr. Recreation Center 2200 N Oregon Ave. T
+ ampa \, FL 33607 United States
+DESCRIPTION:Stay Play 15U Basketball. All Stay Play events are FREE. Rec C
+ ard (https:tampa.govrec-card)- also free - is required. \n\nPermalink: htt
+ ps://www.tampa.gov/node/191271
+URL;VALUE=URI:https://www.tampa.gov/node/191271
 END:VEVENT
 BEGIN:VEVENT
-UID:20d3964a-a2cd-41aa-b2fd-b4a935428239
+UID:a1e38011-aca9-4894-a2bd-912be8bf1bc0
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260616T220000Z
-DTEND:20260616T233000Z
-SUMMARY:Central Park Jazz Jam
-LOCATION:1213 N Central Ave Tampa \, FL 33602 United States
-DESCRIPTION:Let the good times roll at Central Park Jazz Jam! This FREE co
- mmunity event celebrates the musical history of Downtown Tampas Central Pa
- rk neighborhood. Enjoy LIVE performances from local bands and musicians\, 
- along with family-friendly fun from the YMCA. Bring a chair (and your danc
- ing shoes!) as we fill the courtyard of the Tampa Black History Museum wit
- h encore-worthy music and community vibes. So lets get jazzy and swing it 
- like you mean it this jam is sure to end your evening on a high note! \n\n
- Permalink: https://www.tampa.gov/node/177851
-URL;VALUE=URI:https://www.tampa.gov/node/177851
-END:VEVENT
-BEGIN:VEVENT
-UID:5c010cd9-c39f-4b1a-a5e8-1748da3e2997
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260616T170000Z
-DTEND:20260616T230000Z
-SUMMARY:Juneteenth Health Wellness Conference
+DTSTAMP:20260616T003514Z
+DTSTART:20260617T170000Z
+DTEND:20260617T230000Z
+SUMMARY:Juneteenth Community Symposium
 LOCATION:4201 N Dale Mabry Hwy Tampa \, FL 33607 United States
-DESCRIPTION:Uniting leaders and stakeholders to problem solve health dispa
- rities within the community and strategize holistic solutions. - Nutrition
-  Presentation  Panel Discussion - Health Disparities - Womens Health Prese
- ntation  Panel Discussion - Maternal Health Presentation - Public Health C
- risis - Sexual Health - STDs  STIs - Mental Health Presentation  Panel Dis
- cussion - Mindfulness Presentation  Panel Discussion - Nutrition \n\nPerma
- link: https://www.tampa.gov/node/190481
-URL;VALUE=URI:https://www.tampa.gov/node/190481
+DESCRIPTION:A participatory COMMUNITY symposium to foster dialogue about i
+ ssues Locally. We will brain storm solutions for connectivity. - Community
+  Organizing\, Leaders\, Stakeholders\, Organizations - Politics Policies -
+  Caucuses - Voting - PACs - Education - Financial Literacy - Entrepreneurs
+ hip Business - Housing Instability \n\nPermalink: https://www.tampa.gov/no
+ de/190486
+URL;VALUE=URI:https://www.tampa.gov/node/190486
 END:VEVENT
 BEGIN:VEVENT
-UID:c2ee9e8a-0f84-4b80-bd36-2e2844cd3a27
+UID:94b6bdf6-d028-45f9-91e7-0d91c040b464
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260617T150000Z
 DTEND:20260617T180000Z
 SUMMARY:LiveLung Tampa Chapter: Lung Cancer Education Support Meeting
@@ -754,61 +806,24 @@ DESCRIPTION:The LiveLung Tampa Chapter brings together people impacted by
 URL;VALUE=URI:https://www.tampa.gov/node/190471
 END:VEVENT
 BEGIN:VEVENT
-UID:4f3bb692-f1af-4598-a326-b7c2179cb647
+UID:4fd08995-c48a-49be-93d3-fb43d438cc5d
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260617T170000Z
-DTEND:20260617T230000Z
-SUMMARY:Juneteenth Community Symposium
-LOCATION:4201 N Dale Mabry Hwy Tampa \, FL 33607 United States
-DESCRIPTION:A participatory COMMUNITY symposium to foster dialogue about i
- ssues Locally. We will brain storm solutions for connectivity. - Community
-  Organizing\, Leaders\, Stakeholders\, Organizations - Politics Policies -
-  Caucuses - Voting - PACs - Education - Financial Literacy - Entrepreneurs
- hip Business - Housing Instability \n\nPermalink: https://www.tampa.gov/no
- de/190486
-URL;VALUE=URI:https://www.tampa.gov/node/190486
+DTSTAMP:20260616T003514Z
+DTSTART:20260618T213000Z
+DTEND:20260618T230000Z
+SUMMARY:International Photography Competition 2026: Opening Reception
+LOCATION:1630 E. 7th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:Join us for an evening of visual storytelling and global persp
+ ective at the International Photography Competition (IPC) 2026 Opening Rec
+ eption. This event marks the official unveiling of this years winning coll
+ ection a curated selection of powerful imagery from photographers across t
+ he globe. \n\nPermalink: https://www.tampa.gov/node/190911
+URL;VALUE=URI:https://www.tampa.gov/node/190911
 END:VEVENT
 BEGIN:VEVENT
-UID:962a1efa-bbe0-4e9e-824d-08910dfc50c3
+UID:09f9137a-30a2-439d-bb1c-490ec5e93675
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260617T223000Z
-DTEND:20260618T003000Z
-SUMMARY:Teen Stay Play 15U Basketball
-LOCATION:Dr. Martin Luther King Jr. Recreation Center 2200 N Oregon Ave. T
- ampa \, FL 33607 United States
-DESCRIPTION:Stay Play 15U Basketball. All Stay Play events are FREE. Rec C
- ard (https:tampa.govrec-card)- also free - is required. \n\nPermalink: htt
- ps://www.tampa.gov/node/191271
-URL;VALUE=URI:https://www.tampa.gov/node/191271
-END:VEVENT
-BEGIN:VEVENT
-UID:8952c810-98a8-47ba-aad9-675b09337108
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260617T230000Z
-DTEND:20260618T020000Z
-SUMMARY:Teen Stay Play Culinary Class
-LOCATION:Grant Park 3724 N 54th St. Tampa \, FL 33619 United States
-DESCRIPTION:The City of Tampa invites youth to experience the excitement o
- f cooking\, learning\, and leading through our fantastic culinary program\
- , offered at Stay Play locations across the city! Our hands-on program tea
- ches more than recipes  campers build leadership\, sharpen public speaking
-  skills\, practice teamwork\, and explore the arts and science of fine foo
- ds. Working together in small groups\, youth learn how to plan\, prepare\,
-  and present delicious dishes while striving for one shared goal: creating
-  a plate of perfection. We cover kitchen safety\, healthy food choices\, a
- nd sanitary and safety measures for food and utensils. Every session is de
- signed to inspire confidence\, responsibility\, and fun\, all while encour
- aging young chefs to discover new talents and flavors. \n\nPermalink: http
- s://www.tampa.gov/node/191331
-URL;VALUE=URI:https://www.tampa.gov/node/191331
-END:VEVENT
-BEGIN:VEVENT
-UID:e457ecef-e7a2-4dcc-afb7-aedce6fd87d9
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260618T230000Z
 DTEND:20260619T020000Z
 SUMMARY:Juneteenth Cultural Couture Ball
@@ -822,9 +837,9 @@ DESCRIPTION:An unforgettable evening of elegance and culture filled with m
 URL;VALUE=URI:https://www.tampa.gov/node/190491
 END:VEVENT
 BEGIN:VEVENT
-UID:ea2f0923-2b65-4699-8d1f-43c4640539d9
+UID:74669c5d-0d79-4e13-8aba-666b4a149afe
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260618T223000Z
 DTEND:20260619T000000Z
 SUMMARY:Co-Ed Referee Training For Young Adults
@@ -838,9 +853,9 @@ DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
 URL;VALUE=URI:https://www.tampa.gov/node/191106
 END:VEVENT
 BEGIN:VEVENT
-UID:070b819a-a705-4f39-a4d5-6c0778189615
+UID:04b92781-81b7-4ac6-8d32-bd829ebf3a47
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260618T223000Z
 DTEND:20260618T233000Z
 SUMMARY:Lowry Park Central Community Organization
@@ -854,9 +869,9 @@ DESCRIPTION:The Neighborhood Association will hold monthly meetings on the
 URL;VALUE=URI:https://www.tampa.gov/node/190151
 END:VEVENT
 BEGIN:VEVENT
-UID:b50b07e2-e22a-4de5-bfd2-73353584e441
+UID:258188ef-2dd0-40b2-a5ad-c85eaa2d761e
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260618T220000Z
 DTEND:20260618T230000Z
 SUMMARY:Artist Talk: Vaughn Spann in Conversation
@@ -873,9 +888,9 @@ DESCRIPTION:Join us for an engaging conversation with artist Vaughn Spann.
 URL;VALUE=URI:https://www.tampa.gov/node/189996
 END:VEVENT
 BEGIN:VEVENT
-UID:46a7fde6-49d2-4a0c-bbcd-1662fdee2caa
+UID:4e5f1e90-cfcd-40d2-9707-fde49a515370
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260618T220000Z
 DTEND:20260619T010000Z
 SUMMARY:Remix: Suchitra Mattai
@@ -890,9 +905,9 @@ DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
 URL;VALUE=URI:https://www.tampa.gov/node/188711
 END:VEVENT
 BEGIN:VEVENT
-UID:c8964ef6-5cf2-457c-8dfa-db18fb0b623f
+UID:f1bd2ea3-5d53-40b2-b800-e309ea10157c
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260618T220000Z
 DTEND:20260619T010000Z
 SUMMARY:Remix: Suchitra Mattai
@@ -907,24 +922,9 @@ DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
 URL;VALUE=URI:https://www.tampa.gov/node/188576
 END:VEVENT
 BEGIN:VEVENT
-UID:539066be-6118-4b40-aba6-073169ccbf7b
+UID:a7f10f2e-f2b1-4314-95aa-3e291e3120af
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260618T213000Z
-DTEND:20260618T230000Z
-SUMMARY:International Photography Competition 2026: Opening Reception
-LOCATION:1630 E. 7th Ave. Tampa \, FL 33605 United States
-DESCRIPTION:Join us for an evening of visual storytelling and global persp
- ective at the International Photography Competition (IPC) 2026 Opening Rec
- eption. This event marks the official unveiling of this years winning coll
- ection a curated selection of powerful imagery from photographers across t
- he globe. \n\nPermalink: https://www.tampa.gov/node/190911
-URL;VALUE=URI:https://www.tampa.gov/node/190911
-END:VEVENT
-BEGIN:VEVENT
-UID:550a22c0-4869-465a-8aba-e9b6e5e97471
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260618T200000Z
 DTEND:20260619T000000Z
 SUMMARY:Art on the House
@@ -939,9 +939,9 @@ DESCRIPTION:Every Thursday from 4 to 8 pm\, the Tampa Museum of Art offers
 URL;VALUE=URI:https://www.tampa.gov/node/191321
 END:VEVENT
 BEGIN:VEVENT
-UID:1cb5ac87-2754-4761-b00c-03a3f17a0d11
+UID:a3880161-f9ec-4754-bc79-c07099d58f05
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260618T170000Z
 DTEND:20260618T200000Z
 SUMMARY:Studio55: Collage Explorations
@@ -959,9 +959,9 @@ DESCRIPTION:Ready to fall under the spell of collage? Join us for an eight
 URL;VALUE=URI:https://www.tampa.gov/node/188706
 END:VEVENT
 BEGIN:VEVENT
-UID:b2b819fa-2ad0-414b-b81b-ab654431693c
+UID:4313b926-694e-48b3-b75e-a99e0de936d7
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260619T160000Z
 DTEND:20260619T200000Z
 SUMMARY:TPD Juneteenth Summer Block Party
@@ -977,9 +977,9 @@ DESCRIPTION:The Tampa Police Department Black History Committee invites th
 URL;VALUE=URI:https://www.tampa.gov/node/190526
 END:VEVENT
 BEGIN:VEVENT
-UID:aa204da4-4e6c-4725-ac0d-6bac2114cb17
+UID:89d47424-2c6e-4ce4-bc6d-f8f9a6cddd4f
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260620T133000Z
 DTEND:20260620T180000Z
 SUMMARY:Tampa Bay Orchid Society to Host Orchid Auction Featuring More Tha
@@ -1005,9 +1005,9 @@ DESCRIPTION:The Tampa Bay Orchid Society will host its upcoming orchid auc
 URL;VALUE=URI:https://www.tampa.gov/node/190801
 END:VEVENT
 BEGIN:VEVENT
-UID:074edadb-3cf2-43e3-986d-59cb639c6314
+UID:d08381bb-29c8-4fb6-9961-0ea0b5f539d1
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260620T150000Z
 DTEND:20260620T200000Z
 SUMMARY:Childrens Board Free Family Day: Juneteenth Cultural Celebration
@@ -1025,9 +1025,9 @@ DESCRIPTION:Commemorate the Juneteenth holiday with the Tampa Museum of Ar
 URL;VALUE=URI:https://www.tampa.gov/node/190681
 END:VEVENT
 BEGIN:VEVENT
-UID:6105b0b0-0280-4db1-83dd-06eff1afb4bc
+UID:19fc977e-0e86-4366-82d5-e284e5e05da5
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260620T160000Z
 DTEND:20260620T180000Z
 SUMMARY:DogFathers Family BBQ- Ybor
@@ -1043,9 +1043,9 @@ DESCRIPTION:Cheers to the Dog Dads! Bring the family and your pup to Bay P
 URL;VALUE=URI:https://www.tampa.gov/node/190646
 END:VEVENT
 BEGIN:VEVENT
-UID:f6e0d933-d247-4f5a-aae6-5fc0aab5e29c
+UID:0775a6d2-03f4-4a03-969d-bca178c14a06
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260620T183000Z
 DTEND:20260621T013000Z
 SUMMARY:6th Annual Juneteenth Festival
@@ -1059,9 +1059,9 @@ DESCRIPTION:Join us as we produce another family-friendly\, educational\,
 URL;VALUE=URI:https://www.tampa.gov/node/190496
 END:VEVENT
 BEGIN:VEVENT
-UID:777c451f-ec9a-4f8f-8db1-209402c7a587
+UID:71578e10-1753-47c3-ac16-7a97ed320750
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260621T010000Z
 DTEND:20260621T035900Z
 SUMMARY:Juneteenth Turn-Up
@@ -1084,9 +1084,34 @@ DESCRIPTION:Get ready for a night of unmatched energy\, culture\, and pure
 URL;VALUE=URI:https://www.tampa.gov/node/189651
 END:VEVENT
 BEGIN:VEVENT
-UID:b5916a98-ae8d-4dec-b40f-2873ec899ea1
+UID:d898f7c0-6481-40e3-842b-8926b287b390
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260621T040000Z
+DTEND:20260621T050000Z
+SUMMARY:Juneteenth Turn-Up
+LOCATION:1226 E. 7th Avenue Tampa \, FL 33605 United States
+DESCRIPTION:Get ready for a night of unmatched energy\, culture\, and pure
+  vibes as Pretty Wino Promotions presents the Juneteenth Turn Up  an unfor
+ gettable celebration you do NOT want to miss.  DJ Quarius (Headliner) Brin
+ ging all the heat with a powerful mix of Afro  House  Hip-Hop  Jersey  R B
+   With a special performance by: Real1Krash  EVENT DETAILS  Date: June 20\
+ , 2026  Location: Marti Maceo Cuban Club  Ybor City  Doors Open: 10PM  21 
+ Over Event  WHAT TO EXPECT  High-energy DJ sets all night  Drink specials 
+ to keep the vibes flowing  A perfect blend of music\, culture\, and celebr
+ ation  Grown sexy atmosphere  come ready to show out  TICKET PRICING  20  
+ Early Access (Online Only)  25  At the Door  Limited availability  secure 
+ your spot now before prices go up!  WHY YOU NEED TO BE THERE This isnt jus
+ t a party Its a Juneteenth celebration with purpose\, style\, and energy. 
+ Whether youre coming for the music\, the vibe\, or the culture  this is wh
+ ere you want to be. Sip. Shop. Slay. \n\nPermalink: https://www.tampa.gov/
+ node/189656
+URL;VALUE=URI:https://www.tampa.gov/node/189656
+END:VEVENT
+BEGIN:VEVENT
+UID:54e3b5bf-c646-4bb6-a187-21ce1069bbe5
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260621T140000Z
 DTEND:20260622T023000Z
 SUMMARY:Fathers Day Experience at Rusty Pelican Tampa.
@@ -1116,9 +1141,9 @@ DESCRIPTION:Celebrate Dad by the water this Fathers Day at Rusty Pelican T
 URL;VALUE=URI:https://www.tampa.gov/node/190991
 END:VEVENT
 BEGIN:VEVENT
-UID:abe9c5ac-b35c-46c4-af6b-a0e84b7cd867
+UID:f52b35a2-20ec-45bf-b41e-85fe3f1825c3
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260621T120000Z
 DTEND:20260621T160000Z
 SUMMARY:Juneteenth 5K CommUnity WalkRun
@@ -1138,34 +1163,9 @@ DESCRIPTION:The Juneteenth 5K CommUnity WalkRun is a free\, family-friendl
 URL;VALUE=URI:https://www.tampa.gov/node/188861
 END:VEVENT
 BEGIN:VEVENT
-UID:d38f6c02-9c8b-4b7c-be86-dbeeb5db0b44
+UID:af66c75e-3029-4761-9730-083031c12590
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260621T040000Z
-DTEND:20260621T050000Z
-SUMMARY:Juneteenth Turn-Up
-LOCATION:1226 E. 7th Avenue Tampa \, FL 33605 United States
-DESCRIPTION:Get ready for a night of unmatched energy\, culture\, and pure
-  vibes as Pretty Wino Promotions presents the Juneteenth Turn Up  an unfor
- gettable celebration you do NOT want to miss.  DJ Quarius (Headliner) Brin
- ging all the heat with a powerful mix of Afro  House  Hip-Hop  Jersey  R B
-   With a special performance by: Real1Krash  EVENT DETAILS  Date: June 20\
- , 2026  Location: Marti Maceo Cuban Club  Ybor City  Doors Open: 10PM  21 
- Over Event  WHAT TO EXPECT  High-energy DJ sets all night  Drink specials 
- to keep the vibes flowing  A perfect blend of music\, culture\, and celebr
- ation  Grown sexy atmosphere  come ready to show out  TICKET PRICING  20  
- Early Access (Online Only)  25  At the Door  Limited availability  secure 
- your spot now before prices go up!  WHY YOU NEED TO BE THERE This isnt jus
- t a party Its a Juneteenth celebration with purpose\, style\, and energy. 
- Whether youre coming for the music\, the vibe\, or the culture  this is wh
- ere you want to be. Sip. Shop. Slay. \n\nPermalink: https://www.tampa.gov/
- node/189656
-URL;VALUE=URI:https://www.tampa.gov/node/189656
-END:VEVENT
-BEGIN:VEVENT
-UID:2dc1e6ba-cf90-4da5-b356-2507f519e4eb
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260622T213000Z
 DTEND:20260622T233000Z
 SUMMARY:Become AI Discoverable Recommended in Search
@@ -1179,9 +1179,23 @@ DESCRIPTION:This is a 5-day Hybrid event \, from 5:30 -7:30 PM EST\, June
 URL;VALUE=URI:https://www.tampa.gov/node/191081
 END:VEVENT
 BEGIN:VEVENT
-UID:4979fd56-a80c-413d-81c7-e32c2ca7f892
+UID:5dbedbc3-4c64-4830-a333-aea1a9bc34d7
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260623T223000Z
+DTEND:20260624T013000Z
+SUMMARY:Teen Stay Play Girls Flag Football
+LOCATION:Jackson Heights Recreation Center 3310 E Lake Ave. Tampa \, FL 33
+ 610 United States
+DESCRIPTION:Teen Stay Play girls flag football game. Event is free. Rec Ca
+ rd (https:www.tampa.govrec-card) - also free - is required. \n\nPermalink:
+  https://www.tampa.gov/node/191276
+URL;VALUE=URI:https://www.tampa.gov/node/191276
+END:VEVENT
+BEGIN:VEVENT
+UID:ce4359e1-33c8-4b85-a33e-2c4e3ba95c63
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260623T140000Z
 DTEND:20260623T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -1199,23 +1213,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188496
 END:VEVENT
 BEGIN:VEVENT
-UID:416c35e5-d2d9-484d-86e6-e3a0c14d33b7
+UID:e5caacf9-488d-4108-b764-8bb682de8470
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260623T223000Z
-DTEND:20260624T013000Z
-SUMMARY:Teen Stay Play Girls Flag Football
-LOCATION:Jackson Heights Recreation Center 3310 E Lake Ave. Tampa \, FL 33
- 610 United States
-DESCRIPTION:Teen Stay Play girls flag football game. Event is free. Rec Ca
- rd (https:www.tampa.govrec-card) - also free - is required. \n\nPermalink:
-  https://www.tampa.gov/node/191276
-URL;VALUE=URI:https://www.tampa.gov/node/191276
-END:VEVENT
-BEGIN:VEVENT
-UID:2d0ec293-5fee-4eca-b680-503cfd72fe93
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:Mysteries of the Nile: Ancient Egypt Opening Celebration
@@ -1239,9 +1239,9 @@ DESCRIPTION:The Tampa Museum of Art hosts a special evening celebrating th
 URL;VALUE=URI:https://www.tampa.gov/node/190686
 END:VEVENT
 BEGIN:VEVENT
-UID:38d66e8f-0065-4a6b-a1f1-554eea240e4b
+UID:f7fadcae-b775-42a1-8ea4-0844d3904391
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:The Rock Church of God By Faith Vacation Bible School
@@ -1257,9 +1257,9 @@ DESCRIPTION:Join us for Vacation Bible School for adults and children ages
 URL;VALUE=URI:https://www.tampa.gov/node/191121
 END:VEVENT
 BEGIN:VEVENT
-UID:b0c9136b-31db-4b94-a9b2-e708ef86eb35
+UID:bba07d06-f292-4b66-aaed-d33c71d0d7a3
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260624T223000Z
 DTEND:20260625T003000Z
 SUMMARY:Teen Stay Play 15U Basketball
@@ -1271,9 +1271,9 @@ DESCRIPTION:Stay Play 15U Basketball. All Stay Play events are FREE. Rec C
 URL;VALUE=URI:https://www.tampa.gov/node/191271
 END:VEVENT
 BEGIN:VEVENT
-UID:7b398efe-9b5b-425c-8b69-17e1ecbaa79d
+UID:324333b4-4fc1-4ec3-ac5a-1330fa67dcad
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260624T230000Z
 DTEND:20260625T020000Z
 SUMMARY:Teen Stay Play Culinary Class
@@ -1294,9 +1294,9 @@ DESCRIPTION:The City of Tampa invites youth to experience the excitement o
 URL;VALUE=URI:https://www.tampa.gov/node/191336
 END:VEVENT
 BEGIN:VEVENT
-UID:7edbcc39-db57-4781-8354-d7af3088dd8e
+UID:f049f121-7e92-4475-a228-ed046c5a9505
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260625T223000Z
 DTEND:20260626T000000Z
 SUMMARY:Co-Ed Referee Training For Young Adults
@@ -1310,9 +1310,9 @@ DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
 URL;VALUE=URI:https://www.tampa.gov/node/191106
 END:VEVENT
 BEGIN:VEVENT
-UID:4c3c951c-6caf-42b1-9999-cf9c19323f37
+UID:ccf05bdb-1118-49f3-a0bd-15c7feebec16
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260625T220000Z
 DTEND:20260626T000000Z
 SUMMARY:The Rock Church of God By Faith Vacation Bible School
@@ -1328,9 +1328,9 @@ DESCRIPTION:Join us for Vacation Bible School for adults and children ages
 URL;VALUE=URI:https://www.tampa.gov/node/191126
 END:VEVENT
 BEGIN:VEVENT
-UID:33303054-0d8c-49d6-9214-ad28b946436a
+UID:1931907b-5d08-4262-a247-e86258bb8d9f
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260626T220000Z
 DTEND:20260627T000000Z
 SUMMARY:The Rock Church of God By Faith Vacation Bible School
@@ -1346,9 +1346,9 @@ DESCRIPTION:Join us for Vacation Bible School for adults and children ages
 URL;VALUE=URI:https://www.tampa.gov/node/191131
 END:VEVENT
 BEGIN:VEVENT
-UID:25aa4c2b-1c7d-4e1b-9e21-f86426a33e80
+UID:7397025b-d230-4a5d-966b-1b31125cbad2
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260626T230000Z
 DTEND:20260627T013000Z
 SUMMARY:Teen Stay Play Pool Party
@@ -1360,9 +1360,61 @@ DESCRIPTION:Teen Stay Play Pool Party Free for teens. Rec Card - also free
 URL;VALUE=URI:https://www.tampa.gov/node/191366
 END:VEVENT
 BEGIN:VEVENT
-UID:c45c9218-dcb0-42f5-95fc-59a32cdceea5
+UID:356e4c7c-cf5c-4eca-b75f-b1a8ce955ba5
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260627T120000Z
+DTEND:20260627T180000Z
+SUMMARY:Live Oaks Square Annual Community Yard Sale and Fish Fry
+LOCATION:6023 N. 39th Street Tampa \, FL 33610 United States
+DESCRIPTION:Annual Community Yard Sale and Fish Live Oaks Square Neighborh
+ ood \n\nPermalink: https://www.tampa.gov/node/191246
+URL;VALUE=URI:https://www.tampa.gov/node/191246
+END:VEVENT
+BEGIN:VEVENT
+UID:d0b6007d-4331-4213-aa01-547c91adb404
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
+DTSTART:20260627T123000Z
+DTEND:20260627T203000Z
+SUMMARY:FREE HUD Approved In person Homebuyer workshop
+LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
+DESCRIPTION:Your journey to homeownership starts here! Join us for our FRE
+ E In-Person Homebuyers Workshop and learn everything you need to know abou
+ t purchasing your first home\, improving your credit\, understanding the m
+ ortgage process\, and accessing available down payment assistance programs
+ . Up to 100\,000 in Down Payment Assistance may be available for qualified
+  buyers! City of Tampa City Center 2555 E. Hanna Ave  Tampa\, Florida 3361
+ 0 Saturday\, July 27 8:30 AM  4:00 PM HUD-Approved Housing Counseling Agen
+ cy Lunch will be provided Limited seats available  Registration is REQUIRE
+ D! Take the first step toward building generational wealth and making your
+  dream of homeownership a reality. Register today at: www.reach4housing.or
+ g (http:www.reach4housing.org) \n\nPermalink: https://www.tampa.gov/node/1
+ 90521
+URL;VALUE=URI:https://www.tampa.gov/node/190521
+END:VEVENT
+BEGIN:VEVENT
+UID:ead09832-aca9-446d-a136-bf4a760f7a22
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
+DTSTART:20260627T140000Z
+DTEND:20260627T170000Z
+SUMMARY:Expressive Poetry
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Since ancient times\, humans have created meaning of our world
+  and the afterlife through the art of poetic expression. This River of My 
+ Life: A Poetic Expression Workshop will engage students in communicating w
+ ith ancient artworks through poetic writing\, inspired by the Mysteries of
+  the Nile: Ancient Egypt exhibition. Through the use of stream of consciou
+ sness and ekphrastic poetry activities\, students will be able to express 
+ their own river of life. Ages 16  Beginner Level \n\nPermalink: https://ww
+ w.tampa.gov/node/188661
+URL;VALUE=URI:https://www.tampa.gov/node/188661
+END:VEVENT
+BEGIN:VEVENT
+UID:14934d7f-c7f0-433a-9539-22b03ea3ec34
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260627T223000Z
 DTEND:20260628T020000Z
 SUMMARY:Building Community Through Culture Gala
@@ -1391,61 +1443,9 @@ DESCRIPTION:Don your best cocktail chic in colors of red\, green\, black a
 URL;VALUE=URI:https://www.tampa.gov/node/191586
 END:VEVENT
 BEGIN:VEVENT
-UID:4d5dbb73-297a-43bc-8e6e-12392093e57b
+UID:0e76a83d-4e9f-4acb-afdc-fcecb1819d61
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260627T140000Z
-DTEND:20260627T170000Z
-SUMMARY:Expressive Poetry
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Since ancient times\, humans have created meaning of our world
-  and the afterlife through the art of poetic expression. This River of My 
- Life: A Poetic Expression Workshop will engage students in communicating w
- ith ancient artworks through poetic writing\, inspired by the Mysteries of
-  the Nile: Ancient Egypt exhibition. Through the use of stream of consciou
- sness and ekphrastic poetry activities\, students will be able to express 
- their own river of life. Ages 16  Beginner Level \n\nPermalink: https://ww
- w.tampa.gov/node/188661
-URL;VALUE=URI:https://www.tampa.gov/node/188661
-END:VEVENT
-BEGIN:VEVENT
-UID:1a6f5c84-69e0-44dc-b550-edb8e88b9282
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260627T123000Z
-DTEND:20260627T203000Z
-SUMMARY:FREE HUD Approved In person Homebuyer workshop
-LOCATION:2555 E. Hanna Ave Tampa \, FL 33610 United States
-DESCRIPTION:Your journey to homeownership starts here! Join us for our FRE
- E In-Person Homebuyers Workshop and learn everything you need to know abou
- t purchasing your first home\, improving your credit\, understanding the m
- ortgage process\, and accessing available down payment assistance programs
- . Up to 100\,000 in Down Payment Assistance may be available for qualified
-  buyers! City of Tampa City Center 2555 E. Hanna Ave  Tampa\, Florida 3361
- 0 Saturday\, July 27 8:30 AM  4:00 PM HUD-Approved Housing Counseling Agen
- cy Lunch will be provided Limited seats available  Registration is REQUIRE
- D! Take the first step toward building generational wealth and making your
-  dream of homeownership a reality. Register today at: www.reach4housing.or
- g (http:www.reach4housing.org) \n\nPermalink: https://www.tampa.gov/node/1
- 90521
-URL;VALUE=URI:https://www.tampa.gov/node/190521
-END:VEVENT
-BEGIN:VEVENT
-UID:c9c53bfa-a644-481f-9ce5-17e128a731d7
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260627T120000Z
-DTEND:20260627T180000Z
-SUMMARY:Live Oaks Square Annual Community Yard Sale and Fish Fry
-LOCATION:6023 N. 39th Street Tampa \, FL 33610 United States
-DESCRIPTION:Annual Community Yard Sale and Fish Live Oaks Square Neighborh
- ood \n\nPermalink: https://www.tampa.gov/node/191246
-URL;VALUE=URI:https://www.tampa.gov/node/191246
-END:VEVENT
-BEGIN:VEVENT
-UID:00574e8a-40db-4172-a2d7-05436b7dc8a2
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260628T150000Z
 DTEND:20260628T173000Z
 SUMMARY:Health Wellness Day at The Rock COGBF
@@ -1457,9 +1457,9 @@ DESCRIPTION:Join us for for Health Wellness Sunday on June 28! Our service
 URL;VALUE=URI:https://www.tampa.gov/node/191136
 END:VEVENT
 BEGIN:VEVENT
-UID:7278762f-7f87-4a31-bc68-4a3cbe802af4
+UID:9ae91f43-fe0d-4d4d-b9f1-fc3baff109c1
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260629T140000Z
 DTEND:20260629T200000Z
 SUMMARY:Studio55: Encaustic Explorations
@@ -1478,9 +1478,9 @@ DESCRIPTION:Explore the world of Encaustic art\, an ancient form of painti
 URL;VALUE=URI:https://www.tampa.gov/node/188726
 END:VEVENT
 BEGIN:VEVENT
-UID:12cfa13f-a5b7-403f-973b-bcd107372ec0
+UID:56533afb-14e2-403c-bbc0-468f47c3168f
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260630T140000Z
 DTEND:20260630T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -1498,9 +1498,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188501
 END:VEVENT
 BEGIN:VEVENT
-UID:e0e05da2-7cdb-437a-95a6-905a50277957
+UID:faee40d2-1dd4-42cc-998d-34802fb8be55
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260630T230000Z
 DTEND:20260701T020000Z
 SUMMARY:Teen Stay Play Dodgeball
@@ -1512,9 +1512,9 @@ DESCRIPTION:Teen Stay Play dodgeball. Event is free. Rec Card (https:www.t
 URL;VALUE=URI:https://www.tampa.gov/node/191401
 END:VEVENT
 BEGIN:VEVENT
-UID:2fbcb897-e9e0-41f7-8aae-fd76fe7ab4fb
+UID:b4c4aa30-2c64-4555-b354-4a0a03667043
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260630T223000Z
 DTEND:20260701T000000Z
 SUMMARY:Live Oaks Square Neighborhood Watch Monthly Meeting (LOSNA)
@@ -1530,9 +1530,9 @@ DESCRIPTION:Live Oaks Square Neighborhood Watch Monthly Meeting (LOSNA) 25
 URL;VALUE=URI:https://www.tampa.gov/node/191241
 END:VEVENT
 BEGIN:VEVENT
-UID:354820c1-4d85-4fba-8af8-42ac104b5c40
+UID:d8136635-f3d8-4694-a798-7e772a5b4eeb
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260701T150000Z
 DTEND:20260701T180000Z
 SUMMARY:Mayors Food Truck Fiesta
@@ -1553,9 +1553,23 @@ DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors
 URL;VALUE=URI:https://www.tampa.gov/node/179621
 END:VEVENT
 BEGIN:VEVENT
-UID:780c399e-b486-4e6f-ac65-a98ffa5a6c71
+UID:c753289f-b3cc-4a9f-9de9-b069193b8244
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260701T223000Z
+DTEND:20260702T003000Z
+SUMMARY:Teen Stay Play 15U Basketball
+LOCATION:Dr. Martin Luther King Jr. Recreation Center 2200 N Oregon Ave. T
+ ampa \, FL 33607 United States
+DESCRIPTION:Stay Play 15U Basketball. All Stay Play events are FREE. Rec C
+ ard (https:tampa.govrec-card)- also free - is required. \n\nPermalink: htt
+ ps://www.tampa.gov/node/191271
+URL;VALUE=URI:https://www.tampa.gov/node/191271
+END:VEVENT
+BEGIN:VEVENT
+UID:ad339349-ffb2-4d5e-98b0-7094839250b0
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260701T230000Z
 DTEND:20260702T020000Z
 SUMMARY:Teen Stay Play Culinary Class
@@ -1576,23 +1590,9 @@ DESCRIPTION:The City of Tampa invites youth to experience the excitement o
 URL;VALUE=URI:https://www.tampa.gov/node/191341
 END:VEVENT
 BEGIN:VEVENT
-UID:e07fb0f2-a0fb-4a86-905f-ff930f500d14
+UID:8c6c60d8-41ee-4bb6-93b8-f3126df6cf20
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260701T223000Z
-DTEND:20260702T003000Z
-SUMMARY:Teen Stay Play 15U Basketball
-LOCATION:Dr. Martin Luther King Jr. Recreation Center 2200 N Oregon Ave. T
- ampa \, FL 33607 United States
-DESCRIPTION:Stay Play 15U Basketball. All Stay Play events are FREE. Rec C
- ard (https:tampa.govrec-card)- also free - is required. \n\nPermalink: htt
- ps://www.tampa.gov/node/191271
-URL;VALUE=URI:https://www.tampa.gov/node/191271
-END:VEVENT
-BEGIN:VEVENT
-UID:d94f8357-fa85-4143-9638-30920376b15e
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260702T213000Z
 DTEND:20260702T230000Z
 SUMMARY:Artist Talk with Zack Wittman\, one of the photographers behind Ci
@@ -1608,9 +1608,9 @@ DESCRIPTION:Join us on Thursday\, July 2nd to hear from Zack Wittman\, co-
 URL;VALUE=URI:https://www.tampa.gov/node/190321
 END:VEVENT
 BEGIN:VEVENT
-UID:f75b7828-cb7c-42c3-ba2f-593eb6864bc9
+UID:9beb171f-215a-42d3-93ac-d4e357d226fb
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260702T220000Z
 DTEND:20260703T010000Z
 SUMMARY:Rock the Park
@@ -1629,9 +1629,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:acedea91-e7bc-4442-a747-3e7d33dcc8c4
+UID:ef156599-54ce-4d7f-b263-016bf4adb8db
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260702T223000Z
 DTEND:20260703T000000Z
 SUMMARY:Co-Ed Referee Training For Young Adults
@@ -1645,9 +1645,28 @@ DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
 URL;VALUE=URI:https://www.tampa.gov/node/191106
 END:VEVENT
 BEGIN:VEVENT
-UID:852a56ee-d82a-411c-a29f-b55c8be15f04
+UID:ca10609a-9858-4314-9833-1ac9e09fbbaf
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260704T200000Z
+DTEND:20260705T013000Z
+SUMMARY:Liberty by the Bay
+LOCATION:1001 N Blvd Tampa \, FL 33607 United States
+DESCRIPTION:The City of Tampa is celebrating Americas 250th anniversary wi
+ th one of the largest Fourth of July events in Tampa Bay  Liberty by the B
+ ay at Julian B. Lane Park (https:www.tampa.govparks-and-recreationfeatured
+ -parksriverfrontpark). This free\, family-friendly waterfront celebration 
+ will feature a 250-drone light show honoring Americas 250th birthday\, fol
+ lowed by a fireworks finale\, along with an afternoon and evening full of 
+ activities\, live entertainment\, food\, and fun for all ages. Learn more 
+ at tampa.govlibertybythebay (https:www.tampa.govlibertybythebay) \n\nPerma
+ link: https://www.tampa.gov/node/191651
+URL;VALUE=URI:https://www.tampa.gov/node/191651
+END:VEVENT
+BEGIN:VEVENT
+UID:881253a4-d97d-402c-880c-975e7d3d4f87
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260704T200000Z
 DTEND:20260705T020000Z
 SUMMARY:Stars\, Stripes Science
@@ -1675,28 +1694,9 @@ DESCRIPTION:Are you ready for one of the most exciting 4th of July events
 URL;VALUE=URI:https://www.tampa.gov/node/191566
 END:VEVENT
 BEGIN:VEVENT
-UID:f0346990-5ca6-46f4-b1fd-0f4fc59a3a10
+UID:8a6260ec-2557-4864-9d2d-98c6cc300384
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260704T200000Z
-DTEND:20260705T013000Z
-SUMMARY:Liberty by the Bay
-LOCATION:1001 N Blvd Tampa \, FL 33607 United States
-DESCRIPTION:The City of Tampa is celebrating Americas 250th anniversary wi
- th one of the largest Fourth of July events in Tampa Bay  Liberty by the B
- ay at Julian B. Lane Park (https:www.tampa.govparks-and-recreationfeatured
- -parksriverfrontpark). This free\, family-friendly waterfront celebration 
- will feature a 250-drone light show honoring Americas 250th birthday\, fol
- lowed by a fireworks finale\, along with an afternoon and evening full of 
- activities\, live entertainment\, food\, and fun for all ages. Learn more 
- at tampa.govlibertybythebay (https:www.tampa.govlibertybythebay) \n\nPerma
- link: https://www.tampa.gov/node/191651
-URL;VALUE=URI:https://www.tampa.gov/node/191651
-END:VEVENT
-BEGIN:VEVENT
-UID:6527d297-ed62-4906-b429-d2e03b1af971
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260705T140000Z
 DTEND:20260705T170000Z
 SUMMARY:Ceramics Continued Study
@@ -1714,9 +1714,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188746
 END:VEVENT
 BEGIN:VEVENT
-UID:247b8ce9-41bb-4495-b33a-5227179b97ce
+UID:a1628766-8a4b-41e7-a04a-ed187edc80b8
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260708T223000Z
 DTEND:20260709T003000Z
 SUMMARY:Teen Stay Play 15U Basketball
@@ -1728,9 +1728,9 @@ DESCRIPTION:Stay Play 15U Basketball. All Stay Play events are FREE. Rec C
 URL;VALUE=URI:https://www.tampa.gov/node/191271
 END:VEVENT
 BEGIN:VEVENT
-UID:227b0497-d7be-4190-a3ce-aefbe8a21009
+UID:1007ada6-785c-4d13-b286-80af9f12b3bd
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260708T230000Z
 DTEND:20260709T020000Z
 SUMMARY:Teen Stay Play Culinary Class
@@ -1750,9 +1750,9 @@ DESCRIPTION:The City of Tampa invites youth to experience the excitement o
 URL;VALUE=URI:https://www.tampa.gov/node/191346
 END:VEVENT
 BEGIN:VEVENT
-UID:fc603527-951d-43f6-bcaf-38916f50e6ec
+UID:0ca155f1-ff73-4868-bbc6-30bf8ab8b298
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260709T160000Z
 DTEND:20260709T203000Z
 SUMMARY:Downtowns Backyard Market
@@ -1774,9 +1774,25 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179666
 END:VEVENT
 BEGIN:VEVENT
-UID:d4b00308-c7dd-4e7a-9afb-b94c59a815fb
+UID:27a6dee2-001c-4e54-b920-4f518b358ddd
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260709T223000Z
+DTEND:20260710T000000Z
+SUMMARY:Co-Ed Referee Training For Young Adults
+LOCATION:Springhill Park Community Center 1000 E Eskimo Ave. Tampa \, FL 3
+ 3604 United States
+DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
+ rtunity available for graduates with the Tampa Parks Recreation Department
+ . Training will be held Thursdays 6:30-8 pm\, from June 4 to August 13\, 2
+ 026 For more information\, visit LMOINC.ORG (https:www.LMOINC.ORG) \n\nPer
+ malink: https://www.tampa.gov/node/191106
+URL;VALUE=URI:https://www.tampa.gov/node/191106
+END:VEVENT
+BEGIN:VEVENT
+UID:b1d2c214-a3d8-4657-9e79-0f5efca2bd1d
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260709T220000Z
 DTEND:20260710T010000Z
 SUMMARY:Thursday Ceramics
@@ -1793,25 +1809,9 @@ DESCRIPTION:Work with clay on the potters wheel and learn how to hand-buil
 URL;VALUE=URI:https://www.tampa.gov/node/188441
 END:VEVENT
 BEGIN:VEVENT
-UID:d2431f62-6373-41c8-8c74-4b0f8885f5b8
+UID:ee09cef1-feb5-4140-ac37-13a80c28dbf3
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260709T223000Z
-DTEND:20260710T000000Z
-SUMMARY:Co-Ed Referee Training For Young Adults
-LOCATION:Springhill Park Community Center 1000 E Eskimo Ave. Tampa \, FL 3
- 3604 United States
-DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
- rtunity available for graduates with the Tampa Parks Recreation Department
- . Training will be held Thursdays 6:30-8 pm\, from June 4 to August 13\, 2
- 026 For more information\, visit LMOINC.ORG (https:www.LMOINC.ORG) \n\nPer
- malink: https://www.tampa.gov/node/191106
-URL;VALUE=URI:https://www.tampa.gov/node/191106
-END:VEVENT
-BEGIN:VEVENT
-UID:bd87c952-12a8-4d70-a126-47db1326b6f9
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260710T150000Z
 DTEND:20260710T160000Z
 SUMMARY:Art Conversation  I Sing Because I am Happy: Florida Self-Taught A
@@ -1837,9 +1837,47 @@ DESCRIPTION:Join us for an engaging and interactive discussion at the C. B
 URL;VALUE=URI:https://www.tampa.gov/node/190811
 END:VEVENT
 BEGIN:VEVENT
-UID:7c1a526f-d57a-4677-8298-a179e27c55c4
+UID:ffc0a47f-1ae6-4506-ab7f-7dc115028347
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260711T120000Z
+DTEND:20260711T160000Z
+SUMMARY:Strong Over 50 Experience at Busch Gardens
+LOCATION:10165 N McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United S
+ tates
+DESCRIPTION:The Strong Over 50 Busch Gardens Fitness Experience is a free 
+ wellness event designed for adults ages 50 focused on helping older adults
+  improve strength\, mobility\, energy\, and overall health in a fun and su
+ pportive environment. Hosted at Busch Gardens Tampa Bay inside the Gwazi P
+ avilion\, the event features instructor-led strength training\, Pilates\, 
+ and dance fitness sessions\, wellness vendors\, giveaways\, free breakfast
+ \, and access to Busch Gardens after the program. The event brings togethe
+ r seniors\, health professionals\, community organizations\, and wellness 
+ partners for a high-energy morning centered around healthy aging and activ
+ e living. \n\nPermalink: https://www.tampa.gov/node/190361
+URL;VALUE=URI:https://www.tampa.gov/node/190361
+END:VEVENT
+BEGIN:VEVENT
+UID:bd9e88fd-3950-4bda-b844-c1ae16b4da87
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
+DTSTART:20260711T140000Z
+DTEND:20260711T170000Z
+SUMMARY:Studio55: Ceramics
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Use clay to build\, mold\, and sculpt three-dimensional works 
+ using coil building\, slab building\, and other hand-building techniques. 
+ All experience levels are welcome\\\; beginners and up. Saturdays\, Jul 11
+   Aug 15  10:00 AM  1:00 PM (6 classes) Ages 55  Beginner-Intermediate Lev
+ el Firing costs\, essential tools\, and glazes included. Clay available fo
+ r purchase separately in studio. \n\nPermalink: https://www.tampa.gov/node
+ /188601
+URL;VALUE=URI:https://www.tampa.gov/node/188601
+END:VEVENT
+BEGIN:VEVENT
+UID:1ccaece0-1137-4103-950a-b8ca729d2951
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260711T150000Z
 DTEND:20260711T210000Z
 SUMMARY:Freedom\, Food Fitness Festival
@@ -1863,47 +1901,9 @@ DESCRIPTION:Get ready for an unforgettable day of energy\, empowerment\, a
 URL;VALUE=URI:https://www.tampa.gov/node/191666
 END:VEVENT
 BEGIN:VEVENT
-UID:7d4391cd-2b35-4d8c-955b-5d299b52a052
+UID:a930ed8e-0adf-4bb4-87e3-2538a5e68839
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260711T140000Z
-DTEND:20260711T170000Z
-SUMMARY:Studio55: Ceramics
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Use clay to build\, mold\, and sculpt three-dimensional works 
- using coil building\, slab building\, and other hand-building techniques. 
- All experience levels are welcome\\\; beginners and up. Saturdays\, Jul 11
-   Aug 15  10:00 AM  1:00 PM (6 classes) Ages 55  Beginner-Intermediate Lev
- el Firing costs\, essential tools\, and glazes included. Clay available fo
- r purchase separately in studio. \n\nPermalink: https://www.tampa.gov/node
- /188601
-URL;VALUE=URI:https://www.tampa.gov/node/188601
-END:VEVENT
-BEGIN:VEVENT
-UID:3166c2b8-b101-45c1-9ae2-b9a0ddcfa0db
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260711T120000Z
-DTEND:20260711T160000Z
-SUMMARY:Strong Over 50 Experience at Busch Gardens
-LOCATION:10165 N McKinley Dr\, Tampa\, FL 33612 Tampa \, FL 33612 United S
- tates
-DESCRIPTION:The Strong Over 50 Busch Gardens Fitness Experience is a free 
- wellness event designed for adults ages 50 focused on helping older adults
-  improve strength\, mobility\, energy\, and overall health in a fun and su
- pportive environment. Hosted at Busch Gardens Tampa Bay inside the Gwazi P
- avilion\, the event features instructor-led strength training\, Pilates\, 
- and dance fitness sessions\, wellness vendors\, giveaways\, free breakfast
- \, and access to Busch Gardens after the program. The event brings togethe
- r seniors\, health professionals\, community organizations\, and wellness 
- partners for a high-energy morning centered around healthy aging and activ
- e living. \n\nPermalink: https://www.tampa.gov/node/190361
-URL;VALUE=URI:https://www.tampa.gov/node/190361
-END:VEVENT
-BEGIN:VEVENT
-UID:61527d09-c915-4852-8423-6589373ab94c
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260712T140000Z
 DTEND:20260712T170000Z
 SUMMARY:Ceramics Continued Study
@@ -1921,9 +1921,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188751
 END:VEVENT
 BEGIN:VEVENT
-UID:352ed03e-f091-4519-a707-104416697f48
+UID:37e12957-aa57-4b69-9146-416dccaedac0
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260714T140000Z
 DTEND:20260714T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -1941,23 +1941,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188506
 END:VEVENT
 BEGIN:VEVENT
-UID:ddeea4eb-eb51-4088-b20b-7edae808a3a3
+UID:027d94ff-c0da-4d3b-97d2-e9fc4c6cee71
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260715T223000Z
-DTEND:20260716T003000Z
-SUMMARY:Teen Stay Play 15U Basketball
-LOCATION:Dr. Martin Luther King Jr. Recreation Center 2200 N Oregon Ave. T
- ampa \, FL 33607 United States
-DESCRIPTION:Stay Play 15U Basketball. All Stay Play events are FREE. Rec C
- ard (https:tampa.govrec-card)- also free - is required. \n\nPermalink: htt
- ps://www.tampa.gov/node/191271
-URL;VALUE=URI:https://www.tampa.gov/node/191271
-END:VEVENT
-BEGIN:VEVENT
-UID:7a0eddf7-efbc-47fa-a9fa-73a6512b94f7
-SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260715T230000Z
 DTEND:20260716T020000Z
 SUMMARY:Teen Stay Play Culinary Class
@@ -1978,25 +1964,23 @@ DESCRIPTION:The City of Tampa invites youth to experience the excitement o
 URL;VALUE=URI:https://www.tampa.gov/node/191351
 END:VEVENT
 BEGIN:VEVENT
-UID:640cbd5a-5256-46b4-a776-6d55076ebd91
+UID:a2765a37-3b38-4a95-918e-c4eddeee2127
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
-DTSTART:20260716T223000Z
-DTEND:20260717T000000Z
-SUMMARY:Co-Ed Referee Training For Young Adults
-LOCATION:Springhill Park Community Center 1000 E Eskimo Ave. Tampa \, FL 3
- 3604 United States
-DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
- rtunity available for graduates with the Tampa Parks Recreation Department
- . Training will be held Thursdays 6:30-8 pm\, from June 4 to August 13\, 2
- 026 For more information\, visit LMOINC.ORG (https:www.LMOINC.ORG) \n\nPer
- malink: https://www.tampa.gov/node/191106
-URL;VALUE=URI:https://www.tampa.gov/node/191106
+DTSTAMP:20260616T003514Z
+DTSTART:20260715T223000Z
+DTEND:20260716T003000Z
+SUMMARY:Teen Stay Play 15U Basketball
+LOCATION:Dr. Martin Luther King Jr. Recreation Center 2200 N Oregon Ave. T
+ ampa \, FL 33607 United States
+DESCRIPTION:Stay Play 15U Basketball. All Stay Play events are FREE. Rec C
+ ard (https:tampa.govrec-card)- also free - is required. \n\nPermalink: htt
+ ps://www.tampa.gov/node/191271
+URL;VALUE=URI:https://www.tampa.gov/node/191271
 END:VEVENT
 BEGIN:VEVENT
-UID:7a430554-1b9c-49c4-859a-5b6df9aab643
+UID:8b503de4-ff66-42f5-b5d8-67fa427198f1
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260716T223000Z
 DTEND:20260716T233000Z
 SUMMARY:Lowry Park Central Community Organization
@@ -2010,9 +1994,25 @@ DESCRIPTION:The Neighborhood Association will hold monthly meetings on the
 URL;VALUE=URI:https://www.tampa.gov/node/190151
 END:VEVENT
 BEGIN:VEVENT
-UID:dd046c78-1829-4757-8951-a2b1327df8f3
+UID:e5dce902-51d0-4bfb-96d8-029443fa03a6
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
+DTSTART:20260716T223000Z
+DTEND:20260717T000000Z
+SUMMARY:Co-Ed Referee Training For Young Adults
+LOCATION:Springhill Park Community Center 1000 E Eskimo Ave. Tampa \, FL 3
+ 3604 United States
+DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
+ rtunity available for graduates with the Tampa Parks Recreation Department
+ . Training will be held Thursdays 6:30-8 pm\, from June 4 to August 13\, 2
+ 026 For more information\, visit LMOINC.ORG (https:www.LMOINC.ORG) \n\nPer
+ malink: https://www.tampa.gov/node/191106
+URL;VALUE=URI:https://www.tampa.gov/node/191106
+END:VEVENT
+BEGIN:VEVENT
+UID:5157f4d0-33ad-4b8d-a341-af7af3774ca6
+SEQUENCE:0
+DTSTAMP:20260616T003514Z
 DTSTART:20260717T150000Z
 DTEND:20260717T160000Z
 SUMMARY:Art Conversation  Remixed: Florida Artists Look at Art History
@@ -2033,9 +2033,9 @@ DESCRIPTION:Join us for an engaging and interactive discussion at the Robe
 URL;VALUE=URI:https://www.tampa.gov/node/190821
 END:VEVENT
 BEGIN:VEVENT
-UID:048a9a5c-6dfe-4ecc-b694-57e0bef9bcc5
+UID:94efea09-3bf9-4f96-8f7d-f52b3b8df5ce
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260717T220000Z
 DTEND:20260718T010000Z
 SUMMARY:Rhythm Hues: An Alleyway Art Show
@@ -2051,9 +2051,9 @@ DESCRIPTION:LOCATION: Rialto Theater Alleyway  1617 N Franklin St\, Tampa\
 URL;VALUE=URI:https://www.tampa.gov/node/188226
 END:VEVENT
 BEGIN:VEVENT
-UID:790d738a-b918-4f33-9154-9e30c7d0ced0
+UID:24322c48-1fc6-47eb-87f6-a40f249e5018
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260718T140000Z
 DTEND:20260718T183000Z
 SUMMARY:Youth Family Wellness Summit
@@ -2072,9 +2072,9 @@ DESCRIPTION:The Youth and Young Adult Wellness Summit is a community-cente
 URL;VALUE=URI:https://www.tampa.gov/node/190161
 END:VEVENT
 BEGIN:VEVENT
-UID:9b8dab23-5700-42d6-8131-8ac3e88a92c4
+UID:b318c342-17c9-4a4b-8be1-f0cbe20f5609
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260718T223000Z
 DTEND:20260719T010000Z
 SUMMARY:Teen Stay Play Pool Party
@@ -2086,9 +2086,9 @@ DESCRIPTION:Teen Stay Play Pool Party Free for teens. Rec Card - also free
 URL;VALUE=URI:https://www.tampa.gov/node/191371
 END:VEVENT
 BEGIN:VEVENT
-UID:7e084e73-2a36-4862-a599-be86d21bb7b0
+UID:a39bba81-c3a8-4a76-94e2-0daaa062054e
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260719T140000Z
 DTEND:20260719T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2106,9 +2106,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188756
 END:VEVENT
 BEGIN:VEVENT
-UID:f8820eac-5d04-445e-9fc0-5437315efb41
+UID:53a894ba-b2aa-422d-b22d-a6f9d57aee30
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260721T140000Z
 DTEND:20260721T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -2126,9 +2126,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188511
 END:VEVENT
 BEGIN:VEVENT
-UID:747e4810-dcdf-4f0b-b20a-291e11f37f19
+UID:93b4459c-c4ea-464c-a234-0b7f5bca52c6
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260721T220000Z
 DTEND:20260722T010000Z
 SUMMARY:Figure Drawing Study
@@ -2144,9 +2144,9 @@ DESCRIPTION:Work in your drawing and painting media of choice or explore n
 URL;VALUE=URI:https://www.tampa.gov/node/189216
 END:VEVENT
 BEGIN:VEVENT
-UID:b00f53c7-6b4d-41d6-be2e-43ddb2a6d0ff
+UID:b4de2396-fa40-4429-8cba-84121cd703cb
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260722T223000Z
 DTEND:20260723T003000Z
 SUMMARY:Teen Stay Play 15U Basketball
@@ -2158,9 +2158,9 @@ DESCRIPTION:Stay Play 15U Basketball. All Stay Play events are FREE. Rec C
 URL;VALUE=URI:https://www.tampa.gov/node/191271
 END:VEVENT
 BEGIN:VEVENT
-UID:9459c944-a1c0-4e36-8a05-9af1af79d835
+UID:0ce3ee96-b16e-43c9-a283-eb520e3dd625
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260722T230000Z
 DTEND:20260723T020000Z
 SUMMARY:Teen Stay Play Culinary Class
@@ -2181,9 +2181,9 @@ DESCRIPTION:The City of Tampa invites youth to experience the excitement o
 URL;VALUE=URI:https://www.tampa.gov/node/191356
 END:VEVENT
 BEGIN:VEVENT
-UID:5900c9eb-9a9e-45d5-8376-028aa16e69ea
+UID:9688bd7b-939c-4f0e-9143-c8b603ce1901
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260723T220000Z
 DTEND:20260724T010000Z
 SUMMARY:Remix: Mysteries of the Nile
@@ -2198,9 +2198,9 @@ DESCRIPTION:Remix is a series of make-and-take art workshops for adults in
 URL;VALUE=URI:https://www.tampa.gov/node/189166
 END:VEVENT
 BEGIN:VEVENT
-UID:7ca02d60-2711-48af-8b4e-f1eeaa100200
+UID:726a515e-affb-489f-95f2-049193c23aee
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260723T223000Z
 DTEND:20260724T000000Z
 SUMMARY:Co-Ed Referee Training For Young Adults
@@ -2214,9 +2214,9 @@ DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
 URL;VALUE=URI:https://www.tampa.gov/node/191106
 END:VEVENT
 BEGIN:VEVENT
-UID:f508dfd2-bdcd-42a0-8afb-372d3020b1a5
+UID:67c64157-03dc-4ffe-927e-6faccee4c202
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260724T230000Z
 DTEND:20260725T013000Z
 SUMMARY:Teen Stay Play Pool Party
@@ -2227,9 +2227,9 @@ DESCRIPTION:Teen Stay Play Pool Party Free for teens. Rec Card - also free
 URL;VALUE=URI:https://www.tampa.gov/node/191376
 END:VEVENT
 BEGIN:VEVENT
-UID:20f28750-182e-4abb-b362-8acb8758f97d
+UID:daa1f64a-a7e9-4896-b1fc-a0330dfeb362
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260725T230000Z
 DTEND:20260726T030000Z
 SUMMARY:Teen Stay Play Sneaker Ball
@@ -2242,9 +2242,9 @@ DESCRIPTION:Show up in your most comfortable\, or show out in your best. M
 URL;VALUE=URI:https://www.tampa.gov/node/191411
 END:VEVENT
 BEGIN:VEVENT
-UID:fd863431-2f92-4292-afda-5027c50f7d35
+UID:b4e0f49f-4f35-4e65-be45-566dd3637f36
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260726T140000Z
 DTEND:20260726T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2262,9 +2262,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188761
 END:VEVENT
 BEGIN:VEVENT
-UID:52e90e31-af7b-44c4-b2fa-d64070d4c5f6
+UID:ba9ffb32-f6b6-401f-a1c9-b8bb7a44bc2f
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260726T140000Z
 DTEND:20260726T180000Z
 SUMMARY:Back to School Bash - New Tampa YMCA
@@ -2291,9 +2291,9 @@ DESCRIPTION:Back to School Bash at YMCA New TampaDate: July 26\, 2026  10:
 URL;VALUE=URI:https://www.tampa.gov/node/190656
 END:VEVENT
 BEGIN:VEVENT
-UID:b105634b-256a-46e7-83c5-7f710f1e4014
+UID:d5a1c896-372c-4415-9510-94069573f4f2
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260728T140000Z
 DTEND:20260728T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -2311,9 +2311,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188516
 END:VEVENT
 BEGIN:VEVENT
-UID:1a725596-e18a-43bb-92b2-83d00539e9d5
+UID:7edfece2-e0a8-409e-a8ff-18ce5b3c3fb2
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260728T223000Z
 DTEND:20260729T013000Z
 SUMMARY:Teen Stay Play Girls Flag Football
@@ -2325,9 +2325,9 @@ DESCRIPTION:Teen Stay Play girls flag football game. Event is free. Rec Ca
 URL;VALUE=URI:https://www.tampa.gov/node/191281
 END:VEVENT
 BEGIN:VEVENT
-UID:52fc2bab-ddf3-4675-a15b-e9c70c45152a
+UID:8f9cf2bf-5ac6-4453-8b9a-a6a2e08ec318
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260729T223000Z
 DTEND:20260730T003000Z
 SUMMARY:Teen Stay Play 15U Basketball
@@ -2339,9 +2339,9 @@ DESCRIPTION:Stay Play 15U Basketball. All Stay Play events are FREE. Rec C
 URL;VALUE=URI:https://www.tampa.gov/node/191271
 END:VEVENT
 BEGIN:VEVENT
-UID:786441a5-f4aa-4909-a0f0-1a233893e35c
+UID:7c77918d-1b8b-4c48-bd59-9515124ca045
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260729T230000Z
 DTEND:20260730T020000Z
 SUMMARY:Teen Stay Play Culinary Class
@@ -2362,9 +2362,9 @@ DESCRIPTION:The City of Tampa invites youth to experience the excitement o
 URL;VALUE=URI:https://www.tampa.gov/node/191361
 END:VEVENT
 BEGIN:VEVENT
-UID:d0012650-92ad-4ef9-9b43-5bc8714f6dc6
+UID:714f0d8a-35a8-47ae-8808-9fa61f8f8cbf
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260730T223000Z
 DTEND:20260731T000000Z
 SUMMARY:Co-Ed Referee Training For Young Adults
@@ -2378,9 +2378,9 @@ DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
 URL;VALUE=URI:https://www.tampa.gov/node/191106
 END:VEVENT
 BEGIN:VEVENT
-UID:8aee38d0-5a52-4cd9-ad0e-e3c58367b512
+UID:b24a8b54-cf00-47e6-8467-57ac387c9d24
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260801T223000Z
 DTEND:20260802T010000Z
 SUMMARY:Teen Stay Play Pool Party
@@ -2391,9 +2391,9 @@ DESCRIPTION:Teen Stay Play Pool Party Free for teens. Rec Card - also free
 URL;VALUE=URI:https://www.tampa.gov/node/191381
 END:VEVENT
 BEGIN:VEVENT
-UID:913f3267-6ff9-4b3b-8361-c8214e585423
+UID:3e7b3fca-9286-4a04-8e20-e1d7579a1adc
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260802T140000Z
 DTEND:20260802T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2411,9 +2411,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188766
 END:VEVENT
 BEGIN:VEVENT
-UID:db7ae813-1857-4a09-998d-52e3fcbb680c
+UID:374f1dd6-5d22-4b21-8822-8a8330148947
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260804T223000Z
 DTEND:20260805T013000Z
 SUMMARY:Teen Stay Play Girls Flag Football
@@ -2425,9 +2425,9 @@ DESCRIPTION:Teen Stay Play girls flag football game. Event is free. Rec Ca
 URL;VALUE=URI:https://www.tampa.gov/node/191286
 END:VEVENT
 BEGIN:VEVENT
-UID:410a5878-399e-48cd-9951-d9c2b675333e
+UID:7c127331-93cf-48da-9b84-f10c8df06d36
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260804T140000Z
 DTEND:20260804T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -2445,9 +2445,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188521
 END:VEVENT
 BEGIN:VEVENT
-UID:6eb88e8c-d75d-4818-978f-3d4046003340
+UID:9b674884-942d-4676-90ac-c43a6d5d76e0
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260805T150000Z
 DTEND:20260805T180000Z
 SUMMARY:Mayors Food Truck Fiesta
@@ -2468,9 +2468,9 @@ DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors
 URL;VALUE=URI:https://www.tampa.gov/node/179626
 END:VEVENT
 BEGIN:VEVENT
-UID:f8f1f13d-fb23-4cf6-89ee-3e30a37b1bd1
+UID:17172f4d-7cb2-4b83-b7f2-f97d6d5dd434
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260805T160000Z
 DTEND:20260805T190000Z
 SUMMARY:Studio55: Kitchen Lithography and Monotype Printmaking
@@ -2487,9 +2487,9 @@ DESCRIPTION:In this 4-week class students will experiment with 2 technique
 URL;VALUE=URI:https://www.tampa.gov/node/189186
 END:VEVENT
 BEGIN:VEVENT
-UID:073ff345-76db-4702-9b39-e76e4271fc7b
+UID:e0974346-70ca-4453-91a7-f756972361a2
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260806T220000Z
 DTEND:20260807T010000Z
 SUMMARY:Rock the Park
@@ -2508,9 +2508,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:c8492879-9028-4209-8d63-4eff447a65e6
+UID:436cfc6e-2d24-4570-95a4-83917c51b72e
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260806T223000Z
 DTEND:20260807T000000Z
 SUMMARY:Co-Ed Referee Training For Young Adults
@@ -2524,9 +2524,9 @@ DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
 URL;VALUE=URI:https://www.tampa.gov/node/191106
 END:VEVENT
 BEGIN:VEVENT
-UID:5c68d202-c0d0-4462-b252-1878526ab562
+UID:9fd1dcd9-75da-40f7-b112-c73a4f223a23
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260809T140000Z
 DTEND:20260809T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2544,9 +2544,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188771
 END:VEVENT
 BEGIN:VEVENT
-UID:4a97a62b-8371-42df-b139-6615eae56bb2
+UID:8f7a1e77-e1db-4749-8920-0357848c060a
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260810T203000Z
 DTEND:20260810T233000Z
 SUMMARY:Blind Date with a Book
@@ -2571,9 +2571,9 @@ DESCRIPTION:Its a match! Swipe right on a good read and start a new chapte
 URL;VALUE=URI:https://www.tampa.gov/node/179436
 END:VEVENT
 BEGIN:VEVENT
-UID:67e4f5f4-e30f-4ab5-b91c-f1d1c0706d62
+UID:4f89001a-3f5e-48e1-81fb-714f13bb5251
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260811T140000Z
 DTEND:20260811T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -2591,9 +2591,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188526
 END:VEVENT
 BEGIN:VEVENT
-UID:6617e383-2dd3-470b-86a1-bcde42fe14be
+UID:f3164f9f-88b2-4da3-8694-f21933260af3
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260812T160000Z
 DTEND:20260812T190000Z
 SUMMARY:Studio55: Kitchen Lithography and Monotype Printmaking
@@ -2610,9 +2610,9 @@ DESCRIPTION:In this 4-week class students will experiment with 2 technique
 URL;VALUE=URI:https://www.tampa.gov/node/189191
 END:VEVENT
 BEGIN:VEVENT
-UID:b5e2c125-704a-4ea9-bd6b-937e3065be2b
+UID:409f6e30-8a20-47f2-9870-0a8673072857
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260813T223000Z
 DTEND:20260814T000000Z
 SUMMARY:Co-Ed Referee Training For Young Adults
@@ -2626,9 +2626,9 @@ DESCRIPTION:Co-Ed Referee Training for young adults 16-20. Employment oppo
 URL;VALUE=URI:https://www.tampa.gov/node/191106
 END:VEVENT
 BEGIN:VEVENT
-UID:9035899e-cf75-4c47-bbe7-a67ef4d46853
+UID:6f5bfb50-dea0-42d8-9bcc-b3c300c256c3
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260813T160000Z
 DTEND:20260813T203000Z
 SUMMARY:Downtowns Backyard Market
@@ -2650,9 +2650,9 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179671
 END:VEVENT
 BEGIN:VEVENT
-UID:e7108598-ef10-4cdb-a6e6-680fe56c2508
+UID:3acf5b98-1f5b-451a-9fad-33f6f57304e4
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260816T140000Z
 DTEND:20260816T170000Z
 SUMMARY:Tampa Museum of Art
@@ -2670,9 +2670,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188776
 END:VEVENT
 BEGIN:VEVENT
-UID:42ad124d-4aa9-4ea2-bb86-aeed569366b8
+UID:f8b4d48c-bcaa-4610-8be0-a8b993e5ca1a
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260818T140000Z
 DTEND:20260818T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -2690,9 +2690,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188531
 END:VEVENT
 BEGIN:VEVENT
-UID:3bb2dd03-716c-4fdb-81b9-5cf6a8aa85b8
+UID:294ba525-5b51-4b72-b193-4c50e89a129d
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260819T160000Z
 DTEND:20260819T190000Z
 SUMMARY:Studio55: Kitchen Lithography and Monotype Printmaking
@@ -2709,9 +2709,9 @@ DESCRIPTION:In this 4-week class students will experiment with 2 technique
 URL;VALUE=URI:https://www.tampa.gov/node/189196
 END:VEVENT
 BEGIN:VEVENT
-UID:155fe6cf-3fa2-4799-9b64-0182d501274a
+UID:f64716dc-202e-4af8-9303-e88ec7f9ba72
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260820T223000Z
 DTEND:20260820T233000Z
 SUMMARY:Lowry Park Central Community Organization
@@ -2725,9 +2725,9 @@ DESCRIPTION:The Neighborhood Association will hold monthly meetings on the
 URL;VALUE=URI:https://www.tampa.gov/node/190151
 END:VEVENT
 BEGIN:VEVENT
-UID:a454c99f-df54-4983-a1cd-c02333a62c99
+UID:091554c9-6d0e-41d7-8991-ed234e207c86
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260823T140000Z
 DTEND:20260823T170000Z
 SUMMARY:Ceramics Continued Study
@@ -2745,9 +2745,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188781
 END:VEVENT
 BEGIN:VEVENT
-UID:354b9c76-b90d-4879-94e1-72b0e8374622
+UID:bc2be876-2789-47b4-bb62-089a4117b47f
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260825T140000Z
 DTEND:20260825T170000Z
 SUMMARY:Studio 55  Ceramics Continued Study
@@ -2765,9 +2765,9 @@ DESCRIPTION:Ceramics Continued Study is a space for students to enhance th
 URL;VALUE=URI:https://www.tampa.gov/node/188536
 END:VEVENT
 BEGIN:VEVENT
-UID:283f71d8-f125-46e3-bd69-bf9ebc67bf1e
+UID:4f0755a4-434c-4bce-9877-706438e669fa
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260825T220000Z
 DTEND:20260826T010000Z
 SUMMARY:Figure Drawing Study
@@ -2783,9 +2783,9 @@ DESCRIPTION:Work in your drawing and painting media of choice or explore n
 URL;VALUE=URI:https://www.tampa.gov/node/189211
 END:VEVENT
 BEGIN:VEVENT
-UID:6dffc665-35b6-4fa6-93e0-f9a53602b3e2
+UID:fb268cc6-0116-452c-a2ce-41c0fb0d77b0
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260826T160000Z
 DTEND:20260826T190000Z
 SUMMARY:Studio55: Kitchen Lithography and Monotype Printmaking
@@ -2802,9 +2802,9 @@ DESCRIPTION:In this 4-week class students will experiment with 2 technique
 URL;VALUE=URI:https://www.tampa.gov/node/189201
 END:VEVENT
 BEGIN:VEVENT
-UID:ff544be6-56bd-4e1c-b8b9-a564c8e34410
+UID:94cd32aa-2648-450b-8b8d-05069cb51d64
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260902T150000Z
 DTEND:20260902T180000Z
 SUMMARY:Mayors Food Truck Fiesta
@@ -2825,9 +2825,9 @@ DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors
 URL;VALUE=URI:https://www.tampa.gov/node/179631
 END:VEVENT
 BEGIN:VEVENT
-UID:59408a89-f51e-47c2-8f33-9e33c262e2d3
+UID:7e19c438-77be-4dc0-b59d-23cb10fed843
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260903T220000Z
 DTEND:20260904T010000Z
 SUMMARY:Rock the Park
@@ -2846,9 +2846,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:4de22cb5-e320-4ba6-b601-6c672a5f32b4
+UID:1fa55605-dbbc-4006-ba84-8caae89f7ee9
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260910T160000Z
 DTEND:20260910T203000Z
 SUMMARY:Downtowns Backyard Market
@@ -2870,9 +2870,9 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179676
 END:VEVENT
 BEGIN:VEVENT
-UID:e2045648-5543-4b5c-b3fb-d87f2627e043
+UID:b3b64937-ec0c-4608-8993-655e08765ff4
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260915T220000Z
 DTEND:20260915T233000Z
 SUMMARY:Central Park Jazz Jam
@@ -2888,9 +2888,9 @@ DESCRIPTION:Let the good times roll at Central Park Jazz Jam! This FREE co
 URL;VALUE=URI:https://www.tampa.gov/node/177856
 END:VEVENT
 BEGIN:VEVENT
-UID:9b6b0705-bb8e-44b5-a341-0c51f49022b1
+UID:cc8998f0-0236-4473-9e6f-da0724ee4030
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260917T223000Z
 DTEND:20260917T233000Z
 SUMMARY:Lowry Park Central Community Organization
@@ -2904,9 +2904,9 @@ DESCRIPTION:The Neighborhood Association will hold monthly meetings on the
 URL;VALUE=URI:https://www.tampa.gov/node/190151
 END:VEVENT
 BEGIN:VEVENT
-UID:8d617c6b-c634-4d06-8713-c0008ac3fdb2
+UID:3582107c-e7a6-49cc-ba92-55eada6b60f9
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260920T000000Z
 DTEND:20260920T035900Z
 SUMMARY:Pride Passion: 20th Anniversay
@@ -2931,9 +2931,9 @@ DESCRIPTION:Celebrate 20 Years of Pride Passion at the Tampa Museum of Art
 URL;VALUE=URI:https://www.tampa.gov/node/191546
 END:VEVENT
 BEGIN:VEVENT
-UID:c90b1344-b595-4de6-8934-f3d1a8634e7a
+UID:e9e8f4c5-4345-4870-a19e-ede896ee0277
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20260927T213000Z
 DTEND:20260927T233000Z
 SUMMARY:2026 Walk to End Lupus Now\, West Florida
@@ -2947,9 +2947,9 @@ DESCRIPTION:2026 Walk to End Lupus Now\, West Florida Date: Sunday\, Septe
 URL;VALUE=URI:https://www.tampa.gov/node/187506
 END:VEVENT
 BEGIN:VEVENT
-UID:6bdc3f8b-b581-4254-8a62-2824a8c2ce33
+UID:49b9d71b-f279-4468-9b27-449b93c4994b
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20261001T220000Z
 DTEND:20261002T010000Z
 SUMMARY:Rock the Park
@@ -2968,9 +2968,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:2fed7ba6-e66c-4b79-bbe3-e6733224b93c
+UID:239d9ce0-9f6e-44a0-84ce-485bbb2cf968
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20261007T150000Z
 DTEND:20261007T180000Z
 SUMMARY:Mayors Food Truck Fiesta
@@ -2991,9 +2991,9 @@ DESCRIPTION:Lets fiesta! Back by popular demand (and hunger)\, the Mayors
 URL;VALUE=URI:https://www.tampa.gov/node/179636
 END:VEVENT
 BEGIN:VEVENT
-UID:6d5d4336-a935-4c93-9595-1f3c9972b17a
+UID:bc1cfec8-d0dd-4a63-a200-75215a1c8837
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20261008T160000Z
 DTEND:20261008T203000Z
 SUMMARY:Downtowns Backyard Market
@@ -3015,9 +3015,9 @@ DESCRIPTION:Find fresh finds and city vibes at Downtowns Backyard Market!
 URL;VALUE=URI:https://www.tampa.gov/node/179681
 END:VEVENT
 BEGIN:VEVENT
-UID:564eedf6-9ee6-41e3-b67e-bac894436ea3
+UID:d1b835fd-5d58-4309-b3ed-5630e739e5b6
 SEQUENCE:0
-DTSTAMP:20260615T002924Z
+DTSTAMP:20260616T003514Z
 DTSTART:20261009T213000Z
 DTEND:20261009T233000Z
 SUMMARY:Keys in the Park: A Melodic Duel
