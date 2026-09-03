@@ -5,53 +5,31 @@ NAME:Tampa Calendar - All Events
 X-WR-CALNAME:Tampa Calendar - All Events
 X-WR-CALDESC:Community events in Tampa for All Events
 BEGIN:VEVENT
-UID:312f7795-96db-45b3-9c4e-2901bb7bb180
+UID:dbadca6a-4568-46dd-9354-43998cd65f82
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260902T160000Z
-DTEND:20260902T170000Z
-SUMMARY:Lion\, Otter\, Beaver\, Golden Retriever\, Whats your learning sty
- le?
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Identifying your personal learning style can help you understa
- nd and learn complex topics\, motivate you to stay focused\, and ultimatel
- y help you retain what youve learned. Are you a natural leader\, a playful
-  spirit\, a loyal friend\, or a meticulous planner? Do you prefer written\
- , visual\, hands-on\, or auditory learning? Take this fun self-assessment 
- and find out! Register: Lion\, Otter\, Beaver\, Golden Retriever: Whats yo
- ur learning style? (https:events.teams.microsoft.comevent30ced369-7495-452
- 0-a277-b55b78054db1db05faca-c82a-4b9d-b9c5-0f64b6755421) \n\nPermalink: ht
- tps://www.tampa.gov/node/194061
-URL;VALUE=URI:https://www.tampa.gov/node/194061
-END:VEVENT
-BEGIN:VEVENT
-UID:dca1414c-a9e9-491c-aa49-3ab3862c9e29
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260902T213000Z
 DTEND:20260902T213000Z
-SUMMARY:Architectural Review Commission
+SUMMARY:CANCELLED - Architectural Review Commission
 LOCATION:Tampa \, FL United States
-DESCRIPTION:CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC
-  HEARINGS Date(s) and Time: Wednesday\, September 2\, 2026\, at 5:30 P.M. 
- Wednesday\, September 9\, 2026\, at 5:30 P.M. Location: Old City Hall\, 31
- 5 E. Kennedy Boulevard\, City Council Chambers\, 3rd Floor\, Tampa\, FL 33
- 602 Members of the public who do not wish to appear in person may submit w
- ritten comments by mail to Architectural Review Historic Preservation\, 25
- 55 E. Hanna Avenue\, Tampa\, FL 3310\, or by e-mail to HistoricPreservatio
- ntampagov.net. All written comments must be received no later than 24 hour
- s prior to the scheduled meeting in order to be distributed to the Commiss
- ion members and to be included in the official meeting record. To check th
- e postponement or cancellation status of the public hearing\, please conta
- ct our office at 813- 274-3100\, option 3. www.tampagov.nethistoric-preser
- vation NOTE: ALL MEETINGS ARE OPEN TO THE PUBLIC \n\nPermalink: https://ww
- w.tampa.gov/node/193941
+DESCRIPTION:CANCELLED CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE
+  OF PUBLIC HEARINGS Date(s) and Time: Wednesday\, September 2\, 2026\, at 
+ 5:30 P.M. Members of the public who do not wish to appear in person may su
+ bmit written comments by mail to Architectural Review Historic Preservatio
+ n\, 2555 E. Hanna Avenue\, Tampa\, FL 3310\, or by e-mail to HistoricPrese
+ rvationtampagov.net. All written comments must be received no later than 2
+ 4 hours prior to the scheduled meeting in order to be distributed to the C
+ ommission members and to be included in the official meeting record. To ch
+ eck the postponement or cancellation status of the public hearing\, please
+  contact our office at 813- 274-3100\, option 3. www.tampagov.nethistoric-
+ preservation NOTE: ALL MEETINGS ARE OPEN TO THE PUBLIC \n\nPermalink: http
+ s://www.tampa.gov/node/193941
 URL;VALUE=URI:https://www.tampa.gov/node/193941
 END:VEVENT
 BEGIN:VEVENT
-UID:0bd7f42e-806c-4f95-b613-69f60f6c7920
+UID:5a00a1f2-aef9-42db-9b7e-8bf3578d6a1f
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260902T213000Z
 DTEND:20260902T213000Z
 SUMMARY:Channel District Community Advisory Committee
@@ -80,9 +58,29 @@ DESCRIPTION:CHANNEL DISTRICT COMMUNITY ADVISORY COMMITTEE FOR THE CHANNEL
 URL;VALUE=URI:https://www.tampa.gov/node/193801
 END:VEVENT
 BEGIN:VEVENT
-UID:c3dae9ae-ba22-49dd-992c-5c462905d104
+UID:9ab5cbe5-3c36-43e1-84c4-11913f0d77f6
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20260902T160000Z
+DTEND:20260902T170000Z
+SUMMARY:Lion\, Otter\, Beaver\, Golden Retriever\, Whats your learning sty
+ le?
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Identifying your personal learning style can help you understa
+ nd and learn complex topics\, motivate you to stay focused\, and ultimatel
+ y help you retain what youve learned. Are you a natural leader\, a playful
+  spirit\, a loyal friend\, or a meticulous planner? Do you prefer written\
+ , visual\, hands-on\, or auditory learning? Take this fun self-assessment 
+ and find out! Register: Lion\, Otter\, Beaver\, Golden Retriever: Whats yo
+ ur learning style? (https:events.teams.microsoft.comevent30ced369-7495-452
+ 0-a277-b55b78054db1db05faca-c82a-4b9d-b9c5-0f64b6755421) \n\nPermalink: ht
+ tps://www.tampa.gov/node/194061
+URL;VALUE=URI:https://www.tampa.gov/node/194061
+END:VEVENT
+BEGIN:VEVENT
+UID:eb1bbe21-8b50-4980-91e1-24f9dbb7d230
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20260903T130000Z
 DTEND:20260903T130000Z
 SUMMARY:City Council Regular Agenda
@@ -134,30 +132,9 @@ DESCRIPTION:NOTICE OF PUBLIC MEETING TAMPA CITY COUNCIL REGULAR AGENDA Dat
 URL;VALUE=URI:https://www.tampa.gov/node/194116
 END:VEVENT
 BEGIN:VEVENT
-UID:eb49073d-79bd-4e55-a399-bafc26ae6846
+UID:c0cbe677-c1e6-44d1-a57a-19a1763b8c92
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260903T220000Z
-DTEND:20260904T010000Z
-SUMMARY:Rock the Park
-LOCATION:600 N Ashley Dr Tampa \, FL 33602 United States
-DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
- l talents of all genres. Rock the Park is typically held at Tampas Curtis 
- Hixon Waterfront Park on the first Thursday of each month and facilitated 
- through a 15 year partnership between the Tampa Downtown Partnership Broke
- nmold Entertainment. Upcoming Dates: February 5\, 2026 at 6pm: EMO NIGHT!!
-  Bad Bad Things\, BILL\, Pet Lizard Hosted by Mr. Mes Food by JAM DISH (au
- thentic Jamaican) Boy Named Sous March 5\, 2026 at 6pm April 2\, 2026 at 6
- pm May 7\, 2026 at 6pm June 4\, 2026 at 6pm July 2\, 2026 at 6pm August 6\
- , 2026 at 6pm September 3\, 2026 at 6pm October 1\, 2026 at 6pm November 5
- \, 2026 at 6pm December 3\, 2026 at 6pm \n\nPermalink: https://www.tampa.g
- ov/node/179871
-URL;VALUE=URI:https://www.tampa.gov/node/179871
-END:VEVENT
-BEGIN:VEVENT
-UID:7602129a-b086-4892-843c-b71fdc07a670
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260903T183000Z
 DTEND:20260903T183000Z
 SUMMARY:SLBE Review Committee: Sheltered Market Program
@@ -181,9 +158,9 @@ DESCRIPTION:Public Meeting Notice SLBE REVIEW COMMITTEE: SHELTERED MARKET
 URL;VALUE=URI:https://www.tampa.gov/node/194001
 END:VEVENT
 BEGIN:VEVENT
-UID:9844e56f-5dcc-4af1-90c8-d0f043c42504
+UID:0f72146d-7c22-4ca9-9a3e-93bd984c1e23
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260903T190000Z
 DTEND:20260903T190000Z
 SUMMARY:Goal Setting Committee: Subcontracts
@@ -207,9 +184,30 @@ DESCRIPTION:Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Tim
 URL;VALUE=URI:https://www.tampa.gov/node/193996
 END:VEVENT
 BEGIN:VEVENT
-UID:3dd54a34-7a06-4297-840a-9110a021de99
+UID:572ebd8e-75fd-4ada-bcc0-c03a4780c3fc
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20260903T220000Z
+DTEND:20260904T010000Z
+SUMMARY:Rock the Park
+LOCATION:600 N Ashley Dr Tampa \, FL 33602 United States
+DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
+ l talents of all genres. Rock the Park is typically held at Tampas Curtis 
+ Hixon Waterfront Park on the first Thursday of each month and facilitated 
+ through a 15 year partnership between the Tampa Downtown Partnership Broke
+ nmold Entertainment. Upcoming Dates: February 5\, 2026 at 6pm: EMO NIGHT!!
+  Bad Bad Things\, BILL\, Pet Lizard Hosted by Mr. Mes Food by JAM DISH (au
+ thentic Jamaican) Boy Named Sous March 5\, 2026 at 6pm April 2\, 2026 at 6
+ pm May 7\, 2026 at 6pm June 4\, 2026 at 6pm July 2\, 2026 at 6pm August 6\
+ , 2026 at 6pm September 3\, 2026 at 6pm October 1\, 2026 at 6pm November 5
+ \, 2026 at 6pm December 3\, 2026 at 6pm \n\nPermalink: https://www.tampa.g
+ ov/node/179871
+URL;VALUE=URI:https://www.tampa.gov/node/179871
+END:VEVENT
+BEGIN:VEVENT
+UID:fc3512ac-298c-4294-9f7f-e4939c2b6c9f
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20260904T110000Z
 DTEND:20260906T210000Z
 SUMMARY:Tampa Bay Comic Convention 2026
@@ -220,9 +218,9 @@ DESCRIPTION:Location: Tampa Convention Center Entire Convention Center \n\
 URL;VALUE=URI:https://www.tampa.gov/node/187296
 END:VEVENT
 BEGIN:VEVENT
-UID:90e76951-b5eb-4dff-8286-76a35ebe9299
+UID:12a38827-e0cd-4084-8952-d60579013880
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260904T200000Z
 DTEND:20260904T213000Z
 SUMMARY:Greater Good Gathering: Money Between Gigs - Savings and Spending 
@@ -255,9 +253,31 @@ DESCRIPTION:FREE COMMUNITY GATHERING: Actors\, artists\, and gig workers c
 URL;VALUE=URI:https://www.tampa.gov/node/193961
 END:VEVENT
 BEGIN:VEVENT
-UID:9d2b3abb-366e-4d9f-9a80-343f87b2786b
+UID:1dd52fa4-fca1-4429-abcf-8a2fd37ac935
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20260904T210000Z
+DTEND:20260905T000000Z
+SUMMARY:Fridays I039\\\;m in Love
+LOCATION:701 Channelside Dr Tampa \, FL 33602 United States
+DESCRIPTION:Take Date Night to New Depths Let us set the backdrop to an un
+ forgettable evening. Come wander through immersive habitats\, linger benea
+ th the glow of the exhibits\, and discover a more intimate side of The Flo
+ rida Aquarium. Bring your favorite person and receive one FREE general adm
+ ission with the purchase of one paid admission after 5 PM. With extended h
+ ours until 8 PM\, you have plenty of time to explore\, connect\, and make 
+ the night last just a little longer during this rare opportunity to explor
+ e the Aquarium after dark. Every Friday\, August 28September 25 Offer Deta
+ ils: Excludes Member Night\, Sept. 18. Available only at the Aquarium tick
+ et window after 5 PM on the day of your visit. Buy one paid admission\, re
+ ceive one free general admission. Offers cannot be combined with other dis
+ counts or promotions. \n\nPermalink: https://www.tampa.gov/node/194211
+URL;VALUE=URI:https://www.tampa.gov/node/194211
+END:VEVENT
+BEGIN:VEVENT
+UID:174379f3-5fc0-4dca-8838-987e9df815f4
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20260904T220000Z
 DTEND:20260905T010000Z
 SUMMARY:Science After Dark
@@ -278,9 +298,9 @@ DESCRIPTION:Kick off your MOSI adventure with Science After Dark\, the ult
 URL;VALUE=URI:https://www.tampa.gov/node/193731
 END:VEVENT
 BEGIN:VEVENT
-UID:90edc708-2928-4886-b6b5-173723f650df
+UID:cfd0ba15-3d50-4d05-968e-158aba020099
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260905T190000Z
 DTEND:20260905T194500Z
 SUMMARY:Tampa Youth Writers Association Interest Meeting
@@ -292,9 +312,9 @@ DESCRIPTION:An interest meeting for all Tampa high schoolers interested in
 URL;VALUE=URI:https://www.tampa.gov/node/194196
 END:VEVENT
 BEGIN:VEVENT
-UID:b364465e-c1e2-4c98-99b2-68acfb1212b1
+UID:11fcc1f3-fc24-4f08-8a46-24f724a90a2a
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260907T040000Z
 DTEND:20260908T035900Z
 SUMMARY:Labor Day - City Office Closures
@@ -306,9 +326,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:https://www.tampa.gov/node/167821
 END:VEVENT
 BEGIN:VEVENT
-UID:7f297326-abb0-4cb6-9718-17850ac7e6bc
+UID:846d5bbf-d40e-4618-8364-b789d127afdd
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260908T173000Z
 DTEND:20260908T173000Z
 SUMMARY:Stormwater Utility Data Management
@@ -323,9 +343,67 @@ DESCRIPTION:EVALUATION COMMITTEE MEETING  STORMWATER UTILITY DATA MANAGEME
 URL;VALUE=URI:https://www.tampa.gov/node/194276
 END:VEVENT
 BEGIN:VEVENT
-UID:5a319c21-dd6b-4016-bdf1-29651c30f8dc
+UID:9ac32ce9-0bf5-42c4-83ef-f514d0a84777
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20260908T210100Z
+DTEND:20260908T210100Z
+SUMMARY:Public Hearing On City Of Tampa Fiscal Year (FY) 2027 Annual Budge
+ t And Capital Improvement Program Budget
+LOCATION:Tampa \, FL United States
+DESCRIPTION:TAMPA CITY COUNCIL NOTICE OF PUBLIC HEARING ON CITY OF TAMPA F
+ ISCAL YEAR (FY) 2027 ANNUAL BUDGET AND CAPITAL IMPROVEMENT PROGRAM BUDGET 
+ Date of Hearing: Tuesday\, September 8\, 2026 Time of Hearing: 5:01 PM Loc
+ ation: City Council Chambers\, Old City Hall 315 E. Kennedy Blvd. Tampa\, 
+ Florida 33602 Agenda: https:tampa.govagendas (https:tampa.govagendas) The 
+ public is invited to participate in this public hearing for the purpose of
+  permitting any and all citizens desiring to do so to submit their critici
+ sms\, recommendations or suggestions in writing or make oral comments and 
+ ask questions concerning the proposed FY 2027 City of Tampa budget. Member
+ s of the public can either attend this public hearing in person in City Co
+ uncil Chambers located in Old City Hall or virtually participate in this p
+ ublic hearing by using what is referred to by State of Florida statutes an
+ d rules as communications media technology or CMT. Pre-Registration is req
+ uired to speak virtually during Public Comment with the use of CMT: In ord
+ er to participate in the public hearing with the use of CMT\, please compl
+ ete the form at https:www.tampa.govPublicComment (https:www.tampa.govPubli
+ cComment) AND state on the form under Request Type that you wish to speak 
+ live during the public comment period. You will then be contacted with add
+ itional instructions on how to participate live through the use of CMT. Re
+ gistration for speaking remotely with the use of CMT must be requested at 
+ least 24-hours prior to the meeting. Please contact the City Clerks Office
+  at 813-274-8397 or at CityClerkStafftampagov.net (mailto:CityClerkStaffta
+ mpagov.net) if you have any questions regarding participation or registrat
+ ion. The public and citizens of the City of Tampa will also be able to wat
+ ch\, listen or view this public hearing on: Cable TV: Spectrum Channel 640
+  Frontier Channel 15 Internet: https:www.tampa.govlivestream (https:www.ta
+ mpa.govlivestream) Copies of the entire proposed budget are available for 
+ review on the Citys website at https:www.tampagov.net (https:www.tampagov.
+ net)budget or at the City Clerks Office\, 3rd Floor\, Old City Hall\, 315 
+ East Kennedy Boulevard\, Tampa\, Florida\, Monday through Friday\, 8:00 AM
+  to 5:00 PM (excluding City holidays). Please also check the Citys website
+  at https:www.tampagov.net (https:www.tampagov.net) for additional informa
+ tion and updates regarding public participation in the public hearing with
+  the use of electronic media or in person. Please note that if any person 
+ decides to appeal any decision made by Council\, with respect to any matte
+ r considered at the meeting or hearing\, they will need to ensure that a v
+ erbatim record of the proceedings is made\, which record includes the test
+ imony and evidence upon which the appeal is to be based (F.S. 286.0105). I
+ n accordance with the Americans with Disabilities Act (ADA) and Section 28
+ 6.26\, Florida Statutes\, persons with disabilities needing a reasonable a
+ ccommodation to participate in this public hearing or meeting should conta
+ ct the City of Tampas ADA Coordinator at least 48 hours prior to the proce
+ eding. The ADA Coordinator may be contacted via phone at 813-274-3964\, em
+ ail at TampaADAtampagov.net (mailto:TampaADAtampagov.net) or by submitting
+  an ADA - Accommodations Request form available online at www.tampagov.net
+ ADARequest (http:tampagov.netADARequest). \n\nPermalink: https://www.tampa
+ .gov/node/194376
+URL;VALUE=URI:https://www.tampa.gov/node/194376
+END:VEVENT
+BEGIN:VEVENT
+UID:141f90e6-d652-4faa-96dc-4e9033330d01
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20260908T220000Z
 DTEND:20260908T220000Z
 SUMMARY:East Tampa Community Advisory Committee
@@ -354,59 +432,9 @@ DESCRIPTION:EAST TAMPA COMMUNITY ADVISORY COMMITTEE FOR THE EAST TAMPA COM
 URL;VALUE=URI:https://www.tampa.gov/node/194271
 END:VEVENT
 BEGIN:VEVENT
-UID:8db5d6eb-2335-444d-bf6c-036d7f496e0c
+UID:5c26ee4b-05b0-4b75-84a2-ddaad0ce93d7
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260909T130000Z
-DTEND:20260909T130000Z
-SUMMARY:City of Tampa Human Rights Board Meeting
-LOCATION:Tampa \, FL United States
-DESCRIPTION:City of Tampa Human Rights Board Meeting Date: Wednesday\, Sep
- tember 9\, 2026 Time: 9:00 a.m. Location: City Center at Hanna Ave 2555 E 
- Hanna Ave\, 3 rd Floor The Bay Conference Room Tampa\, FL 33610 Topic: Mee
- ting of Human Rights Board Contact: Questions may be directed to Naomi Can
- delaria\, Human Rights Supervisor at (813) 274-7099 or by email at naomi.c
- andelariatampagov.net (mailto:naomi.candelariatampagov.net) Members of the
-  public who do not wish to appear in person due to COVID-19 or otherwise m
- ay submit written comments by mail to the City of Tampa Human Rights Board
- \, 2555 E Hanna Ave\, Tampa\, FL 33610\, or by email to naomi.candelariata
- mpagov.net (mailto:naomi.candelariatampagov.net). All written comments mus
- t be received no later than 24 hours before the scheduled meeting to be di
- stributed to the Board members and be included in the official record of t
- he meeting. To check the status of the public hearing regarding postponeme
- nt or cancellation\, please contact Naomi Candelaria at (813) 274-7099 for
-  a minimum of two (2) days before the public hearing date. \n\nPermalink: 
- https://www.tampa.gov/node/194171
-URL;VALUE=URI:https://www.tampa.gov/node/194171
-END:VEVENT
-BEGIN:VEVENT
-UID:bc844cfd-75c4-4f6f-ad57-af3ff4e618e0
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260909T213000Z
-DTEND:20260909T213000Z
-SUMMARY:Architectural Review Commission
-LOCATION:Tampa \, FL United States
-DESCRIPTION:CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC
-  HEARINGS Date(s) and Time: Wednesday\, September 2\, 2026\, at 5:30 P.M. 
- Wednesday\, September 9\, 2026\, at 5:30 P.M. Location: Old City Hall\, 31
- 5 E. Kennedy Boulevard\, City Council Chambers\, 3rd Floor\, Tampa\, FL 33
- 602 Members of the public who do not wish to appear in person may submit w
- ritten comments by mail to Architectural Review Historic Preservation\, 25
- 55 E. Hanna Avenue\, Tampa\, FL 3310\, or by e-mail to HistoricPreservatio
- ntampagov.net. All written comments must be received no later than 24 hour
- s prior to the scheduled meeting in order to be distributed to the Commiss
- ion members and to be included in the official meeting record. To check th
- e postponement or cancellation status of the public hearing\, please conta
- ct our office at 813- 274-3100\, option 3. www.tampagov.nethistoric-preser
- vation NOTE: ALL MEETINGS ARE OPEN TO THE PUBLIC \n\nPermalink: https://ww
- w.tampa.gov/node/193941
-URL;VALUE=URI:https://www.tampa.gov/node/193941
-END:VEVENT
-BEGIN:VEVENT
-UID:3c476708-52cd-4458-8bcc-31dfc45ddab2
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260909T213000Z
 DTEND:20260909T213000Z
 SUMMARY:Drew Park Community Advisory Committee
@@ -438,58 +466,73 @@ DESCRIPTION:DREW PARK COMMUNITY ADVISORY COMMITTEE FOR THE DREW PARK COMMU
 URL;VALUE=URI:https://www.tampa.gov/node/194266
 END:VEVENT
 BEGIN:VEVENT
-UID:88f9a625-a0ba-4d7b-98cf-3954373fbac9
+UID:a62b26d2-ec5f-4291-91ce-1ed774393f36
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260910T190000Z
-DTEND:20260910T190000Z
-SUMMARY:Goal Setting Committee: Subcontracts
+DTSTAMP:20260903T000650Z
+DTSTART:20260909T213000Z
+DTEND:20260909T213000Z
+SUMMARY:Architectural Review Commission
 LOCATION:Tampa \, FL United States
-DESCRIPTION:Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Tim
- e Date : 3:00 P.M. Thursday\, Sept\, 3rd 2026 3:00 P.M. Thursday\, Sept\, 
- 10th 2026 3:00 P.M. Thursday\, Sept\, 17th 2026 3:00 P.M. Thursday\, Sept\
- , 24th 2026 Location : 2nd Floor\, Trophy Case Conference Room Hanna Avenu
- e City Center 2555 E. Hanna Avenue Tampa\, FL 33610 Topic : To review proj
- ects eligible for application of subcontract participation goals pursuant 
- to the City of Tampas Equal Business Opportunity Program. Contact : Jose V
- aldez at 813-274-5543 or Jose.Valdeztampagov.net (mailto:Jose.Valdeztampag
- ov.net) Note: All meetings are open to the public. Any person who decides 
- to appeal any decision made with respect to any matter considered at this 
- public hearing or meeting are advised\, in accordance with Section 286.010
- 5\, Florida Statutes\, that they will need a record of the proceedings\, a
- nd for such purpose may need to hire a court reporter to ensure that a ver
- batim record of the proceeding is made\, which record includes the testimo
- ny and evidence upon which the appeal is to be based. \n\nPermalink: https
- ://www.tampa.gov/node/193996
-URL;VALUE=URI:https://www.tampa.gov/node/193996
+DESCRIPTION:CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC
+  HEARINGS Date(s) and Time: Wednesday\, September 9\, 2026\, at 5:30 P.M. 
+ Location: Old City Hall\, 315 E. Kennedy Boulevard\, City Council Chambers
+ \, 3rd Floor\, Tampa\, FL 33602 Members of the public who do not wish to a
+ ppear in person may submit written comments by mail to Architectural Revie
+ w Historic Preservation\, 2555 E. Hanna Avenue\, Tampa\, FL 3310\, or by e
+ -mail to HistoricPreservationtampagov.net. All written comments must be re
+ ceived no later than 24 hours prior to the scheduled meeting in order to b
+ e distributed to the Commission members and to be included in the official
+  meeting record. To check the postponement or cancellation status of the p
+ ublic hearing\, please contact our office at 813- 274-3100\, option 3. www
+ .tampagov.nethistoric-preservation NOTE: ALL MEETINGS ARE OPEN TO THE PUBL
+ IC \n\nPermalink: https://www.tampa.gov/node/194326
+URL;VALUE=URI:https://www.tampa.gov/node/194326
 END:VEVENT
 BEGIN:VEVENT
-UID:696a1dd6-8eb9-4a62-91cb-869a4c2c9059
+UID:223a6db5-1691-44ef-b1e4-be8f4b64dd14
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260910T190000Z
-DTEND:20260910T190000Z
-SUMMARY:Ethics Commission Public Meeting
+DTSTAMP:20260903T000650Z
+DTSTART:20260909T130000Z
+DTEND:20260909T130000Z
+SUMMARY:City of Tampa Human Rights Board Meeting
 LOCATION:Tampa \, FL United States
-DESCRIPTION:CITY OF TAMPA ETHICS COMMISSION PUBLIC MEETING Date: September
-  10\, 2026 Time: 3:00 p.m. Location: Tampa Municipal Building 306 E. Jacks
- on St. 5th Floor Large Conference Room Floor Tampa\, FL 33602 Topic: Quart
- erly Meeting Contact: Questions may be directed to Rebecca Carr\, Employee
-  Relations Manager\, at (813) 274-8041\, or by email at Rebecca.carrtampag
- ov.net In accordance with the Americans with Disabilities Act (ADA) and Se
- ction 286.26\, Florida Statutes\, persons with disabilities needing a reas
- onable accommodation to participate in this public hearing\, meeting or ev
- ent should contact the City of Tampas ADA Coordinator at least 48 hours pr
- ior to the proceeding. The ADA Coordinator may be contacted by phone at 81
- 3-274-3964\, email at TampaADAtampagov.net\, or by submitting an ADA - Acc
- ommodations Request online form available at tampa.govADARequest \n\nPerma
- link: https://www.tampa.gov/node/192821
-URL;VALUE=URI:https://www.tampa.gov/node/192821
+DESCRIPTION:City of Tampa Human Rights Board Meeting Date: Wednesday\, Sep
+ tember 9\, 2026 Time: 9:00 a.m. Location: City Center at Hanna Ave 2555 E 
+ Hanna Ave\, 3 rd Floor The Bay Conference Room Tampa\, FL 33610 Topic: Mee
+ ting of Human Rights Board Contact: Questions may be directed to Naomi Can
+ delaria\, Human Rights Supervisor at (813) 274-7099 or by email at naomi.c
+ andelariatampagov.net (mailto:naomi.candelariatampagov.net) Members of the
+  public who do not wish to appear in person due to COVID-19 or otherwise m
+ ay submit written comments by mail to the City of Tampa Human Rights Board
+ \, 2555 E Hanna Ave\, Tampa\, FL 33610\, or by email to naomi.candelariata
+ mpagov.net (mailto:naomi.candelariatampagov.net). All written comments mus
+ t be received no later than 24 hours before the scheduled meeting to be di
+ stributed to the Board members and be included in the official record of t
+ he meeting. To check the status of the public hearing regarding postponeme
+ nt or cancellation\, please contact Naomi Candelaria at (813) 274-7099 for
+  a minimum of two (2) days before the public hearing date. \n\nPermalink: 
+ https://www.tampa.gov/node/194171
+URL;VALUE=URI:https://www.tampa.gov/node/194171
 END:VEVENT
 BEGIN:VEVENT
-UID:224d0b30-f927-4593-a0e3-3b186fb202dd
+UID:918bfcf3-a197-4b42-8834-2aec3217cc7c
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20260910T110000Z
+DTEND:20260913T035900Z
+SUMMARY:Juice Plus  LIVE Fall 2026
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:The ultimate in-person event where youll experience the power 
+ of Juice Plus. Registration required Location: Tampa Convention Center Eas
+ tCentral Hall\, Ballrooms  Meeting Rooms \n\nPermalink: https://www.tampa.
+ gov/node/187526
+URL;VALUE=URI:https://www.tampa.gov/node/187526
+END:VEVENT
+BEGIN:VEVENT
+UID:c6232258-8a15-4b65-aa49-75ce9aad1bb7
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20260910T183000Z
 DTEND:20260910T183000Z
 SUMMARY:SLBE Review Committee: Sheltered Market Program
@@ -513,24 +556,80 @@ DESCRIPTION:Public Meeting Notice SLBE REVIEW COMMITTEE: SHELTERED MARKET
 URL;VALUE=URI:https://www.tampa.gov/node/194001
 END:VEVENT
 BEGIN:VEVENT
-UID:cc031c11-2f2b-4c10-a4f5-bb051f7997f8
+UID:fc017eee-faf4-4a46-b82a-5d9620b7954a
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260910T110000Z
-DTEND:20260913T035900Z
-SUMMARY:Juice Plus  LIVE Fall 2026
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:The ultimate in-person event where youll experience the power 
- of Juice Plus. Registration required Location: Tampa Convention Center Eas
- tCentral Hall\, Ballrooms  Meeting Rooms \n\nPermalink: https://www.tampa.
- gov/node/187526
-URL;VALUE=URI:https://www.tampa.gov/node/187526
+DTSTAMP:20260903T000650Z
+DTSTART:20260910T190000Z
+DTEND:20260910T190000Z
+SUMMARY:Ethics Commission Public Meeting
+LOCATION:Tampa \, FL United States
+DESCRIPTION:CITY OF TAMPA ETHICS COMMISSION PUBLIC MEETING Date: September
+  10\, 2026 Time: 3:00 p.m. Location: Tampa Municipal Building 306 E. Jacks
+ on St. 5th Floor Large Conference Room Floor Tampa\, FL 33602 Topic: Quart
+ erly Meeting Contact: Questions may be directed to Rebecca Carr\, Employee
+  Relations Manager\, at (813) 274-8041\, or by email at Rebecca.carrtampag
+ ov.net In accordance with the Americans with Disabilities Act (ADA) and Se
+ ction 286.26\, Florida Statutes\, persons with disabilities needing a reas
+ onable accommodation to participate in this public hearing\, meeting or ev
+ ent should contact the City of Tampas ADA Coordinator at least 48 hours pr
+ ior to the proceeding. The ADA Coordinator may be contacted by phone at 81
+ 3-274-3964\, email at TampaADAtampagov.net\, or by submitting an ADA - Acc
+ ommodations Request online form available at tampa.govADARequest \n\nPerma
+ link: https://www.tampa.gov/node/192821
+URL;VALUE=URI:https://www.tampa.gov/node/192821
 END:VEVENT
 BEGIN:VEVENT
-UID:fdd55293-a087-4f9b-98a5-ef7dcce7e081
+UID:7d7c9344-32be-4b06-a092-06c10354fe6b
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20260910T190000Z
+DTEND:20260910T190000Z
+SUMMARY:Goal Setting Committee: Subcontracts
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Tim
+ e Date : 3:00 P.M. Thursday\, Sept\, 3rd 2026 3:00 P.M. Thursday\, Sept\, 
+ 10th 2026 3:00 P.M. Thursday\, Sept\, 17th 2026 3:00 P.M. Thursday\, Sept\
+ , 24th 2026 Location : 2nd Floor\, Trophy Case Conference Room Hanna Avenu
+ e City Center 2555 E. Hanna Avenue Tampa\, FL 33610 Topic : To review proj
+ ects eligible for application of subcontract participation goals pursuant 
+ to the City of Tampas Equal Business Opportunity Program. Contact : Jose V
+ aldez at 813-274-5543 or Jose.Valdeztampagov.net (mailto:Jose.Valdeztampag
+ ov.net) Note: All meetings are open to the public. Any person who decides 
+ to appeal any decision made with respect to any matter considered at this 
+ public hearing or meeting are advised\, in accordance with Section 286.010
+ 5\, Florida Statutes\, that they will need a record of the proceedings\, a
+ nd for such purpose may need to hire a court reporter to ensure that a ver
+ batim record of the proceeding is made\, which record includes the testimo
+ ny and evidence upon which the appeal is to be based. \n\nPermalink: https
+ ://www.tampa.gov/node/193996
+URL;VALUE=URI:https://www.tampa.gov/node/193996
+END:VEVENT
+BEGIN:VEVENT
+UID:983de40a-0da4-4b68-ba5b-f6470899a4e0
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
+DTSTART:20260911T210000Z
+DTEND:20260912T000000Z
+SUMMARY:Fridays I039\\\;m in Love
+LOCATION:701 Channelside Dr Tampa \, FL 33602 United States
+DESCRIPTION:Take Date Night to New Depths Let us set the backdrop to an un
+ forgettable evening. Come wander through immersive habitats\, linger benea
+ th the glow of the exhibits\, and discover a more intimate side of The Flo
+ rida Aquarium. Bring your favorite person and receive one FREE general adm
+ ission with the purchase of one paid admission after 5 PM. With extended h
+ ours until 8 PM\, you have plenty of time to explore\, connect\, and make 
+ the night last just a little longer during this rare opportunity to explor
+ e the Aquarium after dark. Every Friday\, August 28September 25 Offer Deta
+ ils: Excludes Member Night\, Sept. 18. Available only at the Aquarium tick
+ et window after 5 PM on the day of your visit. Buy one paid admission\, re
+ ceive one free general admission. Offers cannot be combined with other dis
+ counts or promotions. \n\nPermalink: https://www.tampa.gov/node/194216
+URL;VALUE=URI:https://www.tampa.gov/node/194216
+END:VEVENT
+BEGIN:VEVENT
+UID:f38ebdfc-86b4-4ed5-8f03-df74f34f1b51
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20260912T140000Z
 DTEND:20260912T170000Z
 SUMMARY:Studio 55: Ceramics  September
@@ -545,9 +644,25 @@ DESCRIPTION:Saturdays\, Sept 12 - Oct 24  10:00 AM  1:00 PM (6 classes No
 URL;VALUE=URI:https://www.tampa.gov/node/193561
 END:VEVENT
 BEGIN:VEVENT
-UID:b01e51a4-aee4-4a7c-91fe-421c89e857c6
+UID:7e530ee6-6232-48bb-a441-839b47ac58ea
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20260913T180000Z
+DTEND:20260913T190000Z
+SUMMARY:A Sunday Salon of Dance  Poetry
+LOCATION:5800 N. Central Ave\, Tampa FL Tampa \, FL 33604 United States
+DESCRIPTION:Join us for an afternoon of movement and poetry in the elegant
+  historic garden center. This one-hour performance will feature works by l
+ ocal choreographers Amanda Gabaldon\, Cindy Hennessy\, and Susan Taylor Le
+ nnon\, as well as reading by poet\, Gianna Russo. Doors open at 1:30pm\, a
+ nd tickets can be purchased online. Seating is limited. \n\nPermalink: htt
+ ps://www.tampa.gov/node/193976
+URL;VALUE=URI:https://www.tampa.gov/node/193976
+END:VEVENT
+BEGIN:VEVENT
+UID:f7445508-0994-4a96-96b4-13515d066fec
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20260913T140000Z
 DTEND:20260913T170000Z
 SUMMARY:Ceramics Continued Study
@@ -566,25 +681,27 @@ DESCRIPTION:Select Sundays  10:00 AM  1:00 PM Classes Available  913\, 920
 URL;VALUE=URI:https://www.tampa.gov/node/193556
 END:VEVENT
 BEGIN:VEVENT
-UID:32c11c7c-fa20-4a8f-a187-114d1499184b
+UID:e48ee763-0506-4740-9993-95aec7f39377
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260913T180000Z
-DTEND:20260913T190000Z
-SUMMARY:A Sunday Salon of Dance  Poetry
-LOCATION:5800 N. Central Ave\, Tampa FL Tampa \, FL 33604 United States
-DESCRIPTION:Join us for an afternoon of movement and poetry in the elegant
-  historic garden center. This one-hour performance will feature works by l
- ocal choreographers Amanda Gabaldon\, Cindy Hennessy\, and Susan Taylor Le
- nnon\, as well as reading by poet\, Gianna Russo. Doors open at 1:30pm\, a
- nd tickets can be purchased online. Seating is limited. \n\nPermalink: htt
- ps://www.tampa.gov/node/193976
-URL;VALUE=URI:https://www.tampa.gov/node/193976
+DTSTAMP:20260903T000650Z
+DTSTART:20260914T190000Z
+DTEND:20260914T230000Z
+SUMMARY:After School Mondays
+LOCATION:701 Channelside Dr Tampa \, FL 33602 United States
+DESCRIPTION:School may be back in session\, but summer is not over yet! Tu
+ rn early release days into a family adventure at The Florida Aquarium. Exp
+ lore vibrant habitats and fascinating marine life after school with extend
+ ed hours until 7 PM on Mondays. FREE Admission for students KCollege Monda
+ ys\, September 14  September 28  3:00  7:00 PM DETAILS Valid student ID or
+  proof of enrollment required. Same-day admission at the Aquarium ticket w
+ indow only. Offer cannot be combined with other discounts or promotions. \
+ n\nPermalink: https://www.tampa.gov/node/194256
+URL;VALUE=URI:https://www.tampa.gov/node/194256
 END:VEVENT
 BEGIN:VEVENT
-UID:14999a6a-0232-448d-8ec7-44f8082c3deb
+UID:7589a8cb-54ce-443d-ae74-3b54f20ba45a
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260915T140000Z
 DTEND:20260915T170000Z
 SUMMARY:Studio 55: Ceramics Continued Study
@@ -604,9 +721,9 @@ DESCRIPTION:Select Tuesdays  10:00 AM  1:00 PM Classes Available  915\, 92
 URL;VALUE=URI:https://www.tampa.gov/node/193856
 END:VEVENT
 BEGIN:VEVENT
-UID:bbcda74d-d781-4a61-b318-b559f3255daf
+UID:1e461435-2f6a-47e2-8604-3b58fe37bac6
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260916T150000Z
 DTEND:20260916T170000Z
 SUMMARY:Lung Cancer Survivors: Fight Infections During the Holidays!
@@ -636,9 +753,9 @@ DESCRIPTION:NOTE: Registration Required Come and enjoy a wonderful\, free
 URL;VALUE=URI:https://www.tampa.gov/node/193861
 END:VEVENT
 BEGIN:VEVENT
-UID:39719a01-4184-46dd-bd20-440e1ee86b3b
+UID:93daa335-39d8-4cb1-9824-fc9f788af192
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260916T160000Z
 DTEND:20260916T170000Z
 SUMMARY:Understanding Metabolic Syndrome
@@ -653,9 +770,9 @@ DESCRIPTION:During this presentation\, you will Define metabolic syndrome
 URL;VALUE=URI:https://www.tampa.gov/node/194066
 END:VEVENT
 BEGIN:VEVENT
-UID:129a9670-76d2-42a1-8fc7-528b5019981f
+UID:e12e2114-ed94-4856-848c-66159c55454e
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260916T203000Z
 DTEND:20260916T220000Z
 SUMMARY:Teen Digital Studio
@@ -669,86 +786,9 @@ DESCRIPTION:Select Wednesdays  4:30 PM  6:00 PM Classes Available  916\, 1
 URL;VALUE=URI:https://www.tampa.gov/node/193761
 END:VEVENT
 BEGIN:VEVENT
-UID:ef8a4305-ef09-49ff-b4e3-4916e74f14be
+UID:0bb6b963-b0a0-4c86-9c4d-59d520df7a56
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260917T223000Z
-DTEND:20260917T233000Z
-SUMMARY:Lowry Park Central Community Organization
-LOCATION:1100 Sligh Ave\, Tampa\, FL 33604 Tampa \, FL 33604 United States
-DESCRIPTION:The Neighborhood Association will hold monthly meetings on the
-  third Thursday of each month at 6:30 PM\, beginning in June and continuin
- g through the end of the year. These meetings are intended to encourage co
- mmunity involvement\, discuss neighborhood concerns\, promote safety initi
- atives\, and strengthen communication and collaboration among residents. \
- n\nPermalink: https://www.tampa.gov/node/190151
-URL;VALUE=URI:https://www.tampa.gov/node/190151
-END:VEVENT
-BEGIN:VEVENT
-UID:c2cb0c52-17a5-43f8-978b-77f4299b22e5
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260917T220000Z
-DTEND:20260917T230000Z
-SUMMARY:Introduction to Inner Engineering
-LOCATION:2901 Bayshore Boulevard Tampa \, FL 33629 United States
-DESCRIPTION:Inner Engineering\, Ishas flagship program\, is a transformati
- ve tool designed by Sadhguru to help individuals unlock their true potenti
- al and attain a life of fulfillment and well-being. Join us for a free ses
- sion where an Isha instructor will provide in-depth information on the pro
- gram\, its formats\, and benefits\, followed by Q A. \n\nPermalink: https:
- //www.tampa.gov/node/194181
-URL;VALUE=URI:https://www.tampa.gov/node/194181
-END:VEVENT
-BEGIN:VEVENT
-UID:19c8799f-a490-43a3-afb9-88d71839065d
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260917T220000Z
-DTEND:20260918T010000Z
-SUMMARY:Thursday Ceramics
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Thursdays  6:00 PM  9:00 PM Sep 17 - Oct 29 (7 classes) Ages 1
- 8  Beginner-Intermediate Work with clay on the potters wheel and learn how
-  to hand-build. Beginners start with a hand-building project to get acquai
- nted with the clay and then jump into learning how to create their next ce
- ramic adventure. Intermediate students can dive right into getting dirty a
- nd take inspiration from instructor-led projects. All experience levels ar
- e welcome! Firing costs\, essential tools\, and glazes included. Clay avai
- lable for purchase separately in studio. \n\nPermalink: https://www.tampa.
- gov/node/193716
-URL;VALUE=URI:https://www.tampa.gov/node/193716
-END:VEVENT
-BEGIN:VEVENT
-UID:b0bbb47c-3e68-46a1-9b84-06c93729f41c
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260917T183000Z
-DTEND:20260917T183000Z
-SUMMARY:SLBE Review Committee: Sheltered Market Program
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Public Meeting Notice SLBE REVIEW COMMITTEE: SHELTERED MARKET 
- PROGRAM Time Date : 2:30 P.M. Thursday\, Sept\, 3rd 2026 2:30 P.M. Thursda
- y\, Sept\, 10th 2026 2:30 P.M. Thursday\, Sept\, 17th 2026 2:30 P.M. Thurs
- day\, Sept\, 24th 2026 Location : 2nd Floor\, Trophy Case Conference Room 
- Hanna Avenue City Center 2555 E. Hanna Avenue Tampa\, FL 33610 Topic : To 
- review projects eligible for solicitation as a Sheltered Market Procuremen
- t pursuant to the City of Tampas Equal Business Opportunity Program. Conta
- ct : Jose Valdez at 813-274-5543 or Jose.Valdeztampagov.net (mailto:Jose.V
- aldeztampagov.net) Note: All meetings are open to the public. Any person w
- ho decides to appeal any decision made with respect to any matter consider
- ed at this public hearing or meeting are advised\, in accordance with Sect
- ion 286.0105\, Florida Statutes\, that they will need a record of the proc
- eedings\, and for such purpose may need to hire a court reporter to ensure
-  that a verbatim record of the proceeding is made\, which record includes 
- the testimony and evidence upon which the appeal is to be based. \n\nPerma
- link: https://www.tampa.gov/node/194001
-URL;VALUE=URI:https://www.tampa.gov/node/194001
-END:VEVENT
-BEGIN:VEVENT
-UID:e5dbecc1-54bd-4b30-90b0-acaab4a6b4e5
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260917T190000Z
 DTEND:20260917T190000Z
 SUMMARY:Goal Setting Committee: Subcontracts
@@ -772,9 +812,86 @@ DESCRIPTION:Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Tim
 URL;VALUE=URI:https://www.tampa.gov/node/193996
 END:VEVENT
 BEGIN:VEVENT
-UID:c3fecd83-3bf5-4c9c-b97e-afa9e5f9d4c3
+UID:06e44826-038c-4ebb-91f7-4f3198d98a9e
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20260917T223000Z
+DTEND:20260917T233000Z
+SUMMARY:Lowry Park Central Community Organization
+LOCATION:1100 Sligh Ave\, Tampa\, FL 33604 Tampa \, FL 33604 United States
+DESCRIPTION:The Neighborhood Association will hold monthly meetings on the
+  third Thursday of each month at 6:30 PM\, beginning in June and continuin
+ g through the end of the year. These meetings are intended to encourage co
+ mmunity involvement\, discuss neighborhood concerns\, promote safety initi
+ atives\, and strengthen communication and collaboration among residents. \
+ n\nPermalink: https://www.tampa.gov/node/190151
+URL;VALUE=URI:https://www.tampa.gov/node/190151
+END:VEVENT
+BEGIN:VEVENT
+UID:59c76f36-bc2f-47d8-8c29-b68705ed33bb
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
+DTSTART:20260917T220000Z
+DTEND:20260917T230000Z
+SUMMARY:Introduction to Inner Engineering
+LOCATION:2901 Bayshore Boulevard Tampa \, FL 33629 United States
+DESCRIPTION:Inner Engineering\, Ishas flagship program\, is a transformati
+ ve tool designed by Sadhguru to help individuals unlock their true potenti
+ al and attain a life of fulfillment and well-being. Join us for a free ses
+ sion where an Isha instructor will provide in-depth information on the pro
+ gram\, its formats\, and benefits\, followed by Q A. \n\nPermalink: https:
+ //www.tampa.gov/node/194181
+URL;VALUE=URI:https://www.tampa.gov/node/194181
+END:VEVENT
+BEGIN:VEVENT
+UID:1c42fa0a-179c-4f28-8b92-b50e17213b20
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
+DTSTART:20260917T220000Z
+DTEND:20260918T010000Z
+SUMMARY:Thursday Ceramics
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Thursdays  6:00 PM  9:00 PM Sep 17 - Oct 29 (7 classes) Ages 1
+ 8  Beginner-Intermediate Work with clay on the potters wheel and learn how
+  to hand-build. Beginners start with a hand-building project to get acquai
+ nted with the clay and then jump into learning how to create their next ce
+ ramic adventure. Intermediate students can dive right into getting dirty a
+ nd take inspiration from instructor-led projects. All experience levels ar
+ e welcome! Firing costs\, essential tools\, and glazes included. Clay avai
+ lable for purchase separately in studio. \n\nPermalink: https://www.tampa.
+ gov/node/193716
+URL;VALUE=URI:https://www.tampa.gov/node/193716
+END:VEVENT
+BEGIN:VEVENT
+UID:df8eba54-7ee7-4fba-a52d-12b4af2b5d26
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
+DTSTART:20260917T183000Z
+DTEND:20260917T183000Z
+SUMMARY:SLBE Review Committee: Sheltered Market Program
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Public Meeting Notice SLBE REVIEW COMMITTEE: SHELTERED MARKET 
+ PROGRAM Time Date : 2:30 P.M. Thursday\, Sept\, 3rd 2026 2:30 P.M. Thursda
+ y\, Sept\, 10th 2026 2:30 P.M. Thursday\, Sept\, 17th 2026 2:30 P.M. Thurs
+ day\, Sept\, 24th 2026 Location : 2nd Floor\, Trophy Case Conference Room 
+ Hanna Avenue City Center 2555 E. Hanna Avenue Tampa\, FL 33610 Topic : To 
+ review projects eligible for solicitation as a Sheltered Market Procuremen
+ t pursuant to the City of Tampas Equal Business Opportunity Program. Conta
+ ct : Jose Valdez at 813-274-5543 or Jose.Valdeztampagov.net (mailto:Jose.V
+ aldeztampagov.net) Note: All meetings are open to the public. Any person w
+ ho decides to appeal any decision made with respect to any matter consider
+ ed at this public hearing or meeting are advised\, in accordance with Sect
+ ion 286.0105\, Florida Statutes\, that they will need a record of the proc
+ eedings\, and for such purpose may need to hire a court reporter to ensure
+  that a verbatim record of the proceeding is made\, which record includes 
+ the testimony and evidence upon which the appeal is to be based. \n\nPerma
+ link: https://www.tampa.gov/node/194001
+URL;VALUE=URI:https://www.tampa.gov/node/194001
+END:VEVENT
+BEGIN:VEVENT
+UID:676f8506-a913-4e6a-bdc0-ae486b39e7d8
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20260917T163000Z
 DTEND:20260917T193000Z
 SUMMARY:Studio 55: Printmaking
@@ -787,9 +904,9 @@ DESCRIPTION:Thursdays\, Sept 17 - Nov 19  12:303:30 PM (8 classes No Class
 URL;VALUE=URI:https://www.tampa.gov/node/193821
 END:VEVENT
 BEGIN:VEVENT
-UID:504cdde4-7a92-49c9-a457-eca65258c6de
+UID:a3f508c9-2631-4a02-b7f8-5c4631a2b21e
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260918T140000Z
 DTEND:20260918T140000Z
 SUMMARY:Equal Business Opportunity Advisory Committee Meeting
@@ -810,9 +927,9 @@ DESCRIPTION:Public Meeting Notice EQUAL BUSINESS OPPORTUNITY ADVISORY COMM
 URL;VALUE=URI:https://www.tampa.gov/node/194006
 END:VEVENT
 BEGIN:VEVENT
-UID:cdc09be6-f740-4725-baec-d75ff6abafa5
+UID:afcd3ee7-45e6-4e80-b4cc-36d283faf838
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260919T110000Z
 DTEND:20260921T035900Z
 SUMMARY:Family Vibes Baby Expo
@@ -829,9 +946,9 @@ DESCRIPTION:Whether youre expecting\, a new parent\, or navigating life wi
 URL;VALUE=URI:https://www.tampa.gov/node/188941
 END:VEVENT
 BEGIN:VEVENT
-UID:662ffe46-bbc6-4be5-a221-6252c6edc516
+UID:3d646777-5c5f-4593-9d75-1777834acde6
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260919T223000Z
 DTEND:20260920T020000Z
 SUMMARY:Red Bull Dance Your Style National Final
@@ -852,9 +969,9 @@ DESCRIPTION:Red Bull Dance Your Style is an all-styles\, 1-on-1 street dan
 URL;VALUE=URI:https://www.tampa.gov/node/192686
 END:VEVENT
 BEGIN:VEVENT
-UID:e551f40b-b6e0-4042-9a2a-7a70d4d91320
+UID:fcf3f136-184f-46b2-8bf2-9f2035be21ce
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260919T230000Z
 DTEND:20260920T050000Z
 SUMMARY:Humane Society of Tampa Bay
@@ -871,9 +988,9 @@ DESCRIPTION:For event details: www.humanesocietytampa.org (http:www.humane
 URL;VALUE=URI:https://www.tampa.gov/node/188276
 END:VEVENT
 BEGIN:VEVENT
-UID:0103b9ef-1874-4dc3-a12d-b7d867e6a6a1
+UID:13035bdc-8c33-4dc3-b218-e5be9b638e25
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260920T000000Z
 DTEND:20260920T035900Z
 SUMMARY:Pride Passion: 20th Anniversay
@@ -898,9 +1015,9 @@ DESCRIPTION:Celebrate 20 Years of Pride Passion at the Tampa Museum of Art
 URL;VALUE=URI:https://www.tampa.gov/node/191546
 END:VEVENT
 BEGIN:VEVENT
-UID:f756f7f7-ee23-40a6-bc3a-05c46c84071d
+UID:2570335e-ef22-436a-ae9e-d58c2e027d88
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260920T170000Z
 DTEND:20260920T200000Z
 SUMMARY:Fundamental Figure Drawing
@@ -917,9 +1034,9 @@ DESCRIPTION:Sundays\, Sep 20 - Nov 8  1:004:00 PM (7 classes No class on 1
 URL;VALUE=URI:https://www.tampa.gov/node/193666
 END:VEVENT
 BEGIN:VEVENT
-UID:bc26d1ef-74a4-4ed4-984c-f4bb6f9cfca8
+UID:7556c544-2ca0-4392-898a-927b5bac038a
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260922T220000Z
 DTEND:20260923T010000Z
 SUMMARY:Figure Drawing Study
@@ -935,9 +1052,32 @@ DESCRIPTION:Select Tuesdays  6:009:00 PM Classes Available  922\, 1020\, 1
 URL;VALUE=URI:https://www.tampa.gov/node/193591
 END:VEVENT
 BEGIN:VEVENT
-UID:569e6c8d-d6aa-439a-997b-571c633e7fd9
+UID:f7d3349e-91cf-46c2-a663-d9e1c099da76
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20260922T223000Z
+DTEND:20260923T013000Z
+SUMMARY:The Art of Darioush Wine Dinner
+LOCATION:1606 W Snow Ave Tampa \, FL 33606 United States
+DESCRIPTION:Where old-world tradition meets modern Napa Valley artistry. F
+ eaturing two exclusive winery releases. Experience an extraordinary evenin
+ g exploring the artistry and evolution of Darioush through five distinctiv
+ e wines\, thoughtfully paired with a multi-course dinner. At the heart of 
+ the evening\, experience two vintages of Darioush Signature Cabernet Sauvi
+ gnon side by side  2015 and 2022  offering a rare opportunity to discover 
+ how time\, vintage and craftsmanship shape one of the winerys signature ex
+ pressions. The 2015 vintage is an exclusive winery release\, making this c
+ omparison one rarely experienced outside the Darioush estate. The journey 
+ concludes with the exceptionally rare 2014 Shahpar Late Harvest\, another 
+ winery-exclusive release and a distinctive finale to the evening. Cocktail
+  reception begins at 6:30 PM\, followed by a multi-course dinner at 7:00 P
+ M. \n\nPermalink: https://www.tampa.gov/node/194346
+URL;VALUE=URI:https://www.tampa.gov/node/194346
+END:VEVENT
+BEGIN:VEVENT
+UID:c58763cb-4e02-4e7f-b310-928f725f7460
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20260923T110000Z
 DTEND:20260923T220000Z
 SUMMARY:US Foods - Tampas 2026 Immersion Event
@@ -952,9 +1092,9 @@ DESCRIPTION:1-day food event where US Foods invites their customers (resta
 URL;VALUE=URI:https://www.tampa.gov/node/189371
 END:VEVENT
 BEGIN:VEVENT
-UID:b2ddcfea-b586-44f7-bff1-ed42b6f10dc5
+UID:e6c357ec-560e-4326-9bd2-e9453e465c07
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260923T133000Z
 DTEND:20260923T143000Z
 SUMMARY:Growing Creatively: Early Learner Gallery Art Experience
@@ -977,9 +1117,9 @@ DESCRIPTION:Select Wednesdays  9:30-10:30 AM Classes Available  923\, 1021
 URL;VALUE=URI:https://www.tampa.gov/node/193611
 END:VEVENT
 BEGIN:VEVENT
-UID:a75d5c6a-377c-4d76-99da-b4b10e7c6fb5
+UID:8101bf4d-d5b0-4ec0-8d4e-9654e4b9768a
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260923T220000Z
 DTEND:20260924T000000Z
 SUMMARY:David Hockney: Perspective Should Be Reversed Opening Celebration
@@ -1003,9 +1143,61 @@ DESCRIPTION:Be among the first to explore the Tampa Museum of Arts newest
 URL;VALUE=URI:https://www.tampa.gov/node/193851
 END:VEVENT
 BEGIN:VEVENT
-UID:995f6559-5f8e-4c27-9fbc-7d02a8d88ed0
+UID:7019bd44-8eee-4d27-b77b-0eee2e0ae4df
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20260924T190000Z
+DTEND:20260924T190000Z
+SUMMARY:Goal Setting Committee: Subcontracts
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Tim
+ e Date : 3:00 P.M. Thursday\, Sept\, 3rd 2026 3:00 P.M. Thursday\, Sept\, 
+ 10th 2026 3:00 P.M. Thursday\, Sept\, 17th 2026 3:00 P.M. Thursday\, Sept\
+ , 24th 2026 Location : 2nd Floor\, Trophy Case Conference Room Hanna Avenu
+ e City Center 2555 E. Hanna Avenue Tampa\, FL 33610 Topic : To review proj
+ ects eligible for application of subcontract participation goals pursuant 
+ to the City of Tampas Equal Business Opportunity Program. Contact : Jose V
+ aldez at 813-274-5543 or Jose.Valdeztampagov.net (mailto:Jose.Valdeztampag
+ ov.net) Note: All meetings are open to the public. Any person who decides 
+ to appeal any decision made with respect to any matter considered at this 
+ public hearing or meeting are advised\, in accordance with Section 286.010
+ 5\, Florida Statutes\, that they will need a record of the proceedings\, a
+ nd for such purpose may need to hire a court reporter to ensure that a ver
+ batim record of the proceeding is made\, which record includes the testimo
+ ny and evidence upon which the appeal is to be based. \n\nPermalink: https
+ ://www.tampa.gov/node/193996
+URL;VALUE=URI:https://www.tampa.gov/node/193996
+END:VEVENT
+BEGIN:VEVENT
+UID:a38ce79c-8840-4fb1-9816-acf208bb6ded
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
+DTSTART:20260924T183000Z
+DTEND:20260924T183000Z
+SUMMARY:SLBE Review Committee: Sheltered Market Program
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Public Meeting Notice SLBE REVIEW COMMITTEE: SHELTERED MARKET 
+ PROGRAM Time Date : 2:30 P.M. Thursday\, Sept\, 3rd 2026 2:30 P.M. Thursda
+ y\, Sept\, 10th 2026 2:30 P.M. Thursday\, Sept\, 17th 2026 2:30 P.M. Thurs
+ day\, Sept\, 24th 2026 Location : 2nd Floor\, Trophy Case Conference Room 
+ Hanna Avenue City Center 2555 E. Hanna Avenue Tampa\, FL 33610 Topic : To 
+ review projects eligible for solicitation as a Sheltered Market Procuremen
+ t pursuant to the City of Tampas Equal Business Opportunity Program. Conta
+ ct : Jose Valdez at 813-274-5543 or Jose.Valdeztampagov.net (mailto:Jose.V
+ aldeztampagov.net) Note: All meetings are open to the public. Any person w
+ ho decides to appeal any decision made with respect to any matter consider
+ ed at this public hearing or meeting are advised\, in accordance with Sect
+ ion 286.0105\, Florida Statutes\, that they will need a record of the proc
+ eedings\, and for such purpose may need to hire a court reporter to ensure
+  that a verbatim record of the proceeding is made\, which record includes 
+ the testimony and evidence upon which the appeal is to be based. \n\nPerma
+ link: https://www.tampa.gov/node/194001
+URL;VALUE=URI:https://www.tampa.gov/node/194001
+END:VEVENT
+BEGIN:VEVENT
+UID:08f62491-65c0-4ef2-b1af-188da8675d10
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20260924T160000Z
 DTEND:20260924T200000Z
 SUMMARY:Remember. Rebuild. Prepare. - Hurricane Preparedness Kit Day 2026
@@ -1031,61 +1223,31 @@ DESCRIPTION:Two years after the 2024 hurricanes\, many Florida families ar
 URL;VALUE=URI:https://www.tampa.gov/node/193986
 END:VEVENT
 BEGIN:VEVENT
-UID:107e79ae-5b29-4596-b492-d350336bce42
+UID:c74de8b6-a7e3-4bd6-b462-002881bb79e7
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260924T183000Z
-DTEND:20260924T183000Z
-SUMMARY:SLBE Review Committee: Sheltered Market Program
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Public Meeting Notice SLBE REVIEW COMMITTEE: SHELTERED MARKET 
- PROGRAM Time Date : 2:30 P.M. Thursday\, Sept\, 3rd 2026 2:30 P.M. Thursda
- y\, Sept\, 10th 2026 2:30 P.M. Thursday\, Sept\, 17th 2026 2:30 P.M. Thurs
- day\, Sept\, 24th 2026 Location : 2nd Floor\, Trophy Case Conference Room 
- Hanna Avenue City Center 2555 E. Hanna Avenue Tampa\, FL 33610 Topic : To 
- review projects eligible for solicitation as a Sheltered Market Procuremen
- t pursuant to the City of Tampas Equal Business Opportunity Program. Conta
- ct : Jose Valdez at 813-274-5543 or Jose.Valdeztampagov.net (mailto:Jose.V
- aldeztampagov.net) Note: All meetings are open to the public. Any person w
- ho decides to appeal any decision made with respect to any matter consider
- ed at this public hearing or meeting are advised\, in accordance with Sect
- ion 286.0105\, Florida Statutes\, that they will need a record of the proc
- eedings\, and for such purpose may need to hire a court reporter to ensure
-  that a verbatim record of the proceeding is made\, which record includes 
- the testimony and evidence upon which the appeal is to be based. \n\nPerma
- link: https://www.tampa.gov/node/194001
-URL;VALUE=URI:https://www.tampa.gov/node/194001
+DTSTAMP:20260903T000650Z
+DTSTART:20260925T210000Z
+DTEND:20260926T000000Z
+SUMMARY:Fridays I039\\\;m in Love
+LOCATION:701 Channelside Dr Tampa \, FL 33602 United States
+DESCRIPTION:Take Date Night to New Depths Let us set the backdrop to an un
+ forgettable evening. Come wander through immersive habitats\, linger benea
+ th the glow of the exhibits\, and discover a more intimate side of The Flo
+ rida Aquarium. Bring your favorite person and receive one FREE general adm
+ ission with the purchase of one paid admission after 5 PM. With extended h
+ ours until 8 PM\, you have plenty of time to explore\, connect\, and make 
+ the night last just a little longer during this rare opportunity to explor
+ e the Aquarium after dark. Every Friday\, August 28September 25 Offer Deta
+ ils: Excludes Member Night\, Sept. 18. Available only at the Aquarium tick
+ et window after 5 PM on the day of your visit. Buy one paid admission\, re
+ ceive one free general admission. Offers cannot be combined with other dis
+ counts or promotions. \n\nPermalink: https://www.tampa.gov/node/194221
+URL;VALUE=URI:https://www.tampa.gov/node/194221
 END:VEVENT
 BEGIN:VEVENT
-UID:23ddfec0-d004-4ea2-bd9a-16fad12c953a
+UID:8b7076f9-eda5-4335-b296-6160ed7b2240
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20260924T190000Z
-DTEND:20260924T190000Z
-SUMMARY:Goal Setting Committee: Subcontracts
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Tim
- e Date : 3:00 P.M. Thursday\, Sept\, 3rd 2026 3:00 P.M. Thursday\, Sept\, 
- 10th 2026 3:00 P.M. Thursday\, Sept\, 17th 2026 3:00 P.M. Thursday\, Sept\
- , 24th 2026 Location : 2nd Floor\, Trophy Case Conference Room Hanna Avenu
- e City Center 2555 E. Hanna Avenue Tampa\, FL 33610 Topic : To review proj
- ects eligible for application of subcontract participation goals pursuant 
- to the City of Tampas Equal Business Opportunity Program. Contact : Jose V
- aldez at 813-274-5543 or Jose.Valdeztampagov.net (mailto:Jose.Valdeztampag
- ov.net) Note: All meetings are open to the public. Any person who decides 
- to appeal any decision made with respect to any matter considered at this 
- public hearing or meeting are advised\, in accordance with Section 286.010
- 5\, Florida Statutes\, that they will need a record of the proceedings\, a
- nd for such purpose may need to hire a court reporter to ensure that a ver
- batim record of the proceeding is made\, which record includes the testimo
- ny and evidence upon which the appeal is to be based. \n\nPermalink: https
- ://www.tampa.gov/node/193996
-URL;VALUE=URI:https://www.tampa.gov/node/193996
-END:VEVENT
-BEGIN:VEVENT
-UID:4caf461e-cb85-4ef2-89d3-8d13a74a68d7
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260925T223000Z
 DTEND:20260926T013000Z
 SUMMARY:Laser Light Shows: Elton John Queen
@@ -1106,9 +1268,9 @@ DESCRIPTION:Laser Light Shows are taking over the Holloway Digital Dome Th
 URL;VALUE=URI:https://www.tampa.gov/node/193736
 END:VEVENT
 BEGIN:VEVENT
-UID:14582817-2c2a-49c3-92f6-ac9ea2799b72
+UID:839f3dcb-11d0-4e21-ae9f-e4552de46599
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260926T140000Z
 DTEND:20260926T170000Z
 SUMMARY:Community Readiness Day: FREE Safety Disaster Preparedness
@@ -1138,9 +1300,9 @@ DESCRIPTION:Join us for our annual Community Readiness Day\, a free Nation
 URL;VALUE=URI:https://www.tampa.gov/node/194051
 END:VEVENT
 BEGIN:VEVENT
-UID:a0da332a-8667-483b-9d54-27fdee61adfd
+UID:57eacbc6-3026-4f06-b515-4e7a7967f6c9
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260926T203000Z
 DTEND:20260927T010000Z
 SUMMARY:Futurefest 2026 Alternative Metal  Numetal Revival
@@ -1154,9 +1316,9 @@ DESCRIPTION:FUTUREFEST 2026 is a celebration of live music\, local culture
 URL;VALUE=URI:https://www.tampa.gov/node/193646
 END:VEVENT
 BEGIN:VEVENT
-UID:26617149-0e31-4f89-88bd-bd709781a429
+UID:e2a494ba-8096-4ea9-ac8f-fc02e39d1d06
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20260927T213000Z
 DTEND:20260927T233000Z
 SUMMARY:2026 Walk to End Lupus Now\, West Florida
@@ -1170,9 +1332,9 @@ DESCRIPTION:2026 Walk to End Lupus Now\, West Florida Date: Sunday\, Septe
 URL;VALUE=URI:https://www.tampa.gov/node/187506
 END:VEVENT
 BEGIN:VEVENT
-UID:69710820-84d5-42fe-9f6e-7f35825c70a4
+UID:13a8b05e-c177-4307-9975-e21335a621c3
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261001T213000Z
 DTEND:20261002T003000Z
 SUMMARY:2026 Florida College IMPACT
@@ -1187,9 +1349,9 @@ DESCRIPTION:Event details: floridacollege.edu (https:floridacollege.eduimp
 URL;VALUE=URI:https://www.tampa.gov/node/188946
 END:VEVENT
 BEGIN:VEVENT
-UID:6156f89b-3b35-4161-ac1a-73cce4474b03
+UID:18da2124-0837-44cf-ad4d-3768dc377872
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261001T220000Z
 DTEND:20261002T010000Z
 SUMMARY:Rock the Park
@@ -1208,9 +1370,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:3f80ff54-3cad-459d-8951-7f8df3541266
+UID:aa3ceb6d-1ac7-4b05-8ab4-431cf7da334d
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261002T233000Z
 DTEND:20261003T030000Z
 SUMMARY:Art Aces: A Night of Vintage Glamour
@@ -1232,9 +1394,9 @@ DESCRIPTION:Art Aces celebrates its 4th anniversary and invites you to ste
 URL;VALUE=URI:https://www.tampa.gov/node/192586
 END:VEVENT
 BEGIN:VEVENT
-UID:959de615-81fc-4d22-b7b7-762988b8697c
+UID:0b65c2f8-1776-4ace-8a58-69b8f759535f
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261003T120000Z
 DTEND:20261003T140000Z
 SUMMARY:Sensory Saturday
@@ -1264,9 +1426,9 @@ DESCRIPTION:Experience MOSIs Sensory Saturday \, created in partnership wi
 URL;VALUE=URI:https://www.tampa.gov/node/193741
 END:VEVENT
 BEGIN:VEVENT
-UID:a29b37da-82f4-4cee-b8a0-c63f5802da14
+UID:90424bc9-8ce6-4f44-85a9-fd37f9e4a1cf
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261003T140000Z
 DTEND:20261003T200000Z
 SUMMARY:Next Level Workshop - Sew Seen: Stitching New Narratives with Nnek
@@ -1289,9 +1451,9 @@ DESCRIPTION:Saturday\, Oct 3 - Sunday\, Oct 4  10:00 AM  4:00 PM (2 classe
 URL;VALUE=URI:https://www.tampa.gov/node/193671
 END:VEVENT
 BEGIN:VEVENT
-UID:98389b9f-0958-411c-ba02-c1bd573aeef1
+UID:4b8a31c5-df1e-42f7-a131-ce0f24129a13
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261005T133000Z
 DTEND:20261005T150000Z
 SUMMARY:Studio 55: Daytime Choir
@@ -1312,9 +1474,9 @@ DESCRIPTION:Mondays\, Oct 5 - Nov 16  9:30 AM  11:00 AM (7 classes) Grand
 URL;VALUE=URI:https://www.tampa.gov/node/193676
 END:VEVENT
 BEGIN:VEVENT
-UID:d4f9146b-bf68-4901-b6fd-de845f3ec3ac
+UID:a52d2688-2365-450c-8e65-6f6e469bc03b
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261006T140000Z
 DTEND:20261006T153000Z
 SUMMARY:Historic Marker Unveiling and Dedication Ceremony
@@ -1338,9 +1500,9 @@ DESCRIPTION:A new historic marker honoring one of Ybor Citys most layered
 URL;VALUE=URI:https://www.tampa.gov/node/194091
 END:VEVENT
 BEGIN:VEVENT
-UID:422685fe-092f-4543-874f-56d0a5f7ef76
+UID:2e55379f-4be5-4a82-9366-de33909a19e7
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261008T220000Z
 DTEND:20261009T010000Z
 SUMMARY:Remix: Mysteries of the Nile
@@ -1356,9 +1518,9 @@ DESCRIPTION:Thursday\, Oct 8  6:009:00 PM Ages 18  Beginner Level Remix is
 URL;VALUE=URI:https://www.tampa.gov/node/193841
 END:VEVENT
 BEGIN:VEVENT
-UID:2e0e2bc3-92d6-4a9c-a8e7-f99dcd434ba6
+UID:83f4fd64-5737-4610-9927-b59c13563404
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261009T213000Z
 DTEND:20261009T233000Z
 SUMMARY:Keys in the Park: A Melodic Duel
@@ -1376,9 +1538,9 @@ DESCRIPTION:Join us for an unforgettable evening of musical magic at Keys
 URL;VALUE=URI:https://www.tampa.gov/node/188241
 END:VEVENT
 BEGIN:VEVENT
-UID:1c79aa8e-a262-4930-8a01-075df8d44b39
+UID:439dfbb6-c52d-48ea-b7d5-6f43e1bd9d1f
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261010T130000Z
 DTEND:20261010T190000Z
 SUMMARY:Fall 2026 Plant Festival
@@ -1394,9 +1556,34 @@ DESCRIPTION:Join us for a two-day celebration of all things plants! The US
 URL;VALUE=URI:https://www.tampa.gov/node/193551
 END:VEVENT
 BEGIN:VEVENT
-UID:b77c55aa-2230-4041-a100-b26805ba6b05
+UID:c13eae48-89e7-4482-8706-98f465694671
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20261010T120000Z
+DTEND:20261010T160000Z
+SUMMARY:Susan G. Komen Tampa Bay More Than Pink Walk
+LOCATION:4202 E Fowler Ave Tampa \, FL 33620 United States
+DESCRIPTION:The 2026 Tampa Bay MORE THAN PINK Walk\, Susan G. Komens large
+ st fundraising event series\, evolved from the Race for the Cure in 2018. 
+ Each year\, we host over 100\,000 participants at our 40 in-person (and on
+ e virtual) walks across the U.S. Since the first Walk in 2018\, our partic
+ ipants have raised more than 60 million dollars and continue to be a part 
+ of a community committed to our vision of a world without breast cancer. W
+ ith inclusive and accessible options for people of all ages and abilities 
+  including breast cancer survivors\, those currently in treatment for brea
+ st cancer and people living with metastatic breast cancer  the Walk provid
+ es participants the opportunity to come together and connect in meaningful
+  ways. It allows us to focus on sharing our passion\, sharing our stories 
+ and connecting with others\, all while fundraising to support life-saving 
+ programs and research. Our finish line is a world without breast cancer\, 
+ and we know the only way we can get there is together! \n\nPermalink: http
+ s://www.tampa.gov/node/194301
+URL;VALUE=URI:https://www.tampa.gov/node/194301
+END:VEVENT
+BEGIN:VEVENT
+UID:8f1e2438-4b59-46fc-97a8-fb9c094ab2af
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20261014T203000Z
 DTEND:20261014T220000Z
 SUMMARY:Teen Ceramics
@@ -1411,9 +1598,9 @@ DESCRIPTION:Wednesdays\, Oct 14 - Nov 18  4:30 - 6:00 PM (6 classes) Ages
 URL;VALUE=URI:https://www.tampa.gov/node/193756
 END:VEVENT
 BEGIN:VEVENT
-UID:2d5ca2ca-cb5d-4fa1-8058-8ce0116e4c7d
+UID:78edb789-c8bc-4359-b97d-fb5b4b5803c5
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261014T223000Z
 DTEND:20261015T000000Z
 SUMMARY:Teen Animation Workshop
@@ -1427,9 +1614,9 @@ DESCRIPTION:Tuesdays\, Oct 14 - Nov 11  6:308:00 PM (5 classes) Ages 13  B
 URL;VALUE=URI:https://www.tampa.gov/node/193816
 END:VEVENT
 BEGIN:VEVENT
-UID:dc2444c0-d381-45b6-ae2e-c45116c30f15
+UID:015d1cf2-aabc-4504-af4e-bd5deab62bf0
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261015T223000Z
 DTEND:20261015T233000Z
 SUMMARY:Lowry Park Central Community Organization
@@ -1443,9 +1630,9 @@ DESCRIPTION:The Neighborhood Association will hold monthly meetings on the
 URL;VALUE=URI:https://www.tampa.gov/node/193901
 END:VEVENT
 BEGIN:VEVENT
-UID:94090f9d-c719-48de-b4db-07497e1b963d
+UID:dafb078f-10a3-4b4f-9238-de3539d0dfa6
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261016T110000Z
 DTEND:20261019T035900Z
 SUMMARY:Tampa Art Convention
@@ -1458,9 +1645,9 @@ DESCRIPTION:Tampas first ever Art Convention\, features 300 artists during
 URL;VALUE=URI:https://www.tampa.gov/node/189636
 END:VEVENT
 BEGIN:VEVENT
-UID:eefaf20e-67ae-404a-975e-2ef29bbdc813
+UID:1990b6bb-728c-448f-876a-02ef63f6af43
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261016T120000Z
 DTEND:20261016T200000Z
 SUMMARY:Gasparilla Bowl Inshore Slam Fishing Tournament
@@ -1475,9 +1662,9 @@ DESCRIPTION:The Gasparilla Bowl Inshore Slam Fishing Tournament is held an
 URL;VALUE=URI:https://www.tampa.gov/node/193376
 END:VEVENT
 BEGIN:VEVENT
-UID:a4a17ef4-df08-4d40-8ea7-458fe6d99f3f
+UID:9d26e5d9-7e79-4097-8835-6327e4d67c9e
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261016T160000Z
 DTEND:20261016T170000Z
 SUMMARY:Understanding Menopause
@@ -1495,9 +1682,9 @@ DESCRIPTION:Menopause is a topic for womens health that doesnt usually get
 URL;VALUE=URI:https://www.tampa.gov/node/194071
 END:VEVENT
 BEGIN:VEVENT
-UID:463d49ac-b53a-41a3-86aa-0b461e281155
+UID:7ed2a407-c10b-456d-a170-1bf5766080cf
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261016T220000Z
 DTEND:20261017T010000Z
 SUMMARY:Rhythm Hues: An Alleyway Art Show
@@ -1514,9 +1701,9 @@ DESCRIPTION:LOCATION: Rialto Theater Alleyway  1617 N Franklin St\, Tampa\
 URL;VALUE=URI:https://www.tampa.gov/node/188231
 END:VEVENT
 BEGIN:VEVENT
-UID:ec1c45d7-ad23-4991-9bbf-cca19c474435
+UID:57af6ff4-46af-40bb-8376-cf12704d941e
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261016T230000Z
 DTEND:20261017T030000Z
 SUMMARY:Dishes Wishes  Make-A-Wish
@@ -1530,9 +1717,102 @@ DESCRIPTION:Join us on Friday\, October 16\, 2026\, at Armature Works Tamp
 URL;VALUE=URI:https://www.tampa.gov/node/192331
 END:VEVENT
 BEGIN:VEVENT
-UID:3a82f915-e04a-4d90-a97b-1df1679d741a
+UID:d92037d2-1a6d-4fc5-8824-5829e7d73667
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20261017T220000Z
+DTEND:20261018T010000Z
+SUMMARY:Spooktacular Science
+LOCATION:4801 E Fowler Ave Tampa \, FL 33617-2017 United States
+DESCRIPTION:Spooktacular Science delivers a thrilling night of science\, d
+ iscovery\, and spooky fun at MOSI! Spark your curiosity with hands-on expe
+ riments\, exciting demonstrations\, and Halloween-inspired experiences per
+ fect for the whole family. Begin your adventure with a spooky cosmic journ
+ ey in the Saunders Planetarium (https:mosi.orgexperiencesaunders-planetari
+ um). Then\, satisfy your sweet tooth with festive Halloween flavors of Liq
+ uid Nitrogen Ice Cream and creepy candy stations throughout the event. Con
+ tinue exploring with frightfully fun entertainment\, hair-raising experime
+ nts\, mysterious demonstrations\, and a variety of interactive activities 
+ that bring science to life. Create your own slimy creations in the Potions
+  Lab\, take control of a drone during a Phantom Flight adventure\, and enj
+ oy a variety of food and drinks available for purchase. Make Spooktacular 
+ Science your new favorite fall tradition at MOSI! \n\nPermalink: https://w
+ ww.tampa.gov/node/193746
+URL;VALUE=URI:https://www.tampa.gov/node/193746
+END:VEVENT
+BEGIN:VEVENT
+UID:79629975-9bc4-4db5-9810-3d615affc5be
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
+DTSTART:20261017T170000Z
+DTEND:20261018T020000Z
+SUMMARY:15th Annual Tampa Pig Jig
+LOCATION:1001 N Blvd Tampa \, FL 33606 United States
+DESCRIPTION:Celebrating 15 years as Tampa Bays premier philanthropic festi
+ val\, the Tampa Pig Jig returns to Julian B. Lane Park on Saturday\, Octob
+ er 17\, bringing a powerhouse lineup headlined by Diamond-certified Countr
+ y superstar Thomas Rhett. This years festival will also feature GRAMMY-nom
+ inated trio Midland\, acclaimed singer-songwriter Kameron Marlowe\, belove
+ d Florida natives Sister Hazel\, and up-and-coming country voice Cassidy D
+ aniels. Presented by RIPA\, Valley Bank\, and The Baldwin Group\, this awa
+ rd-winning event brings together world-class live music\, great food\, gam
+ es\, and family-friendly fun  all in support of families facing serious me
+ dical challenges. \n\nPermalink: https://www.tampa.gov/node/189586
+URL;VALUE=URI:https://www.tampa.gov/node/189586
+END:VEVENT
+BEGIN:VEVENT
+UID:d44857d3-38c6-48cb-9da5-c092a1a15740
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
+DTSTART:20261017T150000Z
+DTEND:20261017T210000Z
+SUMMARY:The National Franchise Show
+LOCATION:333 South Franklin Street Tampa\, FL 33602 Tampa \, FL 33602 Unit
+ ed States
+DESCRIPTION:Be your own boss! Find out how at Tampas largest Own Your Own 
+ Business event. Meet face-to-face with over 80 proven franchises! Explore 
+ full- and part-time options across a wide range of industries and investme
+ nt levels\, attend free seminars\, and get the information you need to hel
+ p you become successful. October 17 18\, 2026 Show Times: Saturday 11am  5
+ pm\, Sunday 11am  4pm \n\nPermalink: https://www.tampa.gov/node/190996
+URL;VALUE=URI:https://www.tampa.gov/node/190996
+END:VEVENT
+BEGIN:VEVENT
+UID:3c9b37a5-6fb3-4b5f-aaf8-6cf7c4772f66
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
+DTSTART:20261017T150000Z
+DTEND:20261018T210000Z
+SUMMARY:The National Franchise Show
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:Own your own business and take the next step to becoming your 
+ own boss. Come to Tampas largest Franchise event and meet face-to-face wit
+ h reps from proven\, money-making businesses looking to grow. Full and par
+ t-time opportunities available. Participating industries include home impr
+ ovement\, pet care\, restaurants\, home based businesses\, childrens educa
+ tion\, automotive\, senior care\, and more! For more info please visit: ww
+ w.franchiseshowinfo.com (https:www.franchiseshowinfo.comtampa-visitor) \n\
+ nPermalink: https://www.tampa.gov/node/189726
+URL;VALUE=URI:https://www.tampa.gov/node/189726
+END:VEVENT
+BEGIN:VEVENT
+UID:2e7effdd-8575-4c01-b968-3d4438b9b12c
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
+DTSTART:20261017T140000Z
+DTEND:20261017T180000Z
+SUMMARY:Tampa Senior Bacchanal 2026
+LOCATION:5107 N 22nd Street Tampa \, FL 33610 United States
+DESCRIPTION:A lively Caribbean fun-filled\, energetic celebration featurin
+ g music\, dance\, food\, games\, giveaways and social engagement! FREE TO 
+ SENIORS 55 \n\nPermalink: https://www.tampa.gov/node/193656
+URL;VALUE=URI:https://www.tampa.gov/node/193656
+END:VEVENT
+BEGIN:VEVENT
+UID:3e8ae429-83ab-43d6-a0d9-e3f52c68f351
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20261017T120000Z
 DTEND:20261017T160000Z
 SUMMARY:Walk To End Alzheimer039\\\;s
@@ -1558,114 +1838,9 @@ DESCRIPTION:Residents are invited to join the Walk to End Alzheimers Tampa
 URL;VALUE=URI:https://www.tampa.gov/node/193766
 END:VEVENT
 BEGIN:VEVENT
-UID:e42c19e2-ea76-44fa-ab17-767a71b7af1f
+UID:a63010c5-1bad-4533-9440-b4ab417e9609
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20261017T220000Z
-DTEND:20261018T010000Z
-SUMMARY:Spooktacular Science
-LOCATION:4801 E Fowler Ave Tampa \, FL 33617-2017 United States
-DESCRIPTION:Spooktacular Science delivers a thrilling night of science\, d
- iscovery\, and spooky fun at MOSI! Spark your curiosity with hands-on expe
- riments\, exciting demonstrations\, and Halloween-inspired experiences per
- fect for the whole family. Begin your adventure with a spooky cosmic journ
- ey in the Saunders Planetarium (https:mosi.orgexperiencesaunders-planetari
- um). Then\, satisfy your sweet tooth with festive Halloween flavors of Liq
- uid Nitrogen Ice Cream and creepy candy stations throughout the event. Con
- tinue exploring with frightfully fun entertainment\, hair-raising experime
- nts\, mysterious demonstrations\, and a variety of interactive activities 
- that bring science to life. Create your own slimy creations in the Potions
-  Lab\, take control of a drone during a Phantom Flight adventure\, and enj
- oy a variety of food and drinks available for purchase. Make Spooktacular 
- Science your new favorite fall tradition at MOSI! \n\nPermalink: https://w
- ww.tampa.gov/node/193746
-URL;VALUE=URI:https://www.tampa.gov/node/193746
-END:VEVENT
-BEGIN:VEVENT
-UID:44279881-b168-4f48-b7c0-ed41cf849496
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20261017T170000Z
-DTEND:20261018T020000Z
-SUMMARY:15th Annual Tampa Pig Jig
-LOCATION:1001 N Blvd Tampa \, FL 33606 United States
-DESCRIPTION:Celebrating 15 years as Tampa Bays premier philanthropic festi
- val\, the Tampa Pig Jig returns to Julian B. Lane Park on Saturday\, Octob
- er 17\, bringing a powerhouse lineup headlined by Diamond-certified Countr
- y superstar Thomas Rhett. This years festival will also feature GRAMMY-nom
- inated trio Midland\, acclaimed singer-songwriter Kameron Marlowe\, belove
- d Florida natives Sister Hazel\, and up-and-coming country voice Cassidy D
- aniels. Presented by RIPA\, Valley Bank\, and The Baldwin Group\, this awa
- rd-winning event brings together world-class live music\, great food\, gam
- es\, and family-friendly fun  all in support of families facing serious me
- dical challenges. \n\nPermalink: https://www.tampa.gov/node/189586
-URL;VALUE=URI:https://www.tampa.gov/node/189586
-END:VEVENT
-BEGIN:VEVENT
-UID:901eb02c-78c0-4970-8c4c-188a71d1b703
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20261017T150000Z
-DTEND:20261017T210000Z
-SUMMARY:The National Franchise Show
-LOCATION:333 South Franklin Street Tampa\, FL 33602 Tampa \, FL 33602 Unit
- ed States
-DESCRIPTION:Be your own boss! Find out how at Tampas largest Own Your Own 
- Business event. Meet face-to-face with over 80 proven franchises! Explore 
- full- and part-time options across a wide range of industries and investme
- nt levels\, attend free seminars\, and get the information you need to hel
- p you become successful. October 17 18\, 2026 Show Times: Saturday 11am  5
- pm\, Sunday 11am  4pm \n\nPermalink: https://www.tampa.gov/node/190996
-URL;VALUE=URI:https://www.tampa.gov/node/190996
-END:VEVENT
-BEGIN:VEVENT
-UID:c327bc57-5aa3-48a1-8860-c090141aea5f
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20261017T150000Z
-DTEND:20261018T210000Z
-SUMMARY:The National Franchise Show
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:Own your own business and take the next step to becoming your 
- own boss. Come to Tampas largest Franchise event and meet face-to-face wit
- h reps from proven\, money-making businesses looking to grow. Full and par
- t-time opportunities available. Participating industries include home impr
- ovement\, pet care\, restaurants\, home based businesses\, childrens educa
- tion\, automotive\, senior care\, and more! For more info please visit: ww
- w.franchiseshowinfo.com (https:www.franchiseshowinfo.comtampa-visitor) \n\
- nPermalink: https://www.tampa.gov/node/189726
-URL;VALUE=URI:https://www.tampa.gov/node/189726
-END:VEVENT
-BEGIN:VEVENT
-UID:61d427db-d36a-4bba-a5a9-e35738131acb
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20261017T140000Z
-DTEND:20261017T180000Z
-SUMMARY:Tampa Senior Bacchanal 2026
-LOCATION:5107 N 22nd Street Tampa \, FL 33610 United States
-DESCRIPTION:A lively Caribbean fun-filled\, energetic celebration featurin
- g music\, dance\, food\, games\, giveaways and social engagement! FREE TO 
- SENIORS 55 \n\nPermalink: https://www.tampa.gov/node/193656
-URL;VALUE=URI:https://www.tampa.gov/node/193656
-END:VEVENT
-BEGIN:VEVENT
-UID:50a13526-9bf4-4fab-b00f-a9b9d90eddcf
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20261020T110000Z
-DTEND:20261020T203000Z
-SUMMARY:Tampa Bay Condo HOA Expo
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/189751
-URL;VALUE=URI:https://www.tampa.gov/node/189751
-END:VEVENT
-BEGIN:VEVENT
-UID:e56938d2-b976-4e78-8029-f565172b9257
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261020T220000Z
 DTEND:20261021T010000Z
 SUMMARY:Figure Drawing Study
@@ -1681,9 +1856,21 @@ DESCRIPTION:Select Tuesdays  6:009:00 PM Classes Available  922\, 1020\, 1
 URL;VALUE=URI:https://www.tampa.gov/node/193586
 END:VEVENT
 BEGIN:VEVENT
-UID:2533233c-2dc3-443a-8692-e31359793e8d
+UID:f55d8abc-1d77-4b70-a14d-eb83d42e0f0d
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20261020T110000Z
+DTEND:20261020T203000Z
+SUMMARY:Tampa Bay Condo HOA Expo
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/189751
+URL;VALUE=URI:https://www.tampa.gov/node/189751
+END:VEVENT
+BEGIN:VEVENT
+UID:9d5cf6c8-b7f6-4c7e-811b-b75ddb97ea83
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20261021T133000Z
 DTEND:20261021T143000Z
 SUMMARY:Growing Creatively: Early Learner Gallery Art Experience
@@ -1706,9 +1893,9 @@ DESCRIPTION:Select Wednesdays  9:30-10:30 AM Classes Available  923\, 1021
 URL;VALUE=URI:https://www.tampa.gov/node/193616
 END:VEVENT
 BEGIN:VEVENT
-UID:e762a0c4-cc6a-4cf7-8e18-765dd3550c0e
+UID:305259d5-5460-4f0e-8e5a-cdb5a2605f62
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261021T160000Z
 DTEND:20261021T170000Z
 SUMMARY:Caring for the Caregiver
@@ -1721,9 +1908,9 @@ DESCRIPTION:Presented by BayCare  will count toward City of Tampa Wellness
 URL;VALUE=URI:https://www.tampa.gov/node/194076
 END:VEVENT
 BEGIN:VEVENT
-UID:dbeb8b39-dfe9-4bcd-8da2-063ae2a82bf4
+UID:13962ba0-e078-4995-a78c-8b2916454203
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261022T150000Z
 DTEND:20261022T190000Z
 SUMMARY:Tampa Veterans Job Fair
@@ -1738,9 +1925,9 @@ DESCRIPTION:As the leader in connecting employers with the military commun
 URL;VALUE=URI:https://www.tampa.gov/node/191761
 END:VEVENT
 BEGIN:VEVENT
-UID:9ea39634-cce1-42ba-891b-4824158c9421
+UID:50386d98-2057-4c97-99ad-f8032a843dda
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261023T100000Z
 DTEND:20261026T020000Z
 SUMMARY:HYROX Tampa
@@ -1760,9 +1947,9 @@ DESCRIPTION:HYROX combines both running  functional workout stations\, whe
 URL;VALUE=URI:https://www.tampa.gov/node/189931
 END:VEVENT
 BEGIN:VEVENT
-UID:ccbc32c3-b3be-4341-be52-58d4b844b296
+UID:4fc1a51d-524a-4c07-b0fb-91fbb4482400
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261024T140000Z
 DTEND:20261024T180000Z
 SUMMARY:NAMIWALKS Hillsborough
@@ -1783,9 +1970,9 @@ DESCRIPTION:The NAMIWalks Hillsborough will take place on Saturday\, Octob
 URL;VALUE=URI:https://www.tampa.gov/node/190166
 END:VEVENT
 BEGIN:VEVENT
-UID:6f88299c-02fe-4a44-b110-431160e57cfe
+UID:404d4dfb-901d-4958-8d7d-7ba3b0fabeb7
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261026T140000Z
 DTEND:20261026T200000Z
 SUMMARY:Studio 55: Encaustic Sculpture
@@ -1799,9 +1986,9 @@ DESCRIPTION:Monday\, Oct 26 - Wednesday\, Oct 28  10:00 AM  4:00 PM (3 cla
 URL;VALUE=URI:https://www.tampa.gov/node/193866
 END:VEVENT
 BEGIN:VEVENT
-UID:b9bdba22-094a-41eb-8d91-b94d4fc996e9
+UID:38d8418d-344a-4821-ac5a-15cad4541d30
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Rock the Park
@@ -1820,9 +2007,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:21131567-f36d-48ec-a715-774e1d7a5780
+UID:efb2ef3b-0b7a-4486-a9b1-b51a211b9754
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Remix: C Paul Jennewein
@@ -1838,9 +2025,9 @@ DESCRIPTION:Thursday\, Nov 5  6:009:00 PM Ages 18  Beginner Level Remix is
 URL;VALUE=URI:https://www.tampa.gov/node/193601
 END:VEVENT
 BEGIN:VEVENT
-UID:5190d73f-7223-442e-b710-64820dd84ded
+UID:fcca6b1d-c4a0-45bb-8d27-31fd0baf277c
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Thursday Ceramics
@@ -1857,9 +2044,9 @@ DESCRIPTION:Thursdays  6:00 PM  9:00 PM Nov 5 - Dec 17 (6 classes) Ages 18
 URL;VALUE=URI:https://www.tampa.gov/node/193721
 END:VEVENT
 BEGIN:VEVENT
-UID:42c8dc3e-3b05-4b12-ac61-a21b57ff7728
+UID:0855a48e-4b95-45ac-9cc5-f0a444c8ceda
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261106T110000Z
 DTEND:20261107T000000Z
 SUMMARY:Port Tampa Bayslam
@@ -1875,9 +2062,9 @@ DESCRIPTION:The Port Tampa Bayslam is a 1-day catch and release charity fi
 URL;VALUE=URI:https://www.tampa.gov/node/190881
 END:VEVENT
 BEGIN:VEVENT
-UID:5f7e059d-6070-4be1-a537-6b1b5f4de7c1
+UID:e7ceac91-5b5e-439f-a2b9-2badc114fe71
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261109T213000Z
 DTEND:20261110T003000Z
 SUMMARY:Blind Date with a Book
@@ -1902,22 +2089,9 @@ DESCRIPTION:Its a match! Swipe right on a good read and start a new chapte
 URL;VALUE=URI:https://www.tampa.gov/node/188216
 END:VEVENT
 BEGIN:VEVENT
-UID:f07a5bbc-7e66-4048-bcfb-551ea1f299e5
+UID:76f05800-09b0-42c1-896e-c9c9e3ba6914
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
-DTSTART:20261111T170000Z
-DTEND:20261111T220000Z
-SUMMARY:Community Rebuilding Day
-LOCATION:1619 East 7th Avenue Tampa \, FL 33605 United States
-DESCRIPTION:A community gathering designed to help individuals pause\, ref
- lect\, and intentionally plan the next phase of their lives after challeng
- es or uncertainty \n\nPermalink: https://www.tampa.gov/node/188191
-URL;VALUE=URI:https://www.tampa.gov/node/188191
-END:VEVENT
-BEGIN:VEVENT
-UID:cbeb1d45-8a45-469d-953f-eab8a1d72380
-SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261111T050000Z
 DTEND:20261112T045900Z
 SUMMARY:Veterans Day - City Office Closures
@@ -1930,9 +2104,22 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:https://www.tampa.gov/node/177396
 END:VEVENT
 BEGIN:VEVENT
-UID:dd0e2b44-1147-4a41-8058-6a449c513993
+UID:cdb3714d-57fb-4cb7-8ad3-0bc11675bbff
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
+DTSTART:20261111T170000Z
+DTEND:20261111T220000Z
+SUMMARY:Community Rebuilding Day
+LOCATION:1619 East 7th Avenue Tampa \, FL 33605 United States
+DESCRIPTION:A community gathering designed to help individuals pause\, ref
+ lect\, and intentionally plan the next phase of their lives after challeng
+ es or uncertainty \n\nPermalink: https://www.tampa.gov/node/188191
+URL;VALUE=URI:https://www.tampa.gov/node/188191
+END:VEVENT
+BEGIN:VEVENT
+UID:e0a6e95b-c508-4a19-81fe-655ae1420905
+SEQUENCE:0
+DTSTAMP:20260903T000650Z
 DTSTART:20261113T223000Z
 DTEND:20261114T030000Z
 SUMMARY:Tampa Bay History Center Annual Gala
@@ -1958,9 +2145,9 @@ DESCRIPTION:The Tampa Bay History Center Annual Gala is dedicated to celeb
 URL;VALUE=URI:https://www.tampa.gov/node/190581
 END:VEVENT
 BEGIN:VEVENT
-UID:3f3151f8-fb94-4c35-8aaa-225fc14461fc
+UID:7ddce298-f757-48e3-8d55-af6ad3a1b53c
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261113T120000Z
 DTEND:20261115T203000Z
 SUMMARY:Hack Your Health 2026
@@ -1982,9 +2169,9 @@ DESCRIPTION:Hack Your Health (formerly KetoCon) is the premier destination
 URL;VALUE=URI:https://www.tampa.gov/node/190966
 END:VEVENT
 BEGIN:VEVENT
-UID:ea53023e-0bcf-4e11-b8e4-c2bdece5bb42
+UID:22da8913-e1c3-4fe8-8ecd-56d7d0aa4bac
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261114T150000Z
 DTEND:20261114T210000Z
 SUMMARY:Encaustics Mixed Media Monotypes
@@ -1997,9 +2184,9 @@ DESCRIPTION:Saturday\, Nov 11  10:00 AM  4:00 PM Ages 18  Beginner Level C
 URL;VALUE=URI:https://www.tampa.gov/node/193521
 END:VEVENT
 BEGIN:VEVENT
-UID:1cd3b3bb-0e6a-4c4c-9d1f-586f1d667165
+UID:b7d2bea7-28ab-4ec4-9d33-2cd6cd68d2eb
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:Figure Drawing Study
@@ -2015,9 +2202,9 @@ DESCRIPTION:Select Tuesdays  6:009:00 PM Classes Available  922\, 1020\, 1
 URL;VALUE=URI:https://www.tampa.gov/node/193661
 END:VEVENT
 BEGIN:VEVENT
-UID:cc19b9b4-1307-472d-8eb2-55a857974911
+UID:516965f9-2eff-4225-9ba8-c5426d598a58
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261118T213000Z
 DTEND:20261118T230000Z
 SUMMARY:Teen Digital Studio
@@ -2031,9 +2218,9 @@ DESCRIPTION:Select Wednesdays  4:30 PM  6:00 PM Classes Available  916\, 1
 URL;VALUE=URI:https://www.tampa.gov/node/193806
 END:VEVENT
 BEGIN:VEVENT
-UID:a3338a7f-d4d1-4226-8f49-ef7cc6ad5e3b
+UID:2e8be740-7d38-4ceb-a2fc-5f5443d4201b
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261118T143000Z
 DTEND:20261118T153000Z
 SUMMARY:Growing Creatively: Early Learner Gallery Art Experience
@@ -2056,9 +2243,9 @@ DESCRIPTION:Select Wednesdays  9:30-10:30 AM Classes Available  923\, 1021
 URL;VALUE=URI:https://www.tampa.gov/node/193621
 END:VEVENT
 BEGIN:VEVENT
-UID:38a0789d-eb19-4f26-bb07-da680a5b9bbc
+UID:9a09f817-d5bd-4dca-b78f-5f3e2c70e286
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261118T120000Z
 DTEND:20261120T045900Z
 SUMMARY:The Fertilizer Show
@@ -2074,9 +2261,9 @@ DESCRIPTION:The Fertilizer Show is the global gathering of the entire fert
 URL;VALUE=URI:https://www.tampa.gov/node/191251
 END:VEVENT
 BEGIN:VEVENT
-UID:2889077f-9a99-4d50-8f00-f59e90d3f176
+UID:67a20bb0-43c4-419c-bca0-d324b6cab368
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261119T233000Z
 DTEND:20261120T003000Z
 SUMMARY:Lowry Park Central Community Organization
@@ -2090,9 +2277,9 @@ DESCRIPTION:The Neighborhood Association will hold monthly meetings on the
 URL;VALUE=URI:https://www.tampa.gov/node/193906
 END:VEVENT
 BEGIN:VEVENT
-UID:23d705b5-b4fe-4198-981f-310c353ba678
+UID:f673f388-8e39-4dd6-8026-8eadda214e37
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261120T120000Z
 DTEND:20261123T045900Z
 SUMMARY:Tattoo Arts Convention 2026
@@ -2103,9 +2290,9 @@ DESCRIPTION:This is an annual tattoo show. \n\nPermalink: https://www.tamp
 URL;VALUE=URI:https://www.tampa.gov/node/191496
 END:VEVENT
 BEGIN:VEVENT
-UID:6833aea3-473c-4707-962c-e29593343d4c
+UID:968846d2-3a46-482b-b6c4-b9aa1cf7de13
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261126T050000Z
 DTEND:20261127T045900Z
 SUMMARY:Thanksgiving - City Office Closures
@@ -2118,9 +2305,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:https://www.tampa.gov/node/177401
 END:VEVENT
 BEGIN:VEVENT
-UID:8be53f79-c1c2-479e-bc17-9e7176bd9bc8
+UID:dc7c4cca-3fd5-43b6-a99f-b385d55702ab
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261127T050000Z
 DTEND:20261128T045900Z
 SUMMARY:Thanksgiving - City Office Closures
@@ -2133,9 +2320,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:https://www.tampa.gov/node/177406
 END:VEVENT
 BEGIN:VEVENT
-UID:cc33fc6f-a7dc-4dae-ac1a-98a5d5b42d7b
+UID:445ca8d6-ba03-4ed4-a774-9b1fd1ce7f88
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261201T230000Z
 DTEND:20261202T020000Z
 SUMMARY:Tuesday Ceramics
@@ -2153,9 +2340,9 @@ DESCRIPTION:Tuesdays  6:00 PM  9:00 PM Dec 1 - Dec 15 (3 Classes) Ages 18
 URL;VALUE=URI:https://www.tampa.gov/node/193751
 END:VEVENT
 BEGIN:VEVENT
-UID:94982a8a-dc8b-4fa6-baf9-3538bf2c74c2
+UID:f38ff366-9c83-4ccd-8511-be54877fdaca
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261203T230000Z
 DTEND:20261204T020000Z
 SUMMARY:Rock the Park
@@ -2174,9 +2361,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:66d341d5-d6dc-4ae0-8bcc-0867babf2801
+UID:3353bd96-2fa9-4970-bf8b-74e26fa042da
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261203T230000Z
 DTEND:20261204T020000Z
 SUMMARY:Remix: David Hockney Holiday Cards
@@ -2193,9 +2380,9 @@ DESCRIPTION:Thursday\, Dec 3  6:009:00 PM Ages 18  Beginner Level Remix is
 URL;VALUE=URI:https://www.tampa.gov/node/193681
 END:VEVENT
 BEGIN:VEVENT
-UID:47e9d368-e28c-45a2-a51d-e73b3b6723f0
+UID:2c062f3e-d51f-4b2a-b197-ddcb951cec27
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261207T120000Z
 DTEND:20261209T190000Z
 SUMMARY:Dealer Week: The MRAA Conference Expo
@@ -2205,9 +2392,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/192006
 URL;VALUE=URI:https://www.tampa.gov/node/192006
 END:VEVENT
 BEGIN:VEVENT
-UID:68b2c6c7-f766-475a-9df4-a11ca4bcea7e
+UID:cf7db988-5431-443f-8bfc-702e2578c65c
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261209T213000Z
 DTEND:20261209T230000Z
 SUMMARY:Teen Digital Studio
@@ -2221,9 +2408,9 @@ DESCRIPTION:Select Wednesdays  4:30 PM  6:00 PM Classes Available  916\, 1
 URL;VALUE=URI:https://www.tampa.gov/node/193811
 END:VEVENT
 BEGIN:VEVENT
-UID:afcf2998-4eea-4089-ab65-f379b9eaa9ff
+UID:8fd3140a-92ce-462c-bcc8-facb159c5cb0
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261211T223000Z
 DTEND:20261212T003000Z
 SUMMARY:Keys in the Park: A Melodic Duel
@@ -2241,9 +2428,9 @@ DESCRIPTION:Join us for an unforgettable evening of musical magic at Keys
 URL;VALUE=URI:https://www.tampa.gov/node/188246
 END:VEVENT
 BEGIN:VEVENT
-UID:166d7ac4-d8ed-4088-aed6-09943f64f5c4
+UID:4e988077-9d4d-45d7-88b6-dfd066394701
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261211T170000Z
 DTEND:20261211T183000Z
 SUMMARY:Tampa Bay Chamber-Annual Luncheon
@@ -2258,9 +2445,9 @@ DESCRIPTION:For event details: www.tampabaychamber.com (http:www.tampabayc
 URL;VALUE=URI:https://www.tampa.gov/node/192216
 END:VEVENT
 BEGIN:VEVENT
-UID:284ba7da-dc5c-4423-9e59-ffbe885a181e
+UID:78831375-5ca2-4b26-bc97-0d517fd6394e
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261212T150000Z
 DTEND:20261212T220000Z
 SUMMARY:Hot Chocolate Run Expo
@@ -2274,9 +2461,9 @@ DESCRIPTION:The Hot Chocolate Expo is free and open to the public. Pick up
 URL;VALUE=URI:https://www.tampa.gov/node/193566
 END:VEVENT
 BEGIN:VEVENT
-UID:d4edad77-aeca-4845-a809-b712dace908f
+UID:c58f3ddc-a218-4a09-98a7-2ee8b8993e85
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261216T143000Z
 DTEND:20261216T153000Z
 SUMMARY:Growing Creatively: Early Learner Gallery Art Experience
@@ -2298,9 +2485,9 @@ DESCRIPTION:Select Wednesdays  9:30-10:30 AM Classes Available  923\, 1021
 URL;VALUE=URI:https://www.tampa.gov/node/193581
 END:VEVENT
 BEGIN:VEVENT
-UID:a132aa41-0a69-48f5-bf88-fd7b95570bab
+UID:118dbe1c-bcf9-45ed-b70e-93ad792c970c
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261216T143000Z
 DTEND:20261216T153000Z
 SUMMARY:Growing Creatively: Early Learner Gallery Art Experience
@@ -2323,9 +2510,9 @@ DESCRIPTION:Select Wednesdays  9:30-10:30 AM Classes Available  923\, 1021
 URL;VALUE=URI:https://www.tampa.gov/node/193626
 END:VEVENT
 BEGIN:VEVENT
-UID:2df0c6a9-58bc-4c39-819e-7f5d32536b40
+UID:74e1cb24-92de-48cb-a807-05831b8f058d
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261224T050000Z
 DTEND:20261225T045900Z
 SUMMARY:Christmas Eve - City Office Closures
@@ -2338,9 +2525,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:https://www.tampa.gov/node/177411
 END:VEVENT
 BEGIN:VEVENT
-UID:be0c5a09-0c53-4a04-9d90-442237634744
+UID:9a56ce49-85ba-466f-a3fc-2943dff44bce
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20261225T050000Z
 DTEND:20261226T045900Z
 SUMMARY:Christmas - City Office Closures
@@ -2353,9 +2540,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:https://www.tampa.gov/node/177426
 END:VEVENT
 BEGIN:VEVENT
-UID:34451589-225f-4807-ae8d-9db416333cb8
+UID:9332fe2d-d622-4031-af00-37ea231fb020
 SEQUENCE:0
-DTSTAMP:20260902T000639Z
+DTSTAMP:20260903T000650Z
 DTSTART:20270101T050000Z
 DTEND:20270102T045900Z
 SUMMARY:New Year039\\\;s Day - City Office Closures
