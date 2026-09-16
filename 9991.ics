@@ -5,56 +5,9 @@ NAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALNAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALDESC:Community events in Tampa for Tampa Convention Center
 BEGIN:VEVENT
-UID:34f85b70-812b-45f1-9006-d0d0861dab86
+UID:4aa1d68e-0b19-44ac-a656-68bf797d70a6
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
-DTSTART:20260904T110000Z
-DTEND:20260906T210000Z
-SUMMARY:Tampa Bay Comic Convention 2026
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:Location: Tampa Convention Center Entire Convention Center \n\
- nPermalink: https://www.tampa.gov/node/187296
-URL;VALUE=URI:https://www.tampa.gov/node/187296
-END:VEVENT
-BEGIN:VEVENT
-UID:d93eeba9-7318-428a-836f-ebf86ead1d2e
-SEQUENCE:0
-DTSTAMP:20260915T000635Z
-DTSTART:20260910T110000Z
-DTEND:20260913T035900Z
-SUMMARY:Juice Plus  LIVE Fall 2026
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:The ultimate in-person event where youll experience the power 
- of Juice Plus. Registration required Location: Tampa Convention Center Eas
- tCentral Hall\, Ballrooms  Meeting Rooms \n\nPermalink: https://www.tampa.
- gov/node/187526
-URL;VALUE=URI:https://www.tampa.gov/node/187526
-END:VEVENT
-BEGIN:VEVENT
-UID:f7c63c8c-cb2a-4d59-a2c3-c897d983e676
-SEQUENCE:0
-DTSTAMP:20260915T000635Z
-DTSTART:20260919T230000Z
-DTEND:20260920T050000Z
-SUMMARY:Humane Society of Tampa Bay
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:For event details: www.humanesocietytampa.org (http:www.humane
- societytampa.org) or (813) 876-4150 This is the Humane Society Tampa Bays 
- Signature black-tie gala featuring live and silent auctions\, a cocktail h
- our with complimentary wine and beer\, dinner and dessert\, live entertain
- ment featuring adoptable pets\, after-party and cigar bar on the waterfron
- t\, and more! Gather with more than 1000 animal lovers and community leade
- rs for a beautiful evening to help us raise funds for the homeless animals
-  in our care. \n\nPermalink: https://www.tampa.gov/node/188276
-URL;VALUE=URI:https://www.tampa.gov/node/188276
-END:VEVENT
-BEGIN:VEVENT
-UID:96e51b3d-d287-40de-a696-6a4b27f7bd9a
-SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20260919T110000Z
 DTEND:20260921T035900Z
 SUMMARY:Family Vibes Baby Expo
@@ -71,9 +24,28 @@ DESCRIPTION:Whether youre expecting\, a new parent\, or navigating life wi
 URL;VALUE=URI:https://www.tampa.gov/node/188941
 END:VEVENT
 BEGIN:VEVENT
-UID:f8ecdf11-40ee-4d09-a1b7-349b4ec77e01
+UID:917cfb6c-0742-4eea-bb0d-18afa2a2e91e
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
+DTSTART:20260919T230000Z
+DTEND:20260920T050000Z
+SUMMARY:Humane Society of Tampa Bay
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:For event details: www.humanesocietytampa.org (http:www.humane
+ societytampa.org) or (813) 876-4150 This is the Humane Society Tampa Bays 
+ Signature black-tie gala featuring live and silent auctions\, a cocktail h
+ our with complimentary wine and beer\, dinner and dessert\, live entertain
+ ment featuring adoptable pets\, after-party and cigar bar on the waterfron
+ t\, and more! Gather with more than 1000 animal lovers and community leade
+ rs for a beautiful evening to help us raise funds for the homeless animals
+  in our care. \n\nPermalink: https://www.tampa.gov/node/188276
+URL;VALUE=URI:https://www.tampa.gov/node/188276
+END:VEVENT
+BEGIN:VEVENT
+UID:f815ce5b-7f90-4092-b43b-98e1712be7cf
+SEQUENCE:0
+DTSTAMP:20260916T000600Z
 DTSTART:20260919T223000Z
 DTEND:20260920T020000Z
 SUMMARY:Red Bull Dance Your Style National Final
@@ -94,9 +66,9 @@ DESCRIPTION:Red Bull Dance Your Style is an all-styles\, 1-on-1 street dan
 URL;VALUE=URI:https://www.tampa.gov/node/192686
 END:VEVENT
 BEGIN:VEVENT
-UID:0e5e661d-60d7-4d4b-912d-ae0025bcb021
+UID:65affa87-1de6-44ca-a4bb-776e7aa674d1
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20260923T110000Z
 DTEND:20260923T220000Z
 SUMMARY:US Foods - Tampas 2026 Immersion Event
@@ -111,9 +83,9 @@ DESCRIPTION:1-day food event where US Foods invites their customers (resta
 URL;VALUE=URI:https://www.tampa.gov/node/189371
 END:VEVENT
 BEGIN:VEVENT
-UID:da50e258-c2a1-4d7e-b695-35bad33470d5
+UID:f94c5ad0-c3bd-4ea1-97fc-0fe29d0a77f7
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261001T213000Z
 DTEND:20261002T003000Z
 SUMMARY:2026 Florida College IMPACT
@@ -128,9 +100,9 @@ DESCRIPTION:Event details: floridacollege.edu (https:floridacollege.eduimp
 URL;VALUE=URI:https://www.tampa.gov/node/188946
 END:VEVENT
 BEGIN:VEVENT
-UID:337c9aae-eae4-4812-b81f-5583b7ff0144
+UID:05b52e2c-4387-4ae9-a698-23ff51aad2b8
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261016T110000Z
 DTEND:20261019T035900Z
 SUMMARY:Tampa Art Convention
@@ -143,9 +115,9 @@ DESCRIPTION:Tampas first ever Art Convention\, features 300 artists during
 URL;VALUE=URI:https://www.tampa.gov/node/189636
 END:VEVENT
 BEGIN:VEVENT
-UID:38e1b5fc-457c-47d9-9349-924a571cff9a
+UID:5b8cf7b4-2d5a-4c2c-86de-dafe908ed88a
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261016T120000Z
 DTEND:20261016T200000Z
 SUMMARY:Gasparilla Bowl Inshore Slam Fishing Tournament
@@ -160,9 +132,9 @@ DESCRIPTION:The Gasparilla Bowl Inshore Slam Fishing Tournament is held an
 URL;VALUE=URI:https://www.tampa.gov/node/193376
 END:VEVENT
 BEGIN:VEVENT
-UID:39f3a573-f23c-47d2-9a4a-7768ffcd0c94
+UID:cbd86a89-e332-4473-9d37-f804c6b638f9
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261017T150000Z
 DTEND:20261018T210000Z
 SUMMARY:The National Franchise Show
@@ -179,9 +151,9 @@ DESCRIPTION:Own your own business and take the next step to becoming your
 URL;VALUE=URI:https://www.tampa.gov/node/189726
 END:VEVENT
 BEGIN:VEVENT
-UID:ec8febff-c91f-44c8-8822-b277ade1ed56
+UID:f5bc4f1e-734f-4cb2-aa30-ab6b4a70514c
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261020T110000Z
 DTEND:20261020T203000Z
 SUMMARY:Tampa Bay Condo HOA Expo
@@ -191,9 +163,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/189751
 URL;VALUE=URI:https://www.tampa.gov/node/189751
 END:VEVENT
 BEGIN:VEVENT
-UID:33a7938d-6e92-4b0a-a32d-073a78dc5c34
+UID:78560a20-b303-42fc-ae49-27cd9f8d1a8f
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261022T150000Z
 DTEND:20261022T190000Z
 SUMMARY:Tampa Veterans Job Fair
@@ -208,9 +180,9 @@ DESCRIPTION:As the leader in connecting employers with the military commun
 URL;VALUE=URI:https://www.tampa.gov/node/191761
 END:VEVENT
 BEGIN:VEVENT
-UID:a8fc0006-6da4-40e2-a47b-52c2f002aa02
+UID:83fa6f42-f8d9-45ef-91ee-31241b03092b
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261023T100000Z
 DTEND:20261026T020000Z
 SUMMARY:HYROX Tampa
@@ -230,9 +202,9 @@ DESCRIPTION:HYROX combines both running  functional workout stations\, whe
 URL;VALUE=URI:https://www.tampa.gov/node/189931
 END:VEVENT
 BEGIN:VEVENT
-UID:2ca35fb4-8711-43cd-879d-fd6c78b72916
+UID:f3a9414e-d6ff-4076-aea0-d2611deaef2f
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261106T110000Z
 DTEND:20261107T000000Z
 SUMMARY:Port Tampa Bayslam
@@ -248,9 +220,9 @@ DESCRIPTION:The Port Tampa Bayslam is a 1-day catch and release charity fi
 URL;VALUE=URI:https://www.tampa.gov/node/190881
 END:VEVENT
 BEGIN:VEVENT
-UID:b2f6e26b-2bd6-46a4-90ec-c9a5d56b6b60
+UID:5a8f8dde-866a-4b07-8183-7ef3b2d75056
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261113T120000Z
 DTEND:20261115T203000Z
 SUMMARY:Hack Your Health 2026
@@ -272,9 +244,9 @@ DESCRIPTION:Hack Your Health (formerly KetoCon) is the premier destination
 URL;VALUE=URI:https://www.tampa.gov/node/190966
 END:VEVENT
 BEGIN:VEVENT
-UID:89b10da6-0c09-41d2-8987-ce621b4b328f
+UID:640bf1b4-cca2-423d-8ba3-f17e5bfb7236
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261118T120000Z
 DTEND:20261120T045900Z
 SUMMARY:The Fertilizer Show
@@ -290,9 +262,9 @@ DESCRIPTION:The Fertilizer Show is the global gathering of the entire fert
 URL;VALUE=URI:https://www.tampa.gov/node/191251
 END:VEVENT
 BEGIN:VEVENT
-UID:7af8781a-b9e3-46db-9637-284946e1afe7
+UID:8c5b5027-8f27-4d23-8af6-2bae6fe9d082
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261120T120000Z
 DTEND:20261123T045900Z
 SUMMARY:Tattoo Arts Convention 2026
@@ -303,9 +275,9 @@ DESCRIPTION:This is an annual tattoo show. \n\nPermalink: https://www.tamp
 URL;VALUE=URI:https://www.tampa.gov/node/191496
 END:VEVENT
 BEGIN:VEVENT
-UID:ec35d23a-24a1-4713-8c59-dddb8a6c8692
+UID:5abaf6c9-a678-4bc2-95e1-f794891372ee
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261207T120000Z
 DTEND:20261209T190000Z
 SUMMARY:Dealer Week: The MRAA Conference Expo
@@ -315,9 +287,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/192006
 URL;VALUE=URI:https://www.tampa.gov/node/192006
 END:VEVENT
 BEGIN:VEVENT
-UID:cb6bdec1-7048-47e9-831e-cf5dc98188cd
+UID:495e302c-95e3-4746-b3bc-304f0275586a
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261211T170000Z
 DTEND:20261211T183000Z
 SUMMARY:Tampa Bay Chamber-Annual Luncheon
@@ -332,9 +304,9 @@ DESCRIPTION:For event details: www.tampabaychamber.com (http:www.tampabayc
 URL;VALUE=URI:https://www.tampa.gov/node/192216
 END:VEVENT
 BEGIN:VEVENT
-UID:6e8b369b-bc3d-4b5f-b867-803e5c6da350
+UID:3fa691f1-963d-47fb-b2b8-4fd2ff279b17
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20261212T150000Z
 DTEND:20261212T220000Z
 SUMMARY:Hot Chocolate Run Expo
@@ -348,9 +320,9 @@ DESCRIPTION:The Hot Chocolate Expo is free and open to the public. Pick up
 URL;VALUE=URI:https://www.tampa.gov/node/193566
 END:VEVENT
 BEGIN:VEVENT
-UID:4ed025f7-ad40-4a39-be3e-ff141c9574a3
+UID:317dae2b-5aec-443c-92e3-e1982669d845
 SEQUENCE:0
-DTSTAMP:20260915T000635Z
+DTSTAMP:20260916T000600Z
 DTSTART:20270113T140000Z
 DTEND:20270117T020000Z
 SUMMARY:FMEA Professional Development Conference 2027
