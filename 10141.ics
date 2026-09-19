@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Office Closures
 X-WR-CALNAME:Tampa Calendar - Office Closures
 X-WR-CALDESC:Community events in Tampa for Office Closures
 BEGIN:VEVENT
-UID:f05fdf5d-175e-4fe9-952a-914af6a2b51a
+UID:005f9347-f56f-4164-a46e-9aa0d995d1ed
 SEQUENCE:0
-DTSTAMP:20260918T000556Z
+DTSTAMP:20260919T000603Z
 DTSTART:20260907T040000Z
 DTEND:20260908T035900Z
 SUMMARY:Labor Day - City Office Closures
@@ -19,9 +19,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:https://www.tampa.gov/node/167821
 END:VEVENT
 BEGIN:VEVENT
-UID:9f5c86bd-63ad-4d81-9d06-d29b5cea044d
+UID:5be6f6f6-ac8a-4e51-bc1b-eb80bda948f3
 SEQUENCE:0
-DTSTAMP:20260918T000556Z
+DTSTAMP:20260919T000603Z
 DTSTART:20261111T050000Z
 DTEND:20261112T045900Z
 SUMMARY:Veterans Day - City Office Closures
@@ -34,9 +34,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:https://www.tampa.gov/node/177396
 END:VEVENT
 BEGIN:VEVENT
-UID:702d3a26-66c0-4e02-9c53-37f8329546a8
+UID:85202533-30d6-4e7e-88db-f5e7b49e3707
 SEQUENCE:0
-DTSTAMP:20260918T000556Z
+DTSTAMP:20260919T000603Z
 DTSTART:20261126T050000Z
 DTEND:20261127T045900Z
 SUMMARY:Thanksgiving - City Office Closures
@@ -49,9 +49,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:https://www.tampa.gov/node/177401
 END:VEVENT
 BEGIN:VEVENT
-UID:bf17cad8-414d-4eca-854b-f6735a96eee4
+UID:e39208cc-25a4-419a-9a35-f5b2dee3bd9e
 SEQUENCE:0
-DTSTAMP:20260918T000556Z
+DTSTAMP:20260919T000603Z
 DTSTART:20261127T050000Z
 DTEND:20261128T045900Z
 SUMMARY:Thanksgiving - City Office Closures
@@ -64,9 +64,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:https://www.tampa.gov/node/177406
 END:VEVENT
 BEGIN:VEVENT
-UID:64bcc88a-bea1-4be2-b28d-fd12bb3e9fb5
+UID:e64aeda5-2e69-452a-a970-52b99510c472
 SEQUENCE:0
-DTSTAMP:20260918T000556Z
+DTSTAMP:20260919T000603Z
 DTSTART:20261224T050000Z
 DTEND:20261225T045900Z
 SUMMARY:Christmas Eve - City Office Closures
@@ -79,9 +79,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:https://www.tampa.gov/node/177411
 END:VEVENT
 BEGIN:VEVENT
-UID:111a27e0-ec23-4da6-b255-0e3b371fc8ce
+UID:e9adde3d-c448-4c90-a022-2cddd52d41a2
 SEQUENCE:0
-DTSTAMP:20260918T000556Z
+DTSTAMP:20260919T000603Z
 DTSTART:20261225T050000Z
 DTEND:20261226T045900Z
 SUMMARY:Christmas - City Office Closures
@@ -94,9 +94,9 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
 URL;VALUE=URI:https://www.tampa.gov/node/177426
 END:VEVENT
 BEGIN:VEVENT
-UID:abfbc7d4-3e58-4c35-b821-0750a5bb6a16
+UID:31cd3eaf-381c-4b00-90b5-230ca525ac8e
 SEQUENCE:0
-DTSTAMP:20260918T000556Z
+DTSTAMP:20260919T000603Z
 DTSTART:20270101T050000Z
 DTEND:20270102T045900Z
 SUMMARY:New Year039\\\;s Day - City Office Closures
@@ -107,5 +107,20 @@ DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
  ervicescollection-days-and-times) for more information \n\nPermalink: http
  s://www.tampa.gov/node/177431
 URL;VALUE=URI:https://www.tampa.gov/node/177431
+END:VEVENT
+BEGIN:VEVENT
+UID:2fbbb907-3f84-48f4-8984-452246b56ae5
+SEQUENCE:0
+DTSTAMP:20260919T000603Z
+DTSTART:20270118T050000Z
+DTEND:20270119T045900Z
+SUMMARY:Martin Luther King\, Jr. Day - City Office Closures
+LOCATION:Tampa \, FL United States
+DESCRIPTION:In observance of this holiday\, All City of Tampa offices will
+  be closed. For trash\, recycling\, or yard waste pickup disruptions: See 
+ Solid Waste Collection Schedule Calendar (solid-wasteprogramsresidential-s
+ ervicescollection-days-and-times) for more information \n\nPermalink: http
+ s://www.tampa.gov/node/177436
+URL;VALUE=URI:https://www.tampa.gov/node/177436
 END:VEVENT
 END:VCALENDAR
