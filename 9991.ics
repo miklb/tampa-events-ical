@@ -5,12 +5,12 @@ NAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALNAME:Tampa Calendar - Tampa Convention Center
 X-WR-CALDESC:Community events in Tampa for Tampa Convention Center
 BEGIN:VEVENT
-UID:00056db8-11af-4387-8b87-fe530920f0a3
+UID:0a7fad92-49a4-4e6a-99aa-b2ff9b73641a
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20261016T110000Z
 DTEND:20261019T035900Z
-SUMMARY:Tampa Art Convention
+SUMMARY:Art Fair Tampa
 LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
  d States
 DESCRIPTION:Tampas first ever Art Convention\, features 300 artists during
@@ -20,9 +20,9 @@ DESCRIPTION:Tampas first ever Art Convention\, features 300 artists during
 URL;VALUE=URI:https://www.tampa.gov/node/189636
 END:VEVENT
 BEGIN:VEVENT
-UID:207c5796-ae83-4b0c-8add-f9859ea3ae8f
+UID:e9d7bd82-4fd6-4d15-9bfd-78140a6bfe42
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20261016T120000Z
 DTEND:20261016T200000Z
 SUMMARY:Gasparilla Bowl Inshore Slam Fishing Tournament
@@ -37,9 +37,9 @@ DESCRIPTION:The Gasparilla Bowl Inshore Slam Fishing Tournament is held an
 URL;VALUE=URI:https://www.tampa.gov/node/193376
 END:VEVENT
 BEGIN:VEVENT
-UID:feaaa2d3-356c-47fd-87b9-5532d18b31cd
+UID:e19ea5c5-0727-4e2f-ba41-ebb0772b1a01
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20261017T150000Z
 DTEND:20261018T210000Z
 SUMMARY:The National Franchise Show
@@ -56,39 +56,26 @@ DESCRIPTION:Own your own business and take the next step to becoming your
 URL;VALUE=URI:https://www.tampa.gov/node/189726
 END:VEVENT
 BEGIN:VEVENT
-UID:9213a3f2-2d8f-47ff-a70e-9d0643be1e36
+UID:361e43bf-f2a5-4b95-ac53-6318b69c97b9
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20261020T110000Z
 DTEND:20261020T203000Z
 SUMMARY:Tampa Bay Condo HOA Expo
 LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
  d States
-DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/189751
+DESCRIPTION:Tampa Bay Condo  HOA Expo is open to the public and intended f
+ or property managers\, board members\, condo associations\, etc. For more 
+ information or to register for their education classes\, please visit www.
+ tampabaycondohoaexpo.com. (http:www.tampabaycondohoaexpo.com.) \n\nPermali
+ nk: https://www.tampa.gov/node/189751
 URL;VALUE=URI:https://www.tampa.gov/node/189751
 END:VEVENT
 BEGIN:VEVENT
-UID:2dfec62e-60b3-44fd-b018-ff06bbe01e69
+UID:77e8a416-8785-4e6c-af1e-2c6877d48e7c
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
-DTSTART:20261022T150000Z
-DTEND:20261022T190000Z
-SUMMARY:Tampa Veterans Job Fair
-LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:As the leader in connecting employers with the military commun
- ity\, RecruitMilitary is committed to facilitating military-to-civilian em
- ployment. Since our founding in 1991\, weve been working with employers as
-  well as veteran\, transitioning military\, and military spouse job seeker
- s to facilitate great employment outcomes. \n\nPermalink: https://www.tamp
- a.gov/node/191761
-URL;VALUE=URI:https://www.tampa.gov/node/191761
-END:VEVENT
-BEGIN:VEVENT
-UID:0d1360de-23ab-459d-af24-4abb45790e42
-SEQUENCE:0
-DTSTAMP:20261002T000657Z
-DTSTART:20261023T100000Z
+DTSTAMP:20261003T000635Z
+DTSTART:20261022T100000Z
 DTEND:20261026T020000Z
 SUMMARY:HYROX Tampa
 LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
@@ -107,9 +94,26 @@ DESCRIPTION:HYROX combines both running  functional workout stations\, whe
 URL;VALUE=URI:https://www.tampa.gov/node/189931
 END:VEVENT
 BEGIN:VEVENT
-UID:744976dd-9d9a-4bdf-b82b-90d638b23357
+UID:e3d640f9-3ae6-4b4b-846a-dd461918703c
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
+DTSTART:20261022T150000Z
+DTEND:20261022T190000Z
+SUMMARY:Tampa Veterans Job Fair
+LOCATION:Tampa Convention Center 333 S Franklin St Tampa \, FL 33602 Unite
+ d States
+DESCRIPTION:As the leader in connecting employers with the military commun
+ ity\, RecruitMilitary is committed to facilitating military-to-civilian em
+ ployment. Since our founding in 1991\, weve been working with employers as
+  well as veteran\, transitioning military\, and military spouse job seeker
+ s to facilitate great employment outcomes. \n\nPermalink: https://www.tamp
+ a.gov/node/191761
+URL;VALUE=URI:https://www.tampa.gov/node/191761
+END:VEVENT
+BEGIN:VEVENT
+UID:2808cf36-f34c-4206-923d-3aaae79bf682
+SEQUENCE:0
+DTSTAMP:20261003T000635Z
 DTSTART:20261106T110000Z
 DTEND:20261107T000000Z
 SUMMARY:Port Tampa Bayslam
@@ -125,9 +129,9 @@ DESCRIPTION:The Port Tampa Bayslam is a 1-day catch and release charity fi
 URL;VALUE=URI:https://www.tampa.gov/node/190881
 END:VEVENT
 BEGIN:VEVENT
-UID:159b8cb0-6b9b-46aa-b401-1ba83574b6de
+UID:0e574aca-cd07-4fcb-bbd1-0d766cc943ba
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20261113T120000Z
 DTEND:20261115T203000Z
 SUMMARY:Hack Your Health 2026
@@ -149,9 +153,9 @@ DESCRIPTION:Hack Your Health (formerly KetoCon) is the premier destination
 URL;VALUE=URI:https://www.tampa.gov/node/190966
 END:VEVENT
 BEGIN:VEVENT
-UID:8670b8d4-f51c-41f4-a48a-1f70384df6f1
+UID:7529744b-7dc1-47e6-83f1-492b1bccf8ea
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20261118T120000Z
 DTEND:20261120T045900Z
 SUMMARY:The Fertilizer Show
@@ -167,9 +171,9 @@ DESCRIPTION:The Fertilizer Show is the global gathering of the entire fert
 URL;VALUE=URI:https://www.tampa.gov/node/191251
 END:VEVENT
 BEGIN:VEVENT
-UID:6ae7e98e-4134-4765-a25b-7ec370274098
+UID:b930fe7d-276f-4425-8762-932405c1d3f9
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20261120T120000Z
 DTEND:20261123T045900Z
 SUMMARY:Tattoo Arts Convention 2026
@@ -180,9 +184,9 @@ DESCRIPTION:This is an annual tattoo show. \n\nPermalink: https://www.tamp
 URL;VALUE=URI:https://www.tampa.gov/node/191496
 END:VEVENT
 BEGIN:VEVENT
-UID:743ad17b-e83c-476f-ac82-1769818f9d6c
+UID:7ca343be-5942-4f65-80d8-fb19e064d2ca
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20261207T120000Z
 DTEND:20261209T190000Z
 SUMMARY:Dealer Week: The MRAA Conference Expo
@@ -192,9 +196,9 @@ DESCRIPTION: \n\nPermalink: https://www.tampa.gov/node/192006
 URL;VALUE=URI:https://www.tampa.gov/node/192006
 END:VEVENT
 BEGIN:VEVENT
-UID:9f2f007e-1256-42c9-8dcd-3215dff19794
+UID:dbe8c5af-3708-4769-a478-7b3cda2e4fdd
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20261211T170000Z
 DTEND:20261211T183000Z
 SUMMARY:Tampa Bay Chamber-Annual Luncheon
@@ -209,9 +213,9 @@ DESCRIPTION:For event details: www.tampabaychamber.com (http:www.tampabayc
 URL;VALUE=URI:https://www.tampa.gov/node/192216
 END:VEVENT
 BEGIN:VEVENT
-UID:28994f67-d7f2-490b-83ca-2cc6bf993626
+UID:b085f0c7-94dd-4408-a097-4758a97d3092
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20261212T150000Z
 DTEND:20261212T220000Z
 SUMMARY:Hot Chocolate Run Expo
@@ -225,9 +229,9 @@ DESCRIPTION:The Hot Chocolate Expo is free and open to the public. Pick up
 URL;VALUE=URI:https://www.tampa.gov/node/193566
 END:VEVENT
 BEGIN:VEVENT
-UID:bc262c0c-6e56-4948-89ff-13d41fa53947
+UID:347bff2a-a677-4580-b151-379b31a9569b
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20270113T140000Z
 DTEND:20270117T020000Z
 SUMMARY:FMEA Professional Development Conference 2027
@@ -262,9 +266,9 @@ DESCRIPTION:The FMEA Professional Development Conference is one of the lar
 URL;VALUE=URI:https://www.tampa.gov/node/193041
 END:VEVENT
 BEGIN:VEVENT
-UID:00231532-c386-4810-b9cb-ef67125589a4
+UID:caa297e9-063f-42f0-9755-189c65249fd4
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20270120T120000Z
 DTEND:20270122T045900Z
 SUMMARY:Marketplace Events
@@ -277,9 +281,9 @@ DESCRIPTION:This is a tradeshow for the construction industry. For event d
 URL;VALUE=URI:https://www.tampa.gov/node/193341
 END:VEVENT
 BEGIN:VEVENT
-UID:3d1629ef-0e13-498f-afe3-2195371026ba
+UID:4ba70dc6-8079-4164-84fe-dd011b8441bc
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20270121T120000Z
 DTEND:20270124T045900Z
 SUMMARY:Sisel 20th Anniversary Corporate Convention
@@ -293,9 +297,9 @@ DESCRIPTION:Sisel International celebrates two decades of innovation with
 URL;VALUE=URI:https://www.tampa.gov/node/193381
 END:VEVENT
 BEGIN:VEVENT
-UID:6908957e-e697-49b0-9662-d82462763788
+UID:752dc6c1-5f29-47c0-8796-b3543e510a8c
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20270122T130000Z
 DTEND:20270124T200000Z
 SUMMARY:PVA Annual Convention at MariTrends 2027
@@ -313,9 +317,9 @@ DESCRIPTION:Nowhere else will you learn from\, and exchange information wi
 URL;VALUE=URI:https://www.tampa.gov/node/193391
 END:VEVENT
 BEGIN:VEVENT
-UID:f344fb61-923e-462d-902a-e1a0b2b900ac
+UID:7d2acd30-0b73-46e8-a689-437e462c1bc0
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20270126T130000Z
 DTEND:20270128T210000Z
 SUMMARY:Military Additive Manufacturing Summit
@@ -329,9 +333,9 @@ DESCRIPTION:For event details: www.militaryam.com (https:www.militaryam.co
 URL;VALUE=URI:https://www.tampa.gov/node/193431
 END:VEVENT
 BEGIN:VEVENT
-UID:8b0f549d-a221-4074-8b58-82e58cef7921
+UID:de33ebf4-79c2-4cad-b170-39d5ecad6eaf
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20270127T120000Z
 DTEND:20270128T220000Z
 SUMMARY:Labor Law Labor Arbitration Conference
@@ -343,9 +347,9 @@ DESCRIPTION:At this conference\, you will learn the latest developments in
 URL;VALUE=URI:https://www.tampa.gov/node/193476
 END:VEVENT
 BEGIN:VEVENT
-UID:6bd92679-883a-411b-afdb-5824671c7f42
+UID:d2f6f7b1-282d-402f-8273-376b5c81d2f5
 SEQUENCE:0
-DTSTAMP:20261002T000657Z
+DTSTAMP:20261003T000635Z
 DTSTART:20270130T150000Z
 DTEND:20270130T180000Z
 SUMMARY:Gasparilla Invasion Brunch
