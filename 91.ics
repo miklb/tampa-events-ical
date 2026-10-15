@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALNAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALDESC:Community events in Tampa for Special Events/Parks&amp;Rec
 BEGIN:VEVENT
-UID:795f0a25-5ab3-4003-8220-05139216a1ca
+UID:25835552-33b7-4e7e-8a54-caa6b14d2097
 SEQUENCE:0
-DTSTAMP:20261014T000616Z
+DTSTAMP:20261015T000551Z
 DTSTART:20261010T110000Z
 DTEND:20261010T160000Z
 SUMMARY:TPD Memorial RunWalk
@@ -18,9 +18,9 @@ DESCRIPTION:TPD Memorial RunWalk Saturday\, October 10\, 2026 7am-12pm Lyk
 URL;VALUE=URI:https://www.tampa.gov/node/195111
 END:VEVENT
 BEGIN:VEVENT
-UID:8e8301ba-f344-4593-a25e-4e3e62798d43
+UID:df12e584-de3f-45a5-a02d-dce3403a2080
 SEQUENCE:0
-DTSTAMP:20261014T000616Z
+DTSTAMP:20261015T000551Z
 DTSTART:20261010T110000Z
 DTEND:20261010T160000Z
 SUMMARY:Tampa Bay Black Men039\\\;s Wellness Day 5k
@@ -34,23 +34,9 @@ DESCRIPTION:What: Tampa Bay Black Mens Wellness Day 5k Where: Al Lopez Par
 URL;VALUE=URI:https://www.tampa.gov/node/195126
 END:VEVENT
 BEGIN:VEVENT
-UID:9019180a-098c-4b02-b108-f907dd31666c
+UID:252573ba-5fe8-453a-ab3d-ecb224a5c835
 SEQUENCE:0
-DTSTAMP:20261014T000616Z
-DTSTART:20261015T213000Z
-DTEND:20261015T223000Z
-SUMMARY:Tampa Theatre 100th Celebration
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Tampa Theatre 100th Celebration Thursday\, October 15\,2026 5:
- 30pm-6:30pm Tampa Theatre- 711 N. Franklin St. Tampa\, Fl 33602 For additi
- onal information\, please visit Tampa Theatre (https:tampatheatre.org) \n\
- nPermalink: https://www.tampa.gov/node/194796
-URL;VALUE=URI:https://www.tampa.gov/node/194796
-END:VEVENT
-BEGIN:VEVENT
-UID:e0dc2a74-7640-4be2-8044-d33545ace56d
-SEQUENCE:0
-DTSTAMP:20261014T000616Z
+DTSTAMP:20261015T000551Z
 DTSTART:20261015T220000Z
 DTEND:20261016T020000Z
 SUMMARY:3rd Thursday
@@ -62,9 +48,23 @@ DESCRIPTION:3rd Thursday Thursday\, October 15\, 2026 6pm-10pm Channelside
 URL;VALUE=URI:https://www.tampa.gov/node/195051
 END:VEVENT
 BEGIN:VEVENT
-UID:f5f042c1-0ef5-4b81-b440-47256fceb5f0
+UID:b533763d-702e-4d93-8bf9-2da92d63395d
 SEQUENCE:0
-DTSTAMP:20261014T000616Z
+DTSTAMP:20261015T000551Z
+DTSTART:20261015T213000Z
+DTEND:20261015T223000Z
+SUMMARY:Tampa Theatre 100th Celebration
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Tampa Theatre 100th Celebration Thursday\, October 15\,2026 5:
+ 30pm-6:30pm Tampa Theatre- 711 N. Franklin St. Tampa\, Fl 33602 For additi
+ onal information\, please visit Tampa Theatre (https:tampatheatre.org) \n\
+ nPermalink: https://www.tampa.gov/node/194796
+URL;VALUE=URI:https://www.tampa.gov/node/194796
+END:VEVENT
+BEGIN:VEVENT
+UID:329ed714-ccf6-4b35-8cda-8b612046d58a
+SEQUENCE:0
+DTSTAMP:20261015T000551Z
 DTSTART:20261017T123000Z
 DTEND:20261017T150000Z
 SUMMARY:Walk to End Alzheimer039\\\;s
@@ -76,37 +76,9 @@ DESCRIPTION:Walk to End Alzheimers Saturday\, October 17\, 2026 8:30am- 11
 URL;VALUE=URI:https://www.tampa.gov/node/195441
 END:VEVENT
 BEGIN:VEVENT
-UID:7c753193-ba2a-413b-9659-9ea2fe17fc0a
+UID:5a2a597d-3c97-4862-af0f-e274e90d5484
 SEQUENCE:0
-DTSTAMP:20261014T000616Z
-DTSTART:20261024T140000Z
-DTEND:20261024T160000Z
-SUMMARY:Hyde Park Pet Parade
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Hyde Park Pet Parade Saturday\, October 24\, 2026 10am-12pm Hy
- de Park Streets For additional information\, please visit Hyde Park Pet Pa
- rade (https:www.hydeparkpetparade.com) \n\nPermalink: https://www.tampa.go
- v/node/195151
-URL;VALUE=URI:https://www.tampa.gov/node/195151
-END:VEVENT
-BEGIN:VEVENT
-UID:10f3ece0-c61d-4e08-b6ee-a848d5f392de
-SEQUENCE:0
-DTSTAMP:20261014T000616Z
-DTSTART:20261024T110000Z
-DTEND:20261024T153000Z
-SUMMARY:Making Strides Against Breast Cancer
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Making Strides Against Breast Cancer Saturday\, October 24\, 2
- 026 7am-11:30am Raymond James Stadium For additional information\, please 
- visit Making Strides Against Breast Cancer (https:secure.acsevents.orgsite
- STR?pgentry fr_id112500) \n\nPermalink: https://www.tampa.gov/node/195816
-URL;VALUE=URI:https://www.tampa.gov/node/195816
-END:VEVENT
-BEGIN:VEVENT
-UID:8bdf59be-b75a-489a-9d23-d98a6fe4b577
-SEQUENCE:0
-DTSTAMP:20261014T000616Z
+DTSTAMP:20261015T000551Z
 DTSTART:20261024T140000Z
 DTEND:20261024T180000Z
 SUMMARY:Fight Wright Against Breast Cancer Festival
@@ -119,9 +91,37 @@ DESCRIPTION:5K Walk  Run Festival The 4th Annual Breast Cancer Walk and Ru
 URL;VALUE=URI:https://www.tampa.gov/node/196421
 END:VEVENT
 BEGIN:VEVENT
-UID:af40baf0-9110-421b-ba3b-204351a940be
+UID:c9933b9c-1753-483a-a521-fbddeef0e83f
 SEQUENCE:0
-DTSTAMP:20261014T000616Z
+DTSTAMP:20261015T000551Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Hyde Park Pet Parade
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Hyde Park Pet Parade Saturday\, October 24\, 2026 10am-12pm Hy
+ de Park Streets For additional information\, please visit Hyde Park Pet Pa
+ rade (https:www.hydeparkpetparade.com) \n\nPermalink: https://www.tampa.go
+ v/node/195151
+URL;VALUE=URI:https://www.tampa.gov/node/195151
+END:VEVENT
+BEGIN:VEVENT
+UID:d0796257-a799-4adb-bac8-8312d5c94026
+SEQUENCE:0
+DTSTAMP:20261015T000551Z
+DTSTART:20261024T110000Z
+DTEND:20261024T153000Z
+SUMMARY:Making Strides Against Breast Cancer
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Making Strides Against Breast Cancer Saturday\, October 24\, 2
+ 026 7am-11:30am Raymond James Stadium For additional information\, please 
+ visit Making Strides Against Breast Cancer (https:secure.acsevents.orgsite
+ STR?pgentry fr_id112500) \n\nPermalink: https://www.tampa.gov/node/195816
+URL;VALUE=URI:https://www.tampa.gov/node/195816
+END:VEVENT
+BEGIN:VEVENT
+UID:4555842a-ffe5-4d11-9524-cb79294a30e0
+SEQUENCE:0
+DTSTAMP:20261015T000551Z
 DTSTART:20261025T160000Z
 DTEND:20261025T220000Z
 SUMMARY:8th Annual Taste of Latino Festival
@@ -133,9 +133,9 @@ DESCRIPTION:Celebrate Hispanic Heritage Month at the 8th Annual Taste of L
 URL;VALUE=URI:https://www.tampa.gov/node/196096
 END:VEVENT
 BEGIN:VEVENT
-UID:ca1e3783-a793-4845-b1bb-f1d695299d65
+UID:cb90c23b-ba4a-45e2-9ff8-317368fe20aa
 SEQUENCE:0
-DTSTAMP:20261014T000616Z
+DTSTAMP:20261015T000551Z
 DTSTART:20261030T200000Z
 DTEND:20261031T030000Z
 SUMMARY:Oktoberfest Tampa
@@ -151,9 +151,9 @@ DESCRIPTION:Well be celebrating with german cheer\, dancing and singing to
 URL;VALUE=URI:https://www.tampa.gov/node/195746
 END:VEVENT
 BEGIN:VEVENT
-UID:554ee874-4d35-4e89-931b-6eea7a3d2d0f
+UID:47acf2a9-573e-4e1a-8e45-6870599f6806
 SEQUENCE:0
-DTSTAMP:20261014T000616Z
+DTSTAMP:20261015T000551Z
 DTSTART:20261031T150000Z
 DTEND:20261101T030000Z
 SUMMARY:Oktoberfest Tampa
@@ -169,9 +169,32 @@ DESCRIPTION:Well be celebrating with german cheer\, dancing and singing to
 URL;VALUE=URI:https://www.tampa.gov/node/195746
 END:VEVENT
 BEGIN:VEVENT
-UID:6cafad85-044c-4fa0-9a51-7b40f045f3eb
+UID:8c0dbe05-f052-4b62-9396-7fae5837480c
 SEQUENCE:0
-DTSTAMP:20261014T000616Z
+DTSTAMP:20261015T000551Z
+DTSTART:20261031T140000Z
+DTEND:20261101T220000Z
+SUMMARY:Downtown Tampa Craft Festival
+LOCATION:Cotanchobee Fort Brooke Park 601 Old Water Street Tampa \, FL 336
+ 02 United States
+DESCRIPTION:This exciting new festival will take place at Cotanchobee Fort
+  Brooke Park in downtown Tampa. This scenic waterfront park offers a lovel
+ y green space situated along Garrison Channel\, directly between the Tampa
+  Bay History Center and the Hillsborough River. Cotanchobee Fort Brooke Pa
+ rk serves as is an oasis of serenity in downtown Tampa area. The festival 
+ features handmade arts and crafts as well as a green market area\, offerin
+ g a diverse range of hand-picked goods and eco-friendly products to peruse
+  and purchase. About the Festival When: Saturday\, October 31st\, 2026 10:
+ 00am to 5:00pm Sunday\, November 1st\, 2026 10:00am to 5:00pm Where: 601 W
+ ater Street in Tampa\, FL (https:www.google.commapssearch60120Water20Stree
+ tTampa33602FLUS) Cost: Free Admission \n\nPermalink: https://www.tampa.gov
+ /node/196516
+URL;VALUE=URI:https://www.tampa.gov/node/196516
+END:VEVENT
+BEGIN:VEVENT
+UID:4b21abd3-db7b-4941-876e-99d028babbee
+SEQUENCE:0
+DTSTAMP:20261015T000551Z
 DTSTART:20261101T160000Z
 DTEND:20261101T230000Z
 SUMMARY:Oktoberfest Tampa
@@ -187,9 +210,23 @@ DESCRIPTION:Well be celebrating with german cheer\, dancing and singing to
 URL;VALUE=URI:https://www.tampa.gov/node/195746
 END:VEVENT
 BEGIN:VEVENT
-UID:59e3105d-2233-466d-b06c-6664e59da1f6
+UID:68e30a08-dedd-4b3b-af5a-cc2b36d8429d
 SEQUENCE:0
-DTSTAMP:20261014T000616Z
+DTSTAMP:20261015T000551Z
+DTSTART:20261107T123000Z
+DTEND:20261107T150000Z
+SUMMARY:Bolt Run
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Bolt Run Saturday\, November 7\, 2026 7:30am-10:00am ArenaBays
+ hore For additional information\, please visit Bolt Run (https:www.nhl.com
+ lightningcommunitybolt-run) \n\nPermalink: https://www.tampa.gov/node/1965
+ 06
+URL;VALUE=URI:https://www.tampa.gov/node/196506
+END:VEVENT
+BEGIN:VEVENT
+UID:786f17ca-fddb-42ab-a16c-65f254a709d8
+SEQUENCE:0
+DTSTAMP:20261015T000551Z
 DTSTART:20261119T230000Z
 DTEND:20261120T030000Z
 SUMMARY:3rd Thursday
@@ -201,9 +238,9 @@ DESCRIPTION:3rd Thursday Thursday\, November 19\, 2026 6pm-10pm Channelsid
 URL;VALUE=URI:https://www.tampa.gov/node/195056
 END:VEVENT
 BEGIN:VEVENT
-UID:82ce97a1-a3eb-48dc-8676-70ea7b441109
+UID:9901b78f-0756-4494-903d-fdd7b9d4c6ff
 SEQUENCE:0
-DTSTAMP:20261014T000616Z
+DTSTAMP:20261015T000551Z
 DTSTART:20261126T120000Z
 DTEND:20261126T150000Z
 SUMMARY:Tampa YMCA Turkey Gobble
@@ -215,9 +252,9 @@ DESCRIPTION:Tampa YMCA Turkey Gobble Thursday\, November 26\, 2026 7am-10a
 URL;VALUE=URI:https://www.tampa.gov/node/196266
 END:VEVENT
 BEGIN:VEVENT
-UID:ea0147fd-a97e-4618-8240-8319048060f2
+UID:99a59741-43c5-4c3b-9772-40d8b1277b5b
 SEQUENCE:0
-DTSTAMP:20261014T000616Z
+DTSTAMP:20261015T000551Z
 DTSTART:20261217T230000Z
 DTEND:20261218T030000Z
 SUMMARY:3rd Thursday
