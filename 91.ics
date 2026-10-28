@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALNAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALDESC:Community events in Tampa for Special Events/Parks&amp;Rec
 BEGIN:VEVENT
-UID:cafcd23a-249d-4ab6-be28-bb23d11388e3
+UID:8ac1eb89-0cb2-43a3-8f0e-054cedac5c39
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261010T110000Z
 DTEND:20261010T160000Z
 SUMMARY:TPD Memorial RunWalk
@@ -18,9 +18,9 @@ DESCRIPTION:TPD Memorial RunWalk Saturday\, October 10\, 2026 7am-12pm Lyk
 URL;VALUE=URI:https://www.tampa.gov/node/195111
 END:VEVENT
 BEGIN:VEVENT
-UID:4fd01ac6-2bb7-4ab7-8420-5f037654a854
+UID:b697291d-e165-4508-b68e-ff5981e5951f
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261010T110000Z
 DTEND:20261010T160000Z
 SUMMARY:Tampa Bay Black Men039\\\;s Wellness Day 5k
@@ -34,9 +34,9 @@ DESCRIPTION:What: Tampa Bay Black Mens Wellness Day 5k Where: Al Lopez Par
 URL;VALUE=URI:https://www.tampa.gov/node/195126
 END:VEVENT
 BEGIN:VEVENT
-UID:46161d04-f090-4a04-986a-05dd52799b09
+UID:3cc69c25-907e-462e-a929-de73a459f1df
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261015T213000Z
 DTEND:20261015T223000Z
 SUMMARY:Tampa Theatre 100th Celebration
@@ -48,9 +48,9 @@ DESCRIPTION:Tampa Theatre 100th Celebration Thursday\, October 15\,2026 5:
 URL;VALUE=URI:https://www.tampa.gov/node/194796
 END:VEVENT
 BEGIN:VEVENT
-UID:a787668b-4d3a-4cff-ae5a-9e23af139b4a
+UID:f40d6e67-81f8-423a-afa1-d8c893d5028a
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261017T123000Z
 DTEND:20261017T150000Z
 SUMMARY:Walk to End Alzheimer039\\\;s
@@ -62,37 +62,9 @@ DESCRIPTION:Walk to End Alzheimers Saturday\, October 17\, 2026 8:30am- 11
 URL;VALUE=URI:https://www.tampa.gov/node/195441
 END:VEVENT
 BEGIN:VEVENT
-UID:0ab51fef-b9a5-486e-a298-3e241b70504c
+UID:715a2922-98e8-4f85-9d74-cebee03a1cf8
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
-DTSTART:20261024T140000Z
-DTEND:20261024T160000Z
-SUMMARY:Hyde Park Pet Parade
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Hyde Park Pet Parade Saturday\, October 24\, 2026 10am-12pm Hy
- de Park Streets For additional information\, please visit Hyde Park Pet Pa
- rade (https:www.hydeparkpetparade.com) \n\nPermalink: https://www.tampa.go
- v/node/195151
-URL;VALUE=URI:https://www.tampa.gov/node/195151
-END:VEVENT
-BEGIN:VEVENT
-UID:53fc048c-5177-4dcc-b4fb-bb498132a4c3
-SEQUENCE:0
-DTSTAMP:20261027T000521Z
-DTSTART:20261024T110000Z
-DTEND:20261024T153000Z
-SUMMARY:Making Strides Against Breast Cancer
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Making Strides Against Breast Cancer Saturday\, October 24\, 2
- 026 7am-11:30am Raymond James Stadium For additional information\, please 
- visit Making Strides Against Breast Cancer (https:secure.acsevents.orgsite
- STR?pgentry fr_id112500) \n\nPermalink: https://www.tampa.gov/node/195816
-URL;VALUE=URI:https://www.tampa.gov/node/195816
-END:VEVENT
-BEGIN:VEVENT
-UID:e304f076-4476-4232-9b01-fc89c992e0b8
-SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261024T140000Z
 DTEND:20261024T180000Z
 SUMMARY:Fight Wright Against Breast Cancer Festival
@@ -105,9 +77,9 @@ DESCRIPTION:5K Walk  Run Festival The 4th Annual Breast Cancer Walk and Ru
 URL;VALUE=URI:https://www.tampa.gov/node/196421
 END:VEVENT
 BEGIN:VEVENT
-UID:3ebcae46-7fcf-4a20-9022-d1fded0d229f
+UID:bcc55bfa-9bab-4b13-91e2-cc86d7c2d3cb
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261024T130000Z
 DTEND:20261024T190000Z
 SUMMARY:Ybor City Saturday Market
@@ -119,9 +91,37 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196781
 END:VEVENT
 BEGIN:VEVENT
-UID:98673034-e7f0-499f-bc8c-294b831f8cf0
+UID:5534ea04-f51f-4d25-9a74-25e31447aaa4
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
+DTSTART:20261024T110000Z
+DTEND:20261024T153000Z
+SUMMARY:Making Strides Against Breast Cancer
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Making Strides Against Breast Cancer Saturday\, October 24\, 2
+ 026 7am-11:30am Raymond James Stadium For additional information\, please 
+ visit Making Strides Against Breast Cancer (https:secure.acsevents.orgsite
+ STR?pgentry fr_id112500) \n\nPermalink: https://www.tampa.gov/node/195816
+URL;VALUE=URI:https://www.tampa.gov/node/195816
+END:VEVENT
+BEGIN:VEVENT
+UID:ac22ce63-ca3c-48aa-a521-7d694be2b1be
+SEQUENCE:0
+DTSTAMP:20261028T000430Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Hyde Park Pet Parade
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Hyde Park Pet Parade Saturday\, October 24\, 2026 10am-12pm Hy
+ de Park Streets For additional information\, please visit Hyde Park Pet Pa
+ rade (https:www.hydeparkpetparade.com) \n\nPermalink: https://www.tampa.go
+ v/node/195151
+URL;VALUE=URI:https://www.tampa.gov/node/195151
+END:VEVENT
+BEGIN:VEVENT
+UID:312a843b-e435-49fc-b3cf-9e5e48ed8b81
+SEQUENCE:0
+DTSTAMP:20261028T000430Z
 DTSTART:20261025T160000Z
 DTEND:20261025T220000Z
 SUMMARY:8th Annual Taste of Latino Festival
@@ -133,9 +133,9 @@ DESCRIPTION:Celebrate Hispanic Heritage Month at the 8th Annual Taste of L
 URL;VALUE=URI:https://www.tampa.gov/node/196096
 END:VEVENT
 BEGIN:VEVENT
-UID:1e7716f7-4f48-47a0-8ed9-2b9d62584188
+UID:8ea84181-472e-4861-abad-1234d17689b9
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261030T200000Z
 DTEND:20261031T030000Z
 SUMMARY:Oktoberfest Tampa
@@ -151,9 +151,9 @@ DESCRIPTION:Well be celebrating with german cheer\, dancing and singing to
 URL;VALUE=URI:https://www.tampa.gov/node/195746
 END:VEVENT
 BEGIN:VEVENT
-UID:5b6f34ca-5083-4f08-ac61-645b847a84e1
+UID:aa3d7770-2e81-44a5-ab3b-7f9db5068678
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261031T150000Z
 DTEND:20261101T030000Z
 SUMMARY:Oktoberfest Tampa
@@ -169,9 +169,23 @@ DESCRIPTION:Well be celebrating with german cheer\, dancing and singing to
 URL;VALUE=URI:https://www.tampa.gov/node/195746
 END:VEVENT
 BEGIN:VEVENT
-UID:4abbd2bd-56e5-44d7-8f14-05383c51c2d5
+UID:0edd1001-cf8d-4c86-a740-9dd7d55cb5d2
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
+DTSTART:20261031T130000Z
+DTEND:20261031T190000Z
+SUMMARY:Ybor City Saturday Market
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
+ rk\, Ybor City For additional information\, please visit Ybor City Saturda
+ y Market (https:ybormarket.com) \n\nPermalink: https://www.tampa.gov/node/
+ 196786
+URL;VALUE=URI:https://www.tampa.gov/node/196786
+END:VEVENT
+BEGIN:VEVENT
+UID:f393bd31-1c9c-4125-9ae7-bb8d4594f2ed
+SEQUENCE:0
+DTSTAMP:20261028T000430Z
 DTSTART:20261031T140000Z
 DTEND:20261101T220000Z
 SUMMARY:Downtown Tampa Craft Festival
@@ -192,23 +206,9 @@ DESCRIPTION:This exciting new festival will take place at Cotanchobee Fort
 URL;VALUE=URI:https://www.tampa.gov/node/196516
 END:VEVENT
 BEGIN:VEVENT
-UID:d856b917-af6c-452f-9d19-2c0aaeb4e2f9
+UID:09b83215-ac73-4de7-aa93-f7e1443f0839
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
-DTSTART:20261031T130000Z
-DTEND:20261031T190000Z
-SUMMARY:Ybor City Saturday Market
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
- rk\, Ybor City For additional information\, please visit Ybor City Saturda
- y Market (https:ybormarket.com) \n\nPermalink: https://www.tampa.gov/node/
- 196786
-URL;VALUE=URI:https://www.tampa.gov/node/196786
-END:VEVENT
-BEGIN:VEVENT
-UID:e808e984-14ae-489d-a4be-14a82b2b64a5
-SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261101T160000Z
 DTEND:20261101T230000Z
 SUMMARY:Oktoberfest Tampa
@@ -224,9 +224,9 @@ DESCRIPTION:Well be celebrating with german cheer\, dancing and singing to
 URL;VALUE=URI:https://www.tampa.gov/node/195746
 END:VEVENT
 BEGIN:VEVENT
-UID:1feab5da-be89-494a-85e1-81728009da01
+UID:f7083a9c-89f3-43a8-9c6b-c0485ca468b3
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261107T123000Z
 DTEND:20261107T150000Z
 SUMMARY:Bolt Run
@@ -238,9 +238,9 @@ DESCRIPTION:Bolt Run Saturday\, November 7\, 2026 7:30am-10:00am ArenaBays
 URL;VALUE=URI:https://www.tampa.gov/node/196506
 END:VEVENT
 BEGIN:VEVENT
-UID:1214a4ff-45dd-487b-b32f-b185aaec8132
+UID:20bd9cc1-5d52-4ac4-9b84-71eb38f36000
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261107T140000Z
 DTEND:20261107T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -252,9 +252,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196791
 END:VEVENT
 BEGIN:VEVENT
-UID:df35784c-a029-4089-9554-bcd6fa9e6669
+UID:8dba299e-a163-421a-84f1-1cb02b26f621
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261114T140000Z
 DTEND:20261114T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -266,9 +266,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196796
 END:VEVENT
 BEGIN:VEVENT
-UID:f38f74dd-511e-45b0-a298-62fb75c2dca8
+UID:35d6177b-87e9-4ec7-b18c-37cb6a8e62a0
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261121T140000Z
 DTEND:20261121T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -280,9 +280,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196801
 END:VEVENT
 BEGIN:VEVENT
-UID:1174beb1-e5e8-4360-ba19-38b68726bee2
+UID:d568a8a4-610d-4283-b151-8e27c2ec01ae
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261126T120000Z
 DTEND:20261126T150000Z
 SUMMARY:Tampa YMCA Turkey Gobble
@@ -294,9 +294,9 @@ DESCRIPTION:Tampa YMCA Turkey Gobble Thursday\, November 26\, 2026 7am-10a
 URL;VALUE=URI:https://www.tampa.gov/node/196266
 END:VEVENT
 BEGIN:VEVENT
-UID:81479597-e4a1-46d1-9215-ee176f23b80b
+UID:db7ae3de-422c-4460-abcb-b0fa5ab73860
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261128T140000Z
 DTEND:20261128T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -308,9 +308,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196806
 END:VEVENT
 BEGIN:VEVENT
-UID:e80bad0b-768a-4aea-b4ec-c6e39e43ff88
+UID:e92794cb-1bc7-43ab-bb2e-59044a7ac957
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261205T140000Z
 DTEND:20261205T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -322,9 +322,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196811
 END:VEVENT
 BEGIN:VEVENT
-UID:339c4200-5a20-45b1-a278-1ff81c04b02d
+UID:b242fcd8-5161-4521-bbd5-445174153f87
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261212T140000Z
 DTEND:20261212T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -336,9 +336,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196816
 END:VEVENT
 BEGIN:VEVENT
-UID:1fea2b6a-ddc9-49e8-8763-fdf25b05fa21
+UID:c41602b5-8def-4a52-9978-ff54d80a46b3
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261219T140000Z
 DTEND:20261219T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -350,9 +350,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196821
 END:VEVENT
 BEGIN:VEVENT
-UID:51d070ad-218d-4e0c-a5d3-75c56674deed
+UID:450fd2ca-b75c-4649-a9f5-335b869eeb09
 SEQUENCE:0
-DTSTAMP:20261027T000521Z
+DTSTAMP:20261028T000430Z
 DTSTART:20261226T140000Z
 DTEND:20261226T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -362,5 +362,25 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
  y Market (https:ybormarket.com) \n\nPermalink: https://www.tampa.gov/node/
  196826
 URL;VALUE=URI:https://www.tampa.gov/node/196826
+END:VEVENT
+BEGIN:VEVENT
+UID:362dfdeb-eeb5-4157-a3c3-cca739898414
+SEQUENCE:0
+DTSTAMP:20261028T000430Z
+DTSTART:20270227T150000Z
+DTEND:20270228T210000Z
+SUMMARY:Tampa Fine Art Show by Hot Works
+LOCATION:Cotanchobee Fort Brooke Park 601 Old Water St Tampa \, FL 33602 U
+ nited States
+DESCRIPTION:Tampa Fine Art Show February 27 28\, 2027 Saturday\, 10am-5pm 
+ and Sunday\, 10am-4pm Cotanchobee Fort Brooke Park is a beautifully renova
+ ted waterfront park in downtown Tampa\, located at 601 Water Street along 
+ the scenic Garrison Channel Riverwalk\, directly across from Benchmark Int
+ ernational Arena (formerly Amalie Arena) home of the Tampa Bay Lightning  
+ and one mile from University of Tampa. The park offers a peaceful oasis fo
+ r recreation and relaxation\, featuring convenient Friday move-in access\,
+  modern restroom facilities\, artist amenities\, and ample nearby parking.
+  \n\nPermalink: https://www.tampa.gov/node/192286
+URL;VALUE=URI:https://www.tampa.gov/node/192286
 END:VEVENT
 END:VCALENDAR
