@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALNAME:Tampa Calendar - Special Events/Parks&amp;Rec
 X-WR-CALDESC:Community events in Tampa for Special Events/Parks&amp;Rec
 BEGIN:VEVENT
-UID:9dc80fe7-ca7c-4800-a578-0336b1bdf0e8
+UID:8fe709b1-2adb-40dc-96ca-13a949fc77b9
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261010T110000Z
 DTEND:20261010T160000Z
 SUMMARY:TPD Memorial RunWalk
@@ -18,9 +18,9 @@ DESCRIPTION:TPD Memorial RunWalk Saturday\, October 10\, 2026 7am-12pm Lyk
 URL;VALUE=URI:https://www.tampa.gov/node/195111
 END:VEVENT
 BEGIN:VEVENT
-UID:49f86902-46b3-4728-9bba-7f151a8b69d8
+UID:b4a61357-e70f-45a0-ad8e-8fbf30e52ff9
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261010T110000Z
 DTEND:20261010T160000Z
 SUMMARY:Tampa Bay Black Men039\\\;s Wellness Day 5k
@@ -34,9 +34,9 @@ DESCRIPTION:What: Tampa Bay Black Mens Wellness Day 5k Where: Al Lopez Par
 URL;VALUE=URI:https://www.tampa.gov/node/195126
 END:VEVENT
 BEGIN:VEVENT
-UID:42e8476e-33f9-410a-9ed7-97aa93d4198b
+UID:0f80db72-176a-48d1-a1b6-99b98f919917
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261015T213000Z
 DTEND:20261015T223000Z
 SUMMARY:Tampa Theatre 100th Celebration
@@ -48,9 +48,9 @@ DESCRIPTION:Tampa Theatre 100th Celebration Thursday\, October 15\,2026 5:
 URL;VALUE=URI:https://www.tampa.gov/node/194796
 END:VEVENT
 BEGIN:VEVENT
-UID:fb01324d-0d08-4bcd-ac9a-82ccdef0b6b0
+UID:600cbe6c-8c5f-4288-91f2-bb0df1fadfdf
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261017T123000Z
 DTEND:20261017T150000Z
 SUMMARY:Walk to End Alzheimer039\\\;s
@@ -62,23 +62,9 @@ DESCRIPTION:Walk to End Alzheimers Saturday\, October 17\, 2026 8:30am- 11
 URL;VALUE=URI:https://www.tampa.gov/node/195441
 END:VEVENT
 BEGIN:VEVENT
-UID:44cd571c-2c5f-4f28-bf7a-aeced9f7dc06
+UID:b1a97bcb-86b4-445c-b8f5-badd6f9bd832
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
-DTSTART:20261024T140000Z
-DTEND:20261024T160000Z
-SUMMARY:Hyde Park Pet Parade
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Hyde Park Pet Parade Saturday\, October 24\, 2026 10am-12pm Hy
- de Park Streets For additional information\, please visit Hyde Park Pet Pa
- rade (https:www.hydeparkpetparade.com) \n\nPermalink: https://www.tampa.go
- v/node/195151
-URL;VALUE=URI:https://www.tampa.gov/node/195151
-END:VEVENT
-BEGIN:VEVENT
-UID:4a52a703-2cf4-40cf-9691-13f2f6a4aed5
-SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261024T130000Z
 DTEND:20261024T190000Z
 SUMMARY:Ybor City Saturday Market
@@ -90,23 +76,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196781
 END:VEVENT
 BEGIN:VEVENT
-UID:59577d9b-c673-4af5-afe5-3383a333dc77
+UID:5dd1f8f9-9ebe-43af-bd14-9ca578c89719
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
-DTSTART:20261024T110000Z
-DTEND:20261024T153000Z
-SUMMARY:Making Strides Against Breast Cancer
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Making Strides Against Breast Cancer Saturday\, October 24\, 2
- 026 7am-11:30am Raymond James Stadium For additional information\, please 
- visit Making Strides Against Breast Cancer (https:secure.acsevents.orgsite
- STR?pgentry fr_id112500) \n\nPermalink: https://www.tampa.gov/node/195816
-URL;VALUE=URI:https://www.tampa.gov/node/195816
-END:VEVENT
-BEGIN:VEVENT
-UID:c45d73e3-9bb4-445f-af82-517c8484ba6e
-SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261024T140000Z
 DTEND:20261024T180000Z
 SUMMARY:Fight Wright Against Breast Cancer Festival
@@ -119,9 +91,37 @@ DESCRIPTION:5K Walk  Run Festival The 4th Annual Breast Cancer Walk and Ru
 URL;VALUE=URI:https://www.tampa.gov/node/196421
 END:VEVENT
 BEGIN:VEVENT
-UID:3a79a1be-f339-431f-a857-c4333ba5a066
+UID:6da4ffcb-6a97-46e3-91c7-3bec8f11a041
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
+DTSTART:20261024T110000Z
+DTEND:20261024T153000Z
+SUMMARY:Making Strides Against Breast Cancer
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Making Strides Against Breast Cancer Saturday\, October 24\, 2
+ 026 7am-11:30am Raymond James Stadium For additional information\, please 
+ visit Making Strides Against Breast Cancer (https:secure.acsevents.orgsite
+ STR?pgentry fr_id112500) \n\nPermalink: https://www.tampa.gov/node/195816
+URL;VALUE=URI:https://www.tampa.gov/node/195816
+END:VEVENT
+BEGIN:VEVENT
+UID:8295784d-62e0-4873-87d9-cffaab4a66fa
+SEQUENCE:0
+DTSTAMP:20261030T000432Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Hyde Park Pet Parade
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Hyde Park Pet Parade Saturday\, October 24\, 2026 10am-12pm Hy
+ de Park Streets For additional information\, please visit Hyde Park Pet Pa
+ rade (https:www.hydeparkpetparade.com) \n\nPermalink: https://www.tampa.go
+ v/node/195151
+URL;VALUE=URI:https://www.tampa.gov/node/195151
+END:VEVENT
+BEGIN:VEVENT
+UID:8d8f073d-c986-44db-aa1f-257b599f7f5e
+SEQUENCE:0
+DTSTAMP:20261030T000432Z
 DTSTART:20261025T160000Z
 DTEND:20261025T220000Z
 SUMMARY:8th Annual Taste of Latino Festival
@@ -133,9 +133,9 @@ DESCRIPTION:Celebrate Hispanic Heritage Month at the 8th Annual Taste of L
 URL;VALUE=URI:https://www.tampa.gov/node/196096
 END:VEVENT
 BEGIN:VEVENT
-UID:09be45e7-3562-4f47-a44a-a353cf93e9ec
+UID:d0b9ed6c-b7be-4669-be01-f498e79df972
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261030T200000Z
 DTEND:20261031T030000Z
 SUMMARY:Oktoberfest Tampa
@@ -151,9 +151,27 @@ DESCRIPTION:Well be celebrating with german cheer\, dancing and singing to
 URL;VALUE=URI:https://www.tampa.gov/node/195746
 END:VEVENT
 BEGIN:VEVENT
-UID:edf02323-e0bf-46d3-aa10-b052bd425f49
+UID:54b207a1-7af2-494b-ab00-8c1f356e28ef
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
+DTSTART:20261031T150000Z
+DTEND:20261101T030000Z
+SUMMARY:Oktoberfest Tampa
+LOCATION:Curtis Hixon Waterfront Park 600 N Ashley Dr Tampa \, FL 33602 Un
+ ited States
+DESCRIPTION:Well be celebrating with german cheer\, dancing and singing to
+  cooler weather and colder beer along the Hillsborough river downtown at t
+ he Curtis Hixon Waterfront Park this Oktober 9th\, 10th\, and 11th. Oktobe
+ rfest Tampa 2026 is a time to unwind and make new friends. Learn new custo
+ ms and sing a few songs. Help us tap the inaugural keg Friday\, Oktober 9t
+ h\, as we open the doors to Tampas largest Oktoberfest. \n\nPermalink: htt
+ ps://www.tampa.gov/node/195746
+URL;VALUE=URI:https://www.tampa.gov/node/195746
+END:VEVENT
+BEGIN:VEVENT
+UID:166a5990-565a-4007-9724-54ff8c860e61
+SEQUENCE:0
+DTSTAMP:20261030T000432Z
 DTSTART:20261031T140000Z
 DTEND:20261101T220000Z
 SUMMARY:Downtown Tampa Craft Festival
@@ -174,9 +192,9 @@ DESCRIPTION:This exciting new festival will take place at Cotanchobee Fort
 URL;VALUE=URI:https://www.tampa.gov/node/196516
 END:VEVENT
 BEGIN:VEVENT
-UID:761a330b-c989-47b7-957d-4f5eeaeba0e3
+UID:4b302ac2-64c5-46e5-b9c7-11da6fc3c8f2
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261031T130000Z
 DTEND:20261031T190000Z
 SUMMARY:Ybor City Saturday Market
@@ -188,27 +206,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196786
 END:VEVENT
 BEGIN:VEVENT
-UID:0a2f05f0-021d-4750-9d4b-1becda38bf01
+UID:bfae9b72-2392-4187-a87c-0c1753f99527
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
-DTSTART:20261031T150000Z
-DTEND:20261101T030000Z
-SUMMARY:Oktoberfest Tampa
-LOCATION:Curtis Hixon Waterfront Park 600 N Ashley Dr Tampa \, FL 33602 Un
- ited States
-DESCRIPTION:Well be celebrating with german cheer\, dancing and singing to
-  cooler weather and colder beer along the Hillsborough river downtown at t
- he Curtis Hixon Waterfront Park this Oktober 9th\, 10th\, and 11th. Oktobe
- rfest Tampa 2026 is a time to unwind and make new friends. Learn new custo
- ms and sing a few songs. Help us tap the inaugural keg Friday\, Oktober 9t
- h\, as we open the doors to Tampas largest Oktoberfest. \n\nPermalink: htt
- ps://www.tampa.gov/node/195746
-URL;VALUE=URI:https://www.tampa.gov/node/195746
-END:VEVENT
-BEGIN:VEVENT
-UID:682a7fae-8338-4666-93ee-c50040ce0252
-SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261101T160000Z
 DTEND:20261101T230000Z
 SUMMARY:Oktoberfest Tampa
@@ -224,9 +224,9 @@ DESCRIPTION:Well be celebrating with german cheer\, dancing and singing to
 URL;VALUE=URI:https://www.tampa.gov/node/195746
 END:VEVENT
 BEGIN:VEVENT
-UID:e15ada80-226e-40de-89bb-35a9021e1b3f
+UID:5194ecb5-6d12-4b07-b30c-533e56213ffc
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261107T000000Z
 DTEND:20261107T023000Z
 SUMMARY:Richard039\\\;s Run for Life
@@ -238,9 +238,9 @@ DESCRIPTION:23rd Annual Richards Run for Life Friday\, November 6\, 2026 7
 URL;VALUE=URI:https://www.tampa.gov/node/197206
 END:VEVENT
 BEGIN:VEVENT
-UID:6f37c20b-397c-421c-9c0f-a0d510881697
+UID:cd14f957-6a29-4cbc-b632-00fd83d0dfc3
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261107T123000Z
 DTEND:20261107T150000Z
 SUMMARY:Bolt Run
@@ -252,9 +252,9 @@ DESCRIPTION:Bolt Run Saturday\, November 7\, 2026 7:30am-10:00am ArenaBays
 URL;VALUE=URI:https://www.tampa.gov/node/196506
 END:VEVENT
 BEGIN:VEVENT
-UID:7f8a236b-f0f7-4bb2-8158-c6e862a3a869
+UID:ca568f6d-a487-4ffb-96a4-129b7a19016e
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261107T140000Z
 DTEND:20261107T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -266,9 +266,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196791
 END:VEVENT
 BEGIN:VEVENT
-UID:714cf9bf-ee84-4625-885e-311914a74391
+UID:e14ee532-a350-46c4-8e83-eeeb10d198f1
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261114T140000Z
 DTEND:20261114T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -280,9 +280,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196796
 END:VEVENT
 BEGIN:VEVENT
-UID:08e299f7-6edb-4c5d-818f-2237c38e834b
+UID:d7e205a6-fee5-42eb-a3f0-44940c9aa989
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261114T120000Z
 DTEND:20261114T160000Z
 SUMMARY:Veterans Run
@@ -295,9 +295,37 @@ DESCRIPTION:Veterans Run Saturday\, November 14\, 2026 7:00am-11:00am Cour
 URL;VALUE=URI:https://www.tampa.gov/node/197201
 END:VEVENT
 BEGIN:VEVENT
-UID:b701d361-b536-48aa-bfec-a27f89e26bec
+UID:49ccf943-efa3-42bb-a186-1c132ddfc4ac
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
+DTSTART:20261119T223000Z
+DTEND:20261120T013000Z
+SUMMARY:Hyde Park Tree Lighting
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Hyde Park Tree Lighting Thursday\, November 19\, 2026 5:30pm-8
+ :30pm Hyde Park Village For additional information\, please visit Hyde Par
+ k Tree Lighting (https:hydeparkvillage.comeventholiday-happening) \n\nPerm
+ alink: https://www.tampa.gov/node/197291
+URL;VALUE=URI:https://www.tampa.gov/node/197291
+END:VEVENT
+BEGIN:VEVENT
+UID:893ed5eb-226e-4cf1-ac6a-df9e3f7cb06c
+SEQUENCE:0
+DTSTAMP:20261030T000432Z
+DTSTART:20261119T223000Z
+DTEND:20261120T013000Z
+SUMMARY:Hyde Park Tree Lighting
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Hyde Park Tree Lighting Thursday\, November 19\, 2026 5:30pm-8
+ :30pm Hyde Park Village For additional information\, please visit Hyde Par
+ k Tree Lighting (https:hydeparkvillage.comeventholiday-happening) \n\nPerm
+ alink: https://www.tampa.gov/node/197286
+URL;VALUE=URI:https://www.tampa.gov/node/197286
+END:VEVENT
+BEGIN:VEVENT
+UID:46b111a7-b409-4263-8bf5-9ca46c66be92
+SEQUENCE:0
+DTSTAMP:20261030T000432Z
 DTSTART:20261119T230000Z
 DTEND:20261120T010000Z
 SUMMARY:Live-to-Headphones Silent Piano Concert Meditation
@@ -332,9 +360,9 @@ DESCRIPTION:Overview Experience a musical journey of music  mindfulness th
 URL;VALUE=URI:https://www.tampa.gov/node/197181
 END:VEVENT
 BEGIN:VEVENT
-UID:8b6f8f8a-1e8d-4424-905a-29c4f54b1c02
+UID:871499f9-28da-4bac-8b9f-2b846189771f
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261121T140000Z
 DTEND:20261121T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -346,9 +374,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196801
 END:VEVENT
 BEGIN:VEVENT
-UID:d9b4fce3-91e3-48cb-bf6f-27cc5b1d4e76
+UID:21d895bc-9eaa-4b49-951d-6462d8e456cd
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261126T120000Z
 DTEND:20261126T150000Z
 SUMMARY:Tampa YMCA Turkey Gobble
@@ -360,9 +388,9 @@ DESCRIPTION:Tampa YMCA Turkey Gobble Thursday\, November 26\, 2026 7am-10a
 URL;VALUE=URI:https://www.tampa.gov/node/196266
 END:VEVENT
 BEGIN:VEVENT
-UID:69fe038d-48ef-42ef-bb13-ab627425f1ff
+UID:56631e6e-ae9e-41cc-978f-c74d98aee1ff
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261128T140000Z
 DTEND:20261128T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -374,9 +402,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196806
 END:VEVENT
 BEGIN:VEVENT
-UID:da289901-04e5-4f2c-a16a-29fc02e3fd88
+UID:5764a4d4-1724-4e39-adb7-58db3695d7dd
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261205T140000Z
 DTEND:20261205T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -388,9 +416,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196811
 END:VEVENT
 BEGIN:VEVENT
-UID:791b34f5-690b-4186-987e-2231f167e286
+UID:6cebc8be-da59-4b4f-88d2-7a87fa8765b7
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261212T140000Z
 DTEND:20261212T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -402,9 +430,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196816
 END:VEVENT
 BEGIN:VEVENT
-UID:b3dee05a-8874-46b3-ab33-2b689ae9a31b
+UID:e8737426-7ecd-44fd-a3fc-b9689290a02c
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261216T230000Z
 DTEND:20261217T010000Z
 SUMMARY:Live-to-Headphones Silent Piano Concert Meditation
@@ -438,9 +466,9 @@ DESCRIPTION:Experience a musical journey of music  mindfulness this Novemb
 URL;VALUE=URI:https://www.tampa.gov/node/197186
 END:VEVENT
 BEGIN:VEVENT
-UID:d04071c3-ee59-44b5-b04f-5a0624815fdd
+UID:0a5f18a7-72f7-4d71-b6d6-6a1c40bd8ff1
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261219T140000Z
 DTEND:20261219T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -452,9 +480,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196821
 END:VEVENT
 BEGIN:VEVENT
-UID:a8bdcdaf-6640-4964-9141-840999c1902a
+UID:1ea0056c-e767-4e68-9bd7-6bd10e961215
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20261226T140000Z
 DTEND:20261226T200000Z
 SUMMARY:Ybor City Saturday Market
@@ -466,9 +494,9 @@ DESCRIPTION:Ybor City Saturday Market Every Saturday 9am-3pm Centennial Pa
 URL;VALUE=URI:https://www.tampa.gov/node/196826
 END:VEVENT
 BEGIN:VEVENT
-UID:681a865b-ba04-4f6c-b397-190de778d596
+UID:861cfaa6-7541-49b1-8a5e-2fe95da5fa0f
 SEQUENCE:0
-DTSTAMP:20261029T000429Z
+DTSTAMP:20261030T000432Z
 DTSTART:20270227T150000Z
 DTEND:20270228T210000Z
 SUMMARY:Tampa Fine Art Show by Hot Works
