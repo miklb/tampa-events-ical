@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Neighborhood Events
 X-WR-CALNAME:Tampa Calendar - Neighborhood Events
 X-WR-CALDESC:Community events in Tampa for Neighborhood Events
 BEGIN:VEVENT
-UID:d17969c1-e995-4f90-bf28-38bda8a30599
+UID:656d4cfe-cd87-4120-b707-13dad9126e1b
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261104T233000Z
 DTEND:20261105T003000Z
 SUMMARY:Florida Conversations: An Evening with Mac Stone
@@ -45,9 +45,25 @@ DESCRIPTION:Join the Tampa Bay History Center for an evening with award-wi
 URL;VALUE=URI:https://www.tampa.gov/node/196201
 END:VEVENT
 BEGIN:VEVENT
-UID:e433b2b8-5179-4f0e-a935-4008b739bfdd
+UID:067ca03b-a2de-4498-ba6f-7d8e6500e8ca
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
+DTSTART:20261105T223000Z
+DTEND:20261106T000000Z
+SUMMARY:Soldier039\\\;s Lens 2026 Opening Reception
+LOCATION:1630 East 7th Avenue Tampa \, FL 33605 United States
+DESCRIPTION:For the second year in a row\, we asked the community to join 
+ us in honoring the sacrifice\, connection\, and strength of our service me
+ mbers. Join us for the opening reception of A Soldiers Lens\, an evocative
+  photography exhibition capturing the raw human experiences of military li
+ fe through the eyes of those who served and their families. \n\nPermalink:
+  https://www.tampa.gov/node/194766
+URL;VALUE=URI:https://www.tampa.gov/node/194766
+END:VEVENT
+BEGIN:VEVENT
+UID:61ebf115-014b-43f2-b12d-8df415dda0c6
+SEQUENCE:0
+DTSTAMP:20261103T000345Z
 DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Science After Dark - Chemistry Uncorked!
@@ -68,9 +84,9 @@ DESCRIPTION:Kick off your MOSI adventure with Science After Dark\, the ult
 URL;VALUE=URI:https://www.tampa.gov/node/195756
 END:VEVENT
 BEGIN:VEVENT
-UID:86a93dad-d62e-4426-b717-277d0b13cabe
+UID:f4c910fc-e911-4110-880d-672f08c91ebc
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Thursday Ceramics
@@ -87,9 +103,9 @@ DESCRIPTION:Thursdays  6:00 PM  9:00 PM Nov 5 - Dec 17 (6 classes) Ages 18
 URL;VALUE=URI:https://www.tampa.gov/node/193721
 END:VEVENT
 BEGIN:VEVENT
-UID:cda1b382-fe55-4ad1-b463-7af5ddb128a8
+UID:06128286-66e7-4ff4-a7bb-d7c69a5b2faa
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Remix: C Paul Jennewein
@@ -105,9 +121,9 @@ DESCRIPTION:Thursday\, Nov 5  6:009:00 PM Ages 18  Beginner Level Remix is
 URL;VALUE=URI:https://www.tampa.gov/node/193601
 END:VEVENT
 BEGIN:VEVENT
-UID:22b3be6a-82b0-4cea-a6c3-81d869784498
+UID:2d6798cc-1894-4d20-8bf2-c9e89734531d
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261105T230000Z
 DTEND:20261106T020000Z
 SUMMARY:Rock the Park
@@ -126,25 +142,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:9bf3687a-a4d8-4307-b2d8-0034e109cef5
+UID:7a40190c-720a-46ac-9ef5-a838d3be7400
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261105T223000Z
-DTEND:20261106T000000Z
-SUMMARY:Soldier039\\\;s Lens 2026 Opening Reception
-LOCATION:1630 East 7th Avenue Tampa \, FL 33605 United States
-DESCRIPTION:For the second year in a row\, we asked the community to join 
- us in honoring the sacrifice\, connection\, and strength of our service me
- mbers. Join us for the opening reception of A Soldiers Lens\, an evocative
-  photography exhibition capturing the raw human experiences of military li
- fe through the eyes of those who served and their families. \n\nPermalink:
-  https://www.tampa.gov/node/194766
-URL;VALUE=URI:https://www.tampa.gov/node/194766
-END:VEVENT
-BEGIN:VEVENT
-UID:9ca8f311-027c-4bdc-94ee-e1ee101627be
-SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261108T000000Z
 DTEND:20261108T040000Z
 SUMMARY:Pavilion XL: Celebrating the Contributions of Women in Tampa Bay
@@ -171,9 +171,9 @@ DESCRIPTION:Pavilion XL is a philanthropic celebration honoring the Tampa
 URL;VALUE=URI:https://www.tampa.gov/node/196061
 END:VEVENT
 BEGIN:VEVENT
-UID:81d39b23-76bc-4391-b1c1-0b5e546dabbb
+UID:51800e01-c36f-4edd-9e89-69e93a7b8ccd
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261107T160000Z
 DTEND:20261107T230000Z
 SUMMARY:Cultural Festival
@@ -189,9 +189,9 @@ DESCRIPTION:Event Coordinator - Dena Oldham Special Events Coordinator\, P
 URL;VALUE=URI:https://www.tampa.gov/node/195421
 END:VEVENT
 BEGIN:VEVENT
-UID:b8022611-2d3f-4971-94e4-a172ff080347
+UID:59aa2078-5681-45e1-a7c8-6f3ac1231e79
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261107T150000Z
 DTEND:20261107T190000Z
 SUMMARY:Borrell Park Fall Fest
@@ -207,9 +207,49 @@ DESCRIPTION:Lets Reimagine Borrell Park Together! Join us for an afternoon
 URL;VALUE=URI:https://www.tampa.gov/node/197326
 END:VEVENT
 BEGIN:VEVENT
-UID:cf9cc26d-011e-41bb-a259-41750bcfff03
+UID:afae1825-e299-45c0-828a-92db663e8269
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
+DTSTART:20261107T150000Z
+DTEND:20261107T223000Z
+SUMMARY:Ghana Day in Tampa Bay (Ghana Fest Florida 2026)
+LOCATION:2401 E Yukon Street Tampa \, FL 33604 United States
+DESCRIPTION:Ghana Day in Tampa Bay is a vibrant community celebration hono
+ ring Ghanaian culture\, heritage and the contributions of Ghana and the Af
+ rican diaspora\, through music\, food\, fashion\, history and the arts\, t
+ he festival creates a welcoming place for people to connect\, learn and ce
+ lebrate together. Presented by the Ghanaian Association of Tampa Bay\, Gha
+ na Fest Florida 2026 promotes cultural awareness\, unity and meaningful co
+ nnections across Tampa Bay and beyond. \n\nPermalink: https://www.tampa.go
+ v/node/195856
+URL;VALUE=URI:https://www.tampa.gov/node/195856
+END:VEVENT
+BEGIN:VEVENT
+UID:b2126fc2-d09e-4120-b406-6f1a6387a8b8
+SEQUENCE:0
+DTSTAMP:20261103T000345Z
+DTSTART:20261107T143000Z
+DTEND:20261107T173000Z
+SUMMARY:Community Shred Electronic Recycling
+LOCATION:3815 N Nebraska Ave Tampa \, FL 33603 United States
+DESCRIPTION:Free Community Shred Event Your security is our priority. As y
+ our local community partner\, were dedicated to keeping your personal info
+ rmation safe. Join us for our Community Shred Event\, where you can secure
+ ly dispose of sensitive documents\, paperwork\, and outdated electronicsat
+  no cost to you! Document Paper Shredding (Limit 2 boxes per person) Elect
+ ronic Shredding Accepted electronics for recycling include: Computers (Des
+ ktop Laptop)  Batteries  Cable Boxes  Cell PhoneMobile Phones  Circuit Boa
+ rds  DVD players Hard Drives  Insulated Cable Wire  Ipads Tablets  Laptops
+   Modems  Monitors (Flat Screen Only) Phone System Hardware  Printers  Rou
+ ters  Servers  Telephones  Telephone Systems UPS Battery Backups  VCRs  Vi
+ deo GamesX-Boxes  X-Ray Film \n\nPermalink: https://www.tampa.gov/node/196
+ 716
+URL;VALUE=URI:https://www.tampa.gov/node/196716
+END:VEVENT
+BEGIN:VEVENT
+UID:99a94b1f-e4c7-454b-a4f7-aa23b2114db8
+SEQUENCE:0
+DTSTAMP:20261103T000345Z
 DTSTART:20261107T150000Z
 DTEND:20261107T190000Z
 SUMMARY:LEC 46th birthday bash celebration
@@ -230,49 +270,9 @@ DESCRIPTION:The Life Enrichment Center (LEC) is celebrating its 46th anniv
 URL;VALUE=URI:https://www.tampa.gov/node/196361
 END:VEVENT
 BEGIN:VEVENT
-UID:df3f78f1-5269-4fc0-9280-9df55ba1ed4d
+UID:55819e2b-985f-49a7-9c23-da2e07c55c0e
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261107T143000Z
-DTEND:20261107T173000Z
-SUMMARY:Community Shred Electronic Recycling
-LOCATION:3815 N Nebraska Ave Tampa \, FL 33603 United States
-DESCRIPTION:Free Community Shred Event Your security is our priority. As y
- our local community partner\, were dedicated to keeping your personal info
- rmation safe. Join us for our Community Shred Event\, where you can secure
- ly dispose of sensitive documents\, paperwork\, and outdated electronicsat
-  no cost to you! Document Paper Shredding (Limit 2 boxes per person) Elect
- ronic Shredding Accepted electronics for recycling include: Computers (Des
- ktop Laptop)  Batteries  Cable Boxes  Cell PhoneMobile Phones  Circuit Boa
- rds  DVD players Hard Drives  Insulated Cable Wire  Ipads Tablets  Laptops
-   Modems  Monitors (Flat Screen Only) Phone System Hardware  Printers  Rou
- ters  Servers  Telephones  Telephone Systems UPS Battery Backups  VCRs  Vi
- deo GamesX-Boxes  X-Ray Film \n\nPermalink: https://www.tampa.gov/node/196
- 716
-URL;VALUE=URI:https://www.tampa.gov/node/196716
-END:VEVENT
-BEGIN:VEVENT
-UID:8f37f6c1-c880-4362-b953-1c4d91a9443a
-SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261107T150000Z
-DTEND:20261107T223000Z
-SUMMARY:Ghana Day in Tampa Bay (Ghana Fest Florida 2026)
-LOCATION:2401 E Yukon Street Tampa \, FL 33604 United States
-DESCRIPTION:Ghana Day in Tampa Bay is a vibrant community celebration hono
- ring Ghanaian culture\, heritage and the contributions of Ghana and the Af
- rican diaspora\, through music\, food\, fashion\, history and the arts\, t
- he festival creates a welcoming place for people to connect\, learn and ce
- lebrate together. Presented by the Ghanaian Association of Tampa Bay\, Gha
- na Fest Florida 2026 promotes cultural awareness\, unity and meaningful co
- nnections across Tampa Bay and beyond. \n\nPermalink: https://www.tampa.go
- v/node/195856
-URL;VALUE=URI:https://www.tampa.gov/node/195856
-END:VEVENT
-BEGIN:VEVENT
-UID:08d42c82-a828-45a0-982e-70bc9c8354be
-SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261108T143000Z
 DTEND:20261108T180000Z
 SUMMARY:The GayMazing Race
@@ -302,9 +302,9 @@ DESCRIPTION:Were taking over Historic Ybor City on Sunday\, Nov 8th for an
 URL;VALUE=URI:https://www.tampa.gov/node/196986
 END:VEVENT
 BEGIN:VEVENT
-UID:668338e9-fe89-4045-ae03-e127293bbd08
+UID:c05ff1a5-4827-4932-b12f-117cc53438ce
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261108T230000Z
 DTEND:20261109T010000Z
 SUMMARY:From Barrel to Table: Flor de Caa Tasting Dinner
@@ -324,36 +324,9 @@ DESCRIPTION:Join us on November 8th\, 2026 for an elevated evening celebra
 URL;VALUE=URI:https://www.tampa.gov/node/197226
 END:VEVENT
 BEGIN:VEVENT
-UID:6d0680b0-454b-4cf1-88e5-9ac8ad42f552
+UID:cd4252dd-8113-4e18-bd45-990466e9cb23
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261109T213000Z
-DTEND:20261110T003000Z
-SUMMARY:Blind Date with a Book
-LOCATION:W Kennedy Blvd &amp\; W Grand Central Ave Tampa \, FL 33602 Unite
- d States
-DESCRIPTION:Its a match! Swipe right on a good read and start a new chapte
- r together during Blind Date with a Book. Each novel has page-turner poten
- tial but is wrapped to hide the cover  its bound to be good! Join us to un
- wrap a new favorite and experience love at first page. This event happens 
- four times a year\, so its the perfect opportunity to stay booked and busy
- ! WHEN: November 9  4:30-7:30pm WHERE: Snow Park We are partnering with Ox
- ford Exchange and TeBella Tea Company on this program. In addition\, huge 
- thank you to our sponsordonor the Hillsborough Public Library (Seminole He
- ights Location) for their help with this program. El amor est en el aire! 
- Comienza tu nueva historia de amor con nuestra Cita a Ciegas Con Un Libro.
-  Cada obra viene envuelta y ocultando su portada. La idea es que el libro 
- que escojas sea una sorpresa! Acompanos para descubrir tu nueva aventura (
- y quin sabe? tal vez un amor a primera pgina). El evento es cuatro veces a
- l ao\, as que es la oportunidad perfecta para mantenerte ocupado! CUANDO: 
- 9 de noviembre  4:30-7:30pm DONDE: Parque Snow \n\nPermalink: https://www.
- tampa.gov/node/188216
-URL;VALUE=URI:https://www.tampa.gov/node/188216
-END:VEVENT
-BEGIN:VEVENT
-UID:1c583170-6418-4c45-a8b7-172ee755f1ac
-SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261111T150000Z
 DTEND:20261111T220000Z
 SUMMARY:Honor Our Veterans: Free Admission on Veterans Day
@@ -368,22 +341,9 @@ DESCRIPTION:Come celebrate and get free entry as we honor the heroes who s
 URL;VALUE=URI:https://www.tampa.gov/node/195916
 END:VEVENT
 BEGIN:VEVENT
-UID:bb7e34c2-fbb7-4021-a855-92db79f8479e
+UID:6e3662cc-098a-4410-b73d-7b6bec6904b4
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261111T170000Z
-DTEND:20261111T220000Z
-SUMMARY:Community Rebuilding Day
-LOCATION:1619 East 7th Avenue Tampa \, FL 33605 United States
-DESCRIPTION:A community gathering designed to help individuals pause\, ref
- lect\, and intentionally plan the next phase of their lives after challeng
- es or uncertainty \n\nPermalink: https://www.tampa.gov/node/188191
-URL;VALUE=URI:https://www.tampa.gov/node/188191
-END:VEVENT
-BEGIN:VEVENT
-UID:755740d8-2053-4985-a319-747842d8ef20
-SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261113T210000Z
 DTEND:20261113T220000Z
 SUMMARY:Veterans Health Hackathon
@@ -409,9 +369,9 @@ DESCRIPTION:The annual three-day Veterans Health Hackathon brings together
 URL;VALUE=URI:https://www.tampa.gov/node/196971
 END:VEVENT
 BEGIN:VEVENT
-UID:6474e6bd-2388-4776-9563-950d9d32503d
+UID:fe3855e3-41dd-402c-90a9-09eff805e263
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261113T223000Z
 DTEND:20261114T030000Z
 SUMMARY:Tampa Bay History Center Annual Gala
@@ -437,9 +397,9 @@ DESCRIPTION:The Tampa Bay History Center Annual Gala is dedicated to celeb
 URL;VALUE=URI:https://www.tampa.gov/node/190581
 END:VEVENT
 BEGIN:VEVENT
-UID:00529fab-d9a9-4cb3-80b9-08d9ec6aa460
+UID:e7dd3b17-9843-482d-bd59-d6643890d8ce
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261114T150000Z
 DTEND:20261114T210000Z
 SUMMARY:Encaustics Mixed Media Monotypes
@@ -452,9 +412,26 @@ DESCRIPTION:Saturday\, Nov 11  10:00 AM  4:00 PM Ages 18  Beginner Level C
 URL;VALUE=URI:https://www.tampa.gov/node/193521
 END:VEVENT
 BEGIN:VEVENT
-UID:bced96a2-d69a-4680-bb84-e9bbb8f0d16b
+UID:9f6d6fd3-7e96-410c-87e1-fee3ba20c629
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
+DTSTART:20261114T143000Z
+DTEND:20261114T210000Z
+SUMMARY:Dragon Boat Youth Camp
+LOCATION:402 W Laurel st Tampa \, FL 33607 United States
+DESCRIPTION:The USDBF Youth Committee in partnership with SACA Led by Team
+  USA level coach Kitt Noythanonsay\, this camp will provide a taste of com
+ petitive paddling for all levels. This camp is open to all individuals wit
+ h a drive to have fun and compete. Youth age divisions: 16U(12-16 years ol
+ d)\, 18U (17 and 18 years old) 24U(19-24 years old). Instagram: United Sta
+ tes Dragon Boat Federation (USDBF). \n\nPermalink: https://www.tampa.gov/n
+ ode/197231
+URL;VALUE=URI:https://www.tampa.gov/node/197231
+END:VEVENT
+BEGIN:VEVENT
+UID:ec72c8e5-03ee-4071-a541-72e7062c2b89
+SEQUENCE:0
+DTSTAMP:20261103T000345Z
 DTSTART:20261114T130000Z
 DTEND:20261114T205900Z
 SUMMARY:3rd Annual West Tampa Heights Community Yard Sale
@@ -478,9 +455,9 @@ DESCRIPTION:Explore West Tampa Heights\, formerly known as the Stadium Are
 URL;VALUE=URI:https://www.tampa.gov/node/196006
 END:VEVENT
 BEGIN:VEVENT
-UID:754ef825-626d-48de-809e-e7c980f9e01f
+UID:d156908e-5d7b-4634-8fdb-5ed516772cb1
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
 SUMMARY:Strong Over Fifty Experience at Armature Works
@@ -498,9 +475,9 @@ DESCRIPTION:The Strong Over 50 Experience is a free community health and w
 URL;VALUE=URI:https://www.tampa.gov/node/194906
 END:VEVENT
 BEGIN:VEVENT
-UID:a6e5348c-3e97-4520-9c26-8e9dcdbb9414
+UID:270b486f-5ff3-4cf4-acf0-0dae5f0f749d
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261115T190000Z
 DTEND:20261115T210000Z
 SUMMARY:Soldier039\\\;s Lens Gallery Walk Show Share
@@ -516,9 +493,9 @@ DESCRIPTION:Join us for a Gallery Walk Show Share with some of the photogr
 URL;VALUE=URI:https://www.tampa.gov/node/195876
 END:VEVENT
 BEGIN:VEVENT
-UID:c4a7ce37-7592-477d-92d8-93b3a9602e86
+UID:56fba1aa-ecb9-4f54-9299-89ca15ea9880
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261117T230000Z
 DTEND:20261118T020000Z
 SUMMARY:Figure Drawing Study
@@ -534,50 +511,9 @@ DESCRIPTION:Select Tuesdays  6:009:00 PM Classes Available  922\, 1020\, 1
 URL;VALUE=URI:https://www.tampa.gov/node/193661
 END:VEVENT
 BEGIN:VEVENT
-UID:7a46b7a1-6f32-4e1f-b85f-8fbdfe96938b
+UID:26291e3c-9acd-43a1-847a-d1846b042ad6
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261118T213000Z
-DTEND:20261118T230000Z
-SUMMARY:Teen Digital Studio
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Select Wednesdays  4:30 PM  6:00 PM Classes Available  916\, 1
- 021\, 1118\, 129 Ages 12-17  Beginner Level Gain access to a quiet\, creat
- ive space to explore digital drawing with Procreate! With input from the i
- nstructor\, you can create your own art\, comics\, anime characters\, and 
- much more! All programs and equipment are provided! \n\nPermalink: https:/
- /www.tampa.gov/node/193806
-URL;VALUE=URI:https://www.tampa.gov/node/193806
-END:VEVENT
-BEGIN:VEVENT
-UID:118b85d1-c0af-439c-898a-2a03f98e46de
-SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261118T143000Z
-DTEND:20261118T153000Z
-SUMMARY:Growing Creatively: Early Learner Gallery Art Experience
-LOCATION:120 West Gasparilla Plaza\, Tampa\, FL 33602\, USA Tampa \, FL 33
- 602 United States
-DESCRIPTION:Select Wednesdays  9:30-10:30 AM Classes Available  923\, 1021
- \, 1118\, 1216 Ages 2  Beginner-Intermediate Level Growing Creativity: Ear
- ly Leaners Gallery and Art Experience introduces toddlers and caregivers t
- o the joy of making art together. Children ages 2-5 will develop creativit
- y\, curiosity\, and early motor skills by exploring color\, texture\, and 
- movement through hands-on sensory activities and collaborative art making.
-  Using safe\, tactile materials such as paint\, natural elements\, and sim
- ple tools\, participants focus on process\, discovery\, and playful experi
- mentation. Each class draws inspiration from a different artwork on view i
- n the Tampa Museum of Art exhibitions. This cost covers the caregiver plus
-  1 child Your student is ready for this program if they have met these mil
- estones: Walks and runs confidently Walks upstairs with or without assista
- nce Turns pages in a book one at a time Holds a crayon and scribbles spont
- aneously \n\nPermalink: https://www.tampa.gov/node/193621
-URL;VALUE=URI:https://www.tampa.gov/node/193621
-END:VEVENT
-BEGIN:VEVENT
-UID:d2c01e34-48c8-4623-86d7-a0355cab254e
-SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261118T140000Z
 DTEND:20261118T200000Z
 SUMMARY:QC and TAT Driving Change Project Event
@@ -609,9 +545,50 @@ DESCRIPTION:Quality Carriers\, Inc. (QC) and TAT cordially invite you to s
 URL;VALUE=URI:https://www.tampa.gov/node/195586
 END:VEVENT
 BEGIN:VEVENT
-UID:25cda50c-8365-41a0-b815-22240cad9684
+UID:0469e9b0-2849-4c92-9af5-6ef135e528a3
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
+DTSTART:20261118T213000Z
+DTEND:20261118T230000Z
+SUMMARY:Teen Digital Studio
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Select Wednesdays  4:30 PM  6:00 PM Classes Available  916\, 1
+ 021\, 1118\, 129 Ages 12-17  Beginner Level Gain access to a quiet\, creat
+ ive space to explore digital drawing with Procreate! With input from the i
+ nstructor\, you can create your own art\, comics\, anime characters\, and 
+ much more! All programs and equipment are provided! \n\nPermalink: https:/
+ /www.tampa.gov/node/193806
+URL;VALUE=URI:https://www.tampa.gov/node/193806
+END:VEVENT
+BEGIN:VEVENT
+UID:435b097e-3bc2-479f-8fff-4f0957999bed
+SEQUENCE:0
+DTSTAMP:20261103T000345Z
+DTSTART:20261118T143000Z
+DTEND:20261118T153000Z
+SUMMARY:Growing Creatively: Early Learner Gallery Art Experience
+LOCATION:120 West Gasparilla Plaza\, Tampa\, FL 33602\, USA Tampa \, FL 33
+ 602 United States
+DESCRIPTION:Select Wednesdays  9:30-10:30 AM Classes Available  923\, 1021
+ \, 1118\, 1216 Ages 2  Beginner-Intermediate Level Growing Creativity: Ear
+ ly Leaners Gallery and Art Experience introduces toddlers and caregivers t
+ o the joy of making art together. Children ages 2-5 will develop creativit
+ y\, curiosity\, and early motor skills by exploring color\, texture\, and 
+ movement through hands-on sensory activities and collaborative art making.
+  Using safe\, tactile materials such as paint\, natural elements\, and sim
+ ple tools\, participants focus on process\, discovery\, and playful experi
+ mentation. Each class draws inspiration from a different artwork on view i
+ n the Tampa Museum of Art exhibitions. This cost covers the caregiver plus
+  1 child Your student is ready for this program if they have met these mil
+ estones: Walks and runs confidently Walks upstairs with or without assista
+ nce Turns pages in a book one at a time Holds a crayon and scribbles spont
+ aneously \n\nPermalink: https://www.tampa.gov/node/193621
+URL;VALUE=URI:https://www.tampa.gov/node/193621
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1d57db-e948-468d-a12d-0a907d13e882
+SEQUENCE:0
+DTSTAMP:20261103T000345Z
 DTSTART:20261118T163000Z
 DTEND:20261118T180000Z
 SUMMARY:Lung Cancer Survivors: Have Lunch on LiveLung at Cooper039\\\;s Ha
@@ -635,9 +612,9 @@ DESCRIPTION:The LiveLung Tampa chapter is a community for anyone impacted
 URL;VALUE=URI:https://www.tampa.gov/node/196831
 END:VEVENT
 BEGIN:VEVENT
-UID:401f78f9-2cae-472c-b7eb-a136a9910763
+UID:9b89dccd-15dd-44a1-917f-75418ac66b64
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261120T003000Z
 DTEND:20261120T020000Z
 SUMMARY:HC Dance Presents: Fall Dance Concert
@@ -658,9 +635,9 @@ DESCRIPTION:The HC Dance Department invites you to an evening of dance at
 URL;VALUE=URI:https://www.tampa.gov/node/196871
 END:VEVENT
 BEGIN:VEVENT
-UID:2e31ae1f-f659-4260-8e67-3cc4d6586965
+UID:c9358a67-cf4a-4046-adea-d92cb2e80408
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261119T233000Z
 DTEND:20261120T003000Z
 SUMMARY:Lowry Park Central Community Organization
@@ -674,9 +651,9 @@ DESCRIPTION:The Neighborhood Association will hold monthly meetings on the
 URL;VALUE=URI:https://www.tampa.gov/node/193906
 END:VEVENT
 BEGIN:VEVENT
-UID:fadf957f-b5ea-4656-8310-a5e21ffa122f
+UID:48294ded-95dd-4a3c-802c-40fad6fed72c
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261119T220000Z
 DTEND:20261120T003000Z
 SUMMARY:Caite Kyla Holiday Sip Shop
@@ -697,9 +674,9 @@ DESCRIPTION:Celebrate the season with us at the Caite Kyla Holiday Sip Sho
 URL;VALUE=URI:https://www.tampa.gov/node/194966
 END:VEVENT
 BEGIN:VEVENT
-UID:18ac5aea-3c89-4b9a-b163-52f7029ba89f
+UID:d9d81dd8-fa1b-46a0-9a71-efc4505d1269
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261119T153000Z
 DTEND:20261119T163000Z
 SUMMARY:Book Club: Fourteenth Colony: The Forgotten Story of the Gulf Sout
@@ -720,9 +697,9 @@ DESCRIPTION:We are excited to announce the next session of the History Cen
 URL;VALUE=URI:https://www.tampa.gov/node/196226
 END:VEVENT
 BEGIN:VEVENT
-UID:c60a71e1-3fb8-4edf-a3ba-9d184cafeb0b
+UID:beb83536-4385-467f-a192-9053f10d1b4a
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261119T150000Z
 DTEND:20261120T000000Z
 SUMMARY:Holiday Shopping Event
@@ -740,9 +717,9 @@ DESCRIPTION:Find something for everyone on your list with unique gifts mad
 URL;VALUE=URI:https://www.tampa.gov/node/196861
 END:VEVENT
 BEGIN:VEVENT
-UID:13d41a2a-0836-47cb-a2a7-d9345fccf312
+UID:ac76d5b1-d244-4057-8ab0-b33d9795a078
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261121T003000Z
 DTEND:20261121T020000Z
 SUMMARY:HC Dance Presents: Fall Dance Concert
@@ -763,9 +740,9 @@ DESCRIPTION:The HC Dance Department invites you to an evening of dance at
 URL;VALUE=URI:https://www.tampa.gov/node/196876
 END:VEVENT
 BEGIN:VEVENT
-UID:fe6ae536-d0ba-495a-9307-a423a0af7da4
+UID:b1169811-6b92-402d-ae4e-657dcd21e13f
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261120T170000Z
 DTEND:20261120T220000Z
 SUMMARY:Winter Village\, presented by the Tampa Bay Lightning
@@ -785,9 +762,9 @@ DESCRIPTION:Celebrate the holiday season in Tampas Downtown at Winter Vill
 URL;VALUE=URI:https://www.tampa.gov/node/196901
 END:VEVENT
 BEGIN:VEVENT
-UID:77b57bf7-3274-4bbd-b00c-a2f9287fff54
+UID:9144ce7d-ef97-43e4-80d3-efb2ec00ffca
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261121T170000Z
 DTEND:20261122T020000Z
 SUMMARY:Winter Village\, presented by the Tampa Bay Lightning
@@ -807,9 +784,9 @@ DESCRIPTION:Celebrate the holiday season in Tampas Downtown at Winter Vill
 URL;VALUE=URI:https://www.tampa.gov/node/196906
 END:VEVENT
 BEGIN:VEVENT
-UID:710ec725-f10f-4e17-a942-1a811f2cf119
+UID:47236c92-c87b-483e-89b2-62fa08de4054
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261122T003000Z
 DTEND:20261122T020000Z
 SUMMARY:HC Dance Presents: Fall Dance Concert
@@ -830,9 +807,9 @@ DESCRIPTION:The HC Dance Department invites you to an evening of dance at
 URL;VALUE=URI:https://www.tampa.gov/node/196881
 END:VEVENT
 BEGIN:VEVENT
-UID:9b0fcbaf-523c-4c9b-9ece-6fa8ea053dea
+UID:244ec054-e777-44ae-9901-a27c4b2eabe3
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261126T150000Z
 DTEND:20261127T020000Z
 SUMMARY:Thanksgiving Three-Course Chefs Feast at Rusty Pelican
@@ -845,9 +822,9 @@ DESCRIPTION:Skip the cooking and feast with a view! On Thursday\, Nov. 26\
 URL;VALUE=URI:https://www.tampa.gov/node/196916
 END:VEVENT
 BEGIN:VEVENT
-UID:52b92667-f8bc-41ef-b026-116b8a1586a2
+UID:9e75d835-f1a7-4e18-803c-ae75a065cf43
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261201T230000Z
 DTEND:20261202T020000Z
 SUMMARY:Tuesday Ceramics
@@ -865,9 +842,28 @@ DESCRIPTION:Tuesdays  6:00 PM  9:00 PM Dec 1 - Dec 15 (3 Classes) Ages 18
 URL;VALUE=URI:https://www.tampa.gov/node/193751
 END:VEVENT
 BEGIN:VEVENT
-UID:eebe85bc-6a6d-4816-9ce6-a6ffe909f846
+UID:8d537f78-bc08-4fd5-b0dc-0917329cae99
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
+DTSTART:20261203T230000Z
+DTEND:20261204T020000Z
+SUMMARY:Remix: David Hockney Holiday Cards
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Thursday\, Dec 3  6:009:00 PM Ages 18  Beginner Level Remix is
+  a series of make-and-take art workshops for adults inspired by the Museum
+ s current exhibitions with a new project every month. This months project 
+ will be inspired by our upcoming David Hockney: Perspectives Should Be Rev
+ ersed Exhibition (https:tampamuseum.orgupcoming-exhibitions)\, focusing on
+  creating charming greeting cards for the holiday season or any occasion! 
+ Workshops are designed to be enjoyed by participants of any skill level\, 
+ and all materials are provided. \n\nPermalink: https://www.tampa.gov/node/
+ 193681
+URL;VALUE=URI:https://www.tampa.gov/node/193681
+END:VEVENT
+BEGIN:VEVENT
+UID:503dbce4-8d59-42ca-a237-1176d6fcd0c6
+SEQUENCE:0
+DTSTAMP:20261103T000345Z
 DTSTART:20261203T230000Z
 DTEND:20261204T020000Z
 SUMMARY:Rock the Park
@@ -886,28 +882,9 @@ DESCRIPTION:Rock the Park is a FREE monthly music series showcasing musica
 URL;VALUE=URI:https://www.tampa.gov/node/179871
 END:VEVENT
 BEGIN:VEVENT
-UID:c8924320-2601-4d82-9f14-29ad8eff635f
+UID:ff0afcad-8131-406c-b5d8-0b87ade6b129
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261203T230000Z
-DTEND:20261204T020000Z
-SUMMARY:Remix: David Hockney Holiday Cards
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Thursday\, Dec 3  6:009:00 PM Ages 18  Beginner Level Remix is
-  a series of make-and-take art workshops for adults inspired by the Museum
- s current exhibitions with a new project every month. This months project 
- will be inspired by our upcoming David Hockney: Perspectives Should Be Rev
- ersed Exhibition (https:tampamuseum.orgupcoming-exhibitions)\, focusing on
-  creating charming greeting cards for the holiday season or any occasion! 
- Workshops are designed to be enjoyed by participants of any skill level\, 
- and all materials are provided. \n\nPermalink: https://www.tampa.gov/node/
- 193681
-URL;VALUE=URI:https://www.tampa.gov/node/193681
-END:VEVENT
-BEGIN:VEVENT
-UID:2a12fd25-c251-4d16-b76f-e54d93c047d1
-SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261206T000000Z
 DTEND:20261206T033000Z
 SUMMARY:Hearts of Valor Incs Annual Black Tie Gala: A Louisiana Creole Aff
@@ -922,9 +899,9 @@ DESCRIPTION:Join Us for an Unforgettable Night of Impact and Elegance! You
 URL;VALUE=URI:https://www.tampa.gov/node/196476
 END:VEVENT
 BEGIN:VEVENT
-UID:72ae6867-8733-4553-af2c-3da96cef4557
+UID:5968884c-f29d-4de1-a42c-561af00dab54
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261206T133000Z
 DTEND:20261206T160000Z
 SUMMARY:Run Hard Youth 5k
@@ -942,40 +919,9 @@ DESCRIPTION:Lace up for the Run Hard Youth 5K at Gadsden Park in South Tam
 URL;VALUE=URI:https://www.tampa.gov/node/196721
 END:VEVENT
 BEGIN:VEVENT
-UID:aba87cc0-50cf-4482-beea-54bafc9adc53
+UID:1b8fe3e1-ec1b-4bd9-81db-887f24fff833
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261206T190000Z
-DTEND:20261206T200000Z
-SUMMARY:Lecture: Ptolemaic Queens
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Ptolemaic Queens: Women Power in Hellenistic Egypt The Tampa M
- useum of Arts collection includes a limestone portrait of a Ptolemaic prin
- cess\, conventionally identified as Queen Arsinoe II (ca. 318268 )\, from 
- the Joseph Veach Noble Collection. The sculpture provides a fitting introd
- uction to the remarkable women of the Ptolemaic dynasty\, which ruled Egyp
- t for nearly three centuries\, from the death of Alexander the Great to th
- e death of Cleopatra VII (32330 ). Drawing on literary\, archaeological\, 
- and artistic evidence\, this lecture explores how women of the Ptolemaic r
- oyal house could exercise influence and authority in a world shaped by bot
- h Greco-Macedonian and Egyptian traditions of kingship. Particular attenti
- on will be given to four powerful queensArsinoe II\, Berenice II\, Cleopat
- ra I\, and Cleopatra VIIand to the changing political roles they assumed a
- s wives\, mothers\, regents\, co-rulers\, and\, in some cases\, rulers in 
- their own right. The lecture will also examine how royal women were identi
- fied with and worshipped as goddesses\, including Aphrodite\, Demeter\, Ha
- thor\, and Isis. Such religious associations were not merely expressions o
- f piety: they helped articulate ideals of femininity\, fertility\, dynasti
- c continuity\, and royal power\, while contributing to the legitimacy and 
- sacralization of Ptolemaic rule. Lectures are offered free with the cost o
- f daily admission: Art Museum Members : Free Not-Yet-Members : 25 College 
- Students : Free \n\nPermalink: https://www.tampa.gov/node/194696
-URL;VALUE=URI:https://www.tampa.gov/node/194696
-END:VEVENT
-BEGIN:VEVENT
-UID:f0e92cea-7c23-4d26-8d99-26099941bd9e
-SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261206T150000Z
 DTEND:20261206T220000Z
 SUMMARY:Pumpkin Smash the Silence Holiday Market
@@ -1024,9 +970,40 @@ DESCRIPTION:THE ORGANIZATIONS BEHIND THE EVENT Two missions. One shared in
 URL;VALUE=URI:https://www.tampa.gov/node/197041
 END:VEVENT
 BEGIN:VEVENT
-UID:286a93d3-74c0-4a02-a74f-b2a0e4731843
+UID:d90de922-3464-44a2-a9fd-cc0295903d63
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
+DTSTART:20261206T190000Z
+DTEND:20261206T200000Z
+SUMMARY:Lecture: Ptolemaic Queens
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Ptolemaic Queens: Women Power in Hellenistic Egypt The Tampa M
+ useum of Arts collection includes a limestone portrait of a Ptolemaic prin
+ cess\, conventionally identified as Queen Arsinoe II (ca. 318268 )\, from 
+ the Joseph Veach Noble Collection. The sculpture provides a fitting introd
+ uction to the remarkable women of the Ptolemaic dynasty\, which ruled Egyp
+ t for nearly three centuries\, from the death of Alexander the Great to th
+ e death of Cleopatra VII (32330 ). Drawing on literary\, archaeological\, 
+ and artistic evidence\, this lecture explores how women of the Ptolemaic r
+ oyal house could exercise influence and authority in a world shaped by bot
+ h Greco-Macedonian and Egyptian traditions of kingship. Particular attenti
+ on will be given to four powerful queensArsinoe II\, Berenice II\, Cleopat
+ ra I\, and Cleopatra VIIand to the changing political roles they assumed a
+ s wives\, mothers\, regents\, co-rulers\, and\, in some cases\, rulers in 
+ their own right. The lecture will also examine how royal women were identi
+ fied with and worshipped as goddesses\, including Aphrodite\, Demeter\, Ha
+ thor\, and Isis. Such religious associations were not merely expressions o
+ f piety: they helped articulate ideals of femininity\, fertility\, dynasti
+ c continuity\, and royal power\, while contributing to the legitimacy and 
+ sacralization of Ptolemaic rule. Lectures are offered free with the cost o
+ f daily admission: Art Museum Members : Free Not-Yet-Members : 25 College 
+ Students : Free \n\nPermalink: https://www.tampa.gov/node/194696
+URL;VALUE=URI:https://www.tampa.gov/node/194696
+END:VEVENT
+BEGIN:VEVENT
+UID:2f867e6d-1f9e-433d-90f5-6284eabe55db
+SEQUENCE:0
+DTSTAMP:20261103T000345Z
 DTSTART:20261209T213000Z
 DTEND:20261209T230000Z
 SUMMARY:Teen Digital Studio
@@ -1040,29 +1017,9 @@ DESCRIPTION:Select Wednesdays  4:30 PM  6:00 PM Classes Available  916\, 1
 URL;VALUE=URI:https://www.tampa.gov/node/193811
 END:VEVENT
 BEGIN:VEVENT
-UID:c3964070-faf7-4658-807f-780067ed04a4
+UID:dc9bfd34-4144-4202-8f25-93214dcec780
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261211T223000Z
-DTEND:20261212T003000Z
-SUMMARY:Keys in the Park: A Melodic Duel
-LOCATION:400 N. Franklin Street Tampa \, FL 33602 United States
-DESCRIPTION:Join us for an unforgettable evening of musical magic at Keys 
- in the Park: A Melodic Duel happening in the heart of Tampas Downtown! Exp
- erience the thrill of dueling pianos as talented musicians go head-to-head
- \, tickling the ivories and playing your favorite songs. Set against the s
- tunning backdrop of our citys vibrant downtown\, this FREE lively event is
-  perfect for music lovers of all ages. So grab a blanket\, bring your frie
- nds and family\, and immerse yourself in an evening filled with laughter\,
-  creativity\, and the joy of live music. Get ready to tap your feet\, sing
-  along\, and create cherished memories at Keys in the Park: A Melodic Duel
- . \n\nPermalink: https://www.tampa.gov/node/188246
-URL;VALUE=URI:https://www.tampa.gov/node/188246
-END:VEVENT
-BEGIN:VEVENT
-UID:5b5c166b-2e6b-4a56-8486-dbb447828fe8
-SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000345Z
 DTSTART:20261211T233000Z
 DTEND:20261212T003000Z
 SUMMARY:Constructed Vision Opening Reception
@@ -1077,26 +1034,9 @@ DESCRIPTION:Join us for the Opening Reception of Constructed Vision. Const
 URL;VALUE=URI:https://www.tampa.gov/node/197251
 END:VEVENT
 BEGIN:VEVENT
-UID:5a226492-9b73-4c75-ab66-bf14ccdc78cc
+UID:db5a37b3-4410-4edc-b606-b748a57e03cf
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261212T230000Z
-DTEND:20261213T003000Z
-SUMMARY:Constructed Vision Opening Reception
-LOCATION:1630 East 7th Avenue Tampa \, FL 33605 United States
-DESCRIPTION:Join us for the Opening Reception of Constructed Vision. Const
- ructed Vision brings together four artists who use photography as a starti
- ng point for experimentation\, transformation\, and expanded forms of imag
- e-making. Through collage\, sculpture\, installation\, alternative process
- es\, and physical manipulation\, the artists construct\, fragment\, and re
- imagine photographic images beyond traditional documentary approaches. \n\
- nPermalink: https://www.tampa.gov/node/195936
-URL;VALUE=URI:https://www.tampa.gov/node/195936
-END:VEVENT
-BEGIN:VEVENT
-UID:3be0346e-7693-424b-866e-ea261f47b6db
-SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000346Z
 DTSTART:20261212T230000Z
 DTEND:20261213T003000Z
 SUMMARY:Constructed Vision Opening Reception
@@ -1111,58 +1051,26 @@ DESCRIPTION:Join us for the Opening Reception of Constructed Vision. Const
 URL;VALUE=URI:https://www.tampa.gov/node/195891
 END:VEVENT
 BEGIN:VEVENT
-UID:b21ad9d4-b9f1-4c2d-bb0b-c21b09764a7f
+UID:29bb7faa-32f4-438d-a35f-55babcc754a8
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261216T143000Z
-DTEND:20261216T153000Z
-SUMMARY:Growing Creatively: Early Learner Gallery Art Experience
-LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
-DESCRIPTION:Select Wednesdays  9:30-10:30 AM Classes Available  923\, 1021
- \, 1118\, 1216 Ages 2  Beginner-Intermediate Level Growing Creativity: Ear
- ly Leaners Gallery and Art Experience introduces toddlers and caregivers t
- o the joy of making art together. Children ages 2-5 will develop creativit
- y\, curiosity\, and early motor skills by exploring color\, texture\, and 
- movement through hands-on sensory activities and collaborative art making.
-  Using safe\, tactile materials such as paint\, natural elements\, and sim
- ple tools\, participants focus on process\, discovery\, and playful experi
- mentation. Each class draws inspiration from a different artwork on view i
- n the Tampa Museum of Art exhibitions. This cost covers the caregiver plus
-  1 child Your student is ready for this program if they have met these mil
- estones: Walks and runs confidently Walks upstairs with or without assista
- nce Turns pages in a book one at a time Holds a crayon and scribbles spont
- aneously \n\nPermalink: https://www.tampa.gov/node/193581
-URL;VALUE=URI:https://www.tampa.gov/node/193581
+DTSTAMP:20261103T000346Z
+DTSTART:20261212T230000Z
+DTEND:20261213T003000Z
+SUMMARY:Constructed Vision Opening Reception
+LOCATION:1630 East 7th Avenue Tampa \, FL 33605 United States
+DESCRIPTION:Join us for the Opening Reception of Constructed Vision. Const
+ ructed Vision brings together four artists who use photography as a starti
+ ng point for experimentation\, transformation\, and expanded forms of imag
+ e-making. Through collage\, sculpture\, installation\, alternative process
+ es\, and physical manipulation\, the artists construct\, fragment\, and re
+ imagine photographic images beyond traditional documentary approaches. \n\
+ nPermalink: https://www.tampa.gov/node/195936
+URL;VALUE=URI:https://www.tampa.gov/node/195936
 END:VEVENT
 BEGIN:VEVENT
-UID:2083e866-875d-4c83-807f-07401bb1be10
+UID:0df5f9ef-9e76-4e32-b8fa-9055967f5aaa
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
-DTSTART:20261216T143000Z
-DTEND:20261216T153000Z
-SUMMARY:Growing Creatively: Early Learner Gallery Art Experience
-LOCATION:120 West Gasparilla Plaza\, Tampa\, FL 33602\, USA Tampa \, FL 33
- 602 United States
-DESCRIPTION:Select Wednesdays  9:30-10:30 AM Classes Available  923\, 1021
- \, 1118\, 1216 Ages 2  Beginner-Intermediate Level Growing Creativity: Ear
- ly Leaners Gallery and Art Experience introduces toddlers and caregivers t
- o the joy of making art together. Children ages 2-5 will develop creativit
- y\, curiosity\, and early motor skills by exploring color\, texture\, and 
- movement through hands-on sensory activities and collaborative art making.
-  Using safe\, tactile materials such as paint\, natural elements\, and sim
- ple tools\, participants focus on process\, discovery\, and playful experi
- mentation. Each class draws inspiration from a different artwork on view i
- n the Tampa Museum of Art exhibitions. This cost covers the caregiver plus
-  1 child Your student is ready for this program if they have met these mil
- estones: Walks and runs confidently Walks upstairs with or without assista
- nce Turns pages in a book one at a time Holds a crayon and scribbles spont
- aneously \n\nPermalink: https://www.tampa.gov/node/193626
-URL;VALUE=URI:https://www.tampa.gov/node/193626
-END:VEVENT
-BEGIN:VEVENT
-UID:341ca37a-df13-429d-8f59-9e9f0da4740c
-SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000346Z
 DTSTART:20261217T000000Z
 DTEND:20261217T020000Z
 SUMMARY:Powerstories Theatre presents Raising Twelve on a Nickel and a Pra
@@ -1189,9 +1097,58 @@ DESCRIPTION:Powerstories holiday tradition\, Raising Twelve on a Nickel an
 URL;VALUE=URI:https://www.tampa.gov/node/197146
 END:VEVENT
 BEGIN:VEVENT
-UID:d08cc9a1-f1b5-4247-9964-d13db7bfdadc
+UID:a1a03a29-7df0-4b71-a57d-ebb8548fc6e7
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000346Z
+DTSTART:20261216T143000Z
+DTEND:20261216T153000Z
+SUMMARY:Growing Creatively: Early Learner Gallery Art Experience
+LOCATION:120 W Gasparilla Plaza Tampa \, FL 33602 United States
+DESCRIPTION:Select Wednesdays  9:30-10:30 AM Classes Available  923\, 1021
+ \, 1118\, 1216 Ages 2  Beginner-Intermediate Level Growing Creativity: Ear
+ ly Leaners Gallery and Art Experience introduces toddlers and caregivers t
+ o the joy of making art together. Children ages 2-5 will develop creativit
+ y\, curiosity\, and early motor skills by exploring color\, texture\, and 
+ movement through hands-on sensory activities and collaborative art making.
+  Using safe\, tactile materials such as paint\, natural elements\, and sim
+ ple tools\, participants focus on process\, discovery\, and playful experi
+ mentation. Each class draws inspiration from a different artwork on view i
+ n the Tampa Museum of Art exhibitions. This cost covers the caregiver plus
+  1 child Your student is ready for this program if they have met these mil
+ estones: Walks and runs confidently Walks upstairs with or without assista
+ nce Turns pages in a book one at a time Holds a crayon and scribbles spont
+ aneously \n\nPermalink: https://www.tampa.gov/node/193581
+URL;VALUE=URI:https://www.tampa.gov/node/193581
+END:VEVENT
+BEGIN:VEVENT
+UID:9cf36f2b-e417-4aef-ad0d-ea4f5008a6d4
+SEQUENCE:0
+DTSTAMP:20261103T000346Z
+DTSTART:20261216T143000Z
+DTEND:20261216T153000Z
+SUMMARY:Growing Creatively: Early Learner Gallery Art Experience
+LOCATION:120 West Gasparilla Plaza\, Tampa\, FL 33602\, USA Tampa \, FL 33
+ 602 United States
+DESCRIPTION:Select Wednesdays  9:30-10:30 AM Classes Available  923\, 1021
+ \, 1118\, 1216 Ages 2  Beginner-Intermediate Level Growing Creativity: Ear
+ ly Leaners Gallery and Art Experience introduces toddlers and caregivers t
+ o the joy of making art together. Children ages 2-5 will develop creativit
+ y\, curiosity\, and early motor skills by exploring color\, texture\, and 
+ movement through hands-on sensory activities and collaborative art making.
+  Using safe\, tactile materials such as paint\, natural elements\, and sim
+ ple tools\, participants focus on process\, discovery\, and playful experi
+ mentation. Each class draws inspiration from a different artwork on view i
+ n the Tampa Museum of Art exhibitions. This cost covers the caregiver plus
+  1 child Your student is ready for this program if they have met these mil
+ estones: Walks and runs confidently Walks upstairs with or without assista
+ nce Turns pages in a book one at a time Holds a crayon and scribbles spont
+ aneously \n\nPermalink: https://www.tampa.gov/node/193626
+URL;VALUE=URI:https://www.tampa.gov/node/193626
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ca58be-80ef-4671-a2fc-93f65986e76a
+SEQUENCE:0
+DTSTAMP:20261103T000346Z
 DTSTART:20261217T153000Z
 DTEND:20261217T163000Z
 SUMMARY:Book Club: Tampa Theatre: A Century of Stories by Andrew T. Huse
@@ -1210,9 +1167,9 @@ DESCRIPTION:Join our latest History Center Book Club on Thursday\, Decembe
 URL;VALUE=URI:https://www.tampa.gov/node/196231
 END:VEVENT
 BEGIN:VEVENT
-UID:5799f807-7950-44cc-9d15-ef8965a2803f
+UID:150b1947-8dba-4b68-a064-5d8126531877
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000346Z
 DTSTART:20261219T150000Z
 DTEND:20261219T163000Z
 SUMMARY:Historic Central Avenue Walking Tour
@@ -1242,9 +1199,9 @@ DESCRIPTION:Explore Tampas historic Central Avenue district with Fred Hear
 URL;VALUE=URI:https://www.tampa.gov/node/196221
 END:VEVENT
 BEGIN:VEVENT
-UID:433418bf-06eb-458f-a4a4-0411b19a33b7
+UID:6e6a3a91-da48-4202-8d4f-98c4a9c8a35b
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000346Z
 DTSTART:20270109T180000Z
 DTEND:20270109T220000Z
 SUMMARY:2027 Tampa Oyster Fest
@@ -1267,9 +1224,9 @@ DESCRIPTION:Tampa Oyster Fest is the community event Tampa Bay looks forwa
 URL;VALUE=URI:https://www.tampa.gov/node/196171
 END:VEVENT
 BEGIN:VEVENT
-UID:a4bdb790-52b5-48e0-be3b-a10f1f7bce7c
+UID:d0e655b4-92bc-41d9-848a-c8a3ceb25137
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000346Z
 DTSTART:20270117T210000Z
 DTEND:20270117T230000Z
 SUMMARY:2027 MLK Interfaith Event
@@ -1289,9 +1246,9 @@ DESCRIPTION:Join hundreds of neighbors for a stirring tribute to Dr. Marti
 URL;VALUE=URI:https://www.tampa.gov/node/197151
 END:VEVENT
 BEGIN:VEVENT
-UID:5ad2a881-98a8-42f0-b6cd-084cd330c1ea
+UID:8a6ea312-d375-4a90-a0dd-411c1a0925c4
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000346Z
 DTSTART:20270121T153000Z
 DTEND:20270121T163000Z
 SUMMARY:Book Club: A Land Remembered by Patrick D. Smith
@@ -1310,9 +1267,9 @@ DESCRIPTION:Start the new year with the History Centers Book Club on Thurs
 URL;VALUE=URI:https://www.tampa.gov/node/196236
 END:VEVENT
 BEGIN:VEVENT
-UID:067b1ed7-4cbf-42a5-92b6-cb6c8078f56f
+UID:e409c9b9-4776-4dea-badc-5ac176e70c20
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000346Z
 DTSTART:20270123T150000Z
 DTEND:20270123T180000Z
 SUMMARY:School Safari
@@ -1324,9 +1281,9 @@ DESCRIPTION:Skip the endless searching and meet top local schools in one l
 URL;VALUE=URI:https://www.tampa.gov/node/195081
 END:VEVENT
 BEGIN:VEVENT
-UID:6ef941f3-3aa6-44eb-828e-30b8ddb6a806
+UID:c49e7218-85b8-49d4-ab5e-b8b55666b32e
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000346Z
 DTSTART:20270125T220000Z
 DTEND:20270126T020000Z
 SUMMARY:Tampa Tastings
@@ -1383,9 +1340,9 @@ DESCRIPTION:WHOS READY FOR A WHOLE NEW WAY TO EXPERIENCE TAMPAS FOOD SCENE
 URL;VALUE=URI:https://www.tampa.gov/node/196836
 END:VEVENT
 BEGIN:VEVENT
-UID:abe1a283-89ca-46fd-9215-a7343671c781
+UID:48ef6a60-49a8-4977-a389-7bd876085e9f
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000346Z
 DTSTART:20270227T150000Z
 DTEND:20270227T220000Z
 SUMMARY:Tampa Fine Art Show by Hot Works
@@ -1415,9 +1372,9 @@ DESCRIPTION:Tampa Fine Art Show by Hot Works features quality juried artis
 URL;VALUE=URI:https://www.tampa.gov/node/194191
 END:VEVENT
 BEGIN:VEVENT
-UID:1e7866b3-afe0-4b53-b28b-7098eb89dbc7
+UID:6b026e44-7f69-4b51-951e-aada98661408
 SEQUENCE:0
-DTSTAMP:20261102T000342Z
+DTSTAMP:20261103T000346Z
 DTSTART:20270228T190000Z
 DTEND:20270228T200000Z
 SUMMARY:Lecture: Weird and Wonderful Animals on Etruscan Mirrors

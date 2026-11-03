@@ -4,4 +4,33 @@ PRODID:-//sebbo.net//ical-generator//EN
 NAME:Tampa Calendar - Parks &amp; Recreation
 X-WR-CALNAME:Tampa Calendar - Parks &amp; Recreation
 X-WR-CALDESC:Community events in Tampa for Parks &amp; Recreation
+BEGIN:VEVENT
+UID:6c369686-02d0-4155-b164-48aceaa1e455
+SEQUENCE:0
+DTSTAMP:20261103T000348Z
+DTSTART:20261107T000000Z
+DTEND:20261107T023000Z
+SUMMARY:Richard039\\\;s Run for Life
+LOCATION:Centennial Park 1800 E. 8th Ave. Tampa \, FL 33605 United States
+DESCRIPTION:23rd Annual Richards Run for Life Friday\, November 6\, 2026 7
+ :00pm-9:30pm Centennial ParkYbor For more information or to sign up\, plea
+ se contact Richards Run for Life. (https:runsignup.comRaceFLTampaRichardsR
+ unForLife) \n\nPermalink: https://www.tampa.gov/node/197206
+URL;VALUE=URI:https://www.tampa.gov/node/197206
+END:VEVENT
+BEGIN:VEVENT
+UID:c47a7483-716c-42cc-972c-3e29614f0dfb
+SEQUENCE:0
+DTSTAMP:20261103T000348Z
+DTSTART:20261114T120000Z
+DTEND:20261114T160000Z
+SUMMARY:Veterans Run
+LOCATION:Courtney Campbell Causeway Trail 7740 W. Courtney Campbell Cswy T
+ ampa \, FL 33607 United States
+DESCRIPTION:Veterans Run Saturday\, November 14\, 2026 7:00am-11:00am Cour
+ tney Campbell Causeway Trail For more information or to sign up\, please c
+ ontact Veterans Run (https:runsignup.comRaceFLTampaTheVeteransRun). \n\nPe
+ rmalink: https://www.tampa.gov/node/197201
+URL;VALUE=URI:https://www.tampa.gov/node/197201
+END:VEVENT
 END:VCALENDAR
