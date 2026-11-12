@@ -5,9 +5,9 @@ NAME:Tampa Calendar - Public Meetings
 X-WR-CALNAME:Tampa Calendar - Public Meetings
 X-WR-CALDESC:Community events in Tampa for Public Meetings
 BEGIN:VEVENT
-UID:a6ad44d5-03ef-498f-80db-095acc9d1e4e
+UID:15bb2a54-e45d-41b8-bf65-ce10063540fd
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261102T223000Z
 DTEND:20261102T223000Z
 SUMMARY:Architectural Review Commission
@@ -29,9 +29,9 @@ DESCRIPTION:CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC
 URL;VALUE=URI:https://www.tampa.gov/node/197016
 END:VEVENT
 BEGIN:VEVENT
-UID:48e230c0-e678-4853-983b-35ac211f9ebc
+UID:fdc2ded4-9b4b-495e-86f4-51a6f5616bd1
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261103T223000Z
 DTEND:20261103T223000Z
 SUMMARY:Downtown Community Advisory Committee
@@ -62,9 +62,24 @@ DESCRIPTION:DOWNTOWN COMMUNITY ADVISORY COMMITTEE FOR THE DOWNTOWN COMMUNI
 URL;VALUE=URI:https://www.tampa.gov/node/196731
 END:VEVENT
 BEGIN:VEVENT
-UID:2e2db445-2044-4da5-a98c-035aa523a9d5
+UID:307aae3a-f009-4b8d-99c4-cac424ddea0b
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
+DTSTART:20261104T140000Z
+DTEND:20261104T150000Z
+SUMMARY:Public Art Committee
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Notice: City of Tampa\, Public Art Committee Wednesday\, Novem
+ ber 4\, 2026 9:00 a.m.-10:00 a.m. Hanna City Center 2555 E. Hanna Avenue\,
+  3 rd Floor Tampa\, FL 33610 Contact: Melissa.Daviestampagov.net (mailto:M
+ elissa.Daviestampagov.net) www.tampa.govarts (http:www.tampa.govarts) (813
+ ) 274-8531 \n\nPermalink: https://www.tampa.gov/node/197051
+URL;VALUE=URI:https://www.tampa.gov/node/197051
+END:VEVENT
+BEGIN:VEVENT
+UID:3a0d455c-d6ae-41df-9a33-f24d981206dc
+SEQUENCE:0
+DTSTAMP:20261112T000332Z
 DTSTART:20261104T223000Z
 DTEND:20261104T223000Z
 SUMMARY:CANCELLED - Channel District Community Advisory Committee
@@ -97,9 +112,9 @@ DESCRIPTION:CANCELLED CHANNEL DISTRICT COMMUNITY ADVISORY COMMITTEE FOR TH
 URL;VALUE=URI:https://www.tampa.gov/node/196756
 END:VEVENT
 BEGIN:VEVENT
-UID:e686aee8-a4f0-4b29-8855-736d349f69b7
+UID:8be5f30d-ecfb-4680-af04-00b5c9274785
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261104T223000Z
 DTEND:20261104T223000Z
 SUMMARY:Drew Park Community Advisory Committee
@@ -130,9 +145,9 @@ DESCRIPTION:DREW PARK COMMUNITY ADVISORY COMMITTEE FOR THE DREW PARK COMMU
 URL;VALUE=URI:https://www.tampa.gov/node/196891
 END:VEVENT
 BEGIN:VEVENT
-UID:1213fcc1-f244-4de1-adb6-f32e0ff5f658
+UID:e0c4f9c8-2bf9-4c61-ab62-4984ef5de32c
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261104T223000Z
 DTEND:20261104T223000Z
 SUMMARY:Channel District Community Advisory Committee
@@ -160,9 +175,9 @@ DESCRIPTION:CHANNEL DISTRICT COMMUNITY ADVISORY COMMITTEE FOR THE CHANNEL
 URL;VALUE=URI:https://www.tampa.gov/node/196896
 END:VEVENT
 BEGIN:VEVENT
-UID:372e07e3-5e75-49ae-9156-d89f8b553c69
+UID:6539c315-c0f2-4036-a21d-a9146837e66b
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261104T223000Z
 DTEND:20261104T223000Z
 SUMMARY:Architectural Review Commission
@@ -184,24 +199,9 @@ DESCRIPTION:CITY OF TAMPA ARCHITECTURAL REVIEW COMMISSION NOTICE OF PUBLIC
 URL;VALUE=URI:https://www.tampa.gov/node/197021
 END:VEVENT
 BEGIN:VEVENT
-UID:51176f14-76d0-4d8f-bc53-0219edc03ffe
+UID:383a491a-7d37-4052-9782-cd31a0d7c624
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
-DTSTART:20261104T140000Z
-DTEND:20261104T150000Z
-SUMMARY:Public Art Committee
-LOCATION:Tampa \, FL United States
-DESCRIPTION:Notice: City of Tampa\, Public Art Committee Wednesday\, Novem
- ber 4\, 2026 9:00 a.m.-10:00 a.m. Hanna City Center 2555 E. Hanna Avenue\,
-  3 rd Floor Tampa\, FL 33610 Contact: Melissa.Daviestampagov.net (mailto:M
- elissa.Daviestampagov.net) www.tampa.govarts (http:www.tampa.govarts) (813
- ) 274-8531 \n\nPermalink: https://www.tampa.gov/node/197051
-URL;VALUE=URI:https://www.tampa.gov/node/197051
-END:VEVENT
-BEGIN:VEVENT
-UID:94b26dec-04e9-40c4-ad1c-b6371f745bc3
-SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261105T200000Z
 DTEND:20261105T200000Z
 SUMMARY:Goal Setting Committee: Subcontracts
@@ -225,9 +225,9 @@ DESCRIPTION:Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Tim
 URL;VALUE=URI:https://www.tampa.gov/node/197141
 END:VEVENT
 BEGIN:VEVENT
-UID:5c367d24-b831-4029-9dea-1a3fb81837d8
+UID:02ec1c3c-09b6-4bf7-9067-b8ddd98e1192
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261105T193000Z
 DTEND:20261105T193000Z
 SUMMARY:SLBE Review Committee: Sheltered Market Program
@@ -251,9 +251,9 @@ DESCRIPTION:Public Meeting Notice SLBE REVIEW COMMITTEE: SHELTERED MARKET
 URL;VALUE=URI:https://www.tampa.gov/node/197056
 END:VEVENT
 BEGIN:VEVENT
-UID:0a29e773-ff64-4187-834c-aec2757cf762
+UID:f99c9880-39c5-4999-a85f-e223b3313e19
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261105T140000Z
 DTEND:20261105T140000Z
 SUMMARY:City Council Regular Agenda
@@ -305,41 +305,9 @@ DESCRIPTION:NOTICE OF PUBLIC MEETING TAMPA CITY COUNCIL REGULAR AGENDA Dat
 URL;VALUE=URI:https://www.tampa.gov/node/197176
 END:VEVENT
 BEGIN:VEVENT
-UID:abb5d760-bb9a-497d-8d91-a249b041070c
+UID:d30323fe-a020-4a13-8f52-858c7d49d4b6
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
-DTSTART:20261110T140000Z
-DTEND:20261110T140000Z
-SUMMARY:City of Tampa Human Rights Board Meeting
-LOCATION:Tampa \, FL United States
-DESCRIPTION:City of Tampa Human Rights Board Meeting Date: Tuesday\, Novem
- ber 10\, 2026 Time: 9:00 a.m. Location: City Center at Hanna Ave 2555 E Ha
- nna Ave\, 3 rd Floor The Bay Conference Room Tampa\, FL 33610 Topic: Meeti
- ng of Human Rights Board Contact: Questions may be directed to Naomi Cande
- laria\, Human Rights Supervisor at (813) 274-7099 or by email at naomi.can
- delariatampagov.net (mailto:naomi.candelariatampagov.net) Members of the p
- ublic who do not wish to appear in person due to COVID-19 or otherwise may
-  submit written comments by mail to the City of Tampa Human Rights Board\,
-  2555 E Hanna Ave\, Tampa\, FL 33610\, or by email to naomi.candelariatamp
- agov.net (mailto:naomi.candelariatampagov.net). All written comments must 
- be received no later than 24 hours before the scheduled meeting to be dist
- ributed to the Board members and be included in the official record of the
-  meeting. To check the status of the public hearing regarding postponement
-  or cancellation\, please contact Naomi Candelaria at (813) 274-7099 for a
-  minimum of two (2) days before the public hearing date. In accordance wit
- h the Americans with Disabilities Act (ADA) and Section 286.26\, Florida S
- tatutes\, persons with disabilities needing a reasonable accommodation to 
- participate in this event should contact the City of Tampas ADA Coordinato
- r at least 48 hours prior to the event. The ADA Coordinator may be contact
- ed by phone at (813) 274-3964\, email at TampaADAtampagov.net\, or by subm
- itting an ADA - Accommodations Request online form available at tampagov.n
- etADARequest. \n\nPermalink: https://www.tampa.gov/node/197446
-URL;VALUE=URI:https://www.tampa.gov/node/197446
-END:VEVENT
-BEGIN:VEVENT
-UID:329f399d-4098-4b2d-a4eb-6d700b01f2eb
-SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261110T230000Z
 DTEND:20261110T230000Z
 SUMMARY:East Tampa Community Advisory Committee
@@ -368,9 +336,9 @@ DESCRIPTION:EAST TAMPA COMMUNITY ADVISORY COMMITTEE FOR THE EAST TAMPA COM
 URL;VALUE=URI:https://www.tampa.gov/node/196761
 END:VEVENT
 BEGIN:VEVENT
-UID:bf7415e0-3db7-4293-b833-b5d56a0f2679
+UID:ca7a4fae-e834-4429-a0af-531b6a0895ec
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261110T230000Z
 DTEND:20261110T230000Z
 SUMMARY:East Tampa Community Advisory Committee
@@ -400,35 +368,41 @@ DESCRIPTION:EAST TAMPA COMMUNITY ADVISORY COMMITTEE FOR THE EAST TAMPA COM
 URL;VALUE=URI:https://www.tampa.gov/node/196576
 END:VEVENT
 BEGIN:VEVENT
-UID:7993bba0-2f26-4107-8725-a482e46d47d4
+UID:0085b3d0-f435-48b1-ad4d-fd93a8afe5b3
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
-DTSTART:20261112T193000Z
-DTEND:20261112T193000Z
-SUMMARY:SLBE Review Committee: Sheltered Market Program
+DTSTAMP:20261112T000332Z
+DTSTART:20261110T140000Z
+DTEND:20261110T140000Z
+SUMMARY:City of Tampa Human Rights Board Meeting
 LOCATION:Tampa \, FL United States
-DESCRIPTION:Public Meeting Notice SLBE REVIEW COMMITTEE: SHELTERED MARKET 
- PROGRAM Time Date : 2:30 P.M. Thursday\, November\, 5th 2026 2:30 P.M. Thu
- rsday\, November\, 12th 2026 2:30 P.M. Thursday\, November\, 19th 2026 2:3
- 0 P.M. Thursday\, November\, 26th 2026 Location : 2nd Floor\, Trophy Case 
- Conference Room Hanna Avenue City Center 2555 E. Hanna Avenue Tampa\, FL 3
- 3610 Topic : To review projects eligible for solicitation as a Sheltered M
- arket Procurement pursuant to the City of Tampas Equal Business Opportunit
- y Program. Contact : Jose Valdez at 813-274-5543 or Jose.Valdeztampagov.ne
- t (mailto:Jose.Valdeztampagov.net) Note: All meetings are open to the publ
- ic. Any person who decides to appeal any decision made with respect to any
-  matter considered at this public hearing or meeting are advised\, in acco
- rdance with Section 286.0105\, Florida Statutes\, that they will need a re
- cord of the proceedings\, and for such purpose may need to hire a court re
- porter to ensure that a verbatim record of the proceeding is made\, which 
- record includes the testimony and evidence upon which the appeal is to be 
- based. \n\nPermalink: https://www.tampa.gov/node/197056
-URL;VALUE=URI:https://www.tampa.gov/node/197056
+DESCRIPTION:City of Tampa Human Rights Board Meeting Date: Tuesday\, Novem
+ ber 10\, 2026 Time: 9:00 a.m. Location: City Center at Hanna Ave 2555 E Ha
+ nna Ave\, 3 rd Floor The Bay Conference Room Tampa\, FL 33610 Topic: Meeti
+ ng of Human Rights Board Contact: Questions may be directed to Naomi Cande
+ laria\, Human Rights Supervisor at (813) 274-7099 or by email at naomi.can
+ delariatampagov.net (mailto:naomi.candelariatampagov.net) Members of the p
+ ublic who do not wish to appear in person due to COVID-19 or otherwise may
+  submit written comments by mail to the City of Tampa Human Rights Board\,
+  2555 E Hanna Ave\, Tampa\, FL 33610\, or by email to naomi.candelariatamp
+ agov.net (mailto:naomi.candelariatampagov.net). All written comments must 
+ be received no later than 24 hours before the scheduled meeting to be dist
+ ributed to the Board members and be included in the official record of the
+  meeting. To check the status of the public hearing regarding postponement
+  or cancellation\, please contact Naomi Candelaria at (813) 274-7099 for a
+  minimum of two (2) days before the public hearing date. In accordance wit
+ h the Americans with Disabilities Act (ADA) and Section 286.26\, Florida S
+ tatutes\, persons with disabilities needing a reasonable accommodation to 
+ participate in this event should contact the City of Tampas ADA Coordinato
+ r at least 48 hours prior to the event. The ADA Coordinator may be contact
+ ed by phone at (813) 274-3964\, email at TampaADAtampagov.net\, or by subm
+ itting an ADA - Accommodations Request online form available at tampagov.n
+ etADARequest. \n\nPermalink: https://www.tampa.gov/node/197446
+URL;VALUE=URI:https://www.tampa.gov/node/197446
 END:VEVENT
 BEGIN:VEVENT
-UID:8af4495a-2b16-4ada-a8ec-28b08f4d0271
+UID:c3220ac4-9f04-4b60-8646-0774c9268ad5
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261112T200000Z
 DTEND:20261112T200000Z
 SUMMARY:Goal Setting Committee: Subcontracts
@@ -452,9 +426,35 @@ DESCRIPTION:Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Tim
 URL;VALUE=URI:https://www.tampa.gov/node/197141
 END:VEVENT
 BEGIN:VEVENT
-UID:9ad221c5-9e23-4654-a1b5-a9f6bd0db804
+UID:83e00bc3-fe8d-43eb-b7f7-d4e4d6b1c370
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
+DTSTART:20261112T193000Z
+DTEND:20261112T193000Z
+SUMMARY:SLBE Review Committee: Sheltered Market Program
+LOCATION:Tampa \, FL United States
+DESCRIPTION:Public Meeting Notice SLBE REVIEW COMMITTEE: SHELTERED MARKET 
+ PROGRAM Time Date : 2:30 P.M. Thursday\, November\, 5th 2026 2:30 P.M. Thu
+ rsday\, November\, 12th 2026 2:30 P.M. Thursday\, November\, 19th 2026 2:3
+ 0 P.M. Thursday\, November\, 26th 2026 Location : 2nd Floor\, Trophy Case 
+ Conference Room Hanna Avenue City Center 2555 E. Hanna Avenue Tampa\, FL 3
+ 3610 Topic : To review projects eligible for solicitation as a Sheltered M
+ arket Procurement pursuant to the City of Tampas Equal Business Opportunit
+ y Program. Contact : Jose Valdez at 813-274-5543 or Jose.Valdeztampagov.ne
+ t (mailto:Jose.Valdeztampagov.net) Note: All meetings are open to the publ
+ ic. Any person who decides to appeal any decision made with respect to any
+  matter considered at this public hearing or meeting are advised\, in acco
+ rdance with Section 286.0105\, Florida Statutes\, that they will need a re
+ cord of the proceedings\, and for such purpose may need to hire a court re
+ porter to ensure that a verbatim record of the proceeding is made\, which 
+ record includes the testimony and evidence upon which the appeal is to be 
+ based. \n\nPermalink: https://www.tampa.gov/node/197056
+URL;VALUE=URI:https://www.tampa.gov/node/197056
+END:VEVENT
+BEGIN:VEVENT
+UID:70c5468b-2de9-4855-9beb-757c3182f8cb
+SEQUENCE:0
+DTSTAMP:20261112T000332Z
 DTSTART:20261118T200000Z
 DTEND:20261118T200000Z
 SUMMARY:Affordable Housing Advisory Committee Meeting
@@ -474,9 +474,9 @@ DESCRIPTION:Affordable Housing Advisory Committee Meeting Date: Wednesday\
 URL;VALUE=URI:https://www.tampa.gov/node/197466
 END:VEVENT
 BEGIN:VEVENT
-UID:2a35233b-03c3-48e1-a35a-664b298364ec
+UID:703d8127-2a62-4cc7-a7d2-ed2688984770
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261119T200000Z
 DTEND:20261119T200000Z
 SUMMARY:Goal Setting Committee: Subcontracts
@@ -500,9 +500,9 @@ DESCRIPTION:Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Tim
 URL;VALUE=URI:https://www.tampa.gov/node/197141
 END:VEVENT
 BEGIN:VEVENT
-UID:b18ff84e-b43c-4915-ae44-eac3f4da2e28
+UID:3d567699-2e65-4c2c-8a05-699e15459fd9
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261119T193000Z
 DTEND:20261119T193000Z
 SUMMARY:SLBE Review Committee: Sheltered Market Program
@@ -526,9 +526,9 @@ DESCRIPTION:Public Meeting Notice SLBE REVIEW COMMITTEE: SHELTERED MARKET
 URL;VALUE=URI:https://www.tampa.gov/node/197056
 END:VEVENT
 BEGIN:VEVENT
-UID:997f70d2-ba98-40df-8a21-1a506c7566eb
+UID:921b4add-6539-4586-a679-1f67ee98739e
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261120T150000Z
 DTEND:20261120T150000Z
 SUMMARY:Equal Business Opportunity Advisory Committee Meeting
@@ -549,9 +549,9 @@ DESCRIPTION:Public Meeting Notice EQUAL BUSINESS OPPORTUNITY ADVISORY COMM
 URL;VALUE=URI:https://www.tampa.gov/node/197061
 END:VEVENT
 BEGIN:VEVENT
-UID:436c6ee2-4eec-4dcc-940c-a5e662eae33f
+UID:a7a2a3af-7b5f-4b0d-ada7-80b73db35dd2
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261120T160000Z
 DTEND:20261120T160000Z
 SUMMARY:Committee Scoring Meeting
@@ -565,9 +565,9 @@ DESCRIPTION:COMMITTEE SCORING MEETING (Psychological Screening Services) R
 URL;VALUE=URI:https://www.tampa.gov/node/197026
 END:VEVENT
 BEGIN:VEVENT
-UID:f2f454a6-6eca-4701-b1e9-4a7a2f61ef65
+UID:4aa950c2-705a-4989-99f4-5348eafdf00e
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261126T200000Z
 DTEND:20261126T200000Z
 SUMMARY:Goal Setting Committee: Subcontracts
@@ -591,9 +591,9 @@ DESCRIPTION:Public Meeting Notice GOAL SETTING COMMITTEE: SUBCONTRACTS Tim
 URL;VALUE=URI:https://www.tampa.gov/node/197141
 END:VEVENT
 BEGIN:VEVENT
-UID:efc7d85f-bca4-40a6-bece-dfb07db031a1
+UID:a4cca52a-512a-4742-ba76-ba4b1a9df799
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20261126T193000Z
 DTEND:20261126T193000Z
 SUMMARY:SLBE Review Committee: Sheltered Market Program
@@ -617,9 +617,9 @@ DESCRIPTION:Public Meeting Notice SLBE REVIEW COMMITTEE: SHELTERED MARKET
 URL;VALUE=URI:https://www.tampa.gov/node/197056
 END:VEVENT
 BEGIN:VEVENT
-UID:c8a0d90b-bfd6-4e20-bc96-09734a142909
+UID:6ad1c2aa-a392-4137-a6b5-f858143c06a1
 SEQUENCE:0
-DTSTAMP:20261111T000334Z
+DTSTAMP:20261112T000332Z
 DTSTART:20270114T200000Z
 DTEND:20270114T200000Z
 SUMMARY:Ethics Commission
